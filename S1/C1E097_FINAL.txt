@@ -1,0 +1,7946 @@
+MATT: Hello, everyone, and welcome to tonight's
+episode of Critical Role, where a bunch of us
+
+nerdy-ass voice actors sit around and play
+Dungeons and Dragons.
+
+ALL: Dungeons and Dragons!
+
+MATT: Just like that. Durr and Durr.
+
+ASHLEY: How der der der der.
+
+MATT: Indeed. So. Before we jump into the story
+for this evening, let's go ahead and get through
+
+our announcements. First and foremost, we have a
+fantastic sponsor for tonight's episode. Backblaze
+
+has returned to us. Good friends to the show, and
+Sam, you wanted to talk a little bit about this?
+
+SAM: I haven't done this in a while. Little rusty.
+But Backblaze. Nervous. Backblaze is such an
+
+important sponsor, I didn't want to just do a
+commercial for them, I wanted to do an
+
+infomercial. Maestro?
+
+[infomercial music]
+
+SAM: Hi, everybody, I'm Sam Riegel and welcome to
+Late-Night Deals. Guys, online backup systems.
+
+Just the sound of it gives me a headache. It's
+always so complicated, expensive, and frustrating.
+
+Am I right? Usually, when you back up your data,
+you look like this guy.
+
+TALIESIN: C drive? USB port? HTTP? Forward slash?
+Ugh! Speak English! All these wires and cables! I
+
+can't take it anymore!
+
+SAM: But now there's Backblaze, a cloud-based
+backup system that's so easy, you'll look like
+
+this gal.
+
+MARISHA: And finished. Using Backblaze makes me
+feel so awesome and cool and hip and young and
+
+free and attractive and empowered and invincible.
+It's so easy, even a total jackass could use it.
+
+SAM: That's right, Marisha, even a total jackass
+can use it, and I'm living proof. Taliesin,
+
+Backblaze backs up photos, documents, fanfic, and
+all your user data, and here's the best part. How
+
+much do you think it costs?
+
+TALIESIN: For a system like that? It's got to
+cost, what? $200, maybe? $300 a month?
+
+SAM: Nope.
+
+MARISHA: That sounds too low. I'm going to guess
+$9,000 a month.
+
+SAM: Nope. Keep guessing.
+
+TALIESIN: $100,000 a month!
+
+SAM: Not even close. If you order now, you'll get
+Backblaze for just five dollars a month for
+
+unlimited and unfryable backup.
+
+TALIESIN AND MARISHA: Five dollars? That's
+nothing!
+
+TALIESIN: I literally burn five-dollar bills to
+stay warm on chilly nights.
+
+MARISHA: Oh, me too. Oh, I'm so convinced. But
+Sam, how do I sign up?
+
+SAM: Oh, it's simple, Marish. Go to
+backblaze.com/criticalrole and you'll get a
+
+two-week free trial.
+
+TALIESIN: What was that URL again?
+
+SAM: backblaze.com/criticalrole!
+
+MARISHA: One more time.
+
+SAM: backblaze.com/criticalrole!
+
+TALIESIN: One more time.
+
+SAM: backblaze.com/criticalrole! There's no end. I
+didn't write an end to the bit. That's it. It's
+
+over. Yay! And scene.
+
+TRAVIS: Wow.
+
+SAM: Thank you, guys.
+
+TALIESIN: I'm caught in wires. There we are.
+
+MATT: Thank you very much, Sam. Also, anyone who
+gives Backblaze a try through May will also be
+
+entered to win a contest to win some signed art,
+signed by all of us. And if you've already tried
+
+it, you've also already been entered, so don't
+worry about that. Anyway, thank you so much,
+
+Backblaze. Go check it out. And thank you. All
+righty. Wow. I don't want to follow that up.
+
+Laura, any merch news?
+
+LAURA: Oh, just the same merch news as always.
+We've got these amazing Vox Machina t-shirts in
+
+the store.
+
+SAM: Is someone wearing?
+
+LAURA: Yev is wearing it, from Backblaze. But
+nobody here is, but they're so soft and they're
+
+amazing. We also have hoodies and hats and patches
+and nail wraps and stickers.
+
+MATT: Did you guys want to thank the awesome
+Melissa Kelp for her design, by the way?
+
+LAURA: Yes! Who designed Vox Machina, and that was
+in our original fan contest that we did. We had
+
+that awesome design that was so cool that we
+decided to make that design, as well.
+
+MATT: Thank you, Melissa.
+
+TRAVIS: Thank you, Melissa!
+
+LAURA: (sings) Amazing job!
+
+MATT: All right. Wednesday Club, Taliesin.
+
+TALIESIN: We don't actually have an official theme
+yet, but I have a strong sensation that it's
+
+probably going to be something about Riverdale. I
+get the vibe that we might be going to Riverdale.
+
+There might be a teenage witch. Maybe a band. I
+don't know. We'll see. It's not official yet, but
+
+I'm working on it.
+
+MATT: Elrond of Riverdale. Thank you very much,
+Taliesin. Marisha, Signal Boost.
+
+MARISHA: It's Brian Compton from over at Nerdist.
+(gasps) You got your Geek and Sundry in my
+
+Nerdist.
+
+TALIESIN: You got your Nerdist in my Geek and
+Sundry.
+
+MARISHA: You dick!
+
+TALIESIN: That's so disgusting.
+
+MARISHA: You fucking dick!
+
+SAM: Jesus, this got dark really fast.
+
+MATT: That and more you can look forward to at
+MomoCon, as me, Marisha, and Taliesin will be
+
+there in a couple weeks in Atlanta, Georgia. So
+we'll see you guys there May 25th to 28th, and I
+
+will be a guest at A-Kon June 8th-11th in Fort
+Worth, Texas. For all you folks out there in the
+
+Texas area, come say hi, that'll be fun.
+
+TRAVIS: (muffled) Fort Worth, Texas?
+
+MATT: Yes.
+
+TRAVIS: (muffled) I went to college there!
+
+MATT: You should come to your college.
+
+TRAVIS: (muffled) No, I'm good.
+
+MATT: Okay. And to finish this off. Talks Machina,
+of course, we have starting next Tuesday about
+
+this episode, hosted by our fantastic Brian Wayne
+Foster. Make sure you submit your fanart and gif
+
+of the week to possibly win some cool prizes.
+Those will go to talksmachina@gmail.com. So.
+
+Without further ado, friends, let's go ahead and
+dive in to tonight's episode of Critical Role.
+
+[dramatic music]
+
+MATT: Hello, everyone, and welcome back to
+Critical Role. So. Picking up where we left off.
+
+After Vox Machina had taken a year of peace and
+activity to handle their own respective endeavors,
+
+or communal endeavors, they discovered apparently
+some family of Pike Trickfoot coming and knocking
+
+at the door of Whitestone. A reunion with some of
+her family she had not seen since she was a child,
+
+coming in to impart her with the knowledge of a
+terrible family blood-curse that had been haunting
+
+them for ages and visions that were guided by her
+uncle Ogden to the possibility that she carries
+
+the same curse, and wanting to free the bloodline,
+or at least Pike of this, they had to amass some
+
+materials and make their way on a moonlit night to
+the top of the Alabaster Sierras to complete the
+
+ritual to exorcise this entity and destroy it.
+After gathering the materials and traveling to the
+
+top of the Salted Bluffs of the Alabaster Sierras,
+the ritual was completed and the large, monstrous
+
+black cloud and skull entity is summoned forth
+from Pike's body, and you all leapt in to do
+
+battle. However, partway into this fray, Vex
+happened to realize that it was seemingly an
+
+illusion. There was no ritual, there was no blood
+curse, and this was a ploy from the family to make
+
+a little cash off you guys. After some threats to
+Uncle Ogden and nearly losing him off the edge of
+
+a cliff, you made a deal to offer some money. In
+exchange, you took your cousin JB under your wing,
+
+and they were forced to leave and never return.
+They accepted and went on their way, and with
+
+that, we begin today's episode. So you guys have
+been traveling down the side of the mountain, of
+
+the Alabaster Sierras, returning late-night to the
+city of Whitestone. What do you wish to do?
+
+TRAVIS: Kill them all before we change our mind.
+
+(laughter)
+
+LAURA: Oh, can I cast Locate Object and try to
+find that diamond that he chucked over the side?
+
+MATT: What's the range on Locate Object?
+
+TRAVIS: Was it a thousand-foot cliff?
+
+TALIESIN: It was far down there.
+
+LIAM: Well, I've probably got about 30 or 40
+minutes left on the--
+
+SAM: You could fly down. Some of us own flying
+brooms.
+
+LAURA: Yeah, we can fly down on flying brooms.
+
+LIAM: Do that. Yeah? I can go swimming.
+
+LAURA: Shit, I don't have my thing.
+
+LIAM: Your thing?
+
+LAURA: That says what the distance on Locate
+Object is.
+
+MATT: The distance is 1,000 feet of you.
+
+LAURA: Okay, so can I get on my broom and cast it
+and go try to find it down in the water?
+
+MATT: Sure. It lasts for ten minutes.
+
+LAURA: Okay.
+
+MATT: I'll say, go ahead and make an investigation
+check.
+
+LAURA: I'm organizing my dice right now! 19!
+
+MATT: 19. Okay. It takes you the better part of
+the next ten minutes or so to even get a blip on
+
+your arcane radar. And you suddenly sense as
+you're coasting along the very base of the surf
+
+where the waters crash against the rocks, the tide
+has been coming in with the full moon, and you can
+
+see now the water itself is rough and just
+smashing into the side of the cliff base. You get
+
+a small glimmer, a small beacon, a draw to you
+like a small pulling under the waves. And you
+
+sense about maybe 65 feet down, there it is.
+
+LAURA: 65 feet.
+
+TRAVIS: Under the water.
+
+MATT: Under the water.
+
+TRAVIS: That's three diving tanks for competitive
+diving.
+
+LAURA: So probably couldn't do it unless I have
+breathing underwater?
+
+LIAM: Or your friend Keyleth.
+
+LAURA: She's up top. Would I remember the spot in
+the fucking water if I went up and got her and
+
+brought her back down? Do I have enough time to do
+it?
+
+MATT: You could try and remember it and come
+back.
+
+SAM: It's 1,000.
+
+LAURA: It's 1,500!
+
+TALIESIN: Are we within earpiece-shot?
+
+MATT: Not with her right now. You'd have to go
+back up.
+
+LAURA: Okay. I fly straight up from the spot so I
+don't lose it.
+
+MATT: All right. You're pretty much on the cusp of
+it. You've been a little flexible on the range of
+
+them, but we'll say you get a little ways up.
+
+LAURA: And I say, Keyleth! Can you swim?
+
+MARISHA: (chuckles) Yes.
+
+LAURA: Can you come help me get this diamond
+back?
+
+MARISHA: Oh, yeah! Yeah.
+
+(laughter)
+
+MARISHA: Am I on the cliff?
+
+MATT: You're on top of the cliff, yeah.
+
+MARISHA: Is she down?
+
+MATT: Yeah.
+
+LAURA: I can come-- Oh. Are you really?
+
+MARISHA: Can I do it?
+
+LAURA: That's a really high drop!
+
+MARISHA: Can I do the Pocahontas swan dive?
+
+MATT: Okay, make an athletics check.
+
+MARISHA: I run and cliff dive!
+
+LAURA: Oh Jesus. Oh no.
+
+TALIESIN: (sings) Sail!
+
+MARISHA: (sings) Sail!
+
+(laughter)
+
+LAURA: Oh no.
+
+MARISHA: 11.
+
+MATT: Okay. You get a few feet past the cliff
+edge. Not a majestic jump and the cliff is not
+
+completely sheer; it does slightly angle outwards.
+So you gently leap off, and as you're falling you
+
+can see you probably have, I'd say about 300 feet
+or so before you're going to hit rock.
+
+MARISHA: I'm going to hit rock?
+
+MATT: The cliff is not perfectly vertical. It's a
+little bit angled and you're heading down to hit
+
+the rock.
+
+MARISHA: I go, oops! And can I do a Gust against
+the cliff wall to push me back a little bit
+
+further?
+
+MATT: Go ahead and make a wisdom check. This is a
+straight wisdom modifier check.
+
+MARISHA: Oh, that's good! Just straight wisdom
+modifier? 20.
+
+MATT: Okay. Like a gentle fart, you push yourself
+a little ways from the cliff. I'll say it does
+
+just enough of a shove where the trajectory
+changes slightly. You may or may not be right
+
+where the rock hits the surf. You can test it or
+not. It's up to you.
+
+TRAVIS: Test it!
+
+TALIESIN: And this was the end.
+
+LAURA: Kiki, don't kill yourself over this rock!
+
+LIAM: It was nice being in a couple.
+
+MARISHA: At the last minute, I'm going to
+(panicked squealing). And turn into a goldfish.
+
+TRAVIS: Before you hit the water?
+
+SAM: Or the rock?
+
+MARISHA: Well, I'm assuming the goldfish would
+make it easier to hit water.
+
+LAURA: Yeah, but you're going to hit rock!
+
+SAM: Goldfish are not magnetically attracted to
+water. They still just fall.
+
+LAURA: What about flying fish or something, so you
+can maybe--
+
+MARISHA: I don't think flying fish actually fly,
+though.
+
+LAURA: No, but they got big fins.
+
+TRAVIS: They do glide.
+
+MATT: Regardless, as you turn into a goldfish,
+rocketing towards the base of the water...
+
+LAURA and SAM: Oh no.
+
+TRAVIS: He's taking a picture of it!
+
+MATT: No, I'm not. This is too many dice for me to
+roll.
+
+(gasping)
+
+ASHLEY: What?
+
+MARISHA: I would just pop back to myself. I
+wouldn't die.
+
+MATT: And then any additional damage would go over
+into your--
+
+MARISHA: No, I know.
+
+TRAVIS: There's too many dice to roll, Marisha.
+
+MARISHA: No, it's fine! We're gods!
+
+LAURA: Are we? She says as she dies on the rocks.
+
+TRAVIS: Why would you even tempt that shit?
+
+TALIESIN: Why am I drinking your coffee? I'm going
+to stop right now.
+
+SAM: Oh boy.
+
+LAURA: Oh no. What is he doing? No. Seriously,
+though. What if she just died?
+
+MARISHA: That would be kind of amazing.
+
+MATT: You took 363 points of damage.
+
+MARISHA: You are lying. You are lying! By hitting
+rocks?
+
+MATT: By hitting rocks at terminal velocity. It's
+1d6 per ten feet falling. Keyleth scatters across
+
+the edge of the rock. And just crumples into the
+surf and is now floating.
+
+MARISHA: Wait! What? You are lying!
+
+MATT: No! You just--
+
+SAM: What does that mean? That's below her total
+hit points!
+
+TRAVIS: That's instant death.
+
+MATT: No, she's dead. Keyleth is dead and floating
+in the water.
+
+SAM: Unrevivable death?
+
+MATT: Probably revivable. You've just got to
+retrieve the body.
+
+LAURA and ASHLEY: Oh my god!
+
+SAM: Wait! Vex! I gave you a coin!
+
+LAURA: A Revivify coin!
+
+MARISHA: Wait! I thought you were trying to make
+it out like I'd still hit water!
+
+MATT: I said the distance you jumped and then
+pushed--
+
+TRAVIS: You jumped from 1,000 feet in the air.
+Totally logical! You can't even see the water or
+
+rocks, but you're like, yep! I've got this,
+bitch!
+
+LIAM: I am having the best conversation with JB
+right now.
+
+MARISHA: This is the best thing that's ever
+happened!
+
+LAURA: Wait, but here's the thing, do I have to
+roll if I use the coin?
+
+MATT: And now, officially, every member of Vox
+Machina has died. Most in battle, or some danger.
+
+TRAVIS: That took care of it!
+
+SAM: You broke the seal!
+
+MARISHA: Wait! Was I supposed to turn into a
+flying creature? And be safe from this?
+
+MATT: That's up to you! That's literally your
+choice!
+
+LIAM: Okay. I am starting to sweat! Who sees it? I
+don't see it!
+
+MATT: The only person that sees it is Vex. Vex,
+you watch as Keyleth-- (jump, poof, splat). It's a
+
+scatter of red mess. And you see her floating in
+the water.
+
+ASHLEY: It's only 7:15!
+
+MATT: I know! This was not in my plan!
+
+ASHLEY: Okay. Go get her!
+
+LAURA: I go fly down there! Is she a body, at
+least?
+
+SAM: Because she hit as the goldfish!
+
+MATT: Yes, and the goldfish which has a hit
+point.
+
+SAM and MARISHA: Yeah.
+
+MATT: Which then made the other 324 hit points go
+over to Marisha.
+
+SAM: Sure.
+
+TRAVIS: So the goldfish turned into orange
+marmalade?
+
+LIAM: It was like a magic trick! It was like a
+fish turned into a corpse!
+
+LAURA: Can I use my coin that Tary gave me? My
+coin of Revivify on her?
+
+MATT: Because you gave it to her before the
+battle, right? Yes, you can.
+
+LAURA: Okay. I do that. Don't touch my dice in
+anger!
+
+LIAM: I'm not angry!
+
+LAURA: I don't know. How do I do it?
+
+MATT: Go ahead and roll a straight wisdom check.
+
+LAURA: A wisdom check?
+
+MATT: Yes.
+
+LAURA: (yells) I'm so nervous!
+
+ASHLEY: Stop laughing, Travis! Stop it!
+
+LAURA: Okay.
+
+TRAVIS: I mean, you can't feel bad about it.
+
+MARISHA: I thought I was going to hit water and it
+would be cool!
+
+LAURA: 18.
+
+MATT: 18. Okay. As you go down and pull her out of
+the water, her soaked red hair covers her face,
+
+and that's probably a good thing. As you're a
+little scared to see--
+
+TRAVIS: It's like a red-haired The Ring.
+
+MATT: And with that, you instinctively begin to
+seize up, and you sob, and then you realize: the
+
+coin! And you fumble for it in your pocket, and
+you hear the waves crashing below you. And you
+
+pull it out and you hold it in your palm. And you
+feel it glowing, warm in your hand as you press it
+
+against the back of Keyleth's broken body. And you
+watch as the warmth passes from the coin through
+
+her back. And as it does, you watch as her broken
+limbs all snap back into place.
+
+(laughter/gagging)
+
+MATT: And she begins to breathe again.
+
+(laughter)
+
+LIAM: What the shit is this show?
+
+MATT: I don't know! This was not in the--
+
+MARISHA: (screaming) That was higher than I
+thought!
+
+MATT: Keyleth, by the way, looks wrecked. She's
+still scratched everywhere, she's covered in
+
+blood, but she's alive at one hit point.
+
+LAURA: Kiki, that was really, really stupid. I put
+my hands on both sides of her face and cast Cure
+
+Wounds at 4th level. Oh, no! At 3rd level, because
+I used Grasping Vine last time.
+
+MATT: Yeah, 3rd level. Okay. So 3d8 plus your
+wisdom modifier.
+
+ASHLEY: Oh my god.
+
+SAM: I better go check on them. I'll dive off the
+cliff.
+
+(laughter)
+
+TRAVIS: Yeah. Good. Just a little drop.
+
+MATT: That was a beautiful D&D moment, right
+there.
+
+LAURA: Oh my god.
+
+LIAM: Vax is sitting with JB right now, going
+like, so what was Pike like when she was really
+
+little, little for a gnome?
+
+TALIESIN: We all were wearing the necklace, so we
+all got a beep.
+
+MATT: You did, briefly.
+
+LIAM: I was really paying attention to JB,
+though.
+
+TRAVIS: Is yours broken? I think mine's broken!
+
+TALIESIN: I felt something.
+
+LAURA: Keyleth.
+
+MARISHA: I've been really stressed out here
+lately, and that might have been very impulsive.
+
+And I might have been blowing off some steam. And
+I'm really sorry! (crying) I thought it was going
+
+to be fine! I didn't know there was going to be
+rocks!
+
+LAURA: Maybe next time you're diving off a cliff,
+turn into a bird.
+
+MARISHA: Oh?
+
+LAURA: Yeah.
+
+MARISHA: It might have been a last-minute panic.
+
+LAURA: I'm glad you're back.
+
+MARISHA: Thanks, that was--
+
+LAURA: You know what? Let's not even worry about
+that coin there. I mean the diamond. I feel like,
+
+maybe--
+
+MARISHA: I could go get it now! It's fine. I'm
+here now.
+
+LAURA: Oh my god.
+
+MARISHA: I feel really bad, because-- I feel bad
+about that. I'm sorry.
+
+LAURA: I think maybe this is a lesson learned in
+what is worth risking our lives for.
+
+TRAVIS: Is there a cloud of red in the water?
+
+MATT: There was, but the waves are crashing pretty
+heavy. Luckily, Vex grabbed her immediately,
+
+because otherwise her body would have been thrown
+under the rocks again by the surf. I just
+
+explained the ocean to you before you jumped!
+That's what would have happened!
+
+TRAVIS: A thousand feet was all you needed.
+
+TALIESIN: We have some amazing physics books that
+we will actually get into at some point.
+
+LAURA: How about you just climb onto the broom.
+Don't worry about flying right now.
+
+MARISHA: I can go get the thing.
+
+LAURA: We're just going up.
+
+MARISHA: I still have a Beast Shape left.
+
+LAURA: We're just going to go up.
+
+MARISHA: Okay.
+
+LAURA: We're leaving.
+
+TRAVIS: She's covered in gore, right?
+
+MATT: Okay. Yeah, she's covered in blood.
+
+LAURA: Price paid, I think.
+
+MATT: So as you guys are talking to JB, who's
+still stunned by the whole thing-- all of this
+
+happened pretty quickly, so she's not necessarily
+opening up entirely, but she's like, "Well. You
+
+"know, we were both troublemakers."
+
+LIAM: Yeah! Because she's got a wild streak. Now,
+does that run in the family, or is that just her
+
+and you?
+
+MATT: "Oh, that definitely runs in the family."
+She looks over to you Pike, again, and is like,
+
+"I am so sorry. I didn't--"
+
+ASHLEY: It's okay.
+
+MATT: "I'll try and make it up to you."
+
+ASHLEY: Just know I don't want you to-- if you
+don't want to stay here, you don't have to stay
+
+here. I'm not holding you here against your will
+in any way, but I would love for you to stay
+
+because I would love to get to know you better.
+
+MATT: "How could I say no? (chuckles) I'll stay
+until you need me to leave."
+
+ASHLEY: Okay.
+
+MATT: At which point, you watch as Vex and Keyleth
+and the broom come up and land on the cliffside.
+
+TALIESIN: Have you two found that diamond-- oh,
+sweet Pelor!
+
+LAURA: You know what? We're not going to worry
+about the diamond right now. Yeah, let's just
+
+maybe take a moment and recover from that battle
+which was so hard on everyone.
+
+ASHLEY: What happened?
+
+LIAM: What? You-- What?
+
+LAURA: She's fine. She's fine!
+
+SAM: She's more blood than person.
+
+ASHLEY: Do we need to fix anything?
+
+LAURA: Maybe, Pike. If you can do a little--
+
+ASHLEY: Yes! Cure Wounds!
+
+LAURA: (whispers) Tary!
+
+SAM: What?
+
+LAURA: (whispers) I used your coin.
+
+SAM: Oh! Oh.
+
+LAURA: I know!
+
+SAM: I'm glad I gave it to you, then. Ooh.
+
+MARISHA: It's fine. I can go back and get that
+diamond now. I feel really bad right now!
+
+TALIESIN: I think somebody's got a carpet ride
+down the hill coming to them.
+
+LIAM: I'm casting Lay on Hands for my piddly 20
+hit points. What did you do?
+
+MARISHA: I thought it'd be fun. I haven't had a
+lot of fun here lately, okay? It felt like the old
+
+days of when Vox Machina was back together,
+because we've been away for a while.
+
+ASHLEY: You just dove off, Free Willy-nilly?
+
+LAURA: You know, those rocks came out of nowhere.
+I thought you were in the clear, as well. All I
+
+saw was Keyleth and then this little tiny fleck of
+gold and then gone.
+
+TRAVIS: Wait, did you miss? Did you hit?
+
+LIAM: Did you die?!
+
+MARISHA: It's fine.
+
+LIAM: She looks like a fucking macabre mess! What
+happened?!
+
+ASHLEY: I forgot that that's what that was. I felt
+a (whirring), you know?
+
+MARISHA: It's been a lot of responsibility here
+lately, and a lot of being an adult and so I was
+
+like: Vox! We're reckless!
+
+LIAM: That's what alcohol is for! Don't jump off
+cliffs anymore, please!
+
+TRAVIS: Yeah, you fucked up. That was crazy.
+
+TALIESIN: I have to confess, I've been feeling a
+bit stir-crazy myself. Not jump-off-cliffs
+
+stir-crazy, dear god.
+
+LIAM: And I turn her bloody face to you and say,
+let this be a lesson to you, then!
+
+TALIESIN: I'm just saying that I understand the
+impulse. This was not necessarily the best
+
+expression of it.
+
+TRAVIS: We should go on a hunt. That's what we
+need.
+
+TALIESIN: I think let's take a nap and then maybe
+go out--
+
+LIAM: I start kissing the gory mess in my hands
+all over her forehead.
+
+MARISHA: That's gross. Don't.
+
+MATT: That's pretty gross. You marked off the 300
+gold for the Revivify, right?
+
+SAM: Oh, how many?
+
+MATT: Revivify. It consumes a diamond worth 300
+gold.
+
+SAM: 300!
+
+TRAVIS: Keyleth, did that hurt? Did it hurt?
+
+MARISHA: It felt like blackness.
+
+TRAVIS: Blackness?
+
+MARISHA: It felt like a lot of adrenaline. And it
+was super exciting and then next thing I knew,
+
+everyone was super concerned about my well-being.
+
+SAM: Are you addicted to death now?
+
+MARISHA: No.
+
+SAM: Have we healed her up a bit?
+
+ASHLEY: I'm going to heal her up a little more.
+
+SAM: I can do a healing draught for her.
+
+ASHLEY: A what?
+
+SAM: Healing draught.
+
+MARISHA: Did you guys know: hitting water and
+rocks from very high feels like hitting rocks!
+
+TALIESIN: I literally have books on the subject.
+
+MATT: Keyleth, as you turn around, you watch as
+Tary is handing you this small glass vial of what
+
+looks to be-- what color liquid is it?
+
+SAM: It's colorless and odorless.
+
+MATT: Okay, it's like a thicker water.
+
+MARISHA: What's this?
+
+SAM: Just drink it. It'll make you feel better.
+
+MARISHA: I just dove off a cliff, so fuck it at
+this point.
+
+MATT: How much does she heal?
+
+SAM: I rolled on my iPhone. 37. It's 8d8.
+
+MATT: Keyleth, you heal 37 hit points.
+
+MARISHA: Oh Jesus, 37?
+
+LAURA: Do yours, too!
+
+ASHLEY: Yeah! I'll do a Cure Wounds. I haven't
+used any spells. Let's do 5th level.
+
+TRAVIS: 5th level? Yeah!
+
+MARISHA: I'm fine! Don't worry about me.
+
+ASHLEY: Where are you at now?
+
+MARISHA: I'm good! 104.
+
+TALIESIN: Let's all go home, have a drink, and
+discuss this over a drink.
+
+MARISHA: Why? What? Why?
+
+TALIESIN: Because I think this may speak to a
+larger issue amongst us that maybe you are the
+
+canary in the coal mine, here.
+
+LAURA: I heard "We're gods!" before she hit.
+
+TALIESIN: Was it "I'm a golden god?"
+
+MARISHA: I said: I'm a golden god! But you know
+what? I'm still alive; I wasn't entirely wrong.
+
+TALIESIN: You're not still alive, you're alive
+again!
+
+LIAM: We should celebrate because we've broken in
+the entire group.
+
+TALIESIN: Yes, I think everybody has at least been
+dead for a moment at this point.
+
+MARISHA: Was I dead?
+
+TALIESIN: Technically, yes.
+
+TRAVIS: Look how much red is all over you!
+
+MATT: Enough to the point where if you die again,
+your resurrection DC has gone up.
+
+Be aware of that.
+
+TALIESIN: We could make another Kiki out of what
+you're wearing right now.
+
+LAURA: Have you died died? Tary died died.
+
+SAM: Did I die? I think I died. In the water, I
+think I died.
+
+MATT: He did.
+
+TALIESIN: He died at the palace.
+
+SAM: Think I died.
+
+LAURA: Let's go home.
+
+MARISHA: Why are you looking at me like that?!
+Don't look at me like that!
+
+LAURA: I'm not looking at you like anything. You
+need a bath, is what you need.
+
+TRAVIS: Yeah, you're covered in shit.
+
+LAURA: It's really a lot right now.
+
+ASHLEY: I say we go back. I would love to go back
+and maybe have lots of drinks.
+
+SAM: Let's go home.
+
+LIAM: JB. Welcome to the family.
+
+MATT: She's just like, eyes wide open. "Right."
+She clutches her book a little closer to her chest as you
+
+guys begin to make your way down the mountainside.
+A different path than the other Trickfoots were
+
+taking.
+
+ASHLEY: Good call.
+
+TALIESIN: Maybe we need a hobby?
+
+TRAVIS: We'll never beat that death.
+
+LAURA: That's like Keyleth-falling-in-lava bad.
+
+TALIESIN: That was magical.
+
+MATT: Marisha, how many fail compilation videos
+have you seen where people jump off the cliff and
+
+hit just at the bottom. That was what you did.
+
+MARISHA: (laughing) It was totally a fail video!
+
+TRAVIS: We were in a huge fight with a fake thing
+that did no damage and you killed yourself in four
+
+seconds.
+
+LIAM: I got this!
+
+TRAVIS: We're gods! (vomit sound) Unreal. Couldn't
+write it.
+
+MARISHA: I thought I could make it!
+
+MATT: I was like, one to 50, she hits the water.
+51 to 100, she hits the rock. 94.
+
+MARISHA: So I hit the rock.
+
+MATT: Yeah, that's what happens.
+
+TRAVIS: Either way, you were really screwed.
+
+TALIESIN: To be fair, a goldfish, even at that
+velocity-- although the velocity would have
+
+lessened it more.
+
+MARISHA: I should have bailed out as a bird.
+
+LIAM: Make-believe has consequences.
+
+TALIESIN: That's so true.
+
+MATT: Over the course of the next day or little
+over a day, you camp once in the Parchwood and
+
+make your way back to Whitestone.
+
+LIAM: Is 15 hours of that therapy?
+
+MATT: For you, yeah.
+
+MARISHA: I love how out of everything we've
+seen, what I just did was apparently the most
+
+fucked up. Out of everything that's happened to
+us, and now we need therapy? Now we need
+
+therapy?
+
+TALIESIN: We were living Tolkien and now we've
+suddenly shifted into Game of Thrones. It got very
+
+dark, very random, very quickly.
+
+TRAVIS: Gods. Dead. Five Seconds. Hard to beat.
+
+LIAM: We all stand for something. What do you fall
+for?
+
+MATT: You find your way back to Whitestone. You
+check in. The guards are happy to see that you've
+
+returned fine. They report to you that the
+Trickfoot clan have not returned and have not been
+
+seen near the city since your return. There are
+few questions as to where they went.
+
+TALIESIN: We're going to have their vehicle
+searched for anything that doesn't belong to them,
+
+and then made ready for them outside the city
+bounds.
+
+MATT: "Very well, sir." And they search through it
+and mostly what's found in there are maybe 102
+
+gold pieces.
+
+TALIESIN: Do we have anybody with a criminal
+background search the vehicle?
+
+MATT: I mean, there are a number of people.
+
+TALIESIN: I would like someone extremely sketchy
+to search. Actually, Vax, would you search the
+
+vehicle?
+
+ASHLEY: And JB, if there is anything you need out
+of there.
+
+TRAVIS: You have chocolate on your face.
+
+MATT: JB wipes it with a thumb.
+
+TALIESIN: Including anything that you think would
+be in more capable hands if they were
+
+in your hands.
+
+MATT: She shakes her head and "Wait." She climbs
+up on the cart and she comes back and has a book.
+
+Like a small tattered book and she puts it to her
+side. "That's all. I don't care about the rest."
+
+ASHLEY: Okay.
+
+TALIESIN: Vax, quick check to see if there's
+anything we care about.
+
+LIAM: Oh, so good. Investigation, yeah? 18.
+
+MATT: 18? You find the gold. You find a cache of
+dried jerky meats. You find what looks to be some
+
+leftover meat pie crust bits that have been there
+for a few days. Starting to smell a little bit.
+
+And you get the sense that anything of importance
+was on their persons. They weren't really storing
+
+a lot of things in an open cart.
+
+LIAM: This has been a bad couple of days.
+
+TALIESIN: All right, just wanted to make sure
+there wasn't anything (sighs) complicated. Leave
+
+the gold, obviously, and the food.
+
+MATT: All right.
+
+SAM: Burn the wagon.
+
+(laughter)
+
+MATT: As you say that, Doty's like, "Tary."
+
+SAM and ASHLEY: No!
+
+SAM: You have to learn humor, Doty. Sarcasm.
+
+MATT: All righty, so. What do you want to do?
+
+SAM: Is it night?
+
+MATT: By the time you've returned, it's probably
+late afternoon. We'll say at this point because
+
+it's been about a little over a day and a half at
+this point, so, yeah. Mid-afternoon.
+
+LAURA: Shit.
+
+SAM: What should we do?
+
+LAURA: I don't know.
+
+SAM: We can go check on the Slayer's Cake?
+
+LAURA: Oh yeah, we should probably do that. It's
+been a couple of days.
+
+SAM: Yeah.
+
+LAURA: What did we do with it while we were gone?
+
+SAM: Did we have someone running it? Do we have
+someone?
+
+MATT: (laughs) You do not.
+
+TALIESIN: There's a sign that says "Closed for
+adventuring."
+
+SAM: Okay. We should hire someone.
+
+LAURA: We really should.
+
+SAM: Yeah.
+
+LAURA: To run it if we're not around. (gasps) JB!
+
+TRAVIS: Yeah, the thief. That's a good idea.
+
+ASHLEY: Oh, that's a great idea!
+
+LAURA: Well, do you like baking?
+
+MATT: "I haven't really tried."
+
+SAM: Have you any management experience?
+
+MATT: "I took care of Uncle Ogden."
+
+ASHLEY: I feel like she would be great at it.
+Would you even be interested in maybe running a
+
+bakery? Or is that something that just sounds like
+the most dreadful thing in the world?
+
+MATT: (nervous laugh) "I don't know." And she
+pulls her hair. "I could try."
+
+LAURA: How are you at math?
+
+MATT: "I'm quite good at math, actually."
+
+LAURA: Fabulous. Let's head there and see how you
+do.
+
+SAM: Yes. Let's see, but not make any promises,
+because someone who's never run any--
+
+LAURA: Right, Tary, you would know about hiring
+people far more than--
+
+SAM: We should have a proper interview.
+
+LAURA: Right.
+
+SAM: Check references.
+
+LIAM: Well, you weren't a proper adventurer until
+you were. Got to start somewhere.
+
+SAM: True, but I had the advantage of being able
+to buy my way in.
+
+LAURA: That's true, but you were still pretty
+shitty at it, when we first started.
+
+TALIESIN: This is a form of nepotism. It's pretty
+reasonable.
+
+SAM: I'm open to it.
+
+MATT: All right, is everyone going to the Slayer's
+Cake?
+
+LAURA: Yeah, because we can eat, too!
+
+MATT: Okay. Right, you guys all make your way to
+the Slayer's Cake, as the afternoon is coming to a
+
+close, dusk is starting to change the colors of
+the sky. Clouds are beginning to move in, as the
+
+night's evening air grows colder. As you come to
+the outside, you see, it's dark and closed, and
+
+you see what appears to be a figure sitting on the
+ground against the wall, back to the wall, knees
+
+huddled up.
+
+SAM: Not JB?
+
+MATT: No, JB is walking with you guys.
+
+SAM: In front of the bakery?
+
+MATT: By the door, a little bit adjacent to where
+the door is closed.
+
+LAURA: We don't recognize them. Can we see their
+face?
+
+MATT: Make a perception check.
+
+TALIESIN: Is this the same day, or has it been a
+day now?
+
+SAM: It's been a day.
+
+TALIESIN: Oh, thank god.
+
+LAURA: No! 30.
+
+MATT: (laughs) Yeah! You see actually, a woman in
+her late thirties or so, early forties,
+
+platinum-blonde hair, that's pulled up in a ratty
+bun. She's got strands hanging in the front of her
+
+face, that go to about just past her chin. She has a
+very simple dress, and a somewhat dirty apron, and
+
+a small satchel on her side, and she's leaning
+against the wall, her knees clutched to her, she's
+
+looking forward, she hasn't noticed you guys yet;
+you're a little ways up.
+
+LAURA: And I don't recognize her.
+
+MATT: No, you do not recognize her.
+
+LAURA: Excuse me?
+
+MATT: "Oh!" And she gets up, and stands up, and
+(grunting) her back creaks a little bit, and she
+
+stretches it, and dusts off the front of her
+apron, you see little bit of dust (poof). "I'm
+
+"terribly sorry, I wasn't sure when you were going
+to be coming back."
+
+LAURA: Oh, yeah, no. We were just off on an
+adventure, but it'll take a little while before
+
+the food is ready.
+
+MATT: "Oh, that. (sighs) If you have a moment?
+Fine sirs and madams, I'm sorry to bother you, you
+
+"see, my husband Dathen has not returned from sea
+in about six months. And I'm not certain if he's
+
+"coming back, and I'm without work and coffers he
+left me have come empty this month, so could you
+
+"perhaps use a hand here at the bakery?"
+
+LAURA: Timing is quite--
+
+MATT: It was ridiculous timing, yeah.
+
+SAM: Madam, what's your name?
+
+MATT: "Hilda."
+
+SAM: And you would like a job at our bakery?
+
+MATT: "If at all possible."
+
+ASHLEY: Do you bake?
+
+MATT: "I do!" She reaches into her satchel and you
+see in the inside she has a bunch of these small
+
+things wrapped in paper, and she opens one and
+pulls it out and shows it to you. You see it's
+
+this tiny little cream puff. It's perfectly made,
+and has a little icing on the top. She's like,
+
+"I used to just make these for old Dathen, but--"
+
+SAM: May we try it?
+
+MATT: "Of course!" She goes and pulls a handful
+out and hands them amongst you and gives them
+
+over.
+
+ASHLEY: This is a beautiful cream puff.
+
+LAURA: They're really hard to make.
+
+SAM: Quick sidebar. This is better than anything
+we've ever made.
+
+LAURA: Did you already eat it?
+
+SAM: Yes. It was really good.
+
+LAURA: I'm going to wait a few minutes to see if
+Tary looks like he just falls over or anything.
+
+SAM: Wait. What? You think it's poisoned?
+
+LAURA: No. I'm sure it's not.
+
+SAM: I ate it. I ate the whole thing in one bite.
+
+LAURA: It was really good?
+
+SAM: Am I going to die?
+
+TRAVIS: Give me all your stuff.
+
+TALIESIN: How often do you just eat strangers'
+cream puffs?
+
+MATT: Her eyes go wide and like (mumbles).
+
+SAM: Am I going to die? Did you just kill me?
+
+MATT: "No!"
+
+LAURA: No, she didn't.
+
+ASHLEY: No.
+
+(laughter)
+
+MATT: It's actually very good. It's very, very
+good.
+
+TALIESIN: You're right, that is fun.
+
+LAURA: It's really good.
+
+TALIESIN: Well, if it's all the same, I may have
+another prospect for JB anyway.
+
+LAURA: Well, come on inside, Hilda. Let's show you
+around.
+
+MATT: "Oh, all right."
+
+ASHLEY: This is delicious.
+
+SAM: It's really good.
+
+ASHLEY: This is better than anything that we
+make.
+
+TALIESIN: It can't possibly be that good.
+
+ASHLEY: Have you tried any of our baked goods,
+yet?
+
+MATT: "I haven't. I've seen it from a distance,
+but I couldn't really afford to. I'd like to."
+
+LAURA: Do you live here in Whitestone?
+
+MATT: "I do. I live right behind--" And she points
+up to the left. Like if the Sun Tree is in the
+
+center and you head up straight on the eastern
+side-- sorry, the western side of the square, the
+
+path that leads up towards Whitestone Castle, she
+points about two blocks up and on the left. And
+
+there's a small hovel that's pushed between two
+buildings there. And she goes,
+
+"That's where I stay."
+
+ASHLEY: Can I insight check her? Because I don't
+trust anybody.
+
+LAURA: I don't trust anybody!
+
+MATT: Go for it.
+
+LAURA: It just makes us seem like assholes,
+because we're like (grumbles). I want to go in a
+
+little bit and ask around and see what people
+think of her.
+
+TRAVIS: What? A background check?
+
+LAURA: A little background check.
+
+ASHLEY: 27.
+
+MATT: 27? Okay.
+
+SAM: The whispers.
+
+ASHLEY: I get a whisper?!
+
+SAM: Have you never had a whisper?
+
+ASHLEY: I don't think on the show I've had a
+whisper.
+
+SAM: Oh my god, everybody's firsts tonight.
+Backblaze, ladies and gentlemen.
+
+backblaze.com/criticalrole to get two weeks free
+or something.
+
+LAURA: Oh my gosh!
+
+SAM: Yeah, two weeks. Oh, you want to do the
+infomercial bit again?
+
+LAURA: I really do, but you guys did such an
+amazing job, though.
+
+TALIESIN: This is why we're the cool table.
+
+ASHLEY: Well, I think that she should die. I'm
+just kidding.
+
+(laughter)
+
+TALIESIN: Bake her into the pies.
+
+ASHLEY: Do you have references?
+
+MATT: "References?"
+
+SAM: Have you worked anywhere else?
+
+MATT: "No, I've mostly just been a housewife,
+until recently."
+
+SAM: Do you have anyone in the community who could
+vouch for your character and trustworthiness?
+
+MATT: "Perhaps. Norma Kell wakes up in the
+morning. There's also Keeper Yennen."
+
+SAM: Oh, Keeper Yennen! We know him! I think,
+right? We know him?
+
+LAURA: Yeah, we know Keeper Yennen.
+
+MATT: "Yeah, aye. That's all I can think of at the
+moment."
+
+ASHLEY: How long has your husband been missing?
+
+MATT: "About six months."
+
+ASHLEY: About six months.
+
+LAURA: What was he doing?
+
+MATT: "He's a merchant sailor, coming in and out,
+but he'd be back within the month usually. Some
+
+"trips took longer, but six months seems
+extraordinarily long for him."
+
+SAM: Where did he go, again?
+
+MATT: "Last I know, he does a circle around the
+southern tip of Tal'Dorei and he usually hits Emon
+
+"by ship. Occasionally heads over to the-- where is
+it? The shama?"
+
+TRAVIS: Shambala?
+
+MATT: "Maybe something like that. I don't really
+know for sure. It's a long ways away."
+
+LAURA: Keyleth? I whisper to her. Keyleth, can you
+scry on people we don't know?
+
+MARISHA: If I have a piece of one of their
+belongings. Yeah, that definitely helps, yeah.
+
+LAURA: Hilda? Would you like us to check and see
+if we can potentially find him?
+
+MATT: "You can do that?"
+
+LAURA: Well, if you have something of his that we
+can look at, we might be able to help.
+
+MATT: "Oh, aye! Just a moment." And she goes and
+she goes rushing up the street real fast, this
+
+renewed excitement in her face.
+
+LAURA: How do we feel about her?
+
+SAM: Pike, if you were dead set on JB taking over
+the business--
+
+ASHLEY: No, I'm not. JB, don't feel pressured if
+you don't want to do this. She's a fantastic
+
+baker.
+
+LAURA: I mean, she's a really good baker. But
+maybe JB can handle the books, and she can handle
+
+the baking.
+
+TALIESIN: Well, there is another option. Which is
+that we have a giant pile of histories and library
+
+and novels in our collected library, and we are
+searching for information about the thing
+
+underneath the castle, and we need readers. We
+need lots and lots of people to read lots and lots
+
+of books.
+
+MATT: JB, you watch, like the excitement you just
+saw on Hilda's face now hits JB's face.
+
+"I'm a good reader. I can--"
+
+LAURA: Well, okay.
+
+ASHLEY: Yeah, that seems like a little more fun.
+
+MATT: "Okay, yeah. I can also help with this if
+you want. I'm more than happy to do both. I have a
+
+"lot of free time now."
+
+LAURA: That's true. You could run the bakery
+during the day.
+
+SAM: Why don't while we're gone you could help
+Hilda. Hilda?
+
+ASHLEY: Hilda.
+
+SAM: Hilda. You could just help out, but maybe
+leave her in charge? She seems like a--
+
+TALIESIN: Or you could sit in the castle and read
+diaries and ancient tomes of Whitestone.
+
+MARISHA: Do I notice Grog looking uncomfortable?
+
+TALIESIN: I definitely notice. I don't care.
+
+LIAM: (cell phone ringing) Oh dear.
+
+LAURA: Timer's done!
+
+MATT: Grog, does she notice you feeling
+uncomfortable?
+
+TRAVIS: I don't know. Do you?
+
+MARISHA: I don't know, do I?
+
+MATT: Grog, are you uncomfortable?
+
+TRAVIS: With this talk of reading? A little bit.
+
+ASHLEY: (whispering) But Grog, you can read some
+of those books a little bit.
+
+TRAVIS: Yeah, let's not get ahead of ourselves,
+all right?
+
+ASHLEY: Well, okay. I think this is a great idea.
+
+LAURA: I'm watching where Hilda is running.
+
+MATT: Okay.
+
+TRAVIS: I had a quick thought. If her husband's
+dead, are we just going to tell her that right
+
+now? Just you know, husband's dead. He's being
+eaten by fish.
+
+LAURA: No!
+
+LIAM: No, you didn't get a read.
+
+LAURA: Yeah, so Keyleth, if you like do read it
+and you see it's super bad, don't--
+
+LIAM: Oh, it's too hazy. I can't see him.
+
+TRAVIS: That doesn't seem right at all
+
+ASHLEY: No, but I think she should plan for her
+life if he's not coming back.
+
+TRAVIS: Yep. Pike and I are in agreement.
+
+LAURA: But right now?
+
+SAM: What if he's alive and in peril, do we tell
+her that? We're going to lose our only employee.
+
+LAURA: Well, then we go try to help him, maybe.
+
+SAM: Really? We have to go help someone? We just
+met this person!
+
+LAURA: That's what we do, Tary!
+
+TALIESIN: We haven't done that in quite a while to
+be fair.
+
+TRAVIS: Plus, he was in somewhere like shambalam.
+
+SAM: Do we know what she was talking about, by the
+way?
+
+MATT: You get the sense she probably was meaning
+Shamel, which is the port where you guys had your
+
+vacation. The Bay of Gifts.
+
+SAM: We could go on vacation again!
+
+MATT: About ten minutes or so pass and then Hilda
+comes back, and you see she's clutching what looks
+
+to be a small, gold chain. And she takes it and
+goes, "This belonged to my husband. I don't know
+
+"if this'll help."
+
+LAURA: Sure. Keyleth?
+
+SAM: Ignore the blood all over her body.
+
+LAURA: She's fine.
+
+MATT: You probably cleaned up over the past day or
+so travel. Unless you didn't, in which case you
+
+are just a sticky Carrie.
+
+MARISHA: No, I look awesome.
+
+LIAM: It's dried in the hair, though, and caked
+in.
+
+MARISHA: I'm a little spacey, maybe? For a little
+bit.
+
+MATT: Yeah, understandably. You know, like you
+do.
+
+MARISHA: It's hard to say.
+
+MATT: But anyway, she hands you the gold chain.
+
+TALIESIN: Just checking, do you want to know no
+matter what? Good or ill?
+
+MATT: "Oh, I just want to know something."
+
+TALIESIN: Fair enough.
+
+MARISHA: What was his name?
+
+SAM: Athen?
+
+MATT: Yeah, it was Dathen. D-A-T-H-E-N. Dathen.
+
+MARISHA: Can you tell me anything else about him
+that would maybe help? What does he look like?
+
+MATT: "He's got dusty brown hair, usually about
+shoulder length. Well, he doesn't really grow
+
+"facial hair but he's pretty scruffy, lower the
+way. It's been many months, so I don't know.
+
+"Medium build? Maybe about this high?" And she
+gives a couple of inches off her own height. "He's
+
+"got a right scar across his neck and his chest
+right there he got when he was a kid."
+
+MARISHA: All right. Should be enough. I'll do an
+actual scrying spell.
+
+MATT: All righty. So looking at the scrying spell
+here. All right. You sit there and focus and
+
+concentrate-- and darkness. Nothing. No link.
+She's looking expectantly.
+
+MARISHA: What's that?
+
+MATT: She's looking at you expectantly.
+
+MARISHA: Hilda? If he is on this plane of
+existence, I don't know if it's a good sign. But
+
+it doesn't mean that he couldn't be lost somewhere
+else. My spell only extends to this plane of
+
+existence but there are many planes. I can try
+again.
+
+MATT: "No. That's all right. That's all I needed
+to know. Thank you." At this point, as the sun is
+
+setting, starting to go into the evening, you can
+see the light causing her to blear a little bit.
+
+Here in the shade she's like, "Can we perhaps talk
+in the morning?"
+
+LAURA: Of course. Take the evening.
+
+MATT: "Where can I find you? Up?" As she points
+over to the castle.
+
+LAURA: Sure, yeah. One of us will be back here
+tomorrow as well.
+
+MATT: "All right. Thank you." And she quietly
+walks back to the corner of the city
+
+where she was from.
+
+LAURA: Well, shit.
+
+MARISHA: Well, that's not good.
+
+LIAM: Give the woman a job. Keep her busy.
+
+LAURA and ASHLEY: Yeah.
+
+SAM: I'm just throwing this out there. If that was
+a ploy to get a higher salary, I'm not biting.
+
+LAURA: Tary.
+
+SAM: I'm just saying, she could be very cunning.
+
+TRAVIS: Yep, she might have killed her husband.
+
+MARISHA: I don't think so.
+
+TRAVIS: Pretty sure she did it.
+
+MARISHA: Do I have any further inkling?
+
+MATT: No. Just did not find a source. Did not find
+a source. Nothing. Nothing for the spell to grab
+
+onto.
+
+LAURA: Maybe you and I can take a stroll up by her
+abode.
+
+LIAM: All right.
+
+LAURA: And just see.
+
+LIAM: Sure.
+
+LAURA: Make sure she's all right and--
+
+LIAM: Right, best of intentions, yeah. I feel
+you.
+
+TRAVIS: We are background checking a fucking
+bakery employee in our Dungeons and Dragons game!
+
+LIAM: Matt has burned us too many times.
+
+ASHLEY: The stupid box that we buried still haunts
+me to this day.
+
+LIAM: We just got swindled yesterday.
+
+LAURA: Come on! We don't trust anyone
+
+SAM: She didn't give us a social security, we
+don't have an I-9. There's nothing.
+
+LAURA: There's no way to know. She could just be
+in here trying to get close to Vox Machina before
+
+she takes us all down like Raishan.
+
+SAM: She could be Raishan.
+
+LAURA: She could!
+
+TALIESIN: Speaking of deeply distrustful persons.
+JB, do you want to come see the library? Does
+
+anybody else want to come?
+
+ASHLEY: I would love to come!
+
+MATT: "Yes! Please!"
+
+TRAVIS: Yeah, me too.
+
+MARISHA: Are you insinuating that JB isn't
+trustful?
+
+TALIESIN: Oh! Absolutely, in the best possible
+way. I'm highly excited, and I think you're going
+
+to do very well.
+
+MATT: "Okay."
+
+TALIESIN: See?
+
+MARISHA: We like untrustworthy people. None of us
+are trustworthy; it's good.
+
+MATT: "I know, I've read."
+
+(laughter)
+
+TALIESIN: Oh, that made me happy.
+
+LAURA: We go by her hovel.
+
+MATT: Okay. As you guys make your way back to the
+castle you stop and go over there. You can see
+
+it's one of three small homes that are jammed in
+the alley areas between these larger buildings.
+
+Almost like there's businesses on this one corner
+and they have smaller people that are living more
+
+meager means. Each one of them appears to be
+occupied. The one that she pointed to, you go to
+
+it and it seems... there. There's like a very low
+light through one of the windows.
+
+LIAM: I'm going to be real shitty and stealth up
+and peek in and see what she's up to.
+
+MATT: Okay, make a stealth check.
+
+LAURA: She's changing. Crying, naked.
+
+LIAM: We'll find out won't we. 33 for stealth.
+
+MATT: All righty, and then make a perception
+check.
+
+LIAM: Yeah. Natural 20.
+
+MATT: Okay. You glance up and over the side and
+from the low candlelit interior, which you watch
+
+as there's a small candle that's lit on a little
+wick there. And there's almost no furniture in
+
+this house whatsoever. There's a stool and you
+just see her sitting on the stool, motionless.
+
+LIAM: I want to insight check and just get as good
+a read on her emotional state as I can, even
+
+though she's got a thousand-yard stare. This is
+insight?
+
+MATT: Yes.
+
+LIAM: I'll use Luck. Better.
+
+TRAVIS: Luck?
+
+LIAM: Sure, why not? What am I saving it for? 18.
+
+MATT: 18. I mean she's faced away from you. It's
+hard to pick up-- away but to the side, and you
+
+just see her just there. And you see her rummage
+through her satchel on the side. Pull out a cream
+
+puff and eat it.
+
+LAURA: There's not even a bed in there? Just a
+stool?
+
+MATT: Just a stool.
+
+LIAM: Into the earring I say: We are terrible,
+terrible assholes. She seems fine. She seems
+
+worthy of a baking job. You know, work with her
+for a day, but I'm not seeing anything hinky here.
+
+Yeah? You need anything else?
+
+LAURA: No, I'm going to go talk to Keeper
+Yennen.
+
+LIAM: Because I'm staring at a woman crying into
+her satchel.
+
+SAM: Still going to talk to Yennen?
+
+LAURA: It's our fucking business, you know?
+
+SAM: Yeah, of course.
+
+TALIESIN: This is more work than we put in hiring
+our first castle guards.
+
+LAURA: Yeah. Come on, at least we aren't trying to
+like ambush her and attack her like we attacked
+
+you, Tary.
+
+LIAM: My significant other just mangled herself. I
+need to keep busy. Let's go see Yennen. And so I
+
+lead her off.
+
+MATT: Ha okay. You guys go ahead and make your way
+towards Yennen's small temple in town. It's past
+
+the evening sun, so you see Yennen's one younger
+boy who helps him keep the establishment. He's in
+
+the process of sweeping some of the fallen leaves
+and various dust that has found its way into the
+
+half-open dome place of worship. As you approach
+he says, "Hi."
+
+LAURA: Can I ask you a question, Keeper?
+
+MATT: "Oh are you looking for Yennen?"
+
+LAURA: Oh shit, yeah, sorry.
+
+MATT: This is the younger boy.
+
+LAURA: Keeper-in-training, is Keeper Yennen here?
+
+MATT: "Let me get him." Puts the broom away.
+Leaves for a second. The door opens to the side,
+
+and you see Yennen come out, half awake. Looks
+like he's in his evening attire, sleeping attire.
+
+LAURA: Oh shit.
+
+LIAM: Sorry.
+
+LAURA: It's really that late? Oh, he's very old.
+
+LIAM: Sorry.
+
+LAURA: I'm so sorry to wake you.
+
+MATT: "That's all right."
+
+LAURA: Oh, I feel like a dick.
+
+MATT: "What can I do for you?"
+
+LAURA: I just wanted to ask you about someone you
+might know.
+
+MATT: "Yes?"
+
+LAURA: Hilda?
+
+MATT: "Hilda? Yes, yes."
+
+LAURA: What do you know about her?
+
+MATT: "Not too much. She seems nice and keeps to
+herself. She lives that way."
+
+LAURA: How long have you known her?
+
+MATT: "15 years?"
+
+LAURA: 15 years? She's been here 15 years?
+
+MATT: "Her and her husband."
+
+LAURA: Yeah. All right. What was he like? What is
+he like?
+
+MARISHA: Oh shit!
+
+MATT: "A bit of a rambunctious young lad, until he
+grew up. Don't see him very often.
+
+"He comes in and out."
+
+LAURA: He's a sailor. Well, that was helpful.
+Anything remarkable? Any sort of
+
+untrustworthiness? Do you think she's fine? She's
+cool?
+
+MATT: "I assume. Is everything all right?"
+
+LAURA: Everything's fine. You know, we're just
+weird people right now. It's great.
+
+LIAM: You don't know anything about Orcus, do
+you?
+
+MATT: "I know of."
+
+LIAM: Didn't think so. We should leave.
+
+LAURA: Thank you so much. Get some rest. I'm so
+sorry to bother you.
+
+LIAM: Come on.
+
+MATT: "All right. Goodnight."
+
+LAURA: We're making assholes of ourselves.
+
+LIAM: Surprise.
+
+LAURA: Fine. We'll go meet up with everyone else.
+
+SAM: What did you find out?
+
+LAURA and LIAM: So much.
+
+LAURA: She's a loner.
+
+ASHLEY: She's a loner?
+
+LAURA: She's lived here for 15 years, but nobody
+really knows anything.
+
+SAM: And you say she sits in a room by herself
+eating pastries?
+
+LIAM: That's what she's doing tonight. I don't
+think that's what she does every day.
+
+LAURA: Who knows? She doesn't have a bed.
+
+ASHLEY: Why is there no furniture in her
+apartment?
+
+SAM: Let's watch her work for a day. See how it
+goes.
+
+LIAM: Did I see more than one room, or was it a
+single-room home?
+
+MATT: From what you can tell, it's a single room.
+There's a pile of linens in a corner. There was a
+
+stool. It looked like there was a small area for
+cooking.
+
+LAURA: It's like Skyrim, y'all. There's a stool
+and a cheese wheel.
+
+TALIESIN: And a pot, and if you break it, there's
+five coins.
+
+MARISHA: And steal their plants from outside.
+
+TALIESIN: And throw them at chickens.
+
+ASHLEY: Mountain flowers.
+
+MARISHA: Nightshade.
+
+LAURA: Well, this was productive.
+
+TALIESIN: At least we know, and there's no harm in
+being careful. It's not like it's never happened
+
+before.
+
+LAURA: Right.
+
+TALIESIN: It's not the first time that we've been
+trusting and been betrayed. Or the second or the
+
+third. It's reasonable to be a bit cautious and we
+were a bit cautious.
+
+LIAM: Of cakes?
+
+TALIESIN: Of cakes. To be fair, we are going to be
+eating them.
+
+TRAVIS: Are we reading right now?
+
+TALIESIN: I assume we've gotten to the library. I
+don't know.
+
+MATT: They've traveled for a bit, you've had time
+to hit the library and begin showing JB around.
+
+ASHLEY: Are there children's books in here?
+
+TRAVIS: I found one! Look! Bus-ee-ness. Buseness.
+
+MARISHA: He's learning.
+
+TRAVIS: Bus-ee-what?
+
+LAURA, ASHLEY, and MARISHA: Business?
+
+TRAVIS: Sound it out. Bus-eye-ness
+
+MARISHA: Did you find a ledger? Is that what you
+found?
+
+TALIESIN: There are books I read as a child.
+
+ASHLEY: (whispers) Where are they?
+
+TALIESIN: Everywhere.
+
+ASHLEY: Can I see if I can find a kid's book?
+
+LIAM: That's pronounced boysness.
+
+TRAVIS: Boysness. Can you use it in a sentence,
+please?
+
+LIAM: Grog got down to boysness and ended a fool's
+life.
+
+ASHLEY: 13.
+
+MATT: 13? You find what amounts to a children's
+book for Percival.
+
+TALIESIN: Bless you.
+
+SAM: High school biology.
+
+TALIESIN: The Game of Logic by Lewis Carroll.
+
+MATT: Yeah. Most of the books here are of
+relatively advanced reading level. You gather it's
+
+a trait of the De Rolo family.
+
+TALIESIN: Gives me the sense that this kid's going
+to be fine.
+
+TRAVIS: Or-chid.
+
+LAURA: Grog you can do the "ch?"
+
+TRAVIS: Or-chide.
+
+LAURA and ASHLEY: Orchid.
+
+TRAVIS: No, it's not kid.
+
+ASHLEY: Sometimes when those letters are together,
+it sounds like a K.
+
+LAURA: What book are you reading that's about
+boysness and orchids?
+
+TRAVIS: It's an orchid business.
+
+LAURA: Boysness.
+
+TRAVIS: Boysness. Which is a location in Marquet.
+
+MATT: All right. Are you guys doing anything else
+for the evening?
+
+TALIESIN: Just showing her what we would like to
+pay her to do. Which is: all of these books,
+
+there's this huge section that are mostly
+histories, diaries, folk tales, or otherwise. Take
+
+one of these slips of paper when you read a book.
+You write your name on it and you leave it in the
+
+book. Then anytime you find anything peculiar-- a
+ghost story or a strange occurrence in any of
+
+these books. Anything at all that might be
+fanciful or unexplained, you mark with a piece of
+
+gold thread and put it back on the shelf and then one
+of the other librarians will come and find that
+
+book and bring it down for further study. You just
+have to find the most interesting of these books
+
+and make sure that they're well marked.
+
+MATT: "I can do that."
+
+TALIESIN: I had a funny feeling.
+
+MARISHA: What makes them interesting?
+
+TALIESIN: What makes a book interesting? I
+genuinely don't know how to answer that.
+
+LAURA: Sexy pictures.
+
+TALIESIN: There's not a lot of that in this
+library.
+
+MARISHA: Are you giving someone parameters by
+which they don't really have rules to follow?
+
+TALIESIN: Well that's the trouble with looking for
+something that if you don't know what it is.
+
+MARISHA: Right.
+
+TALIESIN: But if in one of these diaries someone
+remarks upon a strange murder or a ghost story, or
+
+honestly, anything interesting that's a bit
+peculiar, you just mark it and then we take a look.
+
+That way we thin out the amount that 
+we have to read down to a manageable amount.
+
+MARISHA: So, it takes a peculiar person to know
+what's peculiar?
+
+TALIESIN: That does help, yes.
+
+MATT: "Okay, I can do that."
+
+MARISHA: Yeah.
+
+ASHLEY: Is there a place-- just ask Percy
+privately. She can stay with me.
+
+TALIESIN: I assumed.
+
+ASHLEY: Do I have an extra bedroom? Or how does
+this work?
+
+TALIESIN: Where is Pike?
+
+LAURA: Is she staying in the castle, right?
+
+MATT: She has a room in the castle, one that used
+to be one of the guest rooms when you had people
+
+you were entertaining.
+
+ASHLEY: Maybe there's a Murphy bed or something
+extra in the room.
+
+MATT: It's easy enough to put a second bed in
+there. The doorways are wide.
+
+TALIESIN: If she would like her own room, that can
+absolutely be arranged.
+
+ASHLEY: JB? Do you-- I don't know how--
+
+MATT: She's in the process of looking and she's
+like writing down, taking notes of the different
+
+sections, talking to herself. She's not even
+looking at you.
+
+ASHLEY: You are more than welcome to stay with me.
+I do have night terrors, so sometimes not fun, but
+
+you can stay with me or you could have your own
+room.
+
+MATT: "No, that's fine."
+
+ASHLEY: Okay. Wait, which one?
+
+MATT: "Staying with you. Is there something I
+should do if you're having a night terror?"
+
+ASHLEY: Just wait it out.
+
+MATT: "Okay, don't wake you up?"
+
+ASHLEY: Nah.
+
+MATT: "Okay."
+
+ASHLEY: Okay. This will be fun. It'll be like
+sleepovers. Maybe we can make a fort!
+
+MATT: "We can make forts? Out of what?"
+
+ASHLEY: Just all the blankets. Tapestries.
+
+MATT: You watch all of a sudden her eyes-- in this
+library, there are a number of old tapestries and
+
+you know carpet elements around. You watch as she
+scans the entire room for materials and goes,
+
+"Oh, we can do this."
+
+ASHLEY: I have a feeling you are a great fort
+builder.
+
+MATT: "I haven't tried, but I have some
+theories."
+
+TALIESIN: I pull two engineering books off the
+shelf and hide them.
+
+MATT: Perfect. All right.
+
+TALIESIN: I feel like this has been taken care of.
+You know the system.
+
+ASHLEY: Percy, thank you.
+
+TALIESIN: Would you like an extra bed sent?
+
+ASHLEY: Yes, please.
+
+TALIESIN: That can be arranged.
+
+MATT: Okay, so you have a second bed installed in
+Pike's room. You guys have your dinner for the
+
+evening, anything else?
+
+TALIESIN: Take another look at the thing
+downstairs.
+
+LAURA: Well, I go with you.
+
+MATT: Okay. You guys head down into the tunnels,
+make your way to the ziggurat beneath Whitestone
+
+and as you enter the inside of the chamber, you
+can see there's a few torches set up in there.
+
+There is that secondary platform where you guys
+met a year ago, where you had the small council
+
+with Raishan as well to decide what was to become
+of the Chroma Conclave. Up there, you can see
+
+there's a whole research bench set up with a
+couple of desks and pretty much all the
+
+information that's been gathered, and various
+things that have been studied over the past year
+
+or so about it. What has been figured out, and
+there were theories thrown around before of it
+
+being a siphon. An artifact that is related to
+something that was referred to as a Sphere of
+
+Annihilation. Not directly, but an offshoot of
+that type of enchantment. As opposed to completely
+
+destroying anything it comes into contact with,
+it's attuned in the siphoning of things from one
+
+location to another. It's a translocation type of
+magic. There have been a number of things that
+
+have been placed within this sphere and did not
+return, including one volunteer, a member of the
+
+Pale Guard, who during the year's research
+volunteered to step through and was not heard from
+
+again. And that stopped any future volunteers from
+rising to the occasion. But since the research
+
+that's been taken up about what the siphon's
+existence, during the Age of Arcanum they were one,
+
+used as a defensive measure against powerful
+mages, but that was more of a secondary use during
+
+the actual war that ended the Age of Arcanum.
+Their initial creation was supposed to be able to
+
+harness and shift ley line energy. The idea was
+wherever there was a large source of magical
+
+energy but it was inconvenient, its placement, its
+natural placement in the world, they could use
+
+these siphons to basically triangulate and shift
+where that energy would go.
+
+TALIESIN: It's been here an awful long time now. We
+don't even know if they created it or if they
+
+found it.
+
+MATT: You don't know, like the information about
+them is I would say almost mythological, in the
+
+sense that there are stories that talk about them
+and a lot of the information was destroyed during
+
+the Divergence regarding to the older Age of
+Arcanum magics.
+
+TALIESIN: The castle's always had strange
+stories.
+
+MATT: Yeah, and this is information that was
+brought together by Eskil Ryndarien when he was
+
+down here researching with Allura even during the
+Conclave. A lot of people have gone off because
+
+the research hit a wall, it was like, "Well, we
+find out pretty much everything about this, we just
+
+"don't know where the siphon is going, and anything
+we've tried to put through doesn't come back." So
+
+the theory is to find the other half of the siphon
+because it's a connecting point. There's two sides
+
+to it, so if it this is correct, then the theory
+is there would be another side to it. Or if not it
+
+might just be a Sphere of Annihilation or
+something adjacent to it and is essentially a null
+
+and void circumstance. Those are where the
+theories stand.
+
+LAURA: Percy?
+
+TALIESIN: Yes?
+
+LAURA: The crystal that Lillith gave you. Does
+that work across planes?
+
+MATT: You have to be on the same plane of
+existence
+
+LAURA: Okay.
+
+TALIESIN: I've thought about it. I definitely
+think there's something on the other side of this,
+
+and this thing is how I think I know that our work is not
+yet done. I dream about it sometimes. Do you ever
+
+come down and just look at it?
+
+LAURA: To be honest, it intimidates me quite a
+bit.
+
+TALIESIN: What do you see?
+
+LAURA: What do I see?
+
+Can I use my oracle arrow
+and shoot it into it?
+
+MATT: You can certainly give it a try. You can
+certainly try.
+
+SAM: (whispers) What's an oracle arrow?
+
+TRAVIS: She can shoot her arrow--
+
+LAURA: And see through the arrow. Okay. What do I
+do?
+
+MATT: All right, well, go ahead and roll an
+attack.
+
+LAURA: Okay.
+
+TALIESIN: Let's back up a bit of a distance.
+
+LAURA: Yeah. We'll back up as far as we can so I
+can still hit the thing. It is a magical arrow,
+
+and this thing cuts out all the magic but maybe
+once it goes through the siphon, maybe I'll still
+
+be able to use it?
+
+TALIESIN: Well, we can actually get to the edge
+where magic starts again and then it might
+
+reconnect once it goes through.
+
+LAURA: Yeah, we'll stand outside of the door.
+
+SAM: So you only have one of these?
+
+LAURA: I have two per short rest.
+
+SAM: Oh, you're fine.
+
+MATT: As part of your newly-exalted bow. Okay,
+this is going to be-- hold on to that roll
+
+whatever that was. So to get out of the radius,
+because it basically cuts right into the hallway
+
+that leads inside of it, you have to back out of
+the chamber into the hallway a few feet and
+
+basically get on the ground and aim upwards
+towards, and you're going to have to arc over the
+
+top of the ziggurat to get in. So this is a shot
+with a disadvantage.
+
+LIAM: Sharpshooter?
+
+LAURA: With disadvantage. I am sharpshooter.
+
+LIAM: Wouldn't that nullify that? Three-quarter
+cover means nothing. It's just full cover.
+
+MATT: Well, what I was going to say it would have
+a really high AC with disadvantage. I'm not going
+
+to consider it with having a super high AC. It's
+still a very hard shot.
+
+LAURA: So disadvantage?
+
+MATT: So disadvantage on the shot.
+
+LAURA: 30.
+
+SAM: Whoa!
+
+LIAM: Yeah, both were high teens.
+
+ASHLEY: It's Critical Role's dice.
+
+LAURA: It is the Critical Role dice.
+
+TALIESIN: What?! I'm so proud of you!
+
+SAM: It shouldn't work.
+
+TALIESIN: It shouldn't work, but it did!
+
+ASHLEY: T-shirts!
+
+SAM: Weirdly, the arrow hits and kills Keyleth.
+
+MARISHA: (death rattle) Not like this.
+
+SAM: Don't do that! This is a long whisper.
+
+LIAM: He's telling her real stuff, man.
+
+SAM: Oh man, this is not what we normally get.
+
+TALIESIN: No, this is a whole chunk of stuff.
+
+ASHLEY: Backblaze!
+
+SAM: By the way, just a little insight, what we
+normally get on the whispers is,
+
+"From what you can tell, it seems 
+totally normal." And then that's about it.
+
+MARISHA: That's actually really accurate.
+
+TALIESIN: Briefly, back in the old days, they were
+experimenting with texting us whispers.
+
+SAM: As far as you can tell he thinks he's telling
+the truth.
+
+ASHLEY: I want to know.
+
+TALIESIN: I'm glad we stopped trying to text each
+other whispers.
+
+SAM: Whoa, her mind is blown.
+
+LAURA: Can I have a pencil! I got to write this
+shit down. Pencil!
+
+TALIESIN: Her eyes go white and it's just
+(scribbling). Yay.
+
+ASHLEY: It was so much!
+
+SAM: She's drawing a weird alien creature.
+
+LAURA: I got to write it down or else I'll
+forget!
+
+SAM: Big head, big eyes, small body.
+
+TALIESIN: Three syllables. We're being invaded by
+dingbats.
+
+MARISHA: What does a smiley emoji mean? I don't
+understand.
+
+SAM: She speaks Arrival language now.
+
+LAURA: Oh my god. Percy! I saw something!
+
+TALIESIN: You didn't. Really?
+
+LAURA: I did! I think it was another plane.
+
+LIAM: Vex dies.
+
+TALIESIN: We have to figure out how to-- is there
+a way to make sure we get every detail? I'm
+
+finding pen and paper; we're writing everything
+you can remember down. Is there a way to recall
+
+someone's memory in perfect detail, is there any
+sort of magic that can actually--
+
+MATT: There are, yeah.
+
+TALIESIN: Okay. This shit's happening!
+
+LAURA: Otherwise, I could just tell you what I
+sort of saw, but I heard a lot of "Backblaze!" in
+
+the background.
+
+TALIESIN: It was the Backblaze dimension?
+
+MATT: They're not siphons. They're storage units!
+
+MARISHA: You saw the cloud? What did it look
+like?
+
+MATT: Just Pelor backing up his hard drive. All
+right. It's pretty vivid for you, and so as you
+
+recount. What she saw is the arrow, it was
+darkness when she fired it, as it passed through
+
+the sphere of anti-magic, there was nothing. And
+then suddenly, imagery blinked through the arrow.
+
+From the perspective of it as it coasted away, she
+looked behind and could see the twin to this orb.
+
+Apparently not under the same anti-magic shell on
+the other side. Whereas this side steals magic,
+
+the other side emits it. As the arrow landed and
+clattered to the stonework maybe 20 feet below the
+
+orb, looking around, she saw a landscape of
+blackened, broken stone and ground. Distant
+
+mountainscapes of jagged crags, like teeth across
+the horizon. The sky itself was black and
+
+shadowed, like it was perpetually amidst a distant
+forest fire, and where you can see the grey in the
+
+sky you can see roiling thunder clouds with
+flashes of lightning. And roughly a mile or so
+
+from what you could tell from where this was you
+could see what appeared to be a large obsidian
+
+tower of twisted black stone that went up for what
+appeared to be a dozen or more stories.
+
+LAURA: Don't we know something about obsidian--
+
+MARISHA: The same tower we saw in the Nine Hells?
+
+LAURA: No.
+
+MATT: No, different tower.
+
+LAURA: This is way bigger.
+
+MATT: No, the tower in the Nine Hells was the
+biggest thing you've ever seen tower-wise. This is
+
+big, but imagine a 12-story obsidian tower that's
+pretty thin and tall.
+
+LAURA: Okay. I'm glad I remembered that correctly
+because I was remembering it as a citadel and it's
+
+just a tower.
+
+TALIESIN: This is spectacular! This is great! We
+have to let everybody know! Oh god, we have to let
+
+everybody know. And I grab her and we bolt out.
+
+LAURA: Does it sound like anything you know?
+
+TALIESIN: No? Yes? Maybe? I don't know! I'm not
+sure. This is a breakthrough. We have a
+
+breakthrough! We have a breakthrough! I am running
+to Cassandra, who I'm sure is asleep.
+
+MATT: Yeah, most everyone's-- you guys have all
+gone to bed at this point I imagine; you guys were
+
+down there pretty late.
+
+LIAM: Well first I drag Keyleth off to the cozy
+little bathtubs that they have here in the castle
+
+and took the opportunity-- they're quite small,
+actually. And washed all of the caked-in, the last
+
+of the caked-in blood and everything.
+
+TRAVIS: Because they say it, it's true.
+
+TALIESIN: We have a full Roman sauna underneath,
+but that's fine, whatever you need.
+
+ASHLEY: I took JB back and we built a fort in the
+room.
+
+MATT: And you've gone to bed?
+
+SAM: Oh yeah, I'm asleep.
+
+TRAVIS: I look for a book on werewolves.
+
+MATT: Okay, make an investigation check.
+
+TALIESIN: Natural 20, Natural 20!
+
+TRAVIS: Natural 20!
+
+(cheering)
+
+TALIESIN: It's that night.
+
+MATT: Against all odds.
+
+TALIESIN: The trick is it requires human
+sacrifice.
+
+MARISHA: It is a full moon tonight, isn't it? Or
+was it last night? When was the full moon?
+
+MATT: You surprise yourself, Grog, going
+"w-w-werewolves." There's a book that talks about the
+
+disease of lycanthropy and were-creatures and
+entities, and it's there before you and you find
+
+it's like your own little birthday party.
+
+TRAVIS: I take it with me.
+
+MATT: Okay.
+
+TALIESIN: I'm calling a meeting of the council.
+I'm sending out the word. I'm telling everyone
+
+that we have new information.
+
+SAM: At night?!
+
+TALIESIN: Yeah, I'm starting it now so that people
+who are not here can figure out their way here.
+
+MARISHA: Are you getting it over our earpieces?
+
+TALIESIN: Not them. To the studying council,
+anybody who's been studying the object. I'm letting
+
+everybody know as quickly as possible. There's new
+information.
+
+MATT: All right, so that being the case, you let
+Cassandra know. Cassandra goes, "My god, all right.
+
+"Well, let me-- I think I-- hold on." She goes and
+rushes back to her room and she comes back with a
+
+small, looks like a river stone, but has what
+looks to be a small rune carved into it. She takes
+
+it and holds it and goes "Sorry to bother you, my
+dear, but apparently Percival has a breakthrough
+
+"in regards to the ziggurat and the orb. As soon as
+you can, please." Then takes it and puts it into a
+
+small pouch. "Hopefully, Allura received that and
+should be arriving soon. As to Eskil, I don't know
+
+"how to get in touch with him; he's probably well
+into his sleep and he gets cranky."
+
+TALIESIN: He'll find out in the morning. This is
+good. We'll start looking with the new data as
+
+soon as everyone gets here. This is excellent.
+Excellent! Good night. Go to sleep. Why are you
+
+awake? No! And I'm out the door. I run to Vex's
+house. We're done.
+
+MATT: All right, so you guys just go to bed?
+
+TALIESIN: Yeah.
+
+LAURA: I guess so. Yeah. But, wait. Actually,
+Percy? Off-subject, but, when I saw Keyleth, I
+
+mean, she was destroyed right? I mean, fucking
+destroyed. Arms everywhere, limbs broken, just
+
+terrible.
+
+TALIESIN: Yes.
+
+LAURA: We put her back together like we always do,
+but I can't get Scanlan out of my mind. It's so
+
+random, I know, but what if that happened to him
+and we're not with him? No one's there to cast
+
+Revivify.
+
+TALIESIN: If he wanted to be found, he'd be found.
+His daughter's there, and maybe he is possibly
+
+smart enough to explain to her how that stone
+works.
+
+LAURA: Have you scryed on him again?
+
+TALIESIN: Not successfully. Not since I briefly
+found him and then I lost him. But I always have
+
+people looking.
+
+LAURA: All right. I don't know why he's on my
+mind. Obviously, we have much bigger things.
+
+TALIESIN: I think maybe bigger things will help.
+It's been too quiet.
+
+LAURA: Not good at quiet
+
+TALIESIN: No. I mean, I've enjoyed it. This has
+been great, everything, everything has been great.
+
+This is wonderful, but I will admit I miss-- I
+don't know what I miss. I miss it, though. I feel
+
+like I'm tempting fate and I'm going to regret
+everything I say right now, one day.
+
+LAURA: I think we are, who knows what this will
+lead to.
+
+TALIESIN: Maybe we can shut it down for good.
+
+LAURA: Yes.
+
+TALIESIN: Maybe we're going to go find a small
+black tower somewhere filled with death and
+
+despair.
+
+LAURA: I don't know if I'm going to be able to
+sleep tonight!
+
+TALIESIN: No.
+
+MATT: So as you find your rest for the evening,
+the morning comes. Bright, warm. The clouds that
+
+came in for the evening, it's still a cloudy sky
+and as you wake up the mist that usually takes up
+
+the bottom of the valley and the forest floor is
+beginning to burn off as the sun begins to peek
+
+through the clouds and show little bursts of blue
+above. You guys head back to the castle, where all
+
+of you are, everyone but Keyleth. We'll say
+Keyleth's still sleeping and Taryon's still
+
+sleeping.
+
+TALIESIN: Keyleth had a bit of day.
+
+MATT: However, Allura is there waiting. She's
+there and as you approach she goes,
+
+"Well, isn't this a pleasant surprise?"
+
+She rushes up and gives Vex a big hug.
+She comes and takes your hand as well, Percival,
+
+and pulls you in. "So, Cassandra told me that
+there was some sort of a--"
+
+TALIESIN: Well, Vex had a brilliant idea. Recently,
+you came to a very interesting power.
+
+LAURA: Yes, from the exalted weapon that I got
+from Saundor.
+
+MATT: "Oh, your Vestige. Yes."
+
+LAURA: Yes, and it has the ability to shoot arrows
+that see.
+
+MATT: "I recall you telling me this, yes."
+
+LAURA: Right, so I shot it into the orb. And I saw
+through it.
+
+MATT: "Oh." At which point you watch her whole
+demeanor change and she leans in, "What did you see?"
+
+LAURA: Fucking everything. A sky and an orb and a tower.
+An obsidian tower like twelve stories tall.
+
+MATT: Keyleth comes down for breakfast.
+
+LAURA: Hey, Kiki. Good morning.
+
+MARISHA: Hi, sorry. I had weird dreams.
+
+TRAVIS: That you died?
+
+LIAM: No, that really happened. That actually
+happened yesterday.
+
+LAURA: Destroyed landscape, whole other plane.
+Very dark, very scary.
+
+MATT: "Another plane?"
+
+LAURA: I think. I assume.
+
+TALIESIN: This is everything as she described it.
+This is everything I could write down.
+
+MATT: As you describe down the location she goes,
+"This is certainly not a place that I know of on
+
+"this plane."
+
+MARISHA: My dreams are on this plane?
+
+LAURA: Keyleth! We had a breakthrough.
+
+MATT: "This sounds like a location that resides
+somewhere in the Shadowfell."
+
+LAURA: The Shadowfell?
+
+TRAVIS: Wait, Shadowfell?
+
+MATT: "The Shadowfell, yes. You know how you went
+to the Feywild, which is more of an overgrown
+
+"fey-based nature parallel to this world, yes? The
+Shadowfell is the dark shadow reflection of this
+
+"same place. It's a plane of negative energy and
+darkness. A tower, you said? I have to go research
+
+"this some more. This is good to know, but I get
+the sense that perhaps this ritual was not as
+
+"foiled as we had initially anticipated."
+
+LAURA: Oh no.
+
+TRAVIS: Have you been to this Shadowfell before?
+
+MATT: "I have not been."
+
+LAURA: Does Vecna reside there?
+
+MATT: "I may go do some research."
+
+LAURA: Fuck.
+
+MATT: You watch her get a little thousand-yard
+stare for a second, thinking. Her eyes are darting
+
+around a little bit and her brain is just running
+and running. "All right. Well, unfortunately, I
+
+"can't leave until tomorrow, I can only really
+transport myself once a day, but I'll immediately
+
+"make my way to Vasselheim. That would hopefully be
+able to clarify some of these questions."
+
+LAURA: Do you need company?
+
+MATT: "No, I can travel faster on my own."
+
+LAURA: All right.
+
+MATT: "Besides, I can always go ahead and bring a
+friend."
+
+LAURA: How is Kima?
+
+MATT: Make a perception check, actually.
+
+SAM: She's in the room.
+
+LAURA: 21.
+
+MATT: 21? Interesting. One thing you do catch,
+though subtle, is as she has her hands folded on
+
+one side you do see a small gold band across one
+of her fingers.
+
+SAM: She's hitched!
+
+LAURA: Wait a minute! Did you guys get married?
+
+MATT: "It was very small, very private, but
+anyway--"
+
+LIAM: Congratulations!
+
+MATT: "Thank you. Sorry, this is conflicting
+emotions in this moment right now. Thank you."
+
+LAURA: When did it happen?!
+
+(laughter)
+
+MATT: "Naught but four months ago. It was on a whim.
+We thought and discussed a lot about all the
+
+"dangers we'd faced over the years together, and
+with you and the reality of not knowing how long
+
+"either of us have on this planet. I figured at the
+very least, why not?"
+
+LAURA: I think it's brilliant. Brilliant.
+
+MATT: "Thank you. We were going to tell you.
+There's been a lot to do in Emon. It's looking
+
+"great, by the way. We've nearly completed. Thanks
+to the help of the Lyceum and many of the mages,
+
+"reconstruction has been rapid."
+
+LAURA: We really should have gone there in the
+last year. We need to visit Emon.
+
+TALIESIN: We've been very busy.
+
+LAURA: True.
+
+MATT: Then she covers the hand and is
+embarrassed.
+
+TALIESIN: We can get you back there today, if you
+think time is of the essence.
+
+MARISHA: I was in Emon not that long ago.
+
+TALIESIN: Why did you go to Emon?
+
+MARISHA: I had to talk to them about constructing
+the crisis orbs.
+
+LAURA: Oh! That's true.
+
+MARISHA: It was a lot of meetings. So many damn
+meetings.
+
+MATT: "If you could actually send me to the Lyceum
+instead, and from there I can go to Vasselheim,
+
+"but I can do my research there."
+
+MARISHA: You want to go to the Lyceum?
+
+MATT: "Yes."
+
+MARISHA: Right now?
+
+MATT: "Well, it's whenever you wish."
+
+MARISHA: You want me to send you?
+
+TRAVIS: I'm going to reset Keyleth's brain.
+
+MARISHA: Oh yeah. Through the tree?
+
+TRAVIS: I'm going to jog her memory.
+
+MARISHA: Is there anyone else that needs to go
+while I'm doing this? Because this is it for the
+
+day. Anyone else need to go to Emon?
+
+TALIESIN: I think we're good.
+
+TRAVIS: Literally nobody needs to go there but
+her.
+
+MARISHA: No Kima?
+
+MATT: Kima's not with her.
+
+MARISHA: I just didn't know if she wanted to go
+get her.
+
+LAURA: Oh my god, Keyleth.
+
+LIAM: You got a little bit of sleep stuff still in
+your eye.
+
+LAURA: Eye bogeys, for sure.
+
+LIAM: Yeah, that's better.
+
+MARISHA: I was just asking. Okay, let's go.
+
+MATT: All right, so as you open the gate and
+Allura steps through, she around with a smile.
+
+"Thank you, Keyleth. And--"
+
+MARISHA: I say, (whispering) 'sup, Sun Tree?
+And then send her through.
+
+MATT: (laughing) As she's trying to talk to you,
+she's like, (stutters). And you just push her
+
+through. She's like, "Whoa!"
+
+MARISHA: Okay, bye.
+
+MATT: (thud) And it closes.
+
+TALIESIN: Why are you awake? Nothing. Never mind.
+
+MATT: All right. So. What do you guys want to do?
+
+LAURA: Well, shit! Well, what do we do now that we
+know? I guess we just research?
+
+TALIESIN: This changes everything. I'm changing
+the research focus in the library specifically to
+
+things on this subject so that we can more focus.
+
+MATT: Okay. JB comes down with you and starts
+helping catalog and pulling out books and
+
+information.
+
+TRAVIS: I'll help you go read, too. And I start
+reading my book.
+
+LAURA: Oh shit. Hilda. Did anybody go down to the
+bakery?
+
+SAM: She was going to come see us.
+
+MATT: Yeah, you haven't. It's around noon now, as
+all this has happened and talking with her.
+
+TALIESIN: She was going to come to the castle.
+
+LAURA: Yeah, but-- okay.
+
+MATT: Tary still hasn't woken up, by the way.
+
+SAM: I'm currently-- Doty is brushing my teeth.
+
+TRAVIS: Brushing your teeth?
+
+MATT: That's not true. Because eventually when you
+go to check on his room, Taryon isn't there.
+
+LAURA and MARISHA: What?
+
+LIAM: Sam...
+
+MARISHA: He's not going to Sam Riegel us again, is
+he? Because I can't handle that right now.
+
+LAURA: Where is Tary? Did he leave a note?
+
+MATT: As you enter the room--
+
+SAM (whispers) Hilda ate me.
+
+LAURA: Oh my god, did Hilda do something?
+
+MATT: You can see the sheet is missing. Most of
+his personal belongings are gone. Doty is still
+
+there. And Doty appears to be shut down,
+nonfunctional.
+
+LAURA: Doty? Doty! Shit!
+
+MATT: The eyes are cold.
+
+TALIESIN: Check the book!
+
+LAURA: What book?
+
+TALIESIN: Doty's book.
+
+LAURA: Oh! I go look at Doty's book!
+
+MATT: It's within his chest compartment.
+
+TALIESIN: I know. I helped build this thing. Can I
+figure out how to get the book to eject?
+
+MATT: Make an investigation check.
+
+LAURA: I'm searching around the room, looking for
+any sign of Tary.
+
+TALIESIN: That's so cocked. That's a natural 20.
+
+MATT: Okay. Not only do you find the latch, but
+you look underneath where one of the arms is.
+
+There appears to be a small glass bead, affixed
+with a piece of clay. And the bead has this
+
+pulsing blue light on it. And you notice it there,
+and it looks like it's the only thing with any
+
+sort of life on Doty's exterior.
+
+TALIESIN: Does that look like part of Doty?
+
+MATT: It doesn't. It looks like something that was
+pressed onto him.
+
+LAURA: Should we take it off?
+
+TALIESIN: Is it magical?
+
+MATT: Make an arcana check.
+
+TALIESIN: That's a 21.
+
+MATT: It does appear to be magical. It is giving
+some sort of consistent pulse of energy.
+
+LAURA: Maybe don't touch it.
+
+MATT: It looks fragile, whatever it is. The
+essence of the magic that you get from it, the
+
+nature of the effect, at least, is abjuration.
+
+LAURA: Abjuration?
+
+TALIESIN: I genuinely don't actually know what
+this word means.
+
+LAURA: I have no idea what that word means,
+either.
+
+SAM: I've seen it in the Player's Handbook.
+
+LAURA: Yeah, what is it?
+
+TALIESIN: I normally have some clue about a word.
+
+MATT: Abjuration is one of the schools of arcane
+magic.
+
+LAURA: What kind of school is it?
+
+MATT: (laughs) It's the alteration and harnessing
+of raw arcane energy. Usually in some sort of--
+
+there are a number of spells that fall into the
+category.
+
+LAURA: Shit. Shit, we just sent Allura away. Fuck.
+Balls.
+
+TALIESIN: Should we call everyone? Let's not call
+everyone. Who should we call?
+
+LAURA: I don't know.
+
+TALIESIN: Let's call everyone. Has anybody seen
+Tary?
+
+LIAM: He's sleeping in, isn't he?
+
+TALIESIN: He's not.
+
+ASHLEY: Is he at the bakery?
+
+LAURA: Wait, go check the bakery. Will someone go
+check the bakery?
+
+ASHLEY: I'll check the bakery.
+
+LIAM: Where are you?
+
+LAURA: Do I see any trace of him?
+
+MATT: Make an investigation check again.
+
+MARISHA: Castle?
+
+LIAM: No, they're at Vex's house.
+
+LAURA: 15.
+
+TALIESIN: Can you have some coffee and come down
+here, quickly?
+
+MARISHA: Oh my god! Coffee sounds amazing to me.
+
+LAURA: Keyleth!
+
+MARISHA: Yeah?
+
+TALIESIN: Yes, what?
+
+LAURA: Focus.
+
+TALIESIN: Three coffees.
+
+MARISHA: Three coffees coming right up. I'll be
+right over. I get three coffees and I head over.
+
+MATT: Okay. It's hard to pick up a lot of details.
+It looks like there was no struggle whatsoever. It
+
+looks like somebody entered and picked the lock to
+the room from the inside. That's all you're able
+
+to make out. From the inside of the castle.
+
+SAM: Oh, from the inside of the castle.
+
+MATT: Yeah.
+
+LAURA: Somebody that was in the castle did this?
+In my house?
+
+LIAM: Sam, why don't you just tell us where you
+are?
+
+SAM: Sure. Doty is brushing my teeth.
+
+LAURA: Did you end up opening the thing? Can you
+see Doty's book?
+
+TALIESIN: I popped the book out, right?
+
+MATT: You found the compartment where you (click,
+creak). It opens up and the tome is there.
+
+TALIESIN: I have my things upstairs. One second.
+I'm going to get all of my tools. I have
+
+everything on me including the cloak, because I
+want to be able to absorb any magic that comes off
+
+of what looks like possibly a bomb? Just going to
+be careful. I'm going to
+
+very gently remove the book.
+
+MATT: You pull it out of the compartment.
+
+TALIESIN: Flip to the last written page.
+
+MATT: The last written page spoke of, "An evening
+of curious bakery purveyors signed on to see to
+
+"the future of goods, and to create in the name of
+the great Taryon Darrington and associates. And as
+
+"a sudden slumber comes over me, I will find myself
+an evening's rest. Goodnight, Doty." And that was
+
+the final entry.
+
+TALIESIN: I'm waiting for Keyleth. I'm putting the
+book back.
+
+LAURA: The top sheet is gone from the bed.
+
+TRAVIS: Yeah, because they took him away in it.
+
+LAURA: Is it an eyelash? Do I get a wish?
+
+ASHLEY: (whispers) Yeah.
+
+LAURA: Wait, get it so that I can make a wish.
+
+TALIESIN: Thankfully, we have a scry spell or
+two.
+
+MATT: Keyleth, you arrive with three coffees.
+
+LIAM: I tag along.
+
+MARISHA: Okay, I have two regular, one decaf no
+foam--
+
+LAURA: Keyleth, scry on Tary. Pike, did you find
+anything at the bakery?
+
+MATT: As you hurry down to the bakery, the bakery
+is still closed. Nobody was there to open it.
+
+ASHLEY: Is Hilda there?
+
+MATT: Hilda is not there, no.
+
+ASHLEY: I don't see anything here, Hilda's not
+here.
+
+LAURA: The bakery looks normal?
+
+ASHLEY: The bakery looks normal.
+
+MATT: Locked and closed, untouched since you left
+it the evening before.
+
+MARISHA: Wait, you think Doty's been
+boobytrapped?
+
+TALIESIN: Look at that. That doesn't look normal.
+
+LIAM: I want to a take a look at that and see if
+it looks like a trap, and I don't understand
+
+magic, but if it is similar to any trigger
+mechanisms that I've seen.
+
+MATT: Make a investigation check.
+
+LAURA: Keyleth, come out of the room with me.
+
+LIAM: 31.
+
+MATT: Okay, it does not appear to be a trap,
+necessarily. It looks like whatever it's meant to
+
+be triggered to do has already been triggered.
+
+LAURA: (gasps) Somebody boobytrapped Doty. Can you
+scry on Taryon? Scry on Taryon.
+
+MARISHA: Yeah, what-- I'm sorry.
+
+LAURA: He's missing.
+
+MARISHA: What?
+
+LAURA: He's missing. Somebody broke in and took
+him. I go around and start asking-- no, I'm going
+
+to stay right here. Will you scry on him? I need
+to find out what happened.
+
+MARISHA: Okay, last time I tried to scry on
+Scanlan, everyone gave me
+
+a lot of grief about it.
+
+LAURA: Okay, Scanlan left on his own. Tary didn't.
+He left Doty here. There is no way this was not
+
+foul play.
+
+LIAM: Do you think this thing is looking at us?
+This little bead?
+
+TALIESIN: Once everyone clears out of the room, I
+will try and remove it.
+
+MARISHA: Who is all in the room? Is it the four of
+us?
+
+LAURA: No, me and you, we went outside.
+
+MATT: It is just Vax and Percy.
+
+TALIESIN: I am going to try and remove it.
+
+LIAM: Yeah, I don't think it's trapped or
+anything. You probably can do that.
+
+TALIESIN: Let's see what happens. I'm going to use
+the cloak to pull it off so that I'm shielded from
+
+it if anything happens.
+
+MATT: Okay, you grab it, and as you pull it off,
+it's fixed and as you pull it off, the bead
+
+shatters in your hand and the blue spark fizzles
+out and you watch Doty go, "Tary."
+
+LIAM: Looks like the bead shut him down.
+
+MATT: You get the sense that the basis of this
+magic was a one-use Dispel.
+
+LAURA: We're not in the room. You're scrying. Will
+you scry?
+
+MATT: You watch as Doty immediately starts going
+"Tary?" and lifts the bed. "Tary?"
+
+MARISHA: It'd be better if I had something of
+Tary's.
+
+MATT: Doty leaves and charges through the room and
+(footsteps) into the hallway.
+
+LAURA: Doty? Doty, come here.
+
+MARISHA: Hey, Doty.
+
+LAURA: Doty belonged to him. Scry with Doty.
+
+MARISHA: What's up, bud?
+
+MATT: Doty stops and looks. "Tary?"
+
+MARISHA: Okay, I'm going to Professor Xavier this
+shit and put my hands on Doty's little head. Come
+
+here, bend down. Down, Doty. Doty, down. Doty,
+kneel! Doty, take a knee. Doty, down.
+
+LAURA: Doty? Will you kneel down, please? Fuck.
+
+MARISHA: You know what? It's fine. And I'm going
+to do the scry.
+
+MATT: Okay.
+
+LAURA: Do you know what is happening right now?
+
+SAM: I'm getting my rogue character ready.
+
+MATT: Keyleth. Your vision pulls back up into the
+sky above the clouds. For a second, you feel a
+
+rush of wind; you're not sure of the direction.
+You feel a flash of speed and then with a blink,
+
+all of a sudden your vision is above what appears
+to be a small village along a road. And the vision
+
+blinks once again and you're within a hallway, a
+wooden low-lit hallway, and then the flash. You're
+
+inside of a room. A wood paneling wall. You see
+Taryon, unconscious and wrapped in a sheet, still
+
+in his armor, propped against the shaded side of
+the wall, while a figure stands just out of the
+
+peripheral. A familiar voice from just out of your
+range says, "It's okay, dear. We just had a bit to
+
+"drink. Appreciate your concern." And you hear the
+door close (click). Then a few footsteps, and you
+
+watch as in the peripheral, Hilda steps in next to
+Taryon, pulling the sheet from his body, revealing
+
+him tied up from head to toe. Hilda's image
+shimmers slightly and dissipates, revealing a
+
+woman of ink-blue skin, long white hair tied into
+almost a topknot ponytail. Pale silver eyes that
+
+inspect her handiwork. Under her dark green cloak
+that you see her hood fall back, you see dark
+
+burgundy leather armor. She seems to check
+Taryon's vitals, under his neck, feel for
+
+breathing. Very methodically, and begins to loosen
+some of his bindings in some places. And you hear
+
+her voice say, "Can't have you losing too much
+circulation, boy. I've got a reputation to keep."
+
+She quickly tosses the blanket back over him after
+fixing the straps and goes, "Sleep soundly, boy.
+
+You'll be home soon enough." She stands up and
+walks across the room, almost out of sight, and
+
+sits in the chair facing him. You watch her
+rummage through her satchel, pull out a cream
+
+puff, and throw it to the side of the corner.
+Pulls out a small box and begins making
+
+something.
+
+MARISHA: I don't know what she is making?
+
+MATT: Make an intelligence check.
+
+SAM: She probably bought those cream puffs and
+didn't even bake them herself!
+
+TRAVIS: It was Ralph's cream puffs.
+
+MARISHA: Don't fuck me, Gil. Oh, okay. Just
+straight intelligence?
+
+MATT: Yeah.
+
+MARISHA: 17.
+
+MATT: You've seen Vex do this before. It is a
+fletching kit. She is in the process of making
+
+arrows.
+
+MARISHA: She's making arrows?
+
+MATT: She's making arrows in a casual
+passing-her-time way. And then the vision pulls
+
+you back (whoosh) and you're within yourself once
+more.
+
+MARISHA: (gasps)
+
+LAURA: What did you see?
+
+MARISHA: (shouting) Bitch! Fucking bitch! God!
+
+LAURA: Where is he? Who has him?
+
+MARISHA: (shouting) People wonder why we have
+trust issues!
+
+LAURA: Who, what--
+
+MARISHA: (shouting) It's fucking Hilda! She's a
+vampire or a werewolf or a lich or something. I
+
+don't know. Don't quote me on any of this. She was
+just like, I don't want your vitals going down and
+
+why do people take everything away from us?
+
+LAURA: Slap her across the face.
+
+MARISHA: (yelps)
+
+LAURA: Hey!
+
+MARISHA: Ow!
+
+LAURA: Okay.
+
+MARISHA: Okay.
+
+LAURA: Can you fucking calm down and tell me what
+you saw?
+
+LIAM: Did you see Tary-town?
+
+MARISHA: I saw Tary.
+
+LAURA: Is he in trouble? Is he in danger?
+
+MARISHA: Yeah, he looked unconscious, and it was
+Hilda, and she had ink-blue, sparkly skin.
+
+MATT: Not sparkly, necessarily. Ink-blue skin,
+silver eyes.
+
+MARISHA: Ink-blue skin and long silvery hair that
+was in a top long ponytail thing. Long green-- and
+
+she had burgundy armor. He was in a wooden room,
+somewhere.
+
+LAURA: Is it close by?
+
+MATT: Her ears were pointed.
+
+MARISHA: In a hallway. Her ears were pointy. I
+know a lot of people have pointy ears, including
+
+myself, so I'm not judging anyone who has pointy
+ears.
+
+LIAM: Was she a drow?
+
+MATT: You, Keyleth, who have not actually seen a
+drow elf in person, really, over an extended
+
+period of time to know much about their culture,
+but through this conversation, she does appear to
+
+be, yes.
+
+MARISHA: She sounds like those things you have
+said before. Yes.
+
+LAURA: The drow?
+
+MARISHA: The drow, yeah. Like us but blue skin,
+white hair. And she said she doesn't want him
+
+losing too much of his vitality, and that she was
+going to take him back to where he came from and
+
+that he was special.
+
+LAURA: (gasps) She was bringing him home?
+
+MARISHA: Yeah, she was bringing him home.
+
+LAURA: To his piece of shit family?
+
+MARISHA: To his piece of shit family!
+
+LAURA: We have to get him. We have to help him.
+
+MARISHA: But why is Tary special?
+
+LAURA: He's very rich. I'm sure his family is just
+looking for him.
+
+LIAM: Yeah, he is daddy's boy.
+
+MARISHA: I don't know. This seems like she was
+interested in something other than his money.
+
+LIAM: Well. It's irrelevant, though. We've
+got to go get him.
+
+LAURA and MARISHA: Yeah.
+
+TALIESIN: It just means we knock her unconscious
+as opposed to killing her when we get there. It
+
+will be fun. Let's do this.
+
+MARISHA: Do I have any idea of the hallway and the
+room, of how far away it was?
+
+MATT: It felt like some sort of roadside inn.
+That's you have no idea where.
+
+TALIESIN: Well, this we can deal with. A roadside
+inn. We know were Tary comes from.
+
+MARISHA: He could be literally anywhere within a
+hundred-mile radius.
+
+TALIESIN: We know which roads one would take to
+get there from Whitestone, conveniently?
+
+MATT: From what you know, the town of Deastok that
+he comes from, which is in Wildmount. There are no
+
+roads that go there from Whitestone because it is
+across the Shearing Channel to the other
+
+continent. Which means you have to either go by
+boat-- and even then, it's probably a few hundred
+
+miles away from Whitestone on that side of the
+continent.
+
+TALIESIN: We could do a Locate Object.
+
+LAURA: Yeah, on his dangling earring.
+
+MATT: It's a hundred-foot range.
+
+LAURA: I thought it was a thousand feet range.
+
+MATT: Sorry, a thousand-foot range.
+
+LAURA: Which is still very, very close.
+
+MARISHA: Or very far, when jumping off a cliff.
+
+ASHLEY: What if he's still here?
+
+LAURA: Okay wait, what if I use primeval
+awareness-- I can't search out a drow. No, fuck.
+
+Can I look around to see if there's any tracks or
+any hint of anything that she may have dropped in
+
+the room or anything that he might have dropped?
+
+TALIESIN: Go check Hilda's house, as well, for
+clues.
+
+MATT: Searching the room... you searched it once
+before. Looking over it with a second glance,
+
+there doesn't appear to be any sign of anything
+that she dropped. The best you can tell,
+
+especially being a tracker, there doesn't appear
+to be any sign that either of them left the room.
+
+There was nowhere they could have gone. There is
+no window that exits, then the door was picked,
+
+and nobody saw anybody leave the room.
+
+LAURA: She bamfed out. She's got magic. She could
+be anywhere.
+
+TALIESIN: Then why is she at an inn?
+
+LAURA: Are we sure she was at an inn?
+
+TALIESIN: Well, if she is at what sounds like a
+waypoint, and if you can travel as far as you
+
+want, why would you need a waypoint?
+
+MARISHA: Actually, who is good at math? Oh, Percy!
+You're good at math.
+
+TALIESIN: I am good at math, why? What sort of
+math?
+
+MARISHA: Well, when was the last time we saw
+Tary?
+
+TALIESIN: Last night.
+
+MARISHA: Yeah.
+
+SAM: Train traveling...
+
+MARISHA: Exactly. A train traveling by foot.
+
+LIAM: A Tree Stride spell traveling. Yeah.
+
+TALIESIN: It wasn't necessary a bamf. It might
+have just been, in and out, get on a horse and
+
+head towards--
+
+LIAM: That's a lot of ifs, though.
+
+LAURA: But she didn't leave the room.
+
+MARISHA: She was making arrows.
+
+ASHLEY: I've made my way upstairs?
+
+MATT: Yeah, you've come back at this point now.
+
+ASHLEY: Well, Hilda never showed up for her
+interview!
+
+(laughter)
+
+ASHLEY: I don't think we should hire her, for one.
+Where is he? Did you find him? Anything? Nothing?
+
+TALIESIN: How far could they have gotten on
+horseback? Within the reasonable--
+
+MATT: Well, I mean. The last you saw him, it's
+been probably 12 hours. On horseback, could have
+
+gotten, I'd say, probably a little over 100 miles
+or so.
+
+TALIESIN: 100 miles. There's only so many roads
+that lead out of the city. I'm pulling out a map
+
+and I'm marking any roadside tavern that's within
+100 miles of the city.
+
+LAURA: Doty? Do you know how to find Tary?
+
+MATT: "Doty. Taryon."
+
+LAURA: Yes. Can you find him? Are you drawn to
+him?
+
+ASHLEY: Doty?
+
+MATT: I know, it's one phrase.
+
+TALIESIN: I can't make Doty do things, can I?
+
+SAM: You can certainly try.
+
+TALIESIN: Doty, look at me.
+
+MATT: "Tary?"
+
+TALIESIN: Never mind.
+
+ASHLEY: Doty? Do you know where Taryon went?
+
+MATT: "Tary."
+
+ASHLEY: I feel like-- could you give him the
+book?
+
+TALIESIN: Oh. Yeah. I gave him the book back.
+Yes.
+
+ASHLEY: Could you draw something for me again?
+
+MATT: "Tary?"
+
+LAURA: Try it. Give him the book. Give him some
+paper and a pencil.
+
+ASHLEY: Do you know where Taryon went? Can you
+draw it? Shit, I thought he listened to me.
+
+SAM: He does.
+
+ASHLEY: He does listen to me.
+
+MATT: Well. The old Doty did.
+
+SAM and LAURA: Oh fuck.
+
+TRAVIS: And you had to lose that one.
+
+ASHLEY: Oh, that's right, Doty. You're new. You're
+new Doty.
+
+TALIESIN: Doty, don't do that.
+
+ASHLEY: Doty, don't do that. Doty, don't play
+that.
+
+TALIESIN: I've got a plan. I need to borrow the
+scrying orb. I'm going to make a list. On a map,
+
+I'm going to mark every roadside inn within about
+200 miles.
+
+MATT: Okay. There's a number of inns in the Turst
+Fields. There's a couple at the Jorenn Village,
+
+which you are familiar with. They might be just
+outside of the range, but you put them on there as
+
+well. Westruun, and along the road of the Silver
+Cut.
+
+MARISHA: What was that thing you said? Turns
+field?
+
+MATT: There's the Turst Fields.
+
+MARISHA: And what was the other one?
+
+MATT: Jorenn Village. That's where you found Percy
+in prison.
+
+TALIESIN: Okay. Where's the sun?
+
+MATT: Right now? It's close to noon.
+
+TALIESIN: We'll finish this and I'll give it a few
+hours for the sun to go down so that I can
+
+actually figure out what direction the inn is
+facing.
+
+MARISHA: And I couldn't try and do a nature check
+to try and figure out what direction the wind was coming
+
+from when it hit me during the scry?
+
+MATT: The wind was less of a natural wind and more
+of just your vision being shifted. It would not
+
+have an impact whatsoever.
+
+TALIESIN: Save the sphere. I've got a plan. In the
+meantime, let's search Hilda's house.
+
+LAURA: Yeah. Okay. We go and search Hilda's
+house.
+
+MATT: Okay. As you get to Hilda's home, you look
+inside. It's dark on the interior. You knock.
+
+There's no response.
+
+LAURA: Does Trinket smell-- We go in-- Wait!
+Sorry. Check for traps. Right.
+
+LIAM: 22. No, 24.
+
+MATT: 24. It is locked, but it does not appear to
+be trapped.
+
+LIAM: All right. It's not locked anymore. 32.
+
+MATT: Okay, yeah. It's a simple lock. As you walk
+inside, you see the candle that was lit the other
+
+night has melted entirely and the wax is dripping
+off the side of the small bench
+
+where it was laid on.
+
+LIAM: One more in here. Is there any bullshit
+hiding around in here? 29.
+
+MATT: 29. There's no bullshit, necessarily, but
+there is that pile of linens in the corner. You
+
+see it shifting slightly, and as you pull off the
+side you see there, bound, Hilda. She's like,
+
+(muffled noises).
+
+LIAM: All right, Whisper out, and I cut her free.
+
+MATT: "Oh!"
+
+LIAM: You all right?
+
+MATT: "I'm all right."
+
+LIAM: What happened?
+
+MATT: (stuttering) "Naught but a few days ago,
+this blue-skinned woman came, and she seemed nice
+
+"enough, and she asked me questions. She didn't
+hurt me or nothing,
+
+"she just asked a lot of questions."
+
+LIAM: And you've met us before? No?
+
+MATT: "No. I've seen you around town. People talk
+about you, saying what you've
+
+"done for the people..."
+
+ASHLEY: Do you bake cream puffs?
+
+MATT: "I have before, yeah."
+
+LAURA: Do you want to work in a bakery? Just
+kidding. We were in the middle of something; we'll
+
+talk to you later!
+
+(laughter)
+
+LAURA: Wait, does Trinket smell anything having to
+do with-- can he smell a different smell? Can he
+
+smell the evil Hilda?
+
+MATT: Make a perception check with advantage for
+Trinket.
+
+LIAM: That's good. That's also pretty good.
+
+LAURA: Perception? That is 24!
+
+MATT: Okay, Trinket goes, (sniffing, grunting) and
+picks up what appears to be some sort of a scent.
+
+LAURA: Yeah! Where did it go?
+
+MATT: Not really a bloodhound-style scent, but a
+decent scent. Guiding him around over the next
+
+hour or so, and trying to go in the areas you know
+he might have been, the last strong scent is in
+
+Taryon's room, and there's no trail from there.
+
+LAURA: Motherfucker. This is terrible. I feel like
+we did this to him.
+
+TALIESIN: We're going to get him back. Now.
+
+LAURA: He's just so vulnerable.
+
+TALIESIN: Right. Do I have enough of an angle on
+the sun now, where this should be doable?
+
+MATT: To?
+
+TALIESIN: Figure out which way is north, south,
+east, and west if I try and scry on Tary?
+
+MATT: Sure. Yeah, you gauge the sun in the sky.
+
+TALIESIN: All right. Kiki, let's do this.
+
+MARISHA: Am I helping you? Are we doing this
+together?
+
+TALIESIN: Well, you're giving me the orb, since
+you have the orb.
+
+MARISHA: I'm giving you the orb.
+
+TALIESIN: And I'm going to give it back to you
+when I'm done.
+
+MARISHA: Yeah, I feel like you did this before.
+
+TALIESIN: I did.
+
+MARISHA: Successfully.
+
+TALIESIN: Yes.
+
+MARISHA: I underestimated you. Do you need my
+help?
+
+TALIESIN: Sure.
+
+MARISHA: Okay!
+
+MATT: All right.
+
+TALIESIN: I'm going to try and glean as much
+information about the nature of the landscape
+
+around the person that I'm focusing on as humanly
+possible.
+
+MATT: Okay.
+
+MARISHA: And I'm going to try and figure out a
+discerned direction?
+
+TALIESIN: Help with type of plants, whether or not
+it's getting south, east, west. Not north. Most
+
+probably south.
+
+MATT: Okay. So, before you do that. You take the
+orb and sit down and concentrate, and Keyleth aids
+
+you in setting up this small ritual. As you close your eyes
+and focus on Taryon once more, your vision shifts
+
+and seem to be jettisoned across hundreds of miles
+within a second. No direction at the moment; it's
+
+too much of a blur of color and light and movement
+until it comes to a halt, and there you see
+
+Taryon, somewhat jostled by the spell kicking in
+and the momentum, you see him thrown over what
+
+appears to be the back of a horse, just
+(hoofbeats).
+
+TALIESIN: Which way is the shadow of the horse?
+
+MATT: Taryon, you come to consciousness ever so
+slightly, and looking down, you see hooves
+
+clattering on the ground behind you. You glance
+around. Percival, I want you to go ahead and make
+
+a nature check.
+
+LAURA: Come on! They're going to Wildmount.
+
+TALIESIN: This is not my strong suit. That'll do,
+though! 22.
+
+MATT: 22. The skies here grow gray with clouds as
+the mountain spire-peppered landscape is broken up
+
+by far-reaching forests and river-traced glades.
+The air appears cold, as the winter here seems to
+
+cling to the countryside for a majority of the
+year, a mixture of gloom and beauty as unique as it is
+
+impressive. That's about as much as you can glean
+from this standpoint. It's very blurred on the
+
+outskirts. It seems similar to a harsher
+Whitestone landscape. This is definitely further
+
+east. Looking at placement of the sun in the sky,
+it's further to the west.
+
+TALIESIN: They've gone east. They're still on the
+northern end of the continent, if they're on the
+
+continent at all.
+
+MATT: No, any further north from here and they'd
+be in the water. For the time they've traveled,
+
+they're east on Wildmount somewhere, you can
+gather.
+
+TALIESIN: East on Wildmount. Is there any other
+sign? Can I see a tree?
+
+MATT: Unfortunately, the scrying location, the
+actual orb that you see from is very limited in
+
+scope. The fact that you're able to even make out
+the details that I told you are because you're
+
+seeing color and images and shapes in the
+distance. You get a vague idea of landscape, but
+
+it's all very blurred.
+
+TALIESIN: Is it giving me any sense of anywhere
+I've been before?
+
+MATT: You have not really traveled length and
+breadth of anywhere outside of Tal'Dorei, so no.
+
+What you do see, though, is on the front of the
+horse, you see the same cloaked figure riding the
+
+horse. Glances back over the shoulder and you can
+see what appears to be a pale-skinned human woman,
+
+looks in her twenties or so, but same outfit. And
+looks back and checks on him. He's stirring a
+
+little bit, and she glances back and goes, "Be
+patient. We're almost there." (hoofbeats)
+
+TALIESIN: That'll do.
+
+MARISHA: Am I with him in the vision?
+
+MATT: No, you're watching him as his eyes glaze
+over for a moment.
+
+TALIESIN: Well, that'll do.
+
+LAURA: Where is he?
+
+TALIESIN: They're taking him home.
+
+LAURA: Well, yes, we knew that!
+
+TALIESIN: They're on horseback. They're already
+quite far... I don't know precisely where they
+
+are, but if we can make our way to--
+
+LAURA: Wildmount.
+
+LIAM: Yeah. What's our fastest method there?
+
+TALIESIN: They're going by horse. They'll probably
+be there sooner rather than later,
+
+would be my guess.
+
+LAURA: You don't know where any trees are in
+Wildmount?
+
+MARISHA: The closest tree that we've ever been to
+was the one we used to get to Draconia, but I
+
+don't know how close Draconia is to him. I can try
+and scry on where they are and look and see for
+
+the biggest tree myself and pop out right there.
+
+TALIESIN: Well, the city that Tary's from--
+
+MATT: Deastok.
+
+TALIESIN: It would be best to go there and cut
+them off. We know that they're coming from the
+
+west. There's got to be a way to get there.
+
+MARISHA: Can I scry on Deastok?
+
+MATT: You can only scry on locations that you've
+seen or been to.
+
+MARISHA: And people that I have connections to.
+
+MATT: People you can scry on with certain levels
+of knowing them or hearing about them and such.
+
+TALIESIN: How far is it?
+
+MATT: I'll double-check real fast because I don't
+want to get a lot of anger on the internet.
+
+Instead of targeting a creature, you can choose a
+location you have seen before
+
+as the target of the spell.
+
+MARISHA: Instead of choosing a creature. But I
+could try and scry on Tary again
+
+and get a nearby tree?
+
+MATT: It's only a ten-foot radius to see anything
+clearly around the center, so you'd have to be
+
+pretty close to a tree for you to make it out
+enough.
+
+MARISHA: Do we have any images or any books here
+on Deastok that I can look at and then try and
+
+scry on, and then after I have the knowledge?
+
+LAURA: Doty's book? He might have written some
+things about it.
+
+LIAM: Gilmore's been many places. He might have
+something from there.
+
+TALIESIN: How far away is it? How far away is the
+city from us? How many days on horseback?
+
+MATT: Let's see. From Whitestone directly, it
+would be probably about-- you can't cross the
+
+channel on horseback, but if you were to start at
+the other side of the Shearing Channel on
+
+horseback and ride, let's say 12 hours a day, you
+could probably get there in about four days. Three
+
+to four days.
+
+TALIESIN: So if we misted...
+
+MARISHA: It still wouldn't be enough time.
+
+LAURA: No, just bamf there.
+
+MARISHA: We have to bamf there.
+
+LIAM: Two days. Go to Emon, talk to Shaun. He's
+been everywhere.
+
+LAURA: Scry on her again!
+
+TALIESIN: Draconia. How close would Draconia be to
+this?
+
+MARISHA: Yeah, do we know how close Draconia is?
+
+MATT: The Dremoth Ravine, with the remains of
+Draconia, would probably be about 150, 200 miles
+
+from it.
+
+TALIESIN: That's not bad. We could misty from
+Draconia.
+
+MARISHA: Yes, we could.
+
+LAURA: Sure.
+
+TALIESIN: But you can't Tree Stride today, can
+you?
+
+LAURA: Oh, you already used it on Allura.
+
+MARISHA: Is that the same day? I thought we
+slept.
+
+TALIESIN: No, that was the same day.
+
+MATT: Well, you used it once today. You had a full
+night's sleep, got all your spells back, and then
+
+you sent Allura off once today.
+
+LAURA: So we have two.
+
+MARISHA: So that was today. I could do it again,
+and then I can Misty Step us, and then I would be
+
+out of my 6th, 7th, and 8th-level spells. I would
+be burning higher spell slots to get us there, but
+
+I could do it.
+
+TALIESIN: We could be there-- We could be there in
+hours, if need be.
+
+LAURA: Let's do it!
+
+MARISHA: You have no books here on Deastok? None
+in Whitestone?
+
+LAURA: Let's look in the Doty book real fast.
+
+MARISHA: Yeah.
+
+MATT: Okay. There's a lot of writing in here.
+
+LAURA: Towards the beginning.
+
+MATT: Towards the beginning, it talks about
+Deastok. It talks about the frustrations of the
+
+small-town life and the open world around and all
+the adventures they're seeking there. It's not
+
+written to show any detail or interest about the
+city where he grew up.
+
+MARISHA: (groans) All right, to Draconia! Let's
+go!
+
+TALIESIN: Gear up, everyone.
+
+MARISHA: Everyone, the Uber will be here in five
+minutes.
+
+MATT: All right, you guys gather your materials,
+make your way to the Sun Tree, and Keyleth, you
+
+open Transport Via Plants to the exterior of the
+Dremoth Ravine in the ruins of Draconia. And
+
+that's where we'll take a break!
+
+LAURA: Why can't anybody be nice?
+
+TALIESIN: She was nice! She was tied up by a bad
+person! She was tied up by some elfy Boba Fett.
+
+She was fine.
+
+MATT: Well, if you're really frustrated with how
+untrustworthy this NPC is,
+
+you can thank chat for it!
+
+ASHLEY: Thank the chat?
+
+LAURA: The chat did this to us?
+
+SAM: Fuck you, chat!
+
+LAURA: You turned our own bakery against us! You!
+
+ASHLEY: They know.
+
+TALIESIN: To be fair, carbs are never really your
+friend, are they?
+
+TRAVIS: They are in workouts!
+
+MATT: All right. We're going to take a quick
+break. Before we go, guys, we have the giveaway
+
+for this. This looks to be a Katalox dice tray
+here, which is pretty awesome, with a leather
+
+interior from our good friends at Wyrmwood. We're
+going to go ahead and, because I feel like I have
+
+to, the code for this contest in the Twitch chat
+is Samsshirt, one word, with two mid-s's.
+
+S-A-M-S-S-H-I-R-T. Sam's shirt.
+
+TALIESIN: Sam's shirt.
+
+MATT: So find your way over to the Twitch chat,
+put that in there for the chance to win this
+
+awesome giveaway! All right, guys. We'll see you
+in a few minutes!
+
+[break]
+
+MATT: Hey guys, welcome back to Critical Role. We
+have our winner in the chat. Tonight's winner is
+
+FormaldehydeG. You win. Denova will contact you
+via a whisper to get your contact and shipping
+
+information, and you will get your awesome prize
+of your Wyrmwood box.
+
+LAURA: (mocking) Prize.
+
+MATT: (Christopher Walken voice) Prize.
+
+LIAM: Don't do it.
+
+MATT: Oh god, I did it. I'm sorry. It's my fault.
+Right. So, jumping back into the game. You guys
+
+have learned of the current whereabouts of Taryon
+Darrington. Proceeding in the direction of which
+
+he is getting transported. Which, let's go ahead
+and take a moment here, actually. Taryon, as
+
+you've come to consciousness on the back of this
+horse and you hear this woman, cloaked and riding
+
+in front of you, tell you, "We're almost there,"
+and then (hoofbeats). You're hopping around on the
+
+back, bound. You try and move your arms and legs, and
+they're tied tightly.
+
+SAM: Doty! Doty. I'm having a dream again. Doty?
+Oh boy. Ugh. Hello? You there, driver person!
+
+Hello?
+
+MATT: The head looks back over. "Oh! You've
+awakened. Isn't that very interesting?"
+
+SAM: What's going on? Where are you taking me?
+Have I won a lottery of some sort?
+
+MATT: "You could say that, perhaps. Yes. I have a
+contract to bring you back to Deastok, and I am
+
+"fulfilling that contract."
+
+SAM: Oh no. Did my father pay you to do this?
+
+MATT: "Howaardt Darrington? Because if so, yes."
+
+SAM: He is.
+
+MATT: "Then that is where you are going."
+
+SAM: I will pay you whatever he has promised you,
+double, if you let me go right now.
+
+MATT: She shakes her head for a second. "I've
+looked through your belongings. You do not have
+
+"the money you speak of."
+
+SAM: I will write you a check and I will guarantee
+it with the name Taryon Darrington.
+
+MATT: She laughs and turns back and focuses more
+on the horse riding.
+
+SAM: Damn it. (sighs) Money is so good. Not when
+you don't have it. I have armor. I have jewels
+
+that are worth a lot. Please, you don't want to do
+this. Please.
+
+Just let it go and no one will get hurt.
+
+MATT: She turns back over her shoulder. "The money
+is one thing. But another is one's reputation.
+
+"When I take a contract, I fulfill it. I have not
+failed. I will not fail. So you are going home.
+
+"My apologies." (hoofbeats) And goes right back.
+
+SAM: I respect her so much. (sighs)
+
+TRAVIS: (mouthing) What's her name?
+
+SAM: I don't ask people names, friend. (laughs)
+
+MATT: All right. So what are the rest of you guys
+doing?
+
+LAURA: Running around like crazy people.
+
+MARISHA: We bamfed through the tree, right?
+
+MATT: Right. Yep. So you gathered your elements
+and you transport through one of the trees that
+
+you created on the outside of the Dremoth Ravine.
+
+MARISHA: That's right. We grew them a forest.
+
+MATT: You did.
+
+MARISHA: Oh my god. That's right.
+
+LIAM: The last time we came here, we came flying
+out of a tree on an angle.
+
+MATT: On an angle, yeah. You do not come through
+that same tree.
+
+MARISHA: Off the edge of a cliff. (laughs
+nervously) It's a theme.
+
+MATT: Sorry.
+
+LAURA: All right, so which way is Wildmount?
+
+TALIESIN: Northeast?
+
+MATT: From this area, it would be northeast, yes.
+
+LAURA: Let's go.
+
+TALIESIN: So I say we head north first. Find the
+main road.
+
+MATT: You're on Wildmount the continent, but
+you're heading more towards the city of Deastok,
+
+which is on the outskirts of the Dwendalian
+Empire.
+
+TALIESIN: We did know that they were on a road
+headed west. Heading east. Which means if we head
+
+north and then the minute that we hit that main
+road start heading in that direction, we might
+
+even pass them on the way and be able to identify
+a horse.
+
+LAURA: Especially if we're in like fart form.
+
+MATT: All right, so you guys are going into your
+Wind Walk form?
+
+LIAM: Before we do. Percy, do you know anything
+about this country we're in? Anything?
+
+MATT: Make a history check.
+
+TALIESIN: Not really my area of expertise, but 22.
+History check, correct?
+
+MATT: Yes.
+
+TALIESIN: 22.
+
+MATT: This area of Wildmount known as Wynandir is
+divided into two different kingdoms, essentially.
+
+This one you're going towards is called the
+Dwendalian Empire. This is the strongest and the
+
+most functional empire this side of Exandria. It
+is a tyranny. There is a king, and the law is
+
+ruled absolutely through this king. It is a
+functional economy. Its people aren't mistreated,
+
+from what you've read, though it is-- I want to
+say, it's very Prussian. People work, people live,
+
+people die.
+
+LAURA: Harsh?
+
+MATT: It's a harsh environment. It's a colder
+environment. Whereas the center of Tal'Dorei is a
+
+lot of fields and rolling hills across the
+midsection framed by mountains, across Wildmount,
+
+it is a smattering of mountain ranges and spires
+throughout, and chunks of forest. It is a much
+
+harsher environment, as far as the topography and
+the biomes than Tal'Dorei, and as such, the
+
+pockets where people do live, they live as well as
+they can amongst a very oppressive environment.
+
+TALIESIN: What's the name of the city, one more
+time?
+
+MATT: Deastok.
+
+MARISHA: Oh, this is Deastok. Okay.
+
+TALIESIN: Deastok. So it's a bit Prussian?
+
+MATT: Yeah.
+
+TALIESIN: Okay. That will do. So don't expect a
+lot of hospitality, and let's just have our
+
+business, get it done, and get out.
+
+LIAM: Also, we can't talk when we're farts, so
+when we get there, what's the plan, plan man?
+
+TALIESIN: We're going to fly up until we see the
+main road. We see the main road, we're going to
+
+take it towards the city. We're going to stay a
+bit high. If anyone spots a lone horse and a rider
+
+with a human-sized package on the back, we're
+going to do a little spin-around, spin-around,
+
+spin-around, and we're all going to park ourselves
+maybe a quarter of a mile up the road.
+
+ASHLEY: I like that idea.
+
+LIAM: What happens if we don't see the person on
+the horse? What happens? We just land right
+
+outside the gates and ring the bell?
+
+TALIESIN: We land inside the gates.
+
+LIAM: Okay, but that seems a little dicey if we
+want to work out what we're going to do. We're
+
+just going to appear and say howdy?
+
+TALIESIN: From what I know of this city, it's not
+a locked city, is it?
+
+MATT: It's not a locked city. There are perimeter
+walls and there are gates that can close in case
+
+of times of war. You do know that there is a
+strong military presence in most cities and there
+
+are patrols that often make sure that peace is
+kept.
+
+TALIESIN: So we can walk in if we need to, but
+let's not make any waves unless we need to.
+
+MATT: It's a somewhat militaristic nation. It's
+to the point where you don't know, or at least
+
+have not heard, of any widespread abuses of power.
+At least, not on the outskirt cities. You don't
+
+know that much about the political structure
+there, other than the fact that it is a tyranny.
+
+But it has a strong standing military and they do
+exercise it in times of peace as a form of law
+
+enforcement.
+
+LIAM: You and Tary are thick as thieves, now. How
+plugged in is his dad?
+
+LAURA: Super. Right? I mean, he's not the most
+powerful guy, but he does well for himself. He
+
+runs an area.
+
+MATT: The way Taryon talks about his father is he
+is a land baron in Deastok. He owns a number of
+
+plots and homes and farms and collects taxes on
+them. His family has been doing this for at least
+
+a generation or two and has made quite a fortune
+off of it.
+
+LAURA: And his sister's name is?
+
+MATT: His sister's name is Maryanne.
+
+LAURA: Maryanne. That's creative. Okay. All
+right.
+
+LIAM: Yes, Maryanne Darrington.
+
+LAURA: And his mom is Mariya. (laughs) All right.
+
+TRAVIS: Mariya and Howaardt?
+
+LAURA: Mariya and Howaardt Darrington.
+
+MATT: Yes.
+
+LIAM: All right.
+
+LAURA: See, I know his mother's name!
+
+MATT: All right. Do you go ahead and accept
+Keyleth's Wind Walk? All right. With a moment of
+
+concentration, you all convert yourselves into
+plumes of smoke, mist. By the way, did you leave
+
+Doty behind or take Doty with you?
+
+MARISHA: We can't take him with us.
+
+MATT: Yeah. Okay, then. Doty is back in
+Whitestone.
+
+LAURA: I mean, yeah, he doesn't respond to us.
+
+MARISHA: I mean, we would have had to have had--
+
+TRAVIS: Just say no.
+
+MARISHA: No, we didn't.
+
+MATT: I was just reconfirming. All right, then.
+So, you guys convert to your--
+
+LAURA: I can't put him in the necklace! He won't
+go in the necklace! I tried before.
+
+He doesn't go.
+
+LIAM: Who are you talking to?
+
+MATT: You all coast in the shapes of mist into the
+moist, freezing air over the Dremoth Ravine and
+
+head northward. You guys move as a cluster of
+small plumes of moisture. As you look forward over
+
+the next-- 300 feet a round, at double speed--
+
+LAURA: Carry the three.
+
+MATT: Yeah.
+
+TALIESIN: Doing air math; it's great. Nothing
+quite like air math.
+
+MATT: Once again, this is twice in an episode
+where it's magical-fantasy-realm physics.
+
+Somewhere in the middle, you find a fun narrative.
+I'd say within probably an hour and a half to two
+
+hours of travel, because you guys are going pretty
+fast, you eventually come upon a very well-ridden
+
+and apparent pathway that goes from east to west.
+The topography does seem at least to be somewhat
+
+in line with what you saw the brief time that you
+scryed upon Taryon.
+
+TALIESIN: I'm just heading the direction--
+
+LAURA: That smoke plume definitely--
+
+ASHLEY: That smoke plume knows where it's going.
+
+TALIESIN: I can't hear you.
+
+MATT: So you guys all continue heading east.
+
+LAURA: Do we have normal mental thoughts when
+we're smoke plumes? Or do we just think in terms
+
+of (wind noises)?
+
+MATT: No, you think normally. You're still
+mentally you. You just can't talk. If you do talk,
+
+it comes out as (blows raspberry).
+
+LIAM: (blows raspberry)
+
+MATT: There you go.
+
+LAURA: What does it sound like if you laugh?
+
+LIAM and TALIESIN: (airy laughter)
+
+LAURA: Sorry. We're going.
+
+MATT: As you guys continue pushing east...
+
+TALIESIN: I'm going to be keeping an eye out for
+anybody on the road.
+
+LAURA: Ditto.
+
+MATT: Perception check from the two of you guys.
+
+TALIESIN: 12.
+
+LAURA: 22.
+
+MATT: Okay. You see what looks to be one small
+caravan, a series of carts that are heading west
+
+along the path. That's the only thing that you see
+at the moment. You, Vex, after a couple more hours
+
+of travel in an eastern direction you see what
+looks to be a big, thick forest. The forest itself
+
+is pretty dense in this area, and there are
+pockets where it's open and you get a little more
+
+of a green field. You've been traveling over a
+larger green field area, so you start hitting
+
+where the forest gets thicker and thicker. The
+pathway carves through this forest. Then a ways
+
+ahead, you see what appears to be a large hill
+that rises up, and then around the hill, the
+
+forest has been cleared and you can see what
+amounts to acres and acres and acres of farmland
+
+that circles almost like a disk around this large
+central hill. The top of the hill is cleared off,
+
+and there you can see what appears to be a
+metropolitan city. A large town, if you will. You
+
+can see what appear to be-- actually, no. You're
+not quite close enough. So that's what you see.
+
+You see this village on top of this cleared hill
+surrounded by farmland and then surrounded by
+
+forest and what appear to be some broken mountain
+ranges maybe a few miles out each direction.
+
+TALIESIN: I keep skirting around, looking for a
+lone horseman.
+
+MATT: Okay.
+
+LAURA: Can I fly down and see if I see any signs
+along the road?
+
+Any markers saying what city it is?
+
+MATT: Okay. You cruise down and begin riding a
+little closer to the surface. With your general,
+
+even passive perception, you do catch what appears
+to be-- there are a few splinter trails that seem
+
+to be the perimeter on the outside of where the
+forest leads inward and heads along the outskirts
+
+of the tree line. There you do see a sign. The
+arrow leads forward towards what is called the
+
+Siren Green Forest, and then eastward towards
+Deastok. You gather that the large town on this
+
+carved hilltop seems to be the town in question.
+
+LAURA: But nobody on horseback?
+
+MATT: You don't see anybody on horseback at the
+moment, no.
+
+TALIESIN: (hiccups)
+
+TRAVIS: (laughing) Is that the cloud hiccups?
+
+TALIESIN: I'm going to scout around a little
+closer to the ground and see if there's anybody.
+
+Maybe any of the paths off the main road where
+someone might be hiding and just run through the
+
+trees looking for anything. I'm searching around a
+little bit. I know we're close to the city, and
+
+I'm keeping an aerial view because we should be
+able to see an awful lot from high up.
+
+MATT: You do. You see hundreds of acres of
+farmland that surround this large hill. It's built
+
+all across the top of the hill then built along
+the front side of it. You can see a number of
+
+paths that zigzag down. Elements of it sprawl a
+bit into the farm, but the majority of the
+
+metropolis is on top of the hill itself, and then
+the farmland around it. You do see, as you get
+
+closer and skirt the sides, there are patrols. You
+see men on horseback with crossbows slung over the
+
+side that do perimeters. Some of them are weaving
+independently through the fields, keeping an eye
+
+on people who are in the process of harvesting.
+
+TALIESIN: No interest of getting anywhere near
+that.
+
+MATT: The rest of you guys continue heading east
+towards the town, or are you following?
+
+TALIESIN: I'm popping back on the road.
+
+MATT: Okay. Percival catches up to you guys.
+
+LAURA: At this point, I feel like our option is
+only to go towards the house, if we can find his
+
+family's keep.
+
+TRAVIS: Did we beat him here?
+
+LAURA: I don't know. There's no way to know.
+
+TALIESIN: We can land and have a conversation.
+
+LAURA: Yeah.
+
+MATT: Okay. So you guys (whoosh) make your way to
+the-- where do you want to land?
+
+LAURA: Maybe the edge of town, into the Siren Gate
+Forest.
+
+MATT: Okay. So you find the edge of the tree line
+before it opens up into the farmland surrounding
+
+the city. As you all take a moment to concentrate,
+your forms congeal once more into your physical
+
+selves and you are able to discuss as you prefer.
+
+LAURA: Well! Anybody see anything?
+
+ASHLEY: Is it possible she could've put some kind
+of covering over them?
+
+LAURA: Like we did with Whitestone or something?
+
+ASHLEY: Yeah.
+
+TALIESIN: Yes.
+
+LIAM: Many things are possible, though.
+
+MARISHA: Can we still see their tracks if we went
+back and looked? That would be a ranger question.
+
+LAURA: I mean, it's just horse tracks, but I can
+look. Horse tracks on a main road. Unless Tary is
+
+thinking and he's leaving something behind so that
+we can track him.
+
+TALIESIN: Tary, can you hear us?
+
+LAURA: Tary? Good idea, Percy!
+
+MATT: Nothing at the moment.
+
+LIAM: Have to be within 500 feet.
+
+MARISHA: I could try Commune With Nature, but it
+only extends for a few miles.
+
+LAURA: I'm going to cast Locate-- oh, should I do
+that? Should I waste it right now?
+
+MARISHA: How long does it last?
+
+LAURA: Ten minutes. I'm going to try. Wait, a
+thousand feet. That's not very far, compared to
+
+where the city is.
+
+TRAVIS: A few miles is better.
+
+MARISHA: Plus, that's a concentration spell. The
+mist form is my concentration spell, so we should
+
+be able to do both at once, correct? If we move
+quickly while she has her Locate Object on?
+
+MATT: Yeah.
+
+LAURA: Okay. Let's do that.
+
+TALIESIN: All right!
+
+LAURA: I'm going to try to locate his dangly
+earring.
+
+ASHLEY: Dangly bits.
+
+TALIESIN: His dangly bit.
+
+LAURA: His penis!
+
+ASHLEY, TRAVIS, and MARISHA: Penis!
+
+TALIESIN: His Tary.
+
+MARISHA: (giggling) His Tary!
+
+LIAM: Going down to Tary-town.
+
+SAM: Matt's doing something.
+
+LAURA: I know, it's something.
+
+MATT: Okay. I was making sure the Wind Walk
+wouldn't affect any concentrations.
+
+TRAVIS: He's doing trigonometry.
+
+TALIESIN: Squaring his hypotenuse.
+
+MATT: And you're attempting Locate Object on
+Taryon's earring, you said?
+
+LAURA: Yes.
+
+MATT: Okay.
+
+TALIESIN: His dangly bit.
+
+MATT: You focus and concentrate. It does not pick
+up within a thousand feet of you.
+
+LAURA: Okay. So we're going to misty form towards
+the city and see if we can...
+
+TALIESIN: Yeah.
+
+MATT: Okay. (whoosh) You all head back up into the
+sky, and you can see now the clouds in this
+
+vicinity are growing darker. It looks like it's
+probably going to rain
+
+in the next few hours or so.
+
+LAURA: Okay. So we're less noticeable?
+
+MATT: The temperature right now means it might
+even sleet; you're not sure. You make your way,
+
+coasting over the farmland. Looking down, you can
+see it's all segmented and all marked off with
+
+various colored fences. Everything is really
+well-organized here, and all the land has been
+
+divided. You eventually make your way towards the
+base of the hill and cruise up to the outskirts of
+
+the city, where you see the large stone walls that
+encircle elements of the outskirts, and you see
+
+where each one of these walls opens up to some
+sort of a pathway. There is a large metallic gate
+
+that is currently separated and lifted up in the
+back that can be slammed and closed and shut in
+
+case you need to keep anybody in or out.
+
+LAURA: Ping!
+
+MATT: You're getting no ping yet.
+
+LAURA: No pings? Okay.
+
+MATT: You guys are now over the wall now, these
+six plumes of mist coasting above.
+
+What do you do?
+
+MARISHA: Do we backtrack?
+
+LAURA: We're over his family's keep?
+
+MATT: You don't know what his family's keep looks
+like.
+
+MARISHA: But we're over the city.
+
+MATT: You're over the city right now, yeah.
+
+MARISHA: So we theoretically haven't intercepted
+them yet.
+
+MATT: No.
+
+TALIESIN: I'm going to try and motion everyone to
+follow me in a circle around the city and then
+
+back out the front gate.
+
+LAURA: Okay.
+
+MATT: Okay. You move pretty fast. It's a big
+radius to go around the entire wall perimeter of
+
+the city. At your full speed, I'd say you can do a
+full pass in about 15 minutes or so. That's a
+
+careful cruising through. Nothing seems to ping.
+
+LAURA: I think we beat him. Maybe we beat him.
+
+SAM: Oh Matt, I forgot to tell you. When I left
+home, I left a large eternal flame burning on my
+
+keep's roof. Is that okay?
+
+MATT: Oh, right! Good to clarify! No. All right.
+So.
+
+TALIESIN: I don't know. Maybe we beat her. I'm
+going to try and motion everyone--
+
+LAURA: Back out to the fucking woods?
+
+TALIESIN: Just a little. Not far.
+
+MATT: Back out to the woods? Okay.
+
+TALIESIN: Back onto the road. And off the road so
+that we're not super visible.
+
+MATT: So you're heading back over the farmland,
+back to the outskirts of the Siren Gate Forest
+
+into the tree line?
+
+TALIESIN: About an hour's walk to the city is
+where I want to put us.
+
+LIAM: To where we can see the city and see the
+road coming to it.
+
+MATT: All right, cool. So you guys find your way
+there. You wait for a moment to make sure the
+
+patrols aren't anywhere nearby, and you turn back
+into your physical selves.
+
+TALIESIN: Well, we've either beat them here or
+she's really clever.
+
+LAURA: Or she took off all of his clothing and
+he's riding around naked.
+
+MARISHA: But she would still theoretically have
+his clothing. It would still exist.
+
+LAURA: Yeah, hopefully.
+
+LIAM: What do you think, you think we should camp
+out here for a while and keep an eye on the road
+
+for a day or two? See if we can intercept? And if
+they never show up, then we need to figure out
+
+going into the city.
+
+TALIESIN: Do we have a way of scrying one more
+time before the day is up?
+
+MARISHA: I do!
+
+LAURA: Okay, then let's scry one more time and see
+if we beat them.
+
+MARISHA: I can do one of two things. I can either
+scry on them, or I can do a
+
+Commune With Nature spell.
+
+LAURA: Scry!
+
+MARISHA: All right. Scry!
+
+MATT: All right. Your vision shifts once more to
+Taryon, who uncomfortably, like "Ow, ow, ow" on
+
+the back of this horse a little bit, and as you
+start audibly making a pained sound, a hand grabs
+
+the back of where the ropes are entwined and
+shifts you in the back of the seat to be a little
+
+more comfortable.
+
+SAM: Oh, thank you!
+
+MATT: No response from her. Still riding on the back
+of the horse. It's getting darker now, and you can
+
+see the clouds are still a little pushing towards
+that stormy look that you saw when you were in the
+
+city. So they're still on the road. They're still
+traveling.
+
+TALIESIN: But it's the road that we've...
+
+MATT: Seems familiar.
+
+MARISHA: Is the sun in the same direction that
+we're heading?
+
+MATT: Yes. The sun's more westward at this point.
+
+MARISHA: Okay.
+
+TALIESIN: So we could, in theory, mist low to the
+ground on this road in that direction, and in
+
+theory catch up with them.
+
+MARISHA: And he's conscious. Which is good. He's
+still alive.
+
+LAURA: And he has his clothing on.
+
+MARISHA: Yeah!
+
+LAURA: Good. That's good.
+
+MARISHA: We won't see his dangling bits.
+
+TALIESIN: Just the one.
+
+MARISHA: Just the one.
+
+ASHLEY: Should we mist that way?
+
+TALIESIN: I say we mist that way.
+
+LIAM: And intercept him.
+
+ASHLEY: I like that idea.
+
+LAURA: Yeah, let's intercept them.
+
+MATT: Okay. So you guys go back into mist form
+(whoosh) and begin coasting westward along the
+
+path. You travel for about ten minutes before Vex
+and Vax, you pick up what looks to be a small dark
+
+shape on the road.
+
+LIAM and LAURA: (whoosh)
+
+MATT: Okay, so what do you do?
+
+LAURA: We're trying to signal everyone!
+
+LIAM: Is there forest on the sides of the road
+from where we are?
+
+MATT: No, you traveled away from the forest now.
+You're in open fields.
+
+LIAM: So open fields and roads. Shite. Okay.
+
+LAURA: Oh! But wait! Turn back into-- wait--
+
+MATT: You can't talk.
+
+LAURA: I turn back into a thing!
+
+MATT: So you go and land. Vex lands and takes a
+minute to concentrate and
+
+go back to her physical form.
+
+LAURA: They're up ahead! Maybe we should just bamf
+here, be solid. I can disguise the landscape and
+
+we can ambush her!
+
+TALIESIN: All right.
+
+LAURA: So I do that.
+
+TRAVIS: Should we set a fallback?
+
+MARISHA: You guys, does this make us highway
+bandits? Are we highway bandits?
+
+LAURA: As she's saying that, I start using--
+
+MATT: You have about a minute until she gets to
+you right now, by the way. You're able to see the
+
+horse traveling a little above the road, so
+they're almost upon you.
+
+LAURA: Oh god. What do we do? She knows all of
+us.
+
+TALIESIN: I'm going to start making my way a
+decent distance and running a little bit off the
+
+road, I'm going to try and find some cover and get
+ready to injure a horse.
+
+LAURA: Who wants to stand in the middle of the
+road?
+
+LIAM: And what's on the sides of the road? Is it
+tall grass, bald?
+
+MATT: It's maybe knee-high grass with sections of
+bald. The landscape here, outside of the farmland
+
+and the forest that you can see, looks a little
+hard and badlands-ish. Scrubland.
+
+TRAVIS: I'm going to go 200, 300 yards back
+towards the city, just in case
+
+they manage to get through.
+
+MATT: Okay. So you're getting down, you're doing
+that...
+
+LIAM: I'm going to get into some grass, as close
+to the road as I can.
+
+LAURA: I bamf Trinket out! And we get in the grass
+and stealth.
+
+MATT: Okay. Roll a stealth check. Disadvantage for
+Trinket.
+
+LAURA: I cast Pass Without a Trace!
+
+MARISHA: Oh, cool.
+
+LAURA: Natural 20!
+
+MATT: Nice. And for Trinket, with disadvantage
+because he's a big bear.
+
+LIAM: Oh that's a good one.
+
+LAURA: Oh, he got a 19, which is a crit for him!
+That sucks. 19!
+
+MATT: Well, it's not a crit. That's only on
+attacks.
+
+LAURA: Oh. Well, still.
+
+ASHLEY: It's a critical stealth!
+
+MATT: All righty.
+
+LAURA: Plus ten!
+
+MARISHA: Oh wait, did you want someone in the
+middle of the road?
+
+ASHLEY: I'll stand in the middle of the road.
+
+TRAVIS: Unassuming.
+
+MARISHA: Unassuming, okay. I'm going to go into
+crow form. (caws)
+
+ASHLEY: Maybe I can act like I'm an old woman
+trying to cross the road.
+
+MATT: So you go into crow form.
+
+MARISHA: I'm going to aid to her bird lady
+aesthetic.
+
+MATT: Stealth roll, Percy?
+
+TALIESIN: Stealth roll?
+
+MATT: And stealth roll for you, too, Vax.
+
+LIAM: 37.
+
+TRAVIS: Do drows have magic sight or anything?
+
+LAURA: I don't know!
+
+LIAM: It's a reliable talent, in fact.
+
+TALIESIN: Stealth roll is-- oh that's not bad.
+21.
+
+LAURA: Plus ten!
+
+TALIESIN: Plus ten. 31!
+
+MATT: Okay. Grog's a ways back.
+
+TRAVIS: Not stealthing.
+
+TALIESIN: And I'm getting down. I'm preparing for
+the shot.
+
+LAURA: Ditto!
+
+ASHLEY: I'm going to pull up my cloak and slowly
+start crossing.
+
+TALIESIN: I'm also going to activate the secondary
+mechanism in the Diplomacy glove.
+
+MATT: Okay.
+
+MARISHA: I follow Pike and peck at her bread
+crumbs as she crosses the road.
+
+MATT: Okay! All right, so as this is happening,
+and this is a really fast rush over, rush over,
+
+get into places, and you watch as the horse has
+galloped (hoofbeats). You have Pike in the middle
+
+of the road, dressed the same in memory.
+
+TRAVIS: I have to pee. It's like hide and go seek.
+The waiting.
+
+MATT: And you watch as the horse (hoofbeats) goes
+off the path and begins to make a wide circle.
+
+LAURA: Motherfucker! She's going around us?
+
+MATT: Seemingly, yeah.
+
+ASHLEY: Excuse me! Ma'am?
+
+MATT: Full gallop burst.
+
+MARISHA: I take off in crow form.
+
+TALIESIN: I was actually going to-- the second she
+started to leave the road, I take a shot.
+
+MATT: At?
+
+TALIESIN: At the horse's legs.
+
+MATT: All right.
+
+LAURA: We'll heal it!
+
+MATT: Go ahead and make an attack with
+disadvantage.
+
+TALIESIN: Disadvantage?
+
+MATT: Because you're aiming specifically for the
+legs.
+
+TALIESIN: Can I burn a grit for it?
+
+MATT: Oh, you do technically have an actual--
+yeah, so you will not have disadvantage on this.
+
+TALIESIN: I'll burn a grit for this. This is worth
+a grit.
+
+LIAM: Horse killing is a feat you took, right?
+
+MARISHA: We're gods, remember?
+
+TRAVIS: Yeah. Remember that?
+
+TALIESIN: That's not great, but it's not bad. 20.
+
+MATT: 20 will hit. So what's the effect on that
+one, again?
+
+TALIESIN: That's a strength saving throw or
+prone.
+
+MATT: What's the DC?
+
+TALIESIN: 20.
+
+MATT: So you watch. No gunshot. Complete silence
+as you all begin to maneuver. You watch as the
+
+horse suddenly (neighs) and goes ass over tea
+kettle forward, jettisoning both Taryon and the
+
+rider from the horse into a neat roll. Since you
+have not moved, Tary, you make a full spill,
+
+skittering across the ground.
+
+SAM: (screams)
+
+MATT: You suffer ten points of bludgeoning
+damage.
+
+TRAVIS: What about the horse. Does he fall off?
+
+MATT: No, the horse is prone and still takes
+damage from the shot, so roll damage.
+
+TALIESIN: Oh, and also takes damage.
+
+MATT: Because you shot it with...
+
+TALIESIN: I did. I really shot it. It didn't have
+a good day. Do I have enough...
+
+LAURA: We'll heal it so good!
+
+TRAVIS: I'm going to eat it.
+
+TALIESIN: There's no horse left. Yeah, oh boy.
+That's 30 points of damage.
+
+MATT: 30 points of damage!
+
+LAURA: Is that a lot for a horse?
+
+TALIESIN: That's my maximum damage with a single
+unaffected shot.
+
+MATT: Yeah, as the horse skids over and hits the
+ground, it falls onto its side, and you watch its
+
+heavy breathing become still.
+
+LAURA and ASHLEY: No!
+
+TRAVIS: Dinner!
+
+TALIESIN: I'm keeping a second shot. The second I
+see her head, I am taking a
+
+head shot on this girl.
+
+MATT: Okay. Make a perception check because you
+were down in the grass.
+
+TALIESIN: Nope.
+
+SAM: I lift my head up. What's going on?
+
+MATT: You can't, because you are tied.
+
+TALIESIN: 11.
+
+MATT: No, you see nothing. What were you doing?
+
+LIAM: (whoosh)
+
+MATT: Okay, so you (whoosh) up in the air. Okay.
+
+LAURA: I'm brooming.
+
+MATT: You're brooming towards. All right, so she
+comes to a tumble. For this purpose, I'm going to
+
+have you two, since you're both pretty quick, roll
+initiative checks, please.
+
+LAURA: 26.
+
+LIAM: 24.
+
+MATT: Jesus. Okay. So. You both rush over and you
+watch as she tumbles and catches herself, skidding
+
+into the dirt. You can see bits where she's rubbed
+and gashed in the face. Pale skin, blonde hair,
+
+nowhere near the description that you were given
+by those who were trying to scry earlier, but
+
+catches herself and lands, reaches over and sees
+Taryon about three feet behind and immediately
+
+darts over, grabbing something from the satchel--
+
+LAURA: Can I shoot her with an arrow?
+
+MATT: It would've taken your movement to get to
+her, but you can move half as quickly and go for a
+
+shot if you want to.
+
+LAURA: I want to try to go for a shot.
+
+LIAM: How close are we, right in this second?
+
+MATT: Well, you're going to close the distance
+because you're apparently a bullet. Learn to
+
+balance your magical items, people!
+
+LIAM: Or not.
+
+MATT: Or not.
+
+LAURA: Or let your players spread them out and not
+keep them all for themselves.
+
+MATT: Exactly, yeah.
+
+LIAM: Salt, salt.
+
+MATT: It's all good. So you'll be able to get your
+shots off about the time that you get there.
+
+LAURA: Salty. Oh no.
+
+LIAM: You got a four because of all that salt.
+
+LAURA: Yeah, I know. That was 19.
+
+MATT: That hits.
+
+LAURA: The first, and then more than that on the
+second.
+
+MATT: Okay, so both hit. Go ahead and roll
+damage.
+
+LAURA: Oh, is it too late to say I want one to be
+a bramble shot?
+
+MATT: You can bramble shot, sure.
+
+LAURA: Yeah! Okay!
+
+MATT: You decide a bramble shot as you hit.
+
+LAURA: Oh, sweet! DC of 17.
+
+MATT: DC of 17? Not with an eight.
+
+LAURA: She's restrained!
+
+MATT: She's restrained.
+
+TRAVIS: Nice. That's huge.
+
+LAURA: 12, 13.
+
+SAM: Pretty calm fight music, Matt.
+
+MATT: The volume is really low on that speaker. My
+apologies.
+
+LAURA: 13 plus eight is 21.
+
+MATT: There we go.
+
+LAURA: 21 plus eight is 29, plus 1d6 lightning
+damage. 29 plus six is 35! 35 on the first shot.
+
+MATT: All righty.
+
+LAURA: And then 16. 24 on the second, and I was
+wrong, add two more to the first shot because I
+
+forgot I was using my bracers.
+
+MATT: Okay, so 37, got it. So you (flying arrows)
+and fire both off as your broom is coasting inward
+
+from an arc and the first arrow catches her in the
+knee and she (yelps) and is still reaching for
+
+Taryon. However, as the arrow smashes into her, it
+bursts into a series of thorny vines that (whoosh)
+
+wrap around and ensnare her and she falls over,
+now bound like Taryon is for the moment. Falls on
+
+the ground. Whatever was in her hand stumbles
+forward.
+
+LAURA and TRAVIS: Yeah!
+
+MATT: And she's like (grunts) reaching out just as
+the second arrow hits her in the back and (groans)
+
+gives out a yelp in pain. Vax.
+
+LIAM: What distance am I right now, would you
+say?
+
+MATT: You almost closed the distance with your
+movement.
+
+TRAVIS: Get in there, Barry Allen.
+
+LIAM: Okay, but am I within 50 feet? 60 feet?
+
+MATT: You're within 60 feet.
+
+LIAM: 60 feet? All right, so I'm going to throw
+Whisper at her, and she's brambled.
+
+MATT: She's restrained; you have advantage.
+
+LIAM: Right. Yeah, that hits. That's a 32. I'm
+going to bamf there on this one, right up to her.
+
+That is four plus eight is 12, plus this guy makes
+it 19, plus these guys. Now we do some more math.
+
+20, 26, 27, 31, 34, 39, 42. With Whisper, right
+into her back, and then click the Boots of Haste
+
+and then I'm going to scuttle to Tary and cut
+ropes. He's probably within ten feet, right?
+
+MATT: Yeah, he's like five feet from her.
+
+LIAM: All right, so I'm cutting him totally loose
+and I'm going to lift him away. Whatever you'll
+
+let me do. Action, action, bonus action, right,
+and movement to get there.
+
+MATT: Well, no. Your movement was to get there,
+your action was to attack her, and so you have
+
+your bonus action, still.
+
+LIAM: Then I'll use it to cut him loose.
+
+MATT: Okay, you begin to cut him loose. Because
+there's a lot of ropes around him, there's not a
+
+single binding.
+
+LIAM: Okay. Good enough.
+
+MATT: All right, so now it's her turn. She's bound
+on the ground. Coughs up blood as she's suffered a
+
+severe amount of damage in just a few moments. As
+she's lying there on the ground, the vines
+
+twisting around her, she goes, "Wait. Wait.
+(sighs) Stop." And she's going to...
+
+what's the DC?
+
+LAURA: 17.
+
+MATT: 17. She does manage to break free from the
+restraints. She breaks free from the vines, and
+
+then she puts her hands up. That's her turn.
+
+LAURA: Can I land?
+
+MATT: Yeah. If anyone else wants to take any of
+their actions right now, we're technically not in
+
+initiative order. She's put her hands up.
+
+TALIESIN: I'm slowly making my way a little closer
+to the action, but I'm going to find a place where
+
+I can watch both sides of the road and also what's
+happening off the road right now.
+
+MATT: Okay.
+
+TRAVIS: I'm writing my name in the path with a
+stick.
+
+LAURA: I'm grabbing the thing that she was trying
+to grab.
+
+MARISHA: Same as Percy, but as a crow.
+
+TALIESIN: Actually, if you come-- well, that would
+be interesting, actually.
+
+MARISHA: (caws)
+
+MATT: What you find on the ground is a small
+marble, similar in size to the one that you saw
+
+attached to the side of Doty earlier, but it's a
+different color. The one that you saw earlier was
+
+a bluish tint, a light blue tint. This one appears
+clear.
+
+LAURA: Can I pick it up? I'll pocket that shit.
+
+MATT: Okay.
+
+SAM: Can I stand up yet? Am I still tied up?
+
+MATT: At the moment, as all of you begin to
+converge and close in on her, she just has her
+
+hands up at this point. I'd say for the next
+minute or so, you get cut free, yeah. You still
+
+have your armor on, you still have all your
+equipment that was on you. Yeah, she took
+
+everything with you. You're not robbed. You were
+just bound and taken.
+
+LIAM: You all right, T?
+
+SAM: I will, yeah. (panting) What took you people
+so long? I was on a horse
+
+for what felt like days!
+
+LIAM: Well, initially we thought you could handle
+it.
+
+SAM: No! You know me better than that!
+
+LAURA: We're here, aren't we?
+
+MATT: You do have a massive headache, by the way.
+It's pounding.
+
+SAM: Please tell me that someone brought my
+toothbrush.
+
+LAURA: Your breath smells disgusting right now.
+
+SAM: Please don't smell it. I'm very embarrassed.
+I went to sleep. I don't know what this is! I
+
+mean. She's taking me. She's paid by my father,
+probably.
+
+ASHLEY: What's your name?
+
+MATT: "K'ryyn."
+
+ALL: K'ryyn?
+
+SAM: And what, you work for my father? On a
+regular basis?
+
+MATT: "I was contracted by your father. This is
+the first time."
+
+LAURA: Just to find him? And bring him back?
+
+MATT: "That's what I do."
+
+LAURA: How much were you being paid? I want to
+know how much he's worth.
+
+LIAM: You're not really in a position of power
+here, darling.
+
+MATT: "Upon delivery, I was to be paid 5,000 gold
+pieces."
+
+SAM: Oh, that's nearly nothing. I'm worth far more
+than that.
+
+LAURA: You know his father has way more money than
+that.
+
+LIAM: You are rose gold.
+
+SAM: I am.
+
+LAURA: How long ago did he send you?
+
+MATT: "He sent me out on this job about two months
+back."
+
+LAURA: It took that long to find him? Does anyone
+in this town, Deastok, know about Whitestone? Know
+
+where you found him?
+
+MATT: "Not to my knowledge. I don't care about
+people in this town. I was called here to pick up
+
+"the contract, and I left."
+
+LAURA: What guild do you work for?
+
+MATT: "I work for no guild. I am a solo agent."
+
+SAM: So cool.
+
+LAURA: Can I insight check her?
+
+MATT: Go for it.
+
+LAURA: She's so cool. 17.
+
+MATT: 17? She's hard to read. By nature and by
+business, you get the sense, and at this point as
+
+you're looking at her, she sees you glaring and
+looking over her intensely, she (sighs) takes one
+
+hand up under her hood and presses her thumb to
+the side of what looks like a small circlet, and
+
+her image shimmers and you now see before you the
+drow elf that was described to you, wincing as the
+
+sun is still in the sky and you can see, while the
+illusion did not seem to give off that, she's
+
+physically not enjoying being under direct
+sunlight.
+
+LIAM: Bet you're glad for that cloud cover today,
+aren't you?
+
+MATT: "It's been helpful. That's why I prefer to
+do most of my work in Wildmount."
+
+LIAM: What should we do here?
+
+SAM: Well, we should bind her and search her. Make
+sure she's not holding any weapons or anything.
+
+TRAVIS: You were just supposed to bring Tary back
+to his dad?
+
+MATT: "That is all. Unharmed. I took great care to
+make sure he was not harmed. I have a business I
+
+"run based purely on reputation."
+
+SAM: I respect that, but I did get a bruise right
+here from the horse falling over, so I'm not
+
+totally okay.
+
+MATT: "That is, apparently, an issue for you to
+take up with your friends."
+
+TRAVIS: Tary, I thought you left your home. Or
+were you kicked out?
+
+SAM: I left.
+
+TRAVIS: Yeah?
+
+SAM: Yes. I left of my own accord.
+
+LAURA: Did you leave suddenly, without any word,
+or did they know you were leaving?
+
+SAM: They knew I was leaving.
+
+LIAM: And how do you want to play this? Because
+your pops wants you back, obviously.
+
+SAM: Well, this is just some paid shithead, so I
+don't think we should kill her
+
+or anything like that.
+
+LAURA: What happens if you don't deliver your
+quarry?
+
+MATT: "Then my contract is broken, I do not get
+paid, and it is a blight on future business."
+
+TRAVIS: Are you armed? Somebody remove her weapons
+so she can put her arms down.
+
+MATT: You pat her down? Yeah, she has two daggers,
+one placed in each boot, stealthily hidden. She
+
+has a shortbow that is over her chest and
+shoulder, and a side quiver of about 40 arrows.
+
+LAURA: Oh shit! These are good arrows.
+
+MATT: She goes, "Thank you."
+
+LAURA: Just noticed the good work, that's all.
+
+MATT: "I make them myself."
+
+LAURA: I show her one of my owlbear arrows.
+
+MATT: "Owlbear?"
+
+LAURA: I know.
+
+(laughter)
+
+LIAM: What do you want to do?
+
+SAM: I want to take her belongings and send her on
+her way.
+
+TRAVIS: You don't want to see her dead?
+
+SAM: That's a separate question, isn't it?
+
+TRAVIS: Yep.
+
+SAM: We're very close-- proximity, I mean. Seems
+foolish not to at least go have it out with him.
+
+This is unacceptable behavior, I think, in any
+relationship. This is not cool, right?
+
+LAURA: No, he should have offered way more money
+for you.
+
+SAM: Well, yes, there's that, too.
+
+TRAVIS: She did surrender. I'm just thinking,
+maybe we go in, she gets paid, she keeps her
+
+reputation, and then you can--
+
+SAM: You want her to get paid? She kidnapped me!
+
+ASHLEY: You should still make your dad pay,
+though!
+
+SAM: What?!
+
+ASHLEY: You could say, I would've come here--
+
+SAM: She committed a crime against me. I don't
+want her to get money!
+
+MATT: As you're having this conversation, she
+slowly puts her hands down.
+
+LIAM: I'm still watching.
+
+TRAVIS: And she surrendered, right?
+
+SAM: I'm sorry. I guess I was raised with a
+different appreciation for money, but Pike, your
+
+family came in and robbed us and you gave them a
+bunch of gold. Then this person kidnapped me, and
+
+you want to give her 5,000 gold.
+
+LAURA: Well, we don't want to give her 5,000 gold.
+We want your dad to have to give her 5,000 gold.
+
+ASHLEY: And if you show up with all of us and her,
+say you could've just called, I would've shown up,
+
+but you still have to pay her.
+
+SAM: You think he'll be guilted?
+
+ASHLEY: Well, I don't know. I don't know him.
+
+TALIESIN: I think it might be an easy way into the
+city.
+
+SAM: I live in the city. I'll just walk in!
+
+TRAVIS: Maybe she owes us one after this.
+
+SAM: It's my house!
+
+LAURA: Should we all be in disguise?
+
+LIAM: Are you sure you're cool to walk in right
+now?
+
+SAM: Yes! I'm Taryon fucking Darrington. People
+shake when they see me walking
+
+down the street here.
+
+ASHLEY: You know, she was able to find you. Maybe
+she could also find somebody else for us.
+
+TRAVIS: Yeah.
+
+SAM: Who?
+
+ASHLEY: A very good friend.
+
+LAURA: I think that's a wonderful idea.
+
+TRAVIS: Yeah. Maybe she owes us one. K'ryyn, would
+you like to owe us a favor if we let you live, and
+
+get you paid, and you keep your reputation all on
+the same day?
+
+MATT: "To be perfectly honest, this is an offer I
+very well cannot refuse, given the circumstances.
+
+"If you are serious."
+
+LAURA: We are. We want you to find someone.
+
+MATT: "Then find them, I will."
+
+SAM: I abstain! With an attitude!
+
+TRAVIS: Noted. All in favor of getting her paid,
+letting her live, and earning a favor?
+
+ASHLEY: Well, hold on, Tary. If you had it your
+way, what would you want?
+
+TRAVIS: What are you doing?
+
+ASHLEY: Majority rules, but let's hear what you
+have to say.
+
+SAM: I would like an apology.
+
+TALIESIN: I think that's fair.
+
+LAURA and ASHLEY: That's fair.
+
+MATT: Her eyes become these narrow slits and the
+jaw clenches. "I apologize for any discomfort or
+
+"embarrassment my retrieval of you may have caused."
+
+LAURA: That's a good apology.
+
+SAM: And as to the amount that was promised, do
+you think that was a fair amount?
+
+TRAVIS: Oh, this is a bit much.
+
+MATT: "It was my standard rate."
+
+SAM: I accept your apology. And as I said, I
+admire your diligence and faith to your contract.
+
+You don't get any of your belongings back! Is that
+all right?
+
+ALL: (negative noises)
+
+LAURA: She might need it.
+
+SAM: You don't get any of your magical belongings
+back! I want it.
+
+LAURA: Well, I want you to look at them. I want to
+know what it is.
+
+SAM: Yeah. But we'll, I guess, walk in together
+and you can present me to my father. This seems so
+
+stupid, but sure, I'll go along with it.
+
+LAURA: And then you'll help us out.
+
+MATT: "Very well. It seems we are at an accord."
+
+LIAM: I'm going to yank Vex aside, actually.
+
+LAURA: Well, I'm going to shake her hand before--
+shit.
+
+LIAM: Are you talking about what I think you are
+talking about?
+
+LAURA: Yeah!
+
+LIAM: You want to send her after your friend?
+
+LAURA: Our friend.
+
+LIAM: You think he wants a mercenary showing up in
+his life, looking for him? Think about it.
+
+LAURA: He could be dead.
+
+LIAM: He's doing what he wants to do.
+
+ASHLEY: Did I overhear them?
+
+MATT: Make a perception check.
+
+ASHLEY: 16.
+
+MATT: How quiet were you guys being?
+
+TALIESIN: Pretty quiet.
+
+MATT: You glean elements of the conversation.
+
+LIAM: I wasn't trying to hide it.
+
+MATT: Yeah, you get the gist of what they were
+talking about.
+
+ASHLEY: Okay. She doesn't have to bring him or
+anything, it could be just looking, bring us
+
+information if she sees him.
+
+TRAVIS: Like a two-day report.
+
+ASHLEY: We don't have to! We don't have to do it,
+but I do like the idea of this woman-- this woman
+
+had a job to do. It's not her fault. I'm sorry,
+Tary, but I do feel like we need to let her
+
+complete her mission.
+
+TALIESIN: It's a bit her fault.
+
+SAM: Fine. And then we can send her to look after
+that little creep that you're always talking
+
+about.
+
+LIAM: When you were in Vasselheim--
+
+LAURA: It was a cube, Tary. Like a cube.
+
+SAM: That's gross. That's disgusting.
+
+LIAM: How would you feel if you learned that we'd
+sent someone to watch you? He left. He wanted to
+
+go. He wanted to be away from us.
+
+ASHLEY: I know.
+
+LIAM: If he wants to come back, I want him back.
+
+ASHLEY: I know, but I feel like he should've come
+back already.
+
+LAURA: What if he's dead?
+
+ASHLEY: What if he's dead?
+
+LIAM: What if he's being a father to his child?
+What if he's enjoying his life?
+
+TRAVIS: Boring.
+
+ASHLEY: If that's the case, then maybe she can
+tell us that and then we'll leave it alone. But
+
+what if he's dead?
+
+TALIESIN: Why doesn't she just owe us one favor to
+be claimed later?
+
+ASHLEY: Yes, I like that idea.
+
+MARISHA: I fly down to Pike's shoulder and I go,
+(caws).
+
+LAURA: Yeah, I know, right?
+
+ASHLEY: See, she thinks-- I like that idea. She
+owes us a favor at some point.
+
+TRAVIS: But I want to find Scanlan!
+
+ASHLEY: Maybe we should table it.
+
+SAM: Yeah, let's go talk to my dad and get this
+settled, and then we'll figure out your next
+
+assignment or whatever.
+
+LAURA: You'll hang out, though? You're not going
+to disappear?
+
+MATT: "I have business still to make, and you have
+been merciful, so I will remain."
+
+MARISHA: I fly over to Percy's shoulder and I go,
+(caws).
+
+TALIESIN: I am Groot.
+
+MATT: "Very well. Into the city, then?"
+
+SAM: Yes.
+
+MATT: She looks back at her horse. "I assume we'll
+be walking. Very well." And her image shimmers
+
+once more to the pale-skinned blonde woman in the
+same outfit, and you all walk along with her
+
+through the forest, down the path, through the
+farm fields, making your way to the outskirts of
+
+Deastok. As you are making your way up the
+hillside path, one of the patrol guards comes down
+
+on horseback, crossbow slung over his shoulder and
+his hand on the side of his sword as he glances
+
+down and goes, "Hail, you there!" And as soon as
+he glances over the group of you.
+
+"Mister Darrington, welcome home."
+
+SAM: Thank you. These are my friends. They should
+be treated with respect.
+
+MATT: "Of course. Good day."
+
+TRAVIS and TALIESIN: Bidet.
+
+MATT: He continues clomping by, (hoofbeats),
+making his way down the rest of his patrol.
+
+TALIESIN: It's going to be a dark window, isn't
+it? This entire trip.
+
+SAM: No, the town was never the problem. It's a
+fine place to grow up.
+
+TALIESIN: I'm very curious. Let's see this place.
+
+SAM: Sure.
+
+MARISHA: I'll go ahead and drop form so I'm not a
+bird.
+
+TALIESIN: Ow! Oh god!
+
+MARISHA: Oh, I always forget that. I'm so sorry.
+
+TALIESIN: That's all right, it's not my shooting
+arm.
+
+MARISHA: I'm learning, still.
+
+TALIESIN: I know.
+
+MARISHA: Sorry!
+
+TALIESIN: It's okay.
+
+MARISHA: Here, let me just--
+
+TALIESIN: Yeah, ow. Yeah.
+
+MARISHA: There you go.
+
+TALIESIN: I'll need a bit more later. Thanks.
+
+LAURA: Tary?
+
+SAM: Yeah, oi?
+
+LAURA: I'm sorry.
+
+SAM: For what?
+
+LAURA: Well, you know.
+
+SAM: No, you're right. We can't punish people who
+are just hired to do a job. It's fine.
+
+LAURA: It's how we all started out, really.
+
+SAM: Yes, I hired you.
+
+LAURA: Okay.
+
+TALIESIN: He's got a point.
+
+SAM: And now, we're so close! Here, let's go to my
+dad's house, but... I need to make an entrance.
+
+I'll be on broom.
+
+LAURA: Can I be on broom, too, though?
+
+SAM: Yes. Behind me. And I should be front and
+center. You guys can flank--
+
+LAURA: Flying V behind you.
+
+SAM: Yes, thank you.
+
+MARISHA: I catch up to Tary a little bit and I go,
+hey! Are you special in some way? Is there
+
+something about you that's magical and special?
+
+SAM: Is this a trick question? There's everything.
+Most things are special about me.
+
+MARISHA: That's true. Is there a reason a vampire
+would want you?
+
+SAM: What? There's vampires here?
+
+MARISHA: Do you have special blood?
+
+SAM: No? Wait, what?
+
+MARISHA: Can I look at your eyes?
+
+SAM: I mean, sure? They're the bluest of blue.
+
+MARISHA: That's true! Do you know anything about
+your bloodline? Is there something about you? I
+
+feel like I have an essence about you now.
+
+TRAVIS: How much of her brains were left in the
+rocks?
+
+LAURA: I know, she got rattled.
+
+MATT: Yeah, she's gone full Phoebe from Friends.
+
+TRAVIS: Yeah!
+
+LIAM: I'm off to the side with Grog going one,
+two, three, shoot!
+
+SAM: My town here, it doesn't have very many high
+hills, but still, stay on the ground, will you?
+
+MARISHA: Okay!
+
+MATT: As you guys make your way into the actual
+city of Deastok, the architecture here is very
+
+tall and as intricate as it is old. The stonework
+is edged and almost sharp in places, the shape and
+
+design of most roofs and windows leaning towards
+the gothic. You can see similar roots here to some
+
+of Whitestone's older buildings and architecture,
+common space where the original de Rolos traveled
+
+once from Wildmount. The architecture here, as
+opposed to the more built-for-function that a lot
+
+of you are used to in Tal'Dorei, anywhere from
+huts to, I want to push almost Tudor to colonial,
+
+this definitely has tall stone archways, tall
+stained-glass windows, in places. A lot of the
+
+buildings, edges, and roofs will come to tiny
+metal spires where points or occasionally flags or
+
+tapestries would hang from in the wind. Very
+different visual feel than anything you've seen
+
+over in Tal'Dorei.
+
+As you guys make your way through the streets, in
+the presentational mode of which Taryon has
+
+requested, people do stop and stare. You can hear
+whispers, some folks pointing, some of the patrols
+
+gather to keep a close eye as you pass. No
+excitement, no parade, no cursing or aggression,
+
+just acknowledgement of the arrival of these
+strangers and a very flashy lord. Eventually, you
+
+lead them to the Darrington estate. This is a
+large, three-story building surrounded by tall,
+
+iron pike-topped gates that surround the somewhat
+octagonal shape of the grounds. The main gate is
+
+watched by a single man in a simple leather outfit
+and a metallic helmet. Who, as he sees you
+
+approach goes, "Have you-- sir! Welcome home!"
+
+SAM: Thank you. Tell the master of the house that
+we've arrived.
+
+MATT: "Yes. Right away, sir!" Opens the gate and
+rushes off to the front door and disappears inside
+
+for a moment. The door opens again, and you see
+emerging from it a very tall, thin, brass-scaled
+
+dragonborn with very fine clothing. His lack of
+tail speaks of his Ravinite lineage. You recognize
+
+this individual as Berthold; he is the servant of
+the house and quarters. As he approaches he goes,
+
+"Oh, Master Taryon, it has been some time! Good to
+see you in good health!"
+
+SAM: Yes, excellent to see you, too. You've been
+keeping the grounds quite nice.
+
+MATT: "We've been doing our best. I take it you--"
+and he looks over to the woman K'ryyn, goes,
+
+"You--"
+
+"Yes, I would like to complete my contract."
+
+"Very well. Please, follow me inside. This way."
+The dragonborn turns around. He almost towers over
+
+you; he's this spindling tree of a dragonborn. As
+he leads you into the home, you watch him; he has
+
+to dip down to enter the interior of the house. As
+you step inside the estate, you're immediately hit
+
+with the smell of musty carpets, wood oil stain,
+and some since turned-to-smoke-and-embers burning
+
+wood in a fireplace. You see immediately in the
+darkly lit interior fine tables and well-crafted
+
+furniture that clutter hallways, holding vases and
+dried flowers that probably have been in long need
+
+of a change. It's eerily silent. It seems, at
+least on this floor, empty of pretty much all life
+
+except for Berthold. He begins to walk up the
+stairs. "Right this way. You know." And he heads
+
+up the second flight of stairs to the very top of
+the interior of the estate, and there is the very
+
+heavy oak door that marks the study quarters of
+your father. He knocks lightly on the door.
+
+"Master Howard, you have some unexpected guests,
+including the one you hired to bring your son
+
+"home. And is here with your son."
+
+There's a pause. You hear a voice on the other
+side say, "Let them enter." The door creaks open.
+
+(creak)
+
+Berthold steps back. "I'll wait here." He bows and
+gestures for you all to step into the room.
+
+As you guys step into this study you see, standing
+right across from you, looking into the fireplace,
+
+you occasionally hear the crack and the snap of
+what looks to be a halfway burned fire. A human
+
+man in his late forties. His short blond hair is
+receding to the top of his head. You can see the
+
+firelight glistening across his somewhat oily
+forehead, and two heavy sideburns that are an
+
+uncombed mass that frame the sides of his very
+hardened square jaw. He is dressed in a nobleman's
+
+coat and breeches, though his shoes are nowhere to
+be seen. Just barefoot on the ground. He looks
+
+over and sees you enter and looks towards Taryon
+and his hardened face turns to a softened smile.
+
+"My son."
+
+SAM: Papa.
+
+MATT: He looks over to the woman, K'ryyn. "What
+I've heard is true, and I thank you for your time.
+
+"Berthold will see that you are paid." She nods.
+There is a nod to you.
+
+SAM: You'll wait for us outside the grounds, and
+we'll give you your next assignment soon.
+
+MATT: "That is the arrangement." She leaves the
+room and you hear Berthold walking alongside her
+
+and chatting with her about payment as she
+leaves.
+
+As soon as they walk down the stairs he turns and
+goes, "I am glad to see you are well."
+
+SAM: Are you? You sent that woman to kidnap me.
+
+MATT: "I sent that woman to bring you home. To see
+that you were safe."
+
+SAM: She bound and gagged me and threw me on the
+back of a horse. That's how you brought me home?
+
+MATT: "You're a hard man to find when you want to
+be."
+
+SAM: I am literally the least hard man to find. I
+tell everyone my name, I wear a gold helmet, and I
+
+walk around talking about myself.
+
+MATT: His smile fades for a moment. "And yet you
+were very far from these lands."
+
+SAM: Yes, I was. I was living a new life, as I
+told you I would. I was finding myself and
+
+becoming someone.
+
+MATT: "That is good. Just know that I was worried.
+You fill your head with these fantasies and ideals
+
+"and step out into the unknown. Do you know how
+many men and women are found gutted in the streets
+
+"and left and abandoned to rot away in forests by
+some bandits on the roadside? Not to mention the
+
+"various beasts of the wild out there. I was
+worried about you."
+
+SAM: Well, I was in danger for much of my time
+away, but that's not a bad thing, sometimes.
+
+Becoming an adventurer or whatever I am now, it
+wasn't supposed to be easy. It was supposed to be
+
+hard, and it was, and it had risks. But along the
+way, I did much, and I stand before you now as a
+
+different man than who left. One who has been
+through a lot and knows the dangers of the world,
+
+but is also a survivor. You know, when I left, I
+told you I was going to prove myself to you. That
+
+I would bring you back stories of my exploits and
+show you what kind of a man I really was. And I
+
+wrote a lot of them down in a book, but I don't
+think I want to show it to you, because I don't
+
+think you deserve to see it. You never supported
+me as a child, and you don't now. Financially,
+
+yes, but not as a father. And the things I did
+while I was away-- well, the book is a diary now.
+
+It's for me, not for you.
+
+MATT: "Taryon... while my parenting may have
+been strict or distant at times, I didn't reflect
+
+"on my care for you. We have a legacy in
+this family to maintain."
+
+SAM: Yes, I know. That's all you seem to care
+about.
+
+MATT: "That's all that matters."
+
+SAM: It's not all that matters. I know that I
+carry your blood and that means a lot to you.
+
+MATT: "This money that you seem to relish in,
+that you took without asking, the last of our
+
+"coffers. Your grandfather started this, and I've
+done everything to maintain it. And your
+
+"interests, your attention, could not be brought to
+learn and maintain this business after me, so I've
+
+"had to turn to Maryanne. It's not that I don't
+love you, but you have another purpose in this
+
+"family. And that is why I've brought you here."
+
+SAM: And what is that?
+
+MATT: And you watch as his hands are shaking and
+he's fidgeting and scratching his chin and running
+
+his fingers through his sideburns. "We're
+impoverished. I haven't been able to pay our staff
+
+"in nearly two months. Everything that I had to do
+to maintain this legacy has come back to bear
+
+"fruit, and the debt that we owe is vast."
+
+SAM: I don't believe you. Where's the money?
+Where's the family money?
+
+MATT: He looks around at the rest of you, and you
+can see now there is trepidation with having this
+
+conversation in front of strangers.
+
+SAM: It's all right. They're with me.
+
+MATT: He reaches over and grabs off his desk an
+already opened bottle of some sort of wine. Takes
+
+a quick swig and sets it down. Slumps into his
+chair in front of the fire and rests his face on
+
+his hand. "Everything your grandfather Oberon
+built, it's on the verge of fading away. All the
+
+"taxes we claim on our lands now go straight to a
+syndicate that we owe a lot of money to. Unless
+
+"we find a way to pay off the debts of your father
+and his father before him, we will all be thrown
+
+"into the cold or worse. Now, I've seen this storm
+coming for a while, Taryon. I've spent years
+
+"trying to coax a family union with the Truscans;
+you know this. After much toil and diplomacy, they
+
+"have agreed to wed you to their daughter Lydia.
+This union will bring our family a renewed avenue
+
+"to wealth and protection within the empire! We can
+stave off this terrible end, and you will be a
+
+"hero within the family."
+
+SAM: I don't understand. The way we lived, the way
+you talked, made it seem like there was endless
+
+money, forever.
+
+MATT: "This stems to your lack of respect."
+
+SAM: My lack of respect? What happened? How did
+you ruin us like this?
+
+LAURA: What is this syndicate you speak of?
+
+MATT: His eyes dart to you with a fiery hatred,
+like how dare you speak up right now. "When your
+
+"grandfather passed, when you were still but a
+baby, our lands were nearly taken from us by a
+
+"rival barony from within the Dwendalian court.
+Lord Jaipher found loopholes to revoking our
+
+"ownership and titles set by Oberon and in my panic
+and necessity, I found an ally in the Myriad."
+
+SAM: In the Myriad?
+
+MATT: "Through a whispered hint, I met a man named
+Korshad, who ensured our surviving ownership in
+
+"trade for a partnership with him. I signed, not
+wanting to toss, at the time, my only child
+
+"onto the street. But as the decades passed, I did
+not realize in my haste, the depths of the deal
+
+"that I had made. And with many harvests failing in
+recent years, the agreement now devours our
+
+"livelihood from within. They now demand our
+accrued debt paid in full or they take full
+
+"ownership of everything."
+
+SAM: I'm having trouble wrapping my head around
+this. You're saying everything I've lived has all
+
+been built on this deal with this shady group?
+You're a criminal? You're just a criminal.
+
+MATT: "No. No, it is built on what we built as a
+family."
+
+SAM: We didn't build anything as a family!
+
+MATT: "We did, and nearly had it taken away. I did
+this to maintain it. And I let you live as you all
+
+"deserved to live."
+
+SAM: But Papa, you never told me any of this. You
+were cold to us, and you told us a bare minimum of
+
+what you did and how you ran things.
+
+MATT: "I hoped to find a way to fix this before I
+needed to, yet here I am, prostrate before my own
+
+"child. Broken." And he starts, like, tears just
+pour down his cheeks. "I was just trying to make
+
+"it right."
+
+SAM: I didn't know any of this. How would I? And
+now I have to fix it for you
+
+by marrying some girl?
+
+MATT: "It's a marriage of convenience."
+
+SAM: That's still a marriage.
+
+MATT: "It means nothing more than political gain.
+Your life is still yours to live."
+
+SAM: No, it's not! I have to be here, I have to be
+with her. I have to live in her castle or she in
+
+mine. (sighs) Listen, I've learned a lot from
+these people over the last year or so. And one
+
+thing I've learned is that you are who you are
+whether you have a lot of money or not. And I
+
+don't have that much anymore and I'm still okay
+with that. And it's not because of the things I
+
+own, it's because of the deeds that I do. You've
+done some bad deeds in your life, and it sounds
+
+like you've done them to preserve our family and
+preserve our legacy, but that's
+
+not a reason to do them.
+
+MATT: He leans forward to you and looks to you
+with an honest, more honest than you've seen him,
+
+very vulnerable expression. "Every man and woman
+who has money has done bad things."
+
+SAM: Yes, I'm sure that's true. And I assume I'm
+somehow complicit in this.
+
+MATT: "You are not. I tried to keep you, your
+sister, and your mother as innocent as I could. My
+
+"back is to a wall now."
+
+SAM: I'll have to think about this.
+
+MATT: "Think on it. The choice is still yours; I
+would not force you into this, but it is a chance
+
+"I wish you to contemplate."
+
+SAM: What have you done to our name? Do people
+know of this?
+
+MATT: "No."
+
+SAM: And if I marry this girl, it will just all go
+away?
+
+MATT: "If you marry this girl, we will have the
+influence and the wealth to pay this debt and cut
+
+"ties with the Myriad entirely. We would be a free
+family once more."
+
+LAURA: How much debt are we talking?
+
+MATT: "The last amount we were given: 230,000
+gold."
+
+LAURA: Well. That's a lot.
+
+ASHLEY: Is there any other way than marriage that
+you can think of?
+
+MATT: "I've exhausted the options I have at my
+disposal."
+
+LAURA: What if we just wipe out the Myriad?
+
+MATT: He laughs.
+
+SAM: They're far too big.
+
+MATT: "You underestimate the sheer size and how
+ingrained they are in the society here. This is no
+
+"guild. Wildmount is the Myriad in many ways."
+
+SAM: And if I say no and they take all of our
+possessions and our estate, everything, what then?
+
+We're ruined.
+
+MATT: "We're on the street. We are but beggars
+within our own city, at the mercy of those we've
+
+"been taxing."
+
+SAM: How could you do this to us?
+
+MATT: "Because I loved you. I loved you all, and I
+did what was necessary."
+
+SAM: You never told us that. You always talked
+about bloodlines and legacies and the Darrington
+
+name. But you never told us you were proud. You
+never comforted us. You never cared what I wanted
+
+to do or who I wanted to be. I'm cursed with this
+name now, Darrington. You've sullied our name by
+
+enforcing these taxes and just being an asshole to
+everyone around our whole city, and now I have to
+
+live with it or marry this girl to save it.
+Listen, I'm sorry I left, and I'm sorry I took all
+
+of that gold. I did not know it was everything.
+But what you're asking me is-- I'll need to think.
+
+I'm sorry.
+
+MATT: "I owe you that, at least. I never claimed
+to be a good man. I never claimed to be a good
+
+"father, good husband, but I can try to be better,
+can't I?"
+
+SAM: Yes, you can. I'm going to go see Mother and
+Sister. Might my friends stay here the night?
+
+MATT: "Of course, and enjoy the grounds while you
+can."
+
+LAURA: This Korshad, and the Myriad, where do you
+meet with him?
+
+MATT: "It's been some time, but if you wish to
+seek him out, ask for who you can speak with the
+
+"Many, in the Grumpy Lily."
+
+SAM: Grumpy Lillian?
+
+MATT: The Grumpy Lily. You know this to be one of
+the seedier bars in town.
+
+SAM: Oh, okay.
+
+LAURA: And I'm asking to speak with the Many?
+
+MATT: You're wishing to speak with the Many.
+
+LAURA: All right.
+
+SAM: Well, good to see you. Have a good
+afternoon.
+
+MATT: "I'm glad you're safe."
+
+SAM: Thank you. It's good to see you again.
+
+MATT: "You too. More than you know, my son."
+
+LAURA: Do we leave the room?
+
+SAM: Yes, let's leave the room.
+
+LIAM: We could have cut that air with a knife.
+
+LAURA: So here's the thing, though. You said he
+like hated you, and he didn't seem like he hated
+
+you at all!
+
+SAM: He's acting differently than I recall. It's
+been a while. I'm not used to seeing him like
+
+this, and honestly, I don't know how to take it.
+
+LAURA: Well, you can't marry that bitch.
+
+ASHLEY: You can't marry her.
+
+SAM: It seems like I have to.
+
+LAURA and ASHLEY: No, you don't.
+
+TRAVIS: Got to do it.
+
+SAM: Grog says I do.
+
+LAURA: Grog.
+
+TRAVIS: Simplest. The shortest distance between
+two--
+
+ASHLEY: Two points.
+
+TRAVIS: Yep. Is--
+
+SAM: Marriage.
+
+TRAVIS: Marriage. Yep.
+
+LAURA: You're getting so smart, Grog! So smart.
+
+TRAVIS: Don't be jealous.
+
+LIAM: I know some about the Myriad, correct?
+
+MATT: You've encountered them once. Back in
+Stillben, back at the very beginning of your
+
+adventures. The very beginning.
+
+TALIESIN: Not me.
+
+MATT: Percy, this is the first you've heard.
+
+MARISHA: Wait, you?
+
+LAURA: He wasn't with us yet. We had that other
+guy he was playing.
+
+(laughter)
+
+LIAM: Rusty. Rusty Trombone?
+
+TALIESIN: Rusty Trombone.
+
+SAM: He was a weird character choice.
+
+MATT: That's a good name for an artificer.
+
+(laughter)
+
+MATT: As you exit the study and close the door
+behind you, left in the cold, quiet silence of the
+
+house, you continue your conversation.
+
+TALIESIN: Where is your sister?
+
+SAM: I don't know.
+
+LAURA: How much money did you take when you left?
+
+SAM: I thought a meager amount. 50,000 gold.
+
+MARISHA: That's a lot.
+
+LAURA: But, I mean, considering the debt that
+they're in.
+
+MARISHA: That's literally more than my entire
+tribe owns.
+
+LAURA: Well, we have a lot more than that in our
+party fund.
+
+MARISHA: I know. We own more than my tribe owns.
+
+TALIESIN: I own more than your tribe owns.
+
+MARISHA: I know. I will say, Tary, I think
+you are special. You have very large dangling bits.
+
+Along with your earring. Very large other bits.
+
+SAM: Thank you.
+
+TALIESIN: We were working on that particular
+compliment, and I feel like we have a little way
+
+to go.
+
+MARISHA: Is it all right? No? I thought
+that was a compliment.
+
+SAM: Tell her she did good.
+
+TRAVIS: Are you cool with your sister?
+
+SAM: No. I'm not cool with my sister. She's not
+that great.
+
+TRAVIS: Is she married?
+
+TALIESIN: Do you think she knows about this?
+
+SAM: I guess. I suppose she knows about this.
+
+MARISHA: And the last time you spoke with her was
+when you left, I'm assuming?
+
+SAM: Yes, that's right. She was being groomed as the
+heir to the family, and I was being shut out. My
+
+mother is here somewhere, too. She's pretty
+quiet.
+
+TALIESIN: What do you want to do?
+
+SAM: I guess talk to them, but we can't go after
+the Myriad; they're powerful and dark.
+
+TRAVIS: What if we offer services, and they excuse
+part of the debt?
+
+SAM: No, he offered services, and look where it
+got him.
+
+ASHLEY: Do you know Lydia?
+
+MATT: You've never met Lydia in your life. You
+don't even know what she looks like.
+
+TALIESIN: I'm not even sure if that's something
+that should be entertained.
+
+SAM: We could go talk to them, but I don't see how
+that's going to change anything.
+
+LAURA: Maybe she's a really cool girl that won't
+be into you and you can just hang out and be
+
+besties?
+
+SAM: Gross.
+
+LAURA: Hey!
+
+SAM: No. I like being besties with you. I don't
+want some rando.
+
+TALIESIN: It's not fair to her, either.
+
+MARISHA: It's not. Honestly, maybe we should just
+go talk to her first.
+
+SAM: Lydia?
+
+LAURA: No, she's in a whole other town.
+
+ASHLEY: Here's the thing, you're not going to
+marry her. Okay?
+
+SAM: Why not?
+
+ASHLEY: Because if he wants to be a better father
+to you, then he's going to let this go and not
+
+let you do this. If that means him being out on
+the street, that's my opinion.
+
+TRAVIS: That's harsh.
+
+SAM: Everything he is, is his status, though. This
+place, where he lives, his servants. If he's got
+
+nothing, then he's just... he'll die.
+
+ASHLEY: Sometimes, when you let that go, only then
+are you able to truly live.
+
+TRAVIS: Whoa.
+
+LAURA: Deep.
+
+SAM: That is maybe true, but listen. I've been
+working on this for a year, and I'm starting to
+
+get really nervous. I'm down to my last few bits
+of gold, and I don't know how that would feel to
+
+run out.
+
+ASHLEY: I don't even have any money.
+
+LAURA: Because you gave it all away.
+
+TRAVIS: Technically, I've got a lot of money.
+
+ASHLEY: Money gives you everything you want.
+
+LAURA: It's the best thing.
+
+MARISHA: Hey, but you're thrifty. You're good.
+
+SAM: No, I'm not thrifty.
+
+MARISHA: Yes, you are! Taryon, I've seen make
+amazing things. You can survive. You've been to
+
+the depths of the watery abyss. And you've lived,
+kind of.
+
+TALIESIN: That's a bad example.
+
+LAURA: I'm really wishing we had taken a lot more
+money from Thordak. If we had taken more money,
+
+everything would be fine right now.
+
+MARISHA: No! That's not the lesson of the story,
+you guys!
+
+SAM: Yes, money would have solved this.
+
+MARISHA: No! Not the lesson, not the lesson we're
+supposed to take away!
+
+TALIESIN: No, I mean he's right that money would
+have solved this. But that's not the lesson.
+
+Keyleth is right.
+
+MARISHA: I don't have an alternative for the
+lesson. It's just not the lesson.
+
+TALIESIN: We're here. We can figure out a way out
+of this. We're smart, we're clever, we're
+
+powerful. And what's one more cliff?
+
+MARISHA: Yeah, we're gods!
+
+TALIESIN: Not again.
+
+TRAVIS: Not going to say that ever again.
+
+ASHLEY: I say we go talk to the Many.
+
+LAURA: Yes, let's go talk to the Many.
+
+LIAM: I understand this is very complicated. Are
+we really looking for a solution to fix several
+
+generations of your family's misdeeds? It sounds
+like your father, your grandfather have been
+
+navigating murky waters for some time.
+
+TALIESIN: I want to find out what your sister
+knows.
+
+LIAM: I don't know what the right decision is,
+either. Do you marry this woman to fix decades of
+
+terrible decisions?
+
+TALIESIN: I don't necessarily see how two wrongs
+right anything here. It's just really kicking the
+
+ball down the road while you make another random
+human being you have not met miserable.
+
+LAURA: That's right.
+
+SAM: I assume I would be a fine husband.
+
+LAURA: You'd be amazing.
+
+SAM: I feel like I'd be okay.
+
+LIAM: You make really good blondies, and
+many things besides blondies, as well.
+
+TALIESIN: Oh, this is so depressing. I'm not going
+to even pretend that this is true. Absolutely not.
+
+No. You'll be miserable, and that will make her
+miserable.
+
+SAM: Yes, it's true.
+
+LIAM: So if we know that that's not happening,
+then we deal with the problem that is left behind.
+
+Which is: do we worry about your family's life,
+their safety? Are they safe here, or are
+
+they gonna be eaten alive?
+
+SAM: I'd assume they are not safe here. We'd have
+to convince them to leave, or protect them
+
+somehow, or make a deal to at least protect them
+in poverty.
+
+LAURA: Maybe we just talk to the Myriad, talk to
+Korshad and see what we can do. Maybe he needs
+
+something, and we can provide it.
+
+TALIESIN: We are bad news for anybody like that.
+I'm sure it would be worth their time to get us
+
+out of town, possibly get you out of town. You
+can't be good for business.
+
+SAM: All right. Well, a quick stop to talk to my
+sister, possibly, and then let's go at least
+
+investigate this contact.
+
+LIAM: God, this sucks.
+
+SAM: I appreciate you all being here for me. I'm
+sorry. I didn't realize that this was going to
+
+happen and I don't want-- if you fellows want to
+go back and just continue on, I can solve this.
+
+LIAM: Nah, man! You're one of us now!
+
+LAURA: Just next time you get abducted by a bounty
+hunter, give us some warning, would you?
+
+SAM: I'll try. Maybe I should sleep with bells
+on.
+
+LAURA: That would be a good idea.
+
+LIAM: You're halfway there.
+
+SAM: Percy, can you make me some?
+
+TALIESIN: Some bells? Absolutely. I'm going to
+regret this, but yes.
+
+TRAVIS: Don't do it, man. They tried to make me wear bells.
+Don't let them hold you down.
+
+LAURA: I thought you liked that hat.
+
+TALIESIN: I like that you approve of the arranged
+marriage, but it's the bells that really--
+
+TRAVIS: Yeah, you don't get to keep eyes on me all
+hours of the day.
+
+SAM: All right, I'll walk through the place and look for
+sis.
+
+MATT: Okay, and we'll pick up there next week, as
+it is 11:00, we'll pick this up.
+
+LAURA: Your dad is not what I expected!
+
+ASHLEY: No!
+
+SAM: (singing) Me, neither!
+
+LAURA: Ugh!
+
+SAM: Mercer!
+
+LAURA: Matthew Mercer.
+
+MATT: What?
+
+LAURA: You have a way of taking our backstories
+that we think we've created and then just flipping
+
+it on us.
+
+TALIESIN: Nothing happened.
+
+SAM: No, Grog jumped off a roof and died.
+
+MARISHA: Was it 1,000 feet? Yeah, all right.
+
+LIAM: He actually can take that much damage,
+though.
+
+MARISHA: 360 points?
+
+TRAVIS: Yeah, raging, reduced to half. Yep.
+
+MARISHA: Technically, I don't think falling damage
+counts as weapon damage. I don't know if you can
+
+take half damage.
+
+MATT: Well, bludgeoning, it would.
+
+TALIESIN: Bludgeoning.
+
+LAURA: Damn it! (laughs)
+
+MARISHA: Oh, half damage.
+
+LAURA: How many hit points do you have?
+
+TRAVIS: A lot.
+
+TALIESIN: He doesn't like to brag.
+
+MATT: Awesome, guys. We'll see how this goes.
+
+TRAVIS: There's not a lot of real sound family
+structures in this campaign.
+
+ASHLEY: We all have such terrible families.
+
+LAURA: We all have shitty families.
+
+TRAVIS: Let this be a lesson.
+
+LIAM: Mom was great.
+
+LAURA: Yeah, Mom was real great.
+
+LIAM: She was the best.
+
+TALIESIN: Every fucking moment of my backstory,
+man. I'm so excited for this shit.
+
+MATT: Yeah.
+
+TALIESIN: Bonus backstory.
+
+MATT: You guys keep creating-- you act like you
+didn't hand me backstories with traumatic
+
+relationships with your parents already.
+
+TRAVIS: You're so dark, man. Why do you make this
+shit up?
+
+LIAM: It was years ago!
+
+TALIESIN: One fucking page.
+
+MATT: I take what I'm given, and I extrapolate.
+
+SAM: Yeah, you do.
+
+TALIESIN: You came up with most of that shit off
+on your own. You didn't even write it down.
+
+SAM: Yeah, for some of it I had.
+
+MATT: Yeah, he had a lot of it, and then a few
+things from this.
+
+TALIESIN: Maryanne was off the cuff?
+
+SAM: No, I think I had their names written down.
+
+MATT: Yeah, you did.
+
+MARISHA: Well, for anyone who has been asking: I
+am okay. I did not leap off the cliff out of some
+
+weird parallel allegory.
+
+TRAVIS: What?
+
+LAURA: What?
+
+TALIESIN: I thought it was because your Logan's
+Run crystal started flashing.
+
+MARISHA: This was not a cry for help. Not a cry
+for help. I thought it was going to be dope.
+
+That's it. I just thought it was going to be cool
+as shit, and then it wasn't.
+
+MATT: No, and then it was absolutely was cool as
+shit. What are you talking about? That's the kind
+
+of shit that makes D&D. Are you kidding me?
+
+MARISHA: Yeah, you'd know if it's a cry for help.
+
+TRAVIS: Yeah, great take-off, action was amazing.
+The finish, though, the landing--
+
+LAURA: Should have stuck the landing.
+
+MATT: Everyone would have remembered a goldfish's
+entry into the ocean for five minutes. Everyone is
+
+going to remember Keyleth splattering across the
+rocks forever.
+
+TALIESIN: That goldfish wouldn't have remembered
+it very long either.
+
+LIAM: I've got this great trick, but I can only do
+it once.
+
+MARISHA: In my head, I was an awesome cartoon, and
+it worked.
+
+MATT: And it would have, but it got down to the
+dice. As always, if I rolled lower than 50%, it
+
+would have been fine.
+
+MARISHA: 100d6 dice, yeah.
+
+MATT: Percentage dice is what I meant, but anyway.
+All right, guys. Have a good night, a good
+
+weekend, rest well, and we'll see you guys next
+week, and is it Thursday yet? Good night!

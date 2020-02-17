@@ -1,0 +1,6109 @@
+LAURA: Hello and welcome to another exciting
+episode of Critical Role, where a bunch of
+
+nerdy-ass voice actors, jesus, sit around and play
+Dungeons & Dragons. Oh gosh, okay, so this is my
+
+one-shot. I'm nervous as all hell, but it's going
+to be great! If you have may have noticed,
+
+tonight's episode takes place at the-- please
+don't sue us-- school of Schmogwarts. First,
+
+before all of that, let's get to some
+announcements. Our sponsor for the night is--
+
+TRAVIS: Oh, I got it! Model this, Brian.
+
+BRIAN: I got it.
+
+TRAVIS: Tonight's episode is sponsored by D&D Art
+& Arcana from Random House Publishing and Ten
+
+Speed Press. Gamers and game historians Sam and
+Michael Witwer, Kyle Newman, and Jon Peterson have
+
+taken on this massive archaeological effort to
+create a must-have book for anyone who has ever
+
+played or just loves D&D. It's over 700 images of
+original art, unpublished draft material, pristine
+
+product, rare imagery, and the most extensive
+collection of D&D imagery every published. The
+
+special edition of this book comes with all this
+beautifulness right here, ten classic mini prints
+
+of D&D artwork ready for hanging, a pamphlet-sized
+unpublished original version of Gary Gygax's Tomb
+
+of Horrors, and this 450 page book of legendary
+D&D art is available now. So help support the show
+
+by grabbing your copy at
+critrole.com/artandarcana.
+
+LAURA: Sorry to interrupt you, but our poster is
+in this freaking book!
+
+SAM: Wait, what? No, it's not.
+
+LAURA: Yes, it is. It's at the end of the book.
+
+SAM: We're not an official thing, though. We're
+just a mom and pop thing; we don't really exist.
+
+LAURA: It's at the very end, Brian, at the very
+end.
+
+BRIAN: Oh very end, I thought you said very
+beginning.
+
+TALIESIN: Only 70% of the show is mom and pop.
+
+LIAM: I've looked through it, it's a beautiful
+book and if you've been a D&D fan for decades,
+
+going through the book is like going through a
+time warp.
+
+LAURA: There it is! There's our poster!
+
+SAM: Our poster is in the book?
+
+LAURA: Isn't that so exciting?
+
+LIAM: We're part of the history of Dungeons &
+Dragons!
+
+TRAVIS: You can grab your copy at
+critrole.com/artandarcana.
+
+LAURA: Yay!
+
+SAM: Good job, Travis!
+
+TRAVIS: Thanks, man. It would have been Sam, but
+he's sweating his new class.
+
+LAURA: Before we get to that, the latest episode
+of Between the Sheets featuring our very own
+
+Marisha Ray is now available on the Critical Role
+YouTube channel. You can tune in at
+
+twitch.tv/criticalrole on Monday for a one-on-one
+chat-- oh!-- with Matthew Mercer.
+
+SAM: That's coming up next Monday.
+
+BRIAN: Next Monday, yeah.
+
+LAURA: Then the all new episode of All Work No
+Play will debut on twitch.tv/criticalrole: that's
+
+our channel.
+
+TRAVIS: That's it.
+
+LAURA: Jeez, this is hard. On Friday at 7:00pm
+Pacific.
+
+SAM and LAURA: That's tomorrow.
+
+SAM: I think it's going to be a spooky-ooky
+episode.
+
+LIAM: It's the spooky-ooky one?
+
+SAM: I think so.
+
+LAURA: Yeah, where you guys pair up with makeup
+artist Alexander Ward, right? Creature artist?
+
+SAM: Creature master.
+
+LIAM: Creature, just creature.
+
+LAURA: I've seen some of the pictures from it and
+it is freaking amazing.
+
+TALIESIN: He's been giggling about it.
+
+LAURA: I wish this freaking announcement sheet was
+longer, because now it means that we have to get
+
+to the game. So I guess--
+
+TRAVIS: Start making it up right now.
+
+LAURA: Without further ado, let's-- I don't know--
+should we roll credits or something?
+
+TRAVIS: On tonight's episode of--
+
+LAURA: Tonight's episode of Critical Role.
+
+[magical music]
+
+LAURA: (intones Hedwig's theme) It's a crisp
+autumn morning. It's starting; I'm starting it,
+
+bitches. It's a crisp autumn morning at
+Schmogwarts. It's a holiday weekend and all of
+
+your students at the school are off celebrating
+off at the local town of Schmogsmeade. Celebrating
+
+their latest squidlach win or lamenting their
+team's loss.
+
+TRAVIS: Squidlach?
+
+BRIAN: Uh-huh, you remember.
+
+LAURA: They're sipping nutterbeer at the Five
+Brooms or buying sweets at the local goody shop.
+
+LIAM: Nutterbeer is an acquired taste.
+
+LAURA: It is, it's really good. All of the
+students and faculty, except, that is, for you
+
+five. No, you five are in detention. You've been
+asked to serve in the Defense Against the Dark
+
+Farts classroom. As you file in, early in the
+morning, the first student to walk in is a
+
+Dryffingor. Sam, why don't you describe your
+character?
+
+SAM: I'm first? Oh god, are we doing accents?
+
+TRAVIS: First is the worst, tool. Yes.
+
+SAM: We're doing accents? All British?
+
+LAURA: Do it! Go for it, Sam.
+
+TRAVIS: No, this is all Litish.
+
+SAM: Hello. My name is Claire Sittish. I'm a
+Briffinbore?
+
+LAURA: No, you're a Dryffingor, get it right.
+
+SAM: I'm a Dryffingor... student? Am I a student?
+I don't even know.
+
+LAURA: Jesus. Yes, you're a student.
+
+SAM: There's no bio!
+
+LAURA: I sent you a thing, Sam!
+
+SAM: You did? Oh boy, I don't know, I didn't read
+it. My name's Claire Sittish. I come from a well
+
+to-do family and I'm quite admired all around the
+school. The underclassmen, the upperclassmen, the
+
+5th years, the 9th years, the 12th years, they all
+love me. I haven't read Harry Potter. But I'm
+
+supes popular and if you ask me to go to prom,
+I'll say no. I'm also a super awesome wizard and
+
+cross me and I will fuck your shit up.
+
+LAURA: Technically, you're a witch. But whatever.
+
+SAM: Sure. And I've got red hair.
+
+LAURA: Yes, you do.
+
+SAM: I'm styling and that's it.
+
+LAURA: You walk in and you sit towards the front
+of the classroom like you normally do.
+
+SAM: I shouldn't be here.
+
+LAURA: You're followed in immediately after by a
+slight gentleman, rather small of frame. Brian,
+
+why don't you tell us about your character.
+
+BRIAN: 'Ello. My name's Bryan and--
+
+LAURA: (singing) And I like to do drawings!
+
+BRIAN: I don't get out a lot these days but when I
+do, it's to get maybe some comics. I'm built like
+
+the Olsen twins. That's it.
+
+LAURA: All right, and what house are you?
+
+BRIAN: I'm a Pigeonclaw.
+
+LAURA: All right. Bryan, you follow in behind
+Claire. You think about sitting next to her, but
+
+you've always been uncomfortable around girls, so
+you end up taking a seat in the row behind her,
+
+off to the side. Following in behind Bryan is an
+athletic, built guy. He seems really cool. He's a
+
+Smytherpin. Taliesin--
+
+TALIESIN: Slytherpin. My name's Andy. Everyone
+knows me, to be fair. I'm a beater for the
+
+Slytherpin squidlach team. We're doing very well
+this year. We might take it all the way to
+
+tri-nationals as it's going. I don't care who you
+people are. Hi, dear.
+
+LAURA: Andy comes in and sits next to Claire. You
+guys are pretty familiar with each other being
+
+both popular students.
+
+SAM: What's that smell?
+
+TALIESIN: Victory. That's the smell of victory.
+
+SAM: Is it sweat? It's sweat. You should go take a
+shower.
+
+BRIAN: I also might have brought some brussel
+sprouts with me in my bag.
+
+SAM: Why would you do-- did your mother pack it
+for you?
+
+BRIAN: Yeah.
+
+LAURA: Your mother spends a lot of time at
+Schmogwarts?
+
+BRIAN: No, she packed it before I left, months
+ago. That's probably why they smell so bad.
+
+LAURA: All of you look to the back of the
+classroom as a commotion happens. A very tall
+
+student, disheveled. He'd be handsome if he didn't
+look so scruffy, maybe. Walks in, he's knocked
+
+over a stack of books as he walks in to take his
+seat. Travis?
+
+TRAVIS: (Spits)
+
+SAM: Disgusting.
+
+TRAVIS: Nerd. My name's John Bunder. I don't give
+a shit about anything or anyone.
+
+LIAM: Ooh, a Yorkshire accent.
+
+TRAVIS: Oh yeah, I forgot, yeah. We're all Litish.
+I'm also in house Smytherpin. Smytherpin!
+
+TALIESIN: Smytherpin. I wrote it down wrong.
+
+TRAVIS: I've been here every day of my life and
+I'll probably be here even longer. This accent
+
+might change in a couple minutes, just so you
+know. You people are in here with me. Not me in
+
+here with you. Whatever.
+
+LAURA: Bunder comes in and stares all of you down
+as he takes a seat a couple rows behind Claire and
+
+Andy. All of you stare at each other in silence
+until a young Horfleporf walks into the classroom.
+
+She's got scarves all around her face, her hair is
+all disheveled, and it's odd because instead of
+
+walking behind you, she walks all the way in front
+of your desks, around the classroom before filing
+
+in and taking a seat behind you, Bryan. Tell us
+about yourself, Liam.
+
+LIAM: My name is Allison and I am a Horfleporf. I
+drink a lot of nutterbeer. Probably too much. Am I
+
+sharing my special thing you told me about, I
+don't know?
+
+LAURA: No, you probably shouldn't.
+
+LIAM: What? No?
+
+LAURA: No, don't share it yet.
+
+LIAM: What?
+
+LAURA: Don't share it yet.
+
+LIAM: All right. I don't know any of you. I don't
+care to.
+
+TRAVIS: (tongue clucking)
+
+SAM: Do you have a boyfriend?
+
+LAURA: As you stare at each other, suddenly--
+
+SAM: Weird.
+
+LAURA: The door at the top of your Defense class,
+you know belonging to Professor Furbin, slams
+
+open. Whatever. She walks out upon the stoop and
+says, "Well, well, well. Here we are. I feel I
+
+"must congratulate you all for being on time. And
+to thank you for allowing me to spend my day here
+
+"with you instead of celebrating a day off. Yes,
+Claire?"
+
+SAM: I don't think I should be here. There's been
+some sort of mistake. These are all fuckups and
+
+weirdos and I should not be part of this little
+selection of riffraff. If you'd like my mother can
+
+call-- what are you-- get out of my personal
+space.
+
+LAURA: "The time is approximately 7:06, that means
+you have exactly two hours and 54 minutes left to
+
+"ponder why you're here--"
+
+TRAVIS: (fart sound)
+
+LAURA: "-- to think about-- Bunder. Would you like
+another detention? You're familiar with this classroom?"
+
+TRAVIS: Yeah. I am. Sure. I want another.
+
+LAURA: "Well, there you go. Next Saturday, you're
+here with me again."
+
+TRAVIS: Great. Let's make it two!
+
+LAURA: "It already is two. Do you want three?"
+
+TRAVIS: Bring it on.
+
+LAURA: "Three it is, keep going."
+
+TRAVIS: Perfect.
+
+LAURA: "Four it is, give me a full month, Bunder.
+Are you done?"
+
+BRIAN: Give her a full month, Bunder.
+
+TRAVIS: No!
+
+LAURA: "Quiet, Bryan. There will be no speaking.
+There will be no moving from your seats. In fact,
+
+"I'm going to give you all an assignment." She
+begins walking around passing out pieces of
+
+parchment and quills. "I want you all to write me
+an essay, at least a thousand words, telling me
+
+"who you think you are. When I say essay, I mean
+essay. Don't just write the same word over and
+
+"over and--" As she's speaking, there is a small
+tap at the door. "Oh, for heaven's sake!" She
+
+walks to the black of the classroom-- the back of
+the classroom, opens up the door, you see her
+
+speaking to somebody in hushed tones. "One moment,
+do not get up!" She steps out of the classroom and
+
+shuts the door.
+
+SAM: Well, I don't know about you all, but we have
+some essays to write, so I'm going to get right
+
+down to it.
+
+BRIAN: I already finished mine.
+
+SAM: What? That's impossible. You haven't moved
+from your seat.
+
+TALIESIN: You finished yours? Then you can do mine
+then. That's great. Here. Get right on that. That
+
+would be fine.
+
+BRIAN: How much quid you got?
+
+TALIESIN: I've got five quid, which is just enough
+for me to not kick your ass.
+
+BRIAN: Five quid'll do it!
+
+TALIESIN: All right.
+
+LAURA: The door opens back up. Professor-- what
+did I say, Furbin?
+
+TRAVIS: Yep, Furbin. I should write that down.
+
+LAURA: -- walks back in.
+
+SAM: Durbin.
+
+LAURA: Professor Durbin Durr! Walks back in. "I'm
+afraid there has been an emergency situation. I
+
+"have to leave the classroom for a few, hopefully,
+minutes. You are not to leave this classroom.
+
+"Finish your assignment. Do as you're told. I have
+ways of knowing what is going on in here.
+
+"Are we understood?"
+
+BRIAN: What's the emergency? Did you find the cat
+that attacked him?
+
+LAURA: "That is none of your business. And you,
+Bryan, will be here next Saturday as well, serving
+
+"another detention."
+
+BRIAN: Ugh. Fuck's sake.
+
+LAURA: "If any of you leave this room, you'll be
+serving with him as well. Two months! Two months
+
+"detention for leaving this classroom. Are we
+understood?"
+
+SAM: Has my mother called yet? Because I'm pretty
+sure she wants me to come home. I have to prepare
+
+my room for--
+
+TRAVIS: (mocking) My room for--
+
+SAM: -- for a very important family gathering next
+weekend. And she would not be pleased to know that I am--
+
+TRAVIS: (mocking continues)
+
+SAM: I don't sound anything like that.
+
+LAURA: "Quiet! Behave yourselves. You are young
+adults," and she leaves the classroom.
+
+Oh, what do you do?
+
+TRAVIS: I cast Fireball. No. Nope.
+
+LAURA: Her office is at the top of the stairs. The
+door's at the back of the classroom. You have
+
+shelves along the walls with all of the books that
+you're used to.
+
+SAM: The Defense Against the Dark Farts classroom?
+
+LAURA: Yes, it is.
+
+SAM: Are there any lockers or cubbies or things
+around?
+
+LAURA: There's cubbies. You've been in this
+classroom for years, though. You know exactly
+
+where everything is, shy of her office.
+
+TALIESIN: Are there locks on the door?
+
+LAURA: Locks on the doors?
+
+TALIESIN: Yeah.
+
+LAURA: You can try.
+
+TALIESIN: I'm going to just use some
+Prestidigitation to see if the door can lock or
+
+unlock from here.
+
+LAURA: Which one? The classroom door?
+
+TALIESIN: Yes.
+
+LAURA: All right.
+
+TALIESIN: So I'm just going to see if there's a
+locking mechanism.
+
+LAURA: It seems like the school is used to
+students trying to fuck around with things and
+
+maybe it's not letting you do it.
+
+TRAVIS: Hey, Sporto. That seems like an illegal
+activity for someone of your repute. Aren't you
+
+worried that you're going to damage your ride?
+
+TALIESIN: No. I was just going to tell them you
+did it.
+
+TRAVIS: Tell them-- But I like where your mind's
+at. For me, I don't plan on staying in here the
+
+whole time.
+
+BRIAN: How are you going to get out?
+
+TRAVIS: I see nothing but options in front of us.
+We all got these, don't we? Don't we?
+
+BRIAN: Mine's a bit bigger than yours is. Fancy
+that.
+
+TRAVIS: Let me do a little Detect. I detect limp
+noodle, core of wuss, pliant.
+
+BRIAN: Do you know what you also detect?
+University. Something you'll never know about.
+
+TRAVIS: Oh, I'll fuck you up in two seconds.
+
+LIAM: Allison's not paying attention and she's
+making ivy grow out of her desk and around the
+
+chair and some mushrooms up each leg of the desk's
+table legs.
+
+SAM: If the teacher comes back and catches you
+doing that, she's going to give you detention again.
+
+LIAM: You'd have to tell her first.
+
+SAM: I'm not going to tell her, but if she asks, I
+will have to answer truthfully.
+
+LIAM: Oops. Mushrooms up the front of your blouse.
+
+SAM: Oh, get the--
+
+LAURA: Roll a perception check, all of you.
+
+TRAVIS: Perception check.
+
+TALIESIN: Oh wow.
+
+LIAM: Natural one.
+
+TALIESIN: 15.
+
+LAURA: Well, you're busy making vines, aren't you?
+15.
+
+SAM: 16.
+
+TRAVIS: Three.
+
+BRIAN: 11.
+
+LAURA: Okay. Claire and Andy, sitting closest to
+her office, actually that makes sense, both of you
+
+hear very faint, almost sounds like a small
+child. Is it screaming? Maybe calling for help.
+
+SAM: From the office? Do you hear that?
+
+TALIESIN: Yeah, I do. I mean, it would be
+irresponsible not to go check and see if someone's
+
+in trouble, right?
+
+SAM: We were told to stay in this room, though,
+and that's what we should do.
+
+TALIESIN: If the room was on fire, we obviously
+would have to leave.
+
+SAM: Yes, but it's not on fire.
+
+TALIESIN: That room could be on fire. Someone's
+yelling.
+
+TRAVIS: You always do what you're told, Claire?
+Always? Miss Perfect?
+
+SAM: No, I'm not perfect. I just see no reason to
+break the rules, and I'm not going to until--
+
+TRAVIS: (snores) I'm with you, Andy. Let's do it.
+
+TALIESIN: All right. I dare you to go first.
+
+TRAVIS: I dare you to-- Okay. What am I doing?
+
+TALIESIN: Go check on the door. Get up.
+
+TRAVIS: Oh. Yeah.
+
+SAM: There's a screaming child in there. It's
+probably related to you because you're such a
+
+fucking baby over there.
+
+TRAVIS: (blows raspberry)
+
+SAM: Ooh. Multi-language flip-off.
+
+TRAVIS: Can I go up to the door?
+
+LAURA: Yeah.
+
+TRAVIS: Is it locked?
+
+LAURA: It's not locked.
+
+TRAVIS: It's not locked?
+
+LAURA: Mm-mm.
+
+TALIESIN: Okay, I get up. Now that I see it's not
+locked, I'll get up too.
+
+SAM: You shouldn't get up at all.
+
+TALIESIN: Shh.
+
+TRAVIS: Shut up.
+
+TALIESIN: Help or don't.
+
+TRAVIS: Probably not trapped, right? I mean, we're
+in a school.
+
+TALIESIN: I'll--
+
+TRAVIS: I got it. I'll just open the door.
+
+LAURA: It's not trapped.
+
+TRAVIS: Oh, nice. Can I just open it?
+
+LAURA: Yeah. Bunder, you're actually really
+familiar with this room, having served so many
+
+detentions, a lot of them one-on-one with the
+professor. So this is the office you're used to.
+
+Everything's where you were used to seeing it.
+Actually, let me bring in a map.
+
+SAM: You got a map?
+
+TRAVIS: Oh! A map already?!
+
+SAM: It's a first encounter.
+
+TALIESIN: Yes.
+
+SAM: Laura Bailey.
+
+LAURA: Oh, here's your classroom!
+
+ALL: Ooh!
+
+LAURA: All right. So this is where you are. Claire
+and Andy, Bryan--
+
+LIAM: She got it from Chessex.
+
+LAURA: I did. Bryan, Allison--
+
+TRAVIS: That's probably dry-erase marker.
+
+LAURA: Yeah, totally not Sharpie. Here's you,
+Bunder, you're back here. I can put you where
+
+you're at.
+
+TRAVIS: Oh, we have us-es?
+
+LAURA: No, but I'll use some of these figures over
+here like Sam did. Okay. So this is Allison. This
+
+is Andy. This looks like Claire, because you've
+got flippy hair.
+
+SAM: Sure.
+
+LAURA: Oh, this is perfect because this is a
+Smytherpin! This will be Bunder. Then this one
+
+right here is-- Well, you're a girl. We'll switch
+this. This is Ally, this is Bryan.
+
+TRAVIS: Okay.
+
+LAURA: You have walked up here, Bunder.
+
+TRAVIS: Yeah.
+
+TALIESIN: I've joined.
+
+LAURA: Andy.
+
+LIAM: I'm going, too.
+
+LAURA: You go join at the top of the door and you
+walk through.
+
+SAM: Allison said she's going too, but she mumbled
+it.
+
+LIAM: It's boring down here.
+
+TRAVIS: Are any of the portraits on the wall, are
+they paying attention to me as I walk up the stairs?
+
+LAURA: There's actually no portraits on the wall
+here. But, what you're used to seeing in her room,
+
+are three large tapestries covering the walls. On
+the one on the back, you see a giant tapestry,
+
+like you're used to, of a green dragon sleeping on
+top of a hoard of gold. The way it's woven, you
+
+can almost see curls of smoke coming up from his
+nose. On the left wall, is a phoenix rising from a
+
+big mound of ashes. It looks like the fire is
+actually glowing in the weave. On the right wall,
+
+you see a tapestry featuring a herd of centaurs.
+Is that what you call them? A group of them? I
+
+don't know. Galloping over a hill with tall blades
+of grass almost blowing in the breeze. It seems to
+
+move as you look at it. What you're not used to
+seeing, however, is in the corner, a little-- it
+
+almost looks like a birdcage filled with little
+sprites? Pixies? You're not sure. "(gasp) You
+
+"heard me. You heard me! Help, please!"
+
+TRAVIS: Oh my god. Andy, look in the corner.
+
+TALIESIN: Are they in detention too?
+
+LAURA: "You have to let us out of here. I don't
+even know what she's doing!"
+
+TRAVIS: Shh! Keep your voice down. Who's she?
+
+LAURA: "The professor?"
+
+TRAVIS: Professor Furbin?
+
+LAURA: "Yeah. She's obsessed! She stole us from
+our home in the forest behind the castle. Please.
+
+"We just want to get back to our families."
+
+SAM: What's going on up there?
+
+TALIESIN and TRAVIS: Nothing!
+
+BRIAN: What's happening?
+
+TRAVIS: There's a mirror and it just talks.
+
+TALIESIN: Keep watch.
+
+TRAVIS: Yeah, so how many of these little sprites
+are in the cage?
+
+LAURA: It looks like about eight of them. Are you
+walking into the room?
+
+TRAVIS: Yes.
+
+LAURA: As you walk in closer, you can see better
+now that instead of a normal fairy, they almost
+
+look like there are two arms on top, two arms on
+bottom and each of the fairies have eight-- four legs.
+
+That's how it would go.
+
+TRAVIS: Four arms, four legs?
+
+LAURA: Four arms and four legs. They have humanoid
+features, but closer it's almost like a tarantula,
+
+they've got a fur covering their bodies.
+
+TRAVIS: Do they have (clicking) pincers?
+
+LAURA: They're pretty small, you can't really
+see.
+
+TRAVIS: What color are they?
+
+LAURA: They're almost a black color. Beautiful
+wings, dragonfly-like wings.
+
+LIAM: Are they winged?
+
+LAURA: They are, but they're sitting. They're not
+flying in there right now, they're sitting very sadly.
+
+TRAVIS: Okay, I'll keep an eye, you get him.
+
+TALIESIN: Nerd!
+
+BRIAN: What?
+
+TALIESIN: We need you to take a look at
+something.
+
+BRIAN: I'll come up there when I'm good and
+ready.
+
+TALIESIN: Coming up right now.
+
+BRIAN: Coming up right now.
+
+SAM: I can't be the only one down-- (huffs)
+
+BRIAN: No, it's fine, just-- Yeah.
+
+TRAVIS: Yeah careful, Claire. There's all sorts of
+exciting things in here.
+
+SAM: I'm going to stay down here until--
+
+BRIAN: She just wants to not get in trouble. She
+won't get caught.
+
+LAURA: I'm going to take my necklace off because
+it's hitting things.
+
+BRIAN: What you need?
+
+TALIESIN: You ever seen anything like this before?
+Do you know what these are?
+
+BRIAN: Oh that's an eight-pack of sprites right
+there.
+
+(laughter)
+
+LIAM: (Australian accent) Bacon and eggs!
+
+TRAVIS: (Australian accent) Down under.
+
+LIAM: (Australian accent) Fairies on the barbie.
+
+LAURA: "Please! Why are you laughing? You have to
+help us."
+
+BRIAN: What's the matter, you were kidnapped?
+
+LAURA: "Yes!"
+
+BRIAN: By who?
+
+LAURA: "By this woman! This small woman!"
+
+BRIAN: Which woman?
+
+LAURA: "Please! We were brought here. The
+professor says she wants to learn about us. I
+
+"don't know what that means!"
+
+TRAVIS: While they're pleading, is there anything
+on the desk that looks like it might be worth snagging?
+
+LAURA: There's a neat stack of books on the desk.
+Everything else-- she's a very clean professor.
+
+BRIAN: Is this where the birdcage is?
+
+LAURA; No, the birdcage is in the corner, it's a
+bigger-- it's a square, like an intricate, square,
+
+big birdcage.
+
+TRAVIS: I don't know. What's in it for us if we
+let you out? I'll start trying the drawers of the
+
+desk to see if they open.
+
+LIAM: Are there any beverages in here?
+
+LAURA: There's no beverages.
+
+LIAM: No decanters, no?
+
+LAURA: No, nothing.
+
+BRIAN: Have they done anything to you in here?
+
+LAURA: "They took one of our friends. I haven't
+seen her since."
+
+BRIAN: Do you know where she went?
+
+LAURA: "No."
+
+BRIAN: How long ago?
+
+LAURA: "I don't know, it's hard to tell time in
+here. Please!"
+
+LIAM: Have you been hurt at all?
+
+LAURA: "I haven't, but I miss my family so much.
+Please! If you let us out I can tell you how to
+
+"open her desk."
+
+BRIAN: (noncommittal mumbling)
+
+TRAVIS: Sounds solid to me. Yeah!
+
+LIAM: Is it locked? Did you try it?
+
+TRAVIS: No. Is it locked?
+
+LAURA: The desk?
+
+TRAVIS: No, the cage.
+
+LAURA: The cage has a small lock on it, yes.
+
+TRAVIS: Anybody good with locks? Oh, I think I
+am!
+
+LAURA: "I know where the key is!"
+
+TRAVIS: Oh. And where is that?
+
+LAURA: "It's in the drawer. On the left-hand side
+of her desk."
+
+TRAVIS: Allison?
+
+LIAM: All right. I go to the desk.
+
+LAURA: Okay. You look at the desk. There's three
+drawers in the left-hand side and the middle is
+
+more intricate-looking. It looks like the middle
+drawer is the one that's locked, that she was
+
+talking about, but you can open the left drawer if
+you want to.
+
+LIAM: I'll start on the left at the top.
+
+LAURA: Okay, you open it.
+
+LIAM: Yes?
+
+LAURA: Sitting in there, you see a small key that
+looks like it would fit in the birdcage.
+
+LIAM: You do it.
+
+TRAVIS: You do it.
+
+TALIESIN: Together, no? More deniability?
+
+TRAVIS: Yeah.
+
+TALIESIN and TRAVIS: One, two, three.
+
+TRAVIS: Oh you prick.
+
+LAURA: As you open it, the fucking sprites go
+fucking crazy. They just come out into the room. I
+
+want everybody to roll initiative.
+
+ALL: Oh!
+
+SAM: Initiative?!
+
+TRAVIS: Fucking sprites.
+
+TALIESIN: I'm so excited.
+
+LAURA: Let me find my little dice, because I don't
+have actual sprites, but I have these little dice
+
+that I'm going to use to show where they are.
+
+LIAM: Itty-bitties?
+
+LAURA: Itty-bitty dice.
+
+TALIESIN: Oh no, that's terrible.
+
+LAURA: How many do I have? How many did I say?
+One, two, three, four, five, six, seven. Then
+
+we'll use this teeny-- Oh they're so teeny. So
+they fly out. One goes over here. One comes over
+
+to the corner. One comes up on the desk. Two fly
+out the window, out the door. One flies over to--
+
+who is this one?
+
+LIAM and SAM: Allison.
+
+LAURA: Allison! One flies over to Andy and one
+comes at you, Bunder.
+
+TRAVIS: Bunder!
+
+LAURA: Hold on, let me roll initiative, too.
+
+TRAVIS: Okay.
+
+LAURA: Okay. I have no idea how this works.
+
+TRAVIS: 25 to 20.
+
+LAURA: 25 to 20!
+
+LIAM: 20.
+
+TRAVIS: Ooh!
+
+LAURA: Okay. 20 to 15?
+
+LIAM: Oh dear.
+
+TALIESIN: Crickets.
+
+TRAVIS: Oh shit.
+
+LAURA: Oh wow. 15 to ten? Are you fucking kidding
+me?
+
+TRAVIS: I rolled an eight.
+
+TALIESIN: Eight.
+
+SAM: I have a nine.
+
+BRIAN: Nein!
+
+TRAVIS: Two nines and two eights?
+
+LAURA: Two nines? Okay, Bryan.
+
+TRAVIS: Bryan and Claire.
+
+TALIESIN: We are sharp, aren't we?
+
+LAURA: And then Bunder.
+
+TRAVIS: And Andy.
+
+LAURA: Bunder and Andy. All right. Let me look at
+this sheet and figure out when they go. (singing
+
+to herself)
+
+SAM: Laura Bailey is about to operate combat.
+Multiple--
+
+LAURA: I mean, look at how many fucking things I
+put out here. I have no idea why I did this.
+
+SAM: This was my first mistake, too.
+
+TRAVIS: Yeah, you put eight enemies in that
+tavern.
+
+LIAM: You had 500 people down.
+
+LAURA: That's okay, these are little guys. Do you
+really want to kill them? I mean, come on!
+
+LIAM: Kind of.
+
+TRAVIS: I've got spells. Spells.
+
+LAURA: All right, Ally, you're up first. What
+would you like to do?
+
+LIAM: I'm going to use a cantrip and I'm going to
+make this wand grow into a full-sized staff and
+
+cast Shillelagh.
+
+TRAVIS and SAM: (exaggerated) Shillelagh!
+
+LIAM: That's a bonus action, actually. So now I'm
+holding it. Can I hold my action to attack this
+
+thing if it attacks me?
+
+LAURA: Yes.
+
+LIAM: That's what I'm going to do.
+
+LAURA: Okay. Up next are the biting sprites. The
+one next to you is going to bite you.
+
+LIAM: Whack! Okay, so I would attack. Everything
+is brand new. That is a very terrible roll. That's six.
+
+LAURA: Yeah, that does not hit.
+
+LIAM: No.
+
+LAURA: That definitely doesn't hit. And that's it,
+right?
+
+LIAM: That's all I've got.
+
+LAURA: That's all you can do. Okay, they're going
+to bite you. She's going to roll. Oh my god, this
+
+is terrifying! Oh my god, I rolled a 19. That
+definitely hits.
+
+LIAM: That definitely hits.
+
+LAURA: That is a 1d8. Okay, that's good. That's a
+three. You take three biting damage and then you
+
+have to make a constitution save.
+
+LIAM: All right. That's pretty good. Where is
+everything? That is an 18.
+
+LAURA: Oh, good! You saved. So you only take five
+points of poison damage. Okay, the next one! This
+
+one's going to just dance around on the desk and
+take a piss. This one is going to attack Andy with
+
+a multi-attack. They're going to do a dagger
+attack on you.
+
+SAM: They have daggers?!
+
+LAURA: They have little daggers. Tiny little
+toothpicks, but they are really fucking fast.
+
+She's going to make three dagger attacks.
+
+ALL: Whoa!
+
+SAM: I don't like this DM!
+
+LAURA: (laughs maniacally) The first two are, oh
+jeez, 12?
+
+TALIESIN: That's my armor class.
+
+LAURA: Okay, the second one is 11, that doesn't
+hit. The third one is a 14, so it does.
+
+TALIESIN: Two attacks, yep.
+
+LAURA: Where's my eight? Here it is. Ooh, that's
+cocked.
+
+LIAM: I'm entranced with this acorn hat on Laura's
+head.
+
+LAURA: It's really great, isn't it?
+
+LIAM and TRAVIS: It's pretty cute.
+
+LAURA: Ten on the first dagger. Oh, damn.
+
+TALIESIN: Damn!
+
+LAURA: Only two points on the second one.
+
+LIAM: TPK in under ten minutes.
+
+TRAVIS: Come on, man!
+
+LAURA: Oh my god, right?! Okay, so that's that
+one.
+
+TRAVIS: Bumblesnore is going to do a funeral for
+one of us real quick.
+
+LAURA: The third one is standing on the plant in
+the corner. That's what this is. That's the fourth
+
+one. I don't know what she's doing. The fifth one
+is attacking you, Bunder. She's going to bite at you.
+
+TRAVIS: Bring it! Bet you won't roll high enough,
+punk! (blows raspberry)
+
+LAURA: Oh, I don't think it did with a natural
+one.
+
+TRAVIS: No!
+
+LAURA: It's a nothing! She goes to bite you, but
+she's just in awe of your earring and bites that
+
+instead and licks it a little bit.
+
+TRAVIS: Yeah, you would.
+
+LAURA: The next one goes after-- oh, they both
+flew out of the classroom. They just fly out and
+
+they're flying around the classroom. They start
+flying over here and knocking a bunch of books off
+
+the bookshelf and ripping things apart. Next up is
+who on the initiative?
+
+TRAVIS: They were after Allison?
+
+LAURA: Yeah. Brian, you're up next.
+
+BRIAN: These are the only two in the room? Or
+there's one attacking you here?
+
+TALIESIN: There's one on me.
+
+TRAVIS: There's four.
+
+BRIAN: Oh, yeah. Okay, sorry. They're blending
+into the environment.
+
+LAURA: They're teeny.
+
+TRAVIS: It's a detailed map.
+
+BRIAN: How much movement do I have?
+
+LAURA: Hey!
+
+TRAVIS: It's good, though!
+
+BRIAN: I will go over here and attack this one.
+
+LIAM: It doesn't look like a dick and balls at
+all, though.
+
+BRIAN: I'd like to go over here--
+
+LAURA: And attack that plant?
+
+BRIAN: Yeah, I'm going to do Sacred Flame.
+
+LAURA: Oh, nice.
+
+SAM: (sarcastic English accent) Sacred Flame?
+
+BRIAN: Sacred Flame in his ass!
+
+LAURA: All right.
+
+BRIAN: Or her ass.
+
+LAURA: What is that? Tell me how Sacred Flame
+works.
+
+BRIAN: "A flame-like radiance descends on a
+creature you can see within range. The target must
+
+"success on a dexterity saving throw 16 or take 2d8
+radiant damage."
+
+LAURA: Okay, let's find out. Definitely a success,
+that is 16 plus six. They are very tiny. They're
+
+hard to hit.
+
+BRIAN: (buzzing)
+
+LAURA: But as you get over there-- this is you,
+right, dweeb?
+
+BRIAN: That's me.
+
+LAURA: As you get over there, the plant comes
+alive. It's a violet fungus over in the corner.
+
+TRAVIS: (shouting) Oh! Dang!
+
+LAURA: Oh my god! I can't believe you fell for
+that shit! It's going to make an attack against
+
+you. That definitely hits with a natural 18.
+
+BRIAN: Yep.
+
+LAURA: It's going to do 1d4 Rotting Touch. That's
+just four, no, two points of damage. All right. Up
+
+next is Claire.
+
+SAM: What is happening up there?
+
+TRAVIS: You're so hot, babe.
+
+SAM: I'm going to stand up at the desk and say to
+those two sprites down there: Those books are for
+
+students only! I will cast Magic Missile, sending
+two darts at one of them and one dart at the
+
+other. They instantly hit!
+
+LAURA: Oh, they do?
+
+SAM: They do. They cause two points of damage
+each. One takes four damage and the other takes two.
+
+LAURA: All right. They're still alive.
+
+SAM: Uh-huh. Then I'll move towards them, but turn
+to the right so I can hide behind the stairs or something.
+
+LAURA: How about that?
+
+SAM: That's perfect.
+
+LAURA: Okay! Up next is Bunder. What do you want
+to do, Bunder?
+
+TRAVIS: I am going to turn to this little sprite
+right here next to me and I'm going to cast Ray Of
+
+Frost. Yeah. "A frigid beam of blue-white light
+streaks toward a creature within range. Make a
+
+"ranged spell attack against the target."
+
+LAURA: Which one are you hitting? The one that's
+attacking you?
+
+TRAVIS: Yeah, that one. That is a 12.
+
+LAURA: That doesn't hit.
+
+TRAVIS: Fuck! I think that's my turn.
+
+SAM: Nice job.
+
+LAURA: All right, up next: that's Andy.
+
+TALIESIN: I'm going to use my bonus action to
+summon my beater stick.
+
+LAURA: (laughter) Nice.
+
+TALIESIN: It flies into my hand. I'm going to spin
+around and try-- I live for this-- I'm going to
+
+try and hit the one that took a swing at me and
+I'm going to strike with a green flame attack.
+
+TRAVIS: Ooh, you can make it green, too?
+
+TALIESIN: That's my specialty. (triumphant
+laughter) 27 to hit.
+
+LAURA: Whoa yes, that definitely hits.
+
+TALIESIN: That's, oh wow, that's a lot. This is
+going to hurt. That's a 1d4 and a 1d8. 13 points
+
+of damage.
+
+LAURA: That sprite is just obliterated. Little,
+teeny flecks of blood splatter on the wall.
+
+TALIESIN: I'm going to flip around on top of the
+desk and squish the one that is on the desk.
+
+LAURA: Awesome! Okay, you jump up there.
+
+TALIESIN: I am going to swing and squish that one.
+That's a 16 to hit.
+
+LAURA: That hits!
+
+TALIESIN: That's not going to be quite as
+hardcore, but it's seven points of damage.
+
+LAURA: Seven points of damage. It's hanging on,
+but just barely.
+
+TALIESIN, SAM, and BRIAN: Ah!
+
+LAURA: All right, we're back up to the top with
+Ally.
+
+LIAM: I will stay with the same strategy and I am
+going to swing my shillelagh like a golf club and
+
+see if I can smear that one against the wall
+closest to me. That's another a terrible roll.
+
+That is 13 to hit.
+
+LAURA: It doesn't hit.
+
+LIAM: It doesn't hit. Swing away, swing wide. No.
+
+LAURA: It's laughing at you. It keeps darting out
+of the way going (mischievous laughter). All
+
+right, that is the sprites' turns. Oh jesus, this
+is a lot. The one next to you, Ally, is going to
+
+dagger at you. The first two do not hit, but the
+third one does.
+
+LIAM: All right.
+
+LAURA: Then that is-- what did I say?
+
+SAM: You know.
+
+LAURA: It's just a little thing, the daggers.
+
+TALIESIN: Tiny daggers.
+
+LAURA: Oh god, it's a lot! Okay. Dupe, dupe and a
+dupe. All right.
+
+SAM: That's three dupes.
+
+BRIAN: Three dupes until Christmas.
+
+LAURA: Oh, but only one hits. Never mind, I'm
+going to roll again, only one hits. That is four
+
+points of piercing damage.
+
+LIAM: All right.
+
+ALL: (singing) Dupey, dupey, dupey, dupe.
+
+LAURA: The one on the desk is going to attack you,
+Andy, for coming at her, with a bite.
+
+SAM: He's a jock, though, he'll be fine.
+
+LAURA: 12 plus--
+
+SAM: Isn't he the jock? You're not the jock?
+
+TRAVIS: I'm the rebel, bitch!
+
+SAM: You're the rebel, you're the jock, you're the
+nerd. You're the burnout?
+
+LAURA: 16.
+
+TALIESIN: That hits.
+
+LAURA: Okay. That's 1d8 plus two, so that's six
+points of-- oh god, no! You have to make a
+
+constitution saving throw.
+
+TALIESIN: Okay.
+
+TRAVIS: Smytherpin!
+
+TALIESIN: Oh yeah, 22.
+
+LAURA: Nice! That is five points of poison
+damage. Oh! Halved, because you saved.
+
+TALIESIN: So three points of-- yeah, okay.
+
+SAM: What house am I?
+
+BRIAN: Dryffingor!
+
+LAURA: You're a Dryffingor! The one in the corner
+with you, Brian, is going to attack you with three daggers.
+
+BRIAN: Okay.
+
+SAM and LAURA: Dagger, dagger, dagger.
+
+LAURA: Oh, natural 20! The second one misses, I
+think.
+
+SAM: She is killing us.
+
+LAURA: I know right? Sorry.
+
+LIAM: We're going to send you to Abzkadan.
+
+LAURA: Is it a ten, does that hit?
+
+BRIAN: That's my armor class.
+
+LAURA: The third one misses, you're lucky. That's
+two daggers. (laughter) Okay, that's eight points
+
+of piercing damage.
+
+BRIAN: Okay.
+
+LAURA: All right, you know what? I'm pretty
+violent here. The next one down, it's just like
+
+hanging out in the corner. It's going to start
+taking its daggers and destroying the tapestry of
+
+the centaurs.
+
+TRAVIS: Oh, not cool.
+
+LAURA: The ones over by the books. Claire, you
+attacked them, why did you do that?
+
+SAM: Because they were stealing the property of
+Schmogwarts.
+
+LAURA: One hisses at you, and the other one flies
+at your face.
+
+SAM: No! My beautiful face.
+
+LAURA: She is going to try to bite your nose.
+
+SAM: No!
+
+LAURA: Oh does a 13 hit?
+
+SAM: Sure.
+
+LAURA: Awesome! Make a constitution saving throw.
+
+SAM: Six.
+
+LIAM: Did anyone at this table equip armor?
+
+SAM: No, we were not told to.
+
+TRAVIS: My AC's 12.
+
+SAM: Mine is ten, yours is ten.
+
+LIAM: I'm sitting at a 14.
+
+BRIAN: What do you go there, big piggy pants?
+
+TALIESIN: 12.
+
+LAURA: That's eight points of poison damage. Are
+you all going to die before we get out of this room?
+
+SAM: Probably.
+
+TRAVIS: Y'all, we got this. We're fine.
+
+SAM: We got like tons of healers.
+
+LAURA: All right, Ally, you're up.
+
+LIAM: Already? It's already me? That was fast.
+
+LAURA: Oh, no, just kidding. Bryan you're up, the
+faeries went.
+
+BRIAN: I will attack this son of a bitch in the
+corner still. With a fucking-- I think I'll do a
+
+Sacred Flame again.
+
+LAURA: Oh nice.
+
+BRIAN: So you must do a dexterity saving throw and
+you must beat 16.
+
+LAURA: That did not succeed.
+
+BRIAN: Oh! Then you must take 2d8 radiant damage.
+
+TRAVIS: Oh there you go, that's a big one.
+
+BRIAN: Eight!
+
+LAURA: Eight points. Did you already hit it in the
+corner at all?
+
+BRIAN: No, not yet. Because last time I failed.
+
+LAURA: All right, it's still hanging on. Just a
+little bit. Okay, Claire!
+
+SAM: (screams) Oh, get off of my face! Oh, oh,
+oh! Begone! I don't know. I want acid to fly on
+
+you. I'll cast Acid Splash on this thing. It has
+to make a dexterity 14 save.
+
+LAURA: Okay, that does not succeed.
+
+SAM: So it takes three points of damage.
+
+LAURA: It is barely hanging on, but it's alive.
+It's very angry at you.
+
+SAM: Oh god! Can I just shake my hair at it to
+confuse it?
+
+LAURA: Of course you can. It actually seems to
+enjoy it. It starts laughing as you do. Bunder?
+
+TRAVIS: Pissed off, I cast Thunderclap at this
+sprite over here. Constitution saving throw.
+
+LAURA: Okay. What do I have to get?
+
+TRAVIS: 14
+
+LAURA: I succeeded.
+
+TRAVIS: I haven't done shit to this fucking
+sprite.
+
+LAURA: I'm sorry.
+
+TRAVIS: I spit at it.
+
+LAURA: Ugh, it takes--
+
+TRAVIS: I miss.
+
+LAURA: Aww. I was going to say for a bonus
+action.
+
+TRAVIS: I have sorcerer points, I don't know how
+that works, so I'm not using them.
+
+LAURA: Oh that's right, you're a sorcerer.
+
+TRAVIS: I don't know how that shit works, I don't
+have time for that.
+
+LAURA: Ain't nobody got time for that! Andy?
+
+TALIESIN: I'm going to take another swipe at that
+one that's not dead yet, on the table that was
+
+just mewling at me. I'm going to hit it again with
+my beater bat. Yeah, that's pretty good. That's 22.
+
+LAURA: 22 hits.
+
+TALIESIN: That's not too much damage. I just
+realized I'd done my damage slightly wrong, I've
+
+got a plus two bonus.
+
+LAURA: That means you would have killed that first
+one.
+
+TALIESIN: That's all right. That's 12 points of
+damage.
+
+LAURA: Just obliterated. It's just splattered
+across your desk leaving a nice messy smear.
+
+TALIESIN: I'm going to run over to you, and I'm
+going to smack the one that's right in front of
+
+you. That's fine, don't be impressed or anything.
+
+LIAM: Do something to impress me.
+
+TALIESIN: I'm going to use green flame again.
+
+LAURA: Okay.
+
+TALIESIN: Yep, that hits, that's 26.
+
+LAURA: Oh wow, what?
+
+TALIESIN: I'm a monster, I rolled a 19.
+
+LAURA: It's those Smytherpin dice you're using.
+
+TALIESIN: They're really good, I know. So that's
+an eight and a four, plus eight. My god, that's
+
+nuts. 14 points of damage.
+
+LAURA: Again, you knock her down and splatter on
+Allison's shoes.
+
+TRAVIS: One Smytherpin army.
+
+TALIESIN: On green fire too, so it's flaming goop.
+I'm going to use my Second Wind to get some hit
+
+points back. So that's nine hit points back, and
+I'm done.
+
+LAURA: Back up to the top, Ally. What do you do?
+
+LIAM: He gets a look and then, very frustrated
+with how that went, I walk over to the other-- Slytherpin?
+
+TRAVIS: Smytherpin.
+
+LIAM: I point this large shillelagh down just to
+focus direction and cast Thunderwave against the
+
+wall that's closer to it.
+
+LAURA: Ooh, both of those? You walk over here and
+you're aiming this way?
+
+LIAM: I was going to try and not hit the
+Smytherpin, so I will walk up next to Bender,
+
+Bunder, Blunder?
+
+TRAVIS: Bunder.
+
+LIAM: I'm not going to hit him, I'm going to do it
+wide of him, and you have to do something, it just
+
+shoots out and it's a con save of 15.
+
+LAURA: I'm going to roll for both of them. Neither
+one succeed.
+
+TRAVIS: Christ, thank you.
+
+LIAM: She takes 2d8. New classes. 14.
+
+LAURA: They're both slammed up against the
+tapestry. This one impales itself on the other
+
+one's dagger and they both start sliding down the
+wall.
+
+LIAM: I turn and look over my shoulder at the jock
+and just--
+
+TALIESIN: You're bloody weird.
+
+LAURA: Now it is the sprites' turn. The one in the
+corner with you Bryan, she's going to try and bite
+
+you again.
+
+BRIAN: Come at me.
+
+LAURA: That's a 15 plus-- yeah that definitely
+hits. Make a constitution saving throw.
+
+BRIAN and TRAVIS: Plus zero.
+
+BRIAN: 12.
+
+LAURA: 12? It hits.
+
+(laughter)
+
+LAURA: That is six points of poison damage. Is our
+cleric almost dead?
+
+TRAVIS: No.
+
+LAURA: Okay, good.
+
+BRIAN: All kinds of tricks up me sleeve.
+
+LAURA: All right, the one next to you, Claire--
+
+SAM: Ugh! Help me! Why is no one helping me?
+
+LAURA: She's going to grab onto your hair and
+start pulling it to try to dagger-dagger your ear.
+
+BRIAN: Because you're rude.
+
+LIAM: Proper rude, proper naughty.
+
+BRIAN: You're not as pretty as she is. Nor as
+charismatic.
+
+LAURA: The first one, she gets tangled up in the
+hair. It misses. The second one definitely hits,
+
+and the third one, again she gets caught in your
+earrings.
+
+SAM: My hair is just so luscious. I brush it 35
+times every morning.
+
+LAURA: That's four points of piercing damage to
+your ear hole. Yeah. The one over at the bookcase
+
+continues to stay over at the bookcase and starts
+shredding books, laughing the whole time. Oh yeah,
+
+this is a little bookcase over here. That's what
+this is. Tearing up the books, pieces of book go
+
+flying everywhere. Claire-- no, Bryan! What do you
+do?
+
+BRIAN: I'm going to attack it with fucking-- with
+Inflict Wounds.
+
+LAURA: Whoa! All right.
+
+TRAVIS: Man, we got to start using bigger stuff. I
+haven't hit one of these fucking things yet.
+
+BRIAN: Okay, so I need to roll for that one?
+
+LAURA: Yes, you do. Roll for a spell attack.
+
+SAM: Oh, boy.
+
+BRIAN: 25.
+
+LAURA: That definitely hits. Did you cast it at
+level one?
+
+BRIAN: You bet your fucking sweet-- yes. 3d10.
+
+SAM: Travis' earring is so off-putting.
+
+BRIAN: 16!
+
+LAURA: Oh, yeah. That little fairy is smushed
+amongst the plant. In addition, you also flattened
+
+the fungus that was attacking you in the corner.
+
+BRIAN: This is my detention!
+
+LAURA: Wow. Claire, you're up.
+
+SAM: I'm going to do what I did before, and do a
+Magic Missile. Get off me, ew! One bolt is going
+
+to hit the one in front of me, and two the one on
+the bookshelf.
+
+LAURA, LIAM, and TALIESIN: Aww.
+
+BRIAN: That was the saddest dice roll ever. It
+wanted to land on the--
+
+SAM: Your dice are terrible, Liam.
+
+(laughter)
+
+LIAM: These are Slytherpin dice!
+
+SAM: Two points of damage to the one on my face.
+
+LAURA: You did one missile at the one on your face
+and two at the one? It doubles.
+
+SAM: So two hit points to the one on my face, and
+four to the one over there.
+
+LAURA: Okay, nice.
+
+SAM: Are any of them dead?
+
+LAURA: No, they're both still alive.
+
+(laughter)
+
+SAM: (screams)
+
+LAURA: Okay. Bunder, you're up.
+
+TRAVIS: Oh! It's me.
+
+LAURA: Everything in this room has been
+splattered, so all that's left is Claire screaming like a--
+
+TRAVIS: I'll run out down the stairs--
+
+SAM: Help me!
+
+TRAVIS: To the top of the stairs.
+
+LAURA: Don't you--
+
+TRAVIS: Forget about me. I'll strike a pose and
+try Ray of Frost again.
+
+LAURA: Yeah, use your wands, wizards.
+
+TRAVIS: Yeah. It's instantaneous, ranged spell
+attack. Natural 20. Smoke this business. Okay,
+
+here we go. (counting) That's 12 points of cold
+damage.
+
+LAURA: That is completely wiped out.
+
+SAM: (as Nott) I softened it up for you. Why am I
+talking like Nott? Ah, I softened it up!
+
+TRAVIS: Listen, if you want to come give me a
+kiss, I won't, you know, turn it down.
+
+SAM: No thanks. I'm not interested in you at all.
+Seen you walking around here and you're disgusting.
+
+TRAVIS: Likely story.
+
+LAURA: Andy, you're up. There's one sprite left,
+but you can't see it.
+
+TALIESIN: No, but I've definitely heard the
+commotion, so I'm going to at least come running
+
+up to the stairs and see what's up.
+
+SAM: There's a sprite down there.
+
+TALIESIN: Can I see the sprite?
+
+SAM: It's awful.
+
+LAURA: Yeah, you can. Well, you can't see the
+sprite, but you can see fucking mayhem over here.
+
+TALIESIN: I'll see if I can get in a position
+where I can see the sprite.
+
+LAURA: You can come down like that.
+
+TALIESIN: Yeah. I see it? I'm going to use-- it's
+gnawing on a book?
+
+LAURA: It's what?
+
+TALIESIN: Is it gnawing on a book?
+
+LAURA: Yeah, it's ripping up pages.
+
+TALIESIN: I'm going to use Catapult spell on one
+of the books.
+
+LAURA: Wow, okay. And try to smash it?
+
+TALIESIN: I'm going to squish it. That's a 14 dex
+save.
+
+LAURA: Oh, I've got to roll. Oh! Natural one! Andy
+kicking butt on these little strikes. What a jock!
+
+What an athlete he is!
+
+TALIESIN: That's-- (laughter)
+
+SAM: Oh my god!
+
+TALIESIN: That's 17 points of damage. To the book
+and the sprite.
+
+LAURA: The book smashes up against the wall, the
+sprite gory on the other side of it. Slides down.
+
+TALIESIN: Gross.
+
+TRAVIS: Yeah!
+
+LAURA: In the aftermath, you realize you've
+kind of destroyed her office, in addition
+
+to the classroom.
+
+SAM: What did you guys do up there? I was just
+down here minding my business, and you set these
+
+fucking things down here to mess me up? I blame
+you.
+
+TALIESIN: That's fair.
+
+TRAVIS: Me? Why would you blame me?
+
+SAM: Look at you!
+
+TRAVIS: Rugged good looks? I know. It's hard to
+imagine--
+
+SAM: No! You're riff raff.
+
+TRAVIS: Love me? You love me?
+
+SAM: No, I don't love you.
+
+TRAVIS: Want a kiss?
+
+SAM: I don't want a kiss. I have plenty of other
+options, thank you very much.
+
+TRAVIS: I'm here all day. I mean, we've got
+detention together.
+
+BRIAN: We didn't send them down to you.
+
+SAM: How did they come out?
+
+BRIAN: They flew once we opened the fucking cage.
+
+SAM: You went where you weren't supposed to,
+and you messed with something you weren't supposed
+
+to, and I got fucking scratches all over my
+beautiful face. I think you've learned a lesson:
+
+don't mess where you're not supposed to!
+
+LIAM: Can I raid the entire desk while they're all
+arguing?
+
+LAURA: Of course you can.
+
+LIAM: Is there anything of use?
+
+TRAVIS: Which tapestry did it start to tear at?
+
+LAURA: The centaur one.
+
+TALIESIN: Of course, the centaurs. This was the
+best one. What are you going to do about it?
+
+LAURA: Gorgeous. It was really nice tapestries.
+
+LIAM: They were all really well hung.
+
+SAM: They look like they're moving.
+
+LAURA: Yeah, they do.
+
+LIAM: Yep, swing away.
+
+LAURA: So Allison, you come over here. You go
+rifling through the desk. Let me see
+
+what you find. Nothing really of use, but you do
+find a lot of drawings of centaurs.
+
+BRIAN: Oh, I like to do drawings!
+
+LAURA: You see a drawing of a spider creature,
+which is, interestingly enough -- nobody noticed
+
+-- it's similar to a little spider that's sitting
+next to her desk under a little bell jar, a glass
+
+bell jar.
+
+LIAM: Moving?
+
+LAURA: Yeah, it seems like it. Not moving a lot,
+but it's there. She's also drawn pictures of
+
+horses with wings on them, skeletal wings. Yeah,
+that's all you find in those drawers.
+
+TALIESIN: What about the good drawer?
+
+LIAM: Can anyone get it open? Where's the rough
+one? Well, I suppose you're pretty rough. Can you
+
+get that open?
+
+TALIESIN: I mean-- Are we doing this, then?
+
+LIAM: Blame it on the fairies.
+
+TALIESIN: I'm going check underneath-- I'm
+going to check the drawers I can open, see if I can
+
+find a key that's hidden-- if she's maybe done the
+thing where you hide a key where the--
+
+LAURA: Okay, roll an investigation check.
+
+TALIESIN: All right. 15?
+
+LAURA: 15. You feel around the back. It seems like
+somebody's stuck a piece of gum under one of the drawers.
+
+TALIESIN: Gross.
+
+LAURA: You keep searching.
+
+TRAVIS: I'll take that.
+
+LAURA: Oh, that is so gross.
+
+BRIAN: He'll chew on anything.
+
+LAURA: You can feel, maybe, like a little bit of a
+lump. Something sticking out just a bit on the
+
+second drawer.
+
+TALIESIN: I'm going to press?
+
+LAURA: You press it, and the drawer opens up in
+the middle.
+
+TALIESIN: Solid!
+
+LAURA: All right. On the inside, you find just one
+sheet of paper, and it's a letter from
+
+Headmistress McLoglilagh?
+
+SAM: Yep.
+
+(all repeat "McLoglilagh")
+
+LAURA: McLoglilagh!
+
+LIAM: Bob Loblaw strikes again.
+
+LAURA: Letting Professor Furbin know that she
+cannot accept her request to become the professor
+
+for Care of Magical Screechers.
+
+(laughter)
+
+LAURA: Jesus! I don't know what I can say and what
+I can't!
+
+LIAM: Guys, K. J. Dowling would be so proud.
+
+(laughter)
+
+LAURA: Saying that they have a really wonderful
+Care instructor already, but, should the position
+
+ever become available, that she will definitely
+let her know. You see little splotches of water on
+
+it, like she may have been crying over this.
+
+TALIESIN: Now I feel bad.
+
+TRAVIS: She really wanted to be a Care of Magical
+Screechers teacher?
+
+TALIESIN: It certainly explains a bit. Still no
+way to open the main drawer, though, is there?
+
+LAURA: No, that was the main drawer.
+
+TALIESIN: That was the main drawer.
+
+LAURA: She was protecting that poor, sad, little
+letter.
+
+TRAVIS: Should we dispose of these sprites? Maybe
+a little prestidigitation to get rid of the gore
+
+on the walls?
+
+BRIAN: I mean, we might need it to clean up the
+whole bloody place now, after you--you've--you
+
+whole lot wrecked the goddamn-- (laughs)
+
+TALIESIN: I've never seen you so awkward in my
+entire life.
+
+LIAM: I would like to also, in this room, search
+behind the tapestries to see if anything's hidden there.
+
+LAURA: Okay, roll an investigation check.
+
+BRIAN: Can I look for any way out of the room?
+Like if there's any way out of the room we don't
+
+know about?
+
+LAURA: No, there's a classroom door. There's--
+
+BRIAN: No, but I mean, like, is there any--
+
+LAURA: There's no secret-- I mean, you can look,
+but--
+
+BRIAN: You already told me. You already told me.
+Why waste a good roll?
+
+LAURA: Five? You don't find anything behind the
+tapestries.
+
+SAM: I will use prestidigitation to clean up some
+of the gore on me.
+
+LAURA: Nice.
+
+SAM: And fix up my face a little bit.
+
+LAURA: Your makeup looks really good now.
+
+SAM: And also I'll clean up some of the nasty
+bits, because I don't want the teacher to see.
+
+LAURA: Nice!
+
+TRAVIS: Yeah, so what's the story, right? They,
+like, broke out and got free and fled?
+
+TALIESIN: I've got an idea. I'm going to find the
+lock on the cage. I'm going to take one of the
+
+tiny daggers from the little, tiny sprites and
+stick it in there.
+
+LAURA: Oh, I like it.
+
+TRAVIS: Smart.
+
+TALIESIN: We got attacked. We heard a ruckus. We
+came upstairs.
+
+TRAVIS: She might be coming back, actually. I'm
+going to run to the classroom door and just put my
+
+ear to the door to make sure that no one's-- I
+can't hear anything.
+
+LAURA: Roll a perception check.
+
+BRIAN: You're pretty clever for a meathead.
+
+TALIESIN: I don't like getting caught.
+
+TRAVIS: Ten.
+
+LAURA: Ten. You put your ear against the door, and
+you can hear what sounds, maybe like, whispers on
+
+the other side?
+
+TRAVIS: (shushing sounds) (whispering) Come here.
+Come here.
+
+SAM: What?
+
+TRAVIS: Get over here.
+
+SAM: Fine.
+
+BRIAN: Oh, he wants us to smell a fart.
+
+TRAVIS: No, I hear people on the other side of the
+door.
+
+SAM and BRIAN: What are they saying?
+
+TRAVIS: What are they saying?
+
+LAURA: It's very subtle. You can't tell. You can
+try opening the door to find out.
+
+TRAVIS: I can't hear. It's very subtle.
+
+TALIESIN: I'm going to do one last check for
+liquor in the teacher's office.
+
+LAURA: (laughter) Roll an investigation check.
+
+TALIESIN: No, nine.
+
+LAURA: Aw. Alas, nein. You do not find anything.
+
+TALIESIN: I give up, head downstairs.
+
+TRAVIS: Is the door to the classroom locked?
+
+LAURA: You can try the door.
+
+TRAVIS: I'll try the door, but just to crack it.
+
+LAURA: It's unlocked.
+
+TRAVIS: I'll crack it a peak. What do I see?
+
+LAURA: You see a pretty dark hallway. The school
+is shut down for the weekend, but-- normally, when
+
+you exit the classroom, which is down one hallway
+-- so your class is at a diagonal and a corner --
+
+to the right is a hallway that you know leads up
+into the further west wings. To the left is a
+
+hallway that leads to the main stairwell that will
+take you down to the main entrance, the great
+
+hall, everything like that.
+
+TRAVIS: Anyone fancy a bite to eat?
+
+LIAM: We're just going to sneak out of here?
+
+TRAVIS: Yeah, why not?
+
+LIAM: What happens when we're not here when they
+get back?
+
+TRAVIS: We say we were chasing after the sprites
+after they broke out, and we were trying to get
+
+them back for the teacher.
+
+TALIESIN: Do you want to stay and wait for them to
+get angry?
+
+LIAM: No.
+
+BRIAN: No. I mean, I brought some MRE's with me,
+but I'll still go.
+
+TRAVIS: Some what?
+
+BRIAN and SAM: Meals Ready to Eat.
+
+TALIESIN: I know why he knows that. Why do you
+know that?
+
+BRIAN: He's been following me.
+
+SAM and TRAVIS: She.
+
+BRIAN: She's been following me.
+
+SAM: I've not been following you. I just sit next
+to him in a lot of my classes, because I'm very
+
+smart and he's very smart. And I see him popping
+these things all the time. It's really gross. It's
+
+like astronaut food. They're like little
+freeze-dried pieces of shit, and he just eats them
+
+all the time. It's why he stinks to high heaven.
+It's disgusting. I know it's efficient or
+
+whatever, but it's not right, and I don't like it.
+
+TRAVIS: You sit next to him all the time in
+class?
+
+BRIAN: Yes, she cheats all the time.
+
+SAM: I do not cheat.
+
+TRAVIS: Oh, she cheats!
+
+SAM: I'm making sure that you don't cheat.
+
+BRIAN: Off you?!
+
+SAM: I have had the finest tutoring and the finest
+education afforded to me!
+
+LIAM: I've watched you do it, you know. In the
+back of three of your classes. I've seen it.
+
+SAM: I've never seen you in a class with me.
+
+LIAM: People don't pay attention to me much. Why
+do you care what we think or what others think?
+
+SAM: I don't. When I finish here, I will get a job
+at the finest ... wizard ... bank.
+
+(laughter)
+
+TRAVIS: Witch--
+
+SAM: Witch bank there is, and I will be just fine.
+You, on the other hand, will be rotting in some
+
+witch gutter somewhere.
+
+TALIESIN: Blingotts, perhaps.
+
+LIAM: I spin my wand and-- it's very pretty, but a
+ring of flowers making you look like a silly lion
+
+appears around your face.
+
+SAM: Get off of me! I don't want to stay in this
+classroom any longer.
+
+TRAVIS: I don't either, and while you two are
+flirting, I'll open the door and make my way out
+
+of the room.
+
+LIAM: (whispering) Wait, wait, wait, wait.
+(normally) I wave my wand and cast Pass Without a
+
+Trace on all of us.
+
+LAURA: Nice. So you going stealthy?
+
+SAM: Is that how I don't ever see you in class?
+
+TRAVIS: Yes, stealthy.
+
+LAURA: Everybody roll a stealth check.
+
+LIAM: Plus ten.
+
+LAURA: Plus ten, yes.
+
+TRAVIS: Ooh, thank god for that. 22.
+
+BRIAN: Stealth?
+
+LAURA: Whoa.
+
+SAM: 21.
+
+LAURA: Whoa!
+
+TALIESIN: 27.
+
+LAURA: Whoa!
+
+SAM: Oh, the old Sam Riegel roll.
+
+LIAM: 28.
+
+LAURA: Geez, Louise!
+
+BRIAN: This is just a stealth check?
+
+TRAVIS: Yep, plus ten.
+
+BRIAN: 17.
+
+LAURA: Well, you know what? Everybody else rolled
+really well. Okay, which way do you guys head?
+
+Towards the left or the right?
+
+SAM: Where's the whispers? To the left?
+
+LAURA: You heard the whispers over to the right.
+
+SAM: To the right. And then to the left is
+towards--
+
+LAURA: To the left is the big stairwell. You know
+it well. The stairs move. They'll take you to
+
+every level, but also to the main hall.
+
+TRAVIS: We could eat if we go to the left, or we
+could see what these whispers are about.
+
+LIAM: (whispering) I want to see what the whispers
+are.
+
+TRAVIS: All right, we go to the right.
+
+LAURA: Okay, as you walk by, you see what the
+whispers are, and they're the paintings on the
+
+wall. "Oh, oh, oh, oh." You see a painting of a
+jolly-looking man sitting. He's been looking very
+
+frightened, actually, frazzled. "Oh, students!
+Students! Do you know what's happening?"
+
+TRAVIS: No, jolly old man.
+
+SAM: Well there were sprites that attacked us in
+the room. Is that what you're referring to?
+
+LAURA: (grumbles) "Pff. It's coming from down
+below. Did you hear it? The professor came out running."
+
+BRIAN: What does it sound like?
+
+LAURA: The painting next to him chimes in. "Yes,
+yes, yes. She seemed very frazzled. She seemed
+
+"very scared indeed."
+
+BRIAN: Which way did she go?
+
+LAURA: "She ran below."
+
+TRAVIS: Down the stairs? Down that way?
+
+LAURA: "Mmhmm. Can you tell us what's happening?"
+
+TRAVIS: We don't know--
+
+LAURA: "We saw her talking to somebody, but we
+couldn't see who it was."
+
+TRAVIS: No, we've been in the classroom this whole
+time.
+
+LAURA: "Well you're of no use, are you?"
+
+TALIESIN: Well...
+
+BRIAN: I mean--
+
+LAURA: "Tell you what, children. Will you go find
+out what's going on? It's very dreary up here on
+
+"the wall."
+
+TRAVIS and BRIAN: Yeah.
+
+SAM: We could tell you, yes.
+
+BRIAN: We could come back and remember to tell you
+after whatever happens.
+
+LAURA: "Remember everything. Tell me a story,
+won't you?" "Oh, yes," the man chimes in
+
+next to her. "Please, tell us a story."
+
+(laughter)
+
+TRAVIS: All right, stay put! We'll turn around 
+and head downstairs, or towards the stairs--
+
+LAURA: Towards the stairs--
+
+TALIESIN: Is everybody feeling all right, by the
+way? We did just get attacked by a bunch of sprites.
+
+SAM: I'm not feeling so good.
+
+TRAVIS: What's wrong with getting attacked by
+sprites?
+
+TALIESIN: You look a little pale. I mean, paler
+than normal.
+
+BRIAN: I could use a little-- yep. How's
+everyone-- how're you-- yep.
+
+TALIESIN: I'm all right.
+
+SAM: Not so good.
+
+TRAVIS: Well, as a Smytherpin, I'm not really, you
+know, concerned about people outside of my own house.
+
+BRIAN: How are you doing?
+
+SAM: Seeing as how the sprite attack was all of
+your fault, I think that you all should be
+
+responsible for making me whole again.
+
+BRIAN: Oh, doesn't that just sound like the one
+percent?
+
+(laughter)
+
+SAM: Yes, I am the one percent, and I got there by
+hard work.
+
+TRAVIS: You mean your parents did.
+
+SAM: Yes, well, I inherited some of their hard
+work.
+
+TRAVIS: Mmhmm.
+
+LIAM: Are you sure you're in the right house?
+
+BRIAN: Did you get a small loan of a million wands
+when you was young? How bad a shape are you?
+
+SAM: I have never felt worse.
+
+TRAVIS: Are you really bad?
+
+BRIAN: I could take care of you, but you should--
+for one month, you have to tell everyone that
+
+we're best friends and you mustn't wink or give
+it away.
+
+SAM: No, what-- Fine!
+
+BRIAN: You must, with that plastic face of yours,
+convince people we're best friends for one month.
+
+SAM: I will tell people that we're best friends
+for one month, but no one will believe that. They
+
+know you. They know how weird you are and how
+attractive I am.
+
+TALIESIN: I would totally back that up. That's
+great.
+
+BRIAN: Okay. I head down the hallway.
+
+SAM: Wait, no.
+
+LAURA: You're not going to heal?
+
+BRIAN: No.
+
+SAM: I said I would tell people!
+
+BRIAN: Not in a convincing way.
+
+SAM: Fine. I will be convincing. Please, Bryan,
+please.
+
+BRIAN: I face away from her, and I cast Cure Wounds
+for her.
+
+(laughter)
+
+TALIESIN: What's your AC, out of curiosity? How
+easy to hit are you? Are you nimble?
+
+TRAVIS: Ten.
+
+LAURA: Oh god, really?
+
+TALIESIN: What's your dexterity?
+
+TRAVIS: Nobody's above a 12. No, we have one 14.
+
+BRIAN: 11.
+
+TALIESIN: Your dexterity's 11.
+
+TRAVIS: 14's the tank.
+
+TALIESIN: But you're ten? We're going to need
+this.
+
+TRAVIS: Under your shawls.
+
+BRIAN: Nine points of healing.
+
+SAM: Thank you, Bryan. See? Now that is a classy
+young man who's been taught well.
+
+TRAVIS: (growls)
+
+SAM: Not interested. I have plenty of boyfriends,
+thank you.
+
+TRAVIS: In your Tiger Beat Magazine.
+
+BRIAN: Pillow boyfriends.
+
+LAURA: As you head down the hallway, you see on
+your right hand side there's a door that leads to
+
+your level one spells class that your took years
+ago, your first year at school. You all know it
+
+well. Then straight ahead is the moving
+staircases.
+
+SAM: Is that a thing from Schmarry Schmotter?
+
+TRAVIS: Yes.
+
+(laughter)
+
+LAURA: Yes!
+
+TRAVIS: The door to the classroom is closed, yes?
+
+LAURA: No, it's actually open.
+
+TRAVIS: It's open. Just a quick peek in.
+
+LAURA: It's a dark classroom. You can hear a
+little shuffling inside of it, actually.
+
+TRAVIS: Hello?
+
+SAM: Is it dark in there?
+
+TRAVIS: Yeah.
+
+SAM: Would you like me to make some light?
+
+TRAVIS: Can you do that?
+
+SAM: Can I do that? I've been doing that since I
+was 15. Last year.
+
+(laughter)
+
+SAM: Light!
+
+LAURA: The room lights up and in the corner you
+see a little house elf.
+
+TRAVIS: Oh!
+
+LAURA: "Ah! Oh! Students. Beetle is very sorry.
+Beetle didn't mean to be out here for you to see
+
+"her. Ooh, please don't hurt me."
+
+TRAVIS: You're out of place up here, house elf.
+
+TALIESIN: Report. What is going on?
+
+LAURA: "There's a bit of a commotion on the lower
+levels. Beetle is very sorry for it. Beetle hopes
+
+"it didn't disturb you."
+
+TALIESIN: What sort of commotion?
+
+LAURA: "Well, hmm, Beetle wants to tell you, but--"
+Beetle starts hitting her head against the
+
+wall. "I just--"
+
+TRAVIS, TALIESIN, and SAM: No, don't do that.
+
+SAM: Who is your master?
+
+LAURA: "Schmogwarts is my master."
+
+SAM: Oh, you belong to the school.
+
+LAURA: "Yes. Can't you tell?" She's wearing
+clothes. She's wearing a very nice little--
+
+SAM: She's wearing clothes?
+
+LAURA: Yes, she's wearing a frock with a
+Schmogwarts logo on it, actually.
+
+SAM: Well, we are students of "Schmoschwarts." We
+pay the tuition that affords your fineries. In a
+
+sense, you work for us. So we would request kindly
+that you would tell us what's going on down there.
+
+TRAVIS: You're Dryffingor, right? Jeez!
+
+SAM: I don't know.
+
+TRAVIS: You might be in our house.
+
+LAURA: "Pretty student makes a very good point.
+Beetle wants to tell you. Beetle needs help."
+
+TRAVIS: Help to tell us?
+
+LAURA: "Hmm, no. Beetle needs help down below."
+That sounded really dirty.
+
+(laughter)
+
+LAURA: "Beetle needs help in the lower-- just-- Do
+you know where the Great Hall is?"
+
+TRAVIS: We do, yes.
+
+LAURA: "Please meet me next to the Great Hall."
+She apparates out of the room.
+
+TALIESIN: Which classroom is this, one more time?
+
+LAURA: This was level one spells.
+
+TALIESIN: There's no potions in here, are there?
+
+LAURA: There's nothing. There's just empty desks
+and a board at the front of the classroom listing
+
+spells that you all know like Light.
+
+TRAVIS: Something is fishy here. Our teacher runs
+out, the portraits are scared, and now one of the
+
+house elves tells us to meet her downstairs.
+
+SAM: Yes, something is afoot here. We should write
+a strongly worded letter to the proctors at this
+
+fine academy. And we should get a partial refund
+on our tuition and possibly accommodations.
+
+TALIESIN: I'll go downstairs and hit things with
+sticks until they go away.
+
+TRAVIS: I agree. Let's go. We head downstairs.
+
+SAM: All right, I'll go too.
+
+LAURA: You make your way out into the very tall
+pillar where you see a bunch of staircases moving.
+
+You know that one of them will take you down and
+as you start to get on it, it starts shifting
+
+slowly over like it's going to another entrance.
+Do you run down the stairs?
+
+SAM: We get on!
+
+LAURA: All of you run and make an acrobatics
+check.
+
+TRAVIS: Fuck! Six.
+
+TALIESIN: Eight.
+
+SAM: 18.
+
+LAURA: Nice.
+
+LIAM: 21.
+
+BRIAN: 18.
+
+LAURA: Nice. The three of you run, you make a
+flying leap and you make it across. Easy peasy, no
+
+sweat. What did you roll?
+
+TRAVIS: Six.
+
+LAURA: Ooh, Bunder--
+
+TALIESIN: Eight.
+
+LAURA: And Andy, very surprising as such an
+athlete. As you run forward, both of you leap at
+
+the same time and actually run into each other,
+and as you leap you barely catch the edge of the
+
+archway.
+
+TALIESIN: I hate this stairwell.
+
+TRAVIS: I do, too. Allison, a hand? I'll pull up
+Andy with me.
+
+LAURA: All right. All five of you safely across,
+you start making your way down to the Great Hall.
+
+You enter--
+
+TRAVIS: Wands out.
+
+LAURA: It's very dark. As you're walking down the
+stairs, you can see a raggedy looking cat crossing
+
+your path. She's looking around with red eyes. She
+crosses your path. Everybody make a stealth check.
+
+SAM: Are we still Pass Without A Trace on?
+
+LIAM: Yes, we are.
+
+TALIESIN: We are still Pass Without A Trace.
+Natural 20.
+
+TRAVIS: 26.
+
+BRIAN: Pass Without A Trace means what? I get
+what?
+
+TRAVIS, SAM and LIAM: You get plus ten.
+
+SAM: 19.
+
+BRIAN: 22.
+
+LIAM: 28.
+
+LAURA: All right. As you walk--
+
+SAM: Before we walk in, I'm going to quickly thank
+Bryan for helping earlier, and designate you as my Ward.
+
+BRIAN: What am I entitled to as your Ward?
+
+SAM: Absolutely nothing.
+
+BRIAN: Oh! Oh.
+
+SAM: What was that? What were you doing?
+
+LIAM: Flowers again.
+
+LAURA: As you walk down, you spot Mr. Borris, who
+you know is the cat belonging to Mrs. Blinch.
+
+Yeah, the caretaker of the school. They will
+definitely report you if you're seen out of the
+
+classroom, so it's very good that you all rolled
+very high. You squat down and are very quiet as
+
+Mr. Borris pads out of the room and across the way
+and enters the Great Hall.
+
+SAM: That was close.
+
+LAURA: You very quietly make your way down the
+giant staircase into the entryway and look around.
+
+Poof! "Beetle! Beetle sees you, thank you for
+meeting me. In here."
+
+TRAVIS: We hustle in.
+
+BRIAN: Let's go.
+
+TRAVIS: Into the Great Hall?
+
+LAURA: No. Into a broom closet next to the Great
+Hall. All of you pile in. It's a very tight little room.
+
+TRAVIS: I didn't even know this room was here.
+
+LAURA: "Thank you for joining me."
+
+SAM: Why have you taken us here?
+
+LAURA: "I need help down below. Beetle needs help
+in the kitchens."
+
+SAM: Oh like, to cook?
+
+LAURA: "Hmm, no."
+
+LIAM: Do you think you could maybe outline the
+problem you're dealing with?
+
+TRAVIS: Are you talking about the dungeons?
+
+LAURA: "Follow me." Beetle apparates out of the
+room.
+
+LIAM: So infuriating.
+
+SAM: She's going to the kitchens now.
+
+TALIESIN: I don't even know where the kitchens
+are.
+
+BRIAN: Well, the kitchens are in the down below
+place.
+
+TRAVIS: Do we know how to go below?
+
+LIAM: I mean, we go to school here, so it stands
+to reason.
+
+LAURA: Make an investigation check.
+
+LIAM: Every perception it's been two, three, two.
+Balls. Total balls.
+
+LAURA: Your hair is in your face. How do you see
+anything?
+
+BRIAN: Can I also make an investigation check?
+
+TALIESIN: 17.
+
+LAURA: Yes. All of you can look around this broom
+closet.
+
+SAM: 24.
+
+LAURA: Oh, well. No need.
+
+BRIAN: 19.
+
+LAURA: Claire sees all. As you all cram into this
+broom closet and start feeling around--
+
+SAM: Get away. I see something.
+
+LAURA: Claire, you realize there's actually a very
+small doorway at the back of the broom closet.
+
+TRAVIS: How convenient.
+
+LAURA: It must have been what she was talking
+about. Do you enter?
+
+TRAVIS: Will we fit through?
+
+BRIAN: I could probably fit through there. Could
+we all fit?
+
+LAURA: Yeah, if you crouch down, if you crawl you
+probably could fit.
+
+SAM: I found it. I'll go first.
+
+TRAVIS: Are you sure? It could be dangerous. It
+could be scary.
+
+SAM: I know, that's why I'm going first. So I can
+spare you from pissing in your pants.
+
+LIAM: Bryan, do you want to get behind her?
+
+SAM: This is not flirty banter.
+
+TRAVIS: I bet you. Keep it up.
+
+BRIAN: Yeah, I'll get behind her.
+
+TRAVIS: Winning me over.
+
+SAM: Ward. Let's go.
+
+TRAVIS: Ward? (high-pitched voice) Robin.
+
+SAM: All right, I'll go through the doorway.
+
+LAURA: All right.
+
+TALIESIN: I feel responsible for some of this.
+
+LAURA: All right marching order is what?
+
+SAM: Claire, that's the armor.
+
+LAURA: No, you're not. Okay, Claire the armor.
+Then Bryan. Then who?
+
+TRAVIS: I'll be third.
+
+LAURA: Okay.
+
+TALIESIN: I'll go fourth.
+
+LIAM: I'll be last.
+
+LAURA: All right. As you guys make your way down
+this little winding stairwell, we're going to take a break.
+
+TRAVIS: Yeah, I like it!
+
+LAURA: All right, we'll be back in a little bit, I
+guess.
+
+BRIAN: You're doing so good.
+
+TRAVIS: You're doing so good, Headmistress.
+
+LAURA: Oh no.
+
+LIAM: First of four tonight. First of four.
+
+LAURA: All right.
+
+TRAVIS: Is that it? It that how it works? Okay,
+we'll go to break.
+
+[break]
+
+LAURA: And we're back. The Club o' Misfits heading
+down the spiral staircase to Beetle's lower
+
+levels. Yeah, did I just-- Oh I did, I knocked all
+you guys over. That's fine, because as you guys
+
+come down the stairs, nothing happens. You walk
+out. It's fine. You walk into a giant kitchen. It
+
+is a giant kitchen in the same shape as the Great
+Hall. It is humungous. There's lengths of tables
+
+like your house tables all the way down to the
+front, but instead of seeing your stage where your
+
+professors normally stand, you see lots of
+stovetops and cook prep. You have hearths on
+
+either side, three each, where they're cooking
+different types of stews and everything like that.
+
+You see a lot of house elves around. There's a ton
+of them busy working, getting ready for when all
+
+the students come back from Schmogsmeade.
+
+TRAVIS: Excuse me. Hello. We're looking for--
+
+LAURA: They all scream. They scatter. They go
+running, except for one. Beetle pops up. "Hi.
+
+"Sorry about the mess in here. Most students don't
+see this. Okay, well, I want you all to know--
+
+"Beetle wants you all to know that your professor
+is occupied. I've told her there's an emergency
+
+"situation and she was needed over in the East
+Wing, so I sent her that direction. Okay."
+
+TRAVIS: Is there an emergency in the East Wing?
+
+LAURA: "Um, no."
+
+TRAVIS: You lied?
+
+LAURA: "Ooh!" Beetle starts hitting her head
+against the archway.
+
+ALL: No, no no!
+
+LAURA: (sobbing) "Beetle is sorry for lying! It
+was important. If Professor Furbin knew that
+
+"Beetle had lied, she would be beaten!"
+
+TRAVIS: I cast Mage Hand and stop her from hitting
+herself.
+
+LAURA: "Thank you, very tall, dark, handsome
+student."
+
+TRAVIS: I'm sure you deserved it. It's okay.
+
+SAM and BRIAN: He's not that handsome.
+
+TRAVIS: Don't lie to yourself.
+
+LAURA: "Professor Furbin has asked Beetle to help
+her in the past. Professor Furbin had Beetle
+
+"gather up sprites from the Dark Forest behind the
+castle."
+
+TRAVIS: Oh, you were the one that captured the
+sprites and put them in her office?
+
+LAURA: "Yes. Professor Furbin is very interested
+in magical creatures."
+
+BRIAN: Why?
+
+LAURA: "She loves them, I guess. Beetle did gather
+up a spider as she asked. Yes, perhaps you
+
+"students saw this spider?"
+
+ALL: Yes.
+
+TRAVIS: Do you know why she had you gather up the
+spider?
+
+LAURA: "She said she liked them. Beetle didn't
+tell her where she gathered it from, though."
+
+SAM: Where did you gather it from?
+
+BRIAN: You can tell us, maybe?
+
+LAURA: "Maybe I can show you?"
+
+BRIAN: Yeah.
+
+TRAVIS: Whoa, Beetle, did you gather it from the
+Dark Forest?
+
+LAURA: (hesitantly) "Yes."
+
+TRAVIS: We're not allowed to go into the Dark
+Forest.
+
+BRIAN: We're not allowed to be here right now.
+
+LAURA: "Students don't need to go to the Dark
+Forest. Beetle can show you. Please, follow us.
+
+"Follow. Follow." All of a sudden I'm Sméagol. She
+walks down the length of the kitchens. Do you
+
+follow her?
+
+LIAM: (as Sméagol) What is it?
+
+ALL: Yeah.
+
+TALIESIN: I'm into this.
+
+LAURA: Okay. In the middle of the frigging
+kitchens, you see a giant fucking hole in the floor.
+
+TRAVIS: Oh!
+
+TALIESIN: Is this normal?
+
+LAURA: "Spiders weren't happy that Beetle stole a
+child. Beetle is sorry. Spiders wanted it back."
+
+SAM: Oh. Like a big spider?
+
+LAURA: "Mm-hmm."
+
+SAM: Oh no.
+
+LAURA: "Please, spiders are coming out of hole.
+Mrs. Furbin would be very angry. Headmistress
+
+"would be very angry if she knew."
+
+TRAVIS: Should we plug this hole, then?
+
+LAURA: "Perhaps students can just kill the
+spiders."
+
+LIAM: How big are the spiders we're talking
+about?
+
+LAURA: "Not very big. Bigger than Beetle, but
+barely bigger than students."
+
+BRIAN: I've never plugged a hole before.
+
+TALIESIN: We know.
+
+BRIAN: You do?
+
+TALIESIN: Yes.
+
+TRAVIS: It happens to us all at some point.
+
+BRIAN: Oh.
+
+TRAVIS: It was many years ago, I barely remember.
+
+TALIESIN: So you're going first? Excellent.
+
+TRAVIS: Now that-- Yes. I will go first into the
+hole.
+
+LAURA: You're going to go down the hole?
+
+TRAVIS: Yep.
+
+LAURA: Mmkay. There's a giant hole in the ground
+and you can see a ramp. It looks like maybe a
+
+pillar has fallen and it leads you in a nice ramp
+down the hole so you don't have to drop.
+
+TRAVIS: Didn't you have--
+
+BRIAN: I can cast Light.
+
+SAM: Oh. Excellent work.
+
+LAURA: All right.
+
+BRIAN: I'm going to cast Light.
+
+LAURA: Down there.
+
+BRIAN: Right down in that dirty little hole
+there.
+
+LAURA: As you light up the hole, you can see it's
+a very deep hole. It goes down for probably about
+
+60, 70 feet.
+
+BRIAN: Okay.
+
+LAURA: It's dark at the bottom still.
+
+SAM: Smart guy? You're just going to jump down
+into that?
+
+LIAM: You're the one with experience plugging
+holes.
+
+TRAVIS: No problem. I will jump on that pillar and
+slide down.
+
+LAURA: Make an acrobatics check.
+
+TRAVIS: 13.
+
+LAURA: Okay. You start sliding. Your feet start to
+catch on the stonework as you go and you actually
+
+stumble forward into a run, but you do land on
+your feet at the bottom of it.
+
+TRAVIS: Just like I meant to.
+
+LAURA: Do the rest of you follow?
+
+TALIESIN: Sure.
+
+BRIAN: Yeah.
+
+TRAVIS: Totally fine down here. No spiders.
+
+LAURA: Do you travel carefully or do you try to
+slide like this jackass?
+
+TALIESIN: Carefully.
+
+TRAVIS: Don't judge.
+
+LAURA: I don't judge, I'm a DM. I don't judge.
+
+TALIESIN: Well...
+
+LAURA: Hmm.
+
+BRIAN: I saw there's a note written behind her
+screen that says it.
+
+LAURA: Jack. Ass.
+
+BRIAN: Do not judge. I'll go carefully because I'm
+not going to succeed in anything acrobatic.
+
+LAURA: All right.
+
+SAM: I'll go carefully as well.
+
+LAURA: All right. As all of you travel down this
+pillar carefully, you land in this very large
+
+cavern. As Beetle said, there are spider webs
+around. You don't see any spiders, though. What
+
+you do see is behind you it looks like there's
+been a cave-in. Maybe there was a doorway behind
+
+you in the bottom of the cavern before and across
+the way, you do see a small doorway opening, but
+
+the main thing that you see-- Why don't I just
+show you?
+
+SAM: Oh snap.
+
+LAURA: Hold on.
+
+TRAVIS and LAURA: Hold on, hold on, hold on.
+
+TALIESIN: Whoa, that's a big map.
+
+LAURA: Oh, I knocked all of you over again. Here
+you are. You landed all down here. Bloop. I don't
+
+know what's happened to the last one of you.
+You're apparently just dead.
+
+SAM: Close to the screen.
+
+TRAVIS: Oh yeah, by your left there.
+
+LAURA: Bloop. All right. Hold on, I'll be right
+back.
+
+SAM: What? Where are you going? Art & Arcana.
+
+BRIAN: Guys, let's not forget. Why don't you hold
+this up and give that a spin?
+
+SAM: It's so hefty because it's filled with
+luscious--
+
+BRIAN: Content.
+
+SAM: Lucious artwork on full color pages.
+
+TRAVIS: The most extensive collection of D&D
+imagery ever assembled.
+
+SAM: Wow.
+
+LIAM, TALIESIN, and BRIAN: Whoa.
+
+TRAVIS: Yes! (screaming)
+
+LAURA: It seems like you have landed upon a giant
+board of wizard's chess.
+
+TRAVIS: Oh shit.
+
+LIAM: What is going on?
+
+LAURA: It seems like it's seen better days.
+They're battle damaged; some of the pawns are
+
+missing arms. There's a knight that's missing a
+head across the way. The king has been impaled
+
+through, but it's standing there and you all are
+standing on the board.
+
+TRAVIS: Crazy that Schmogwarts would have a Lord
+of the Rings wizard's chess board.
+
+SAM: A Schmord of the Schmings.
+
+LAURA: Can we just show how hideous Schmagadriel
+is? She is so ugly. Anyway.
+
+SAM: I mean, there's no other player, right?
+
+LAURA: (gasps dramatically)
+
+SAM: Oh no. Hello?
+
+LAURA: No, there's nothing. You land on the
+board.
+
+BRIAN: May I cast something real fast?
+
+LAURA: Yes, you certainly try.
+
+BRIAN: Okay. I'm going to do something call Beacon
+of Hope.
+
+LAURA: Okay.
+
+BRIAN: Do you know what that does?
+
+LAURA: I do.
+
+BRIAN: Okay. And then-- Beacon of Hope cast in
+conjunction with Prayer of Healing.
+
+LAURA: In conjunction when you cast Prayer of
+Healing.
+
+BRIAN: Yeah. So that way I can give everybody some
+extra HP. Yeah, I'm that gentleman right there.
+
+LAURA: I'm going to mark this, so you know, that
+it's a concentration spell, Beacon of Hope.
+
+BRIAN: Okay. So, I need to do--
+
+TALIESIN: You've got an AC of ten, right?
+
+BRIAN: Yes.
+
+TALIESIN: Oh for gods' sakes! I'm going to smack
+you in the back of your head and cast Mage Armor.
+
+BRIAN: 2d8 plus my spell casting modifier. So 2d8
+plus eight. Oh my goodness.
+
+TRAVIS: It's big. Yeah! 23.
+
+BRIAN: 15 plus eight? 23.
+
+SAM: What's that?
+
+BRIAN: 23 HP to six creatures. So if anybody is
+down in HP, you can do up to 23 hit points. I'm
+
+using this shit on my fucking self.
+
+LAURA: Oh yeah.
+
+TALIESIN: So everybody's maxed? Also, you're AC is
+changed. Your new AC is 13 plus your dexterity modifier.
+
+BRIAN: Oh god. Thank you.
+
+LAURA: So 13. What's your dex?
+
+SAM: Seeing that happen, Claire is also going to
+cast Mage Armor on herself.
+
+BRIAN: Okay, Taliesin, hit me one more time?
+
+TALIESIN: 13 plus your dex modifier.
+
+BRIAN: Oh, that's zero.
+
+TALIESIN: You're at 13 now.
+
+LIAM: And the Beacon of Hope gives everyone
+advantage on wisdom saves and death saves.
+
+BRIAN: Correct. Thank you. I was going to get to
+that.
+
+TRAVIS: Not that these poor kids won't be in any
+danger.
+
+LAURA: Of course not! It seems perfectly safe down
+here amongst these giant spider webs.
+
+TRAVIS: Do we see anything behind the chess pieces
+or the other side of the board across from where we are?
+
+LAURA: Make an investigation check-- Or a
+perception check, rather.
+
+TRAVIS: Perception check. That is a 17.
+
+LAURA: You can see there seems-- You saw something
+pull back when you landed.
+
+TRAVIS: On the other side of the board?
+
+LAURA: On the other side of the board. Hiding
+behind the pillar over there.
+
+BRIAN: Over where?
+
+LAURA: This one that is standing upright. This one
+is the only one that's fallen.
+
+TRAVIS: Okay. Do you think we have to play to get
+across the board?
+
+SAM: Probably not. There's no one playing here.
+
+TRAVIS: I'll take a step forward.
+
+LAURA: Okay. You stepped here. All right--
+
+TRAVIS: Oh shit.
+
+LAURA: The board moves. The board moves to here.
+
+SAM: (whispering) Oh no! You're the pawn.
+
+TRAVIS: Yeah, I picked a really shitty starting
+place. We need to figure out which pieces we are.
+
+SAM: Oh no.
+
+LAURA: Yeah. Where do you guys want to be?
+
+TRAVIS: You took me off.
+
+LAURA: I'm just kidding.
+
+SAM: Oh no, we have to play chess?
+
+LIAM: So we need to step on the board somewhere?
+
+SAM: I'm the queen!
+
+LAURA: All right. No, that's you.
+
+LIAM: I would be a knight.
+
+LAURA: Which side?
+
+SAM: I am not at all concerned.
+
+LIAM: I would play on the far side. Your right.
+
+LAURA: This one?
+
+LIAM: No, your right.
+
+BRIAN: Oh god, help.
+
+TRAVIS: You want to be a bishop?
+
+BRIAN: Yeah.
+
+LIAM: Do you want to be the broccoli?
+
+BRIAN: Yeah. Make me the broccoli, please.
+
+TRAVIS: A tree Ent.
+
+LIAM: That is broccoli.
+
+LAURA: I know it's cool, right?
+
+BRIAN: The albino broccoli.
+
+LAURA: And Andy?
+
+BRIAN: Weren't you in an a capella group, The
+Albino Broccoli?
+
+TALIESIN: I'll take the castle.
+
+LAURA: Which one?
+
+TALIESIN: The castle on the end right there.
+
+LAURA: This one?
+
+TALIESIN: Yeah.
+
+LAURA: All right.
+
+SAM: Oh boy.
+
+TRAVIS: I'm a pawn. But I definitely took my two
+full things forward.
+
+LAURA: Okay.
+
+TRAVIS: That he clearly took two.
+
+BRIAN: Yeah, did we get 30 feet of--
+
+LAURA: Yeah, you did, but I thought you only moved
+forward one.
+
+TRAVIS: I said I stepped forward.
+
+LAURA: Okay, all right.
+
+BRIAN: A merciless dungeon master.
+
+TRAVIS: So now, we move next?
+
+LAURA: I'll allow it.
+
+TRAVIS: Should I just dispatch the--
+
+SAM: Take the pawn. Take care of it.
+
+TRAVIS: I will cast Acid Splash on that bitch.
+
+LAURA: All right.
+
+BRIAN: (whispering) Wait, but are we going to also
+have to fight a giant spider?
+
+LAURA: As you do, it fades into nothing and you
+take the spot.
+
+TRAVIS: Yeah! All right, play carefully, I'm out
+here by myself.
+
+SAM: Don't worry, you'll definitely live because
+pawns always do.
+
+LAURA: It's his turn now, and it's going to move
+to there. The knight moves forward, the pawn
+
+shifts out of the way as this knight slides
+forward and takes its spot. He's very
+
+intimidating, this knight on a horse.
+
+SAM: What if we lose at this?
+
+TRAVIS: Yeah, I'm a pawn. It's not good. In a very
+bad starting position.
+
+LAURA: It's you guys' turn.
+
+TRAVIS: Yeah, okay. Who's good at chess?
+
+LIAM: I'll go. I will go two spaces forward and
+one to the right.
+
+SAM: Can we move our other pieces that aren't us?
+
+TRAVIS: Yeah, you can tell the pawns to move.
+
+LAURA: Yeah, you can.
+
+TALIESIN: We just have the ability to actually
+kill the other pieces if we so wanted to.
+
+LAURA: This pawn's going to move forward two
+spaces.
+
+SAM: Oi, you there in front of me, pawn, why don't
+you move ahead one space?
+
+LAURA: As this happens, suddenly, three spiders
+come out of the darkness! One comes out from right
+
+here, and they're walking towards the board.
+
+LIAM and BRIAN: They're so sparkly.
+
+LAURA: I know, aren't they?
+
+BRIAN: They're bedazzled spiders.
+
+LAURA: This one comes out from this pillar over
+here, and this spider drops down from above over here.
+
+TRAVIS: You can't leave the board!
+
+BRIAN: Oh, funky butt-loving.
+
+TRAVIS: Oh man.
+
+LAURA: It's your turn.
+
+TRAVIS: Are we in initiative?
+
+LAURA: Yeah, sure, roll for initiative.
+
+SAM: Oh god, what is this? We're playing chess and
+we're fighting spiders? This is the worst!
+
+BRIAN: This is D&D Beyond. Hey, awesome. It's a
+four.
+
+SAM: Is that dice jail over there?
+
+BRIAN: Yeah. No, this is just--
+
+LAURA: 25 to 20?
+
+TRAVIS: 25 to 20. Nobody.
+
+LAURA: 20--
+
+TRAVIS: 16. Cool.
+
+LAURA: 15 to ten?
+
+TALIESIN and SAM: 13.
+
+LAURA: Okay. Claire and Andy. What did you guys
+roll?
+
+BRIAN: Cuatro.
+
+LIAM: Nine for me.
+
+TRAVIS: Nein for Allison.
+
+LAURA: Man, clerics, they always go last. It's
+like a rule.
+
+BRIAN: That's cool, man. I got all the AC in the
+world now.
+
+LAURA: Whose turn was it?
+
+BRIAN: It was your turn, I believe.
+
+LAURA: Oh god! Okay.
+
+SAM: Oh god, we're playing chess. This could take
+an hour!
+
+LAURA: This pawn moves forward at the same time
+that this spider--
+
+TRAVIS: Oh fuck!
+
+LAURA: Rolls up and starts walking towards
+Allison.
+
+BRIAN: I don't like that.
+
+TALIESIN: Ah! I've got an idea. Second pawn ahead,
+two spaces. Not that one, that one.
+
+LAURA: It can't move that far.
+
+SAM: Yeah it can. On the first move, it can move
+two squares.
+
+LAURA: No, I know, but the spider--
+
+TALIESIN: Is it going to get into combat with the
+spider?
+
+LAURA: No, the pawn just moves back. There's
+already somebody occupying that space.
+
+SAM: Do the one space then?
+
+LAURA: You could do that.
+
+TALIESIN: One space, then.
+
+LAURA: All right.
+
+TRAVIS: I'm at the top of the initiative, right?
+
+BRIAN: Yes, 16.
+
+TRAVIS: Okay. Yeah. Fuck it. I'm going to cast--
+No, I should save it, right? Who knows.
+
+LAURA: Do whatever you want.
+
+TRAVIS: I'm going to cast Tidal Wave at this
+spider.
+
+LAURA: Do it!
+
+SAM: Quite the chess move.
+
+TRAVIS: 120 feet, 30 foot long, 10 feet wide, so
+maybe I can take a chess piece with me?
+
+BRIAN: Laura, if he succeeds, just bring out the
+dust-off can.
+
+LAURA: Oh my god.
+
+TRAVIS: You've got to make a dexterity saving
+throw of 15.
+
+LAURA: Okay. Oh no! I do not succeed. The spider
+does not succeed against the Tidal Wave.
+
+TRAVIS: 4d8s, so that's (counting)--
+
+SAM: You're not just focusing on the spider, are
+you?
+
+TRAVIS: No, 17. Wow, that was a good roll. 23.
+That was like fives or sixes or something.
+
+TALIESIN: What does that hit exactly, the Tidal
+Wave?
+
+TRAVIS: It hits 23 points and knocks prone
+anything that it hits. It's 30 feet long, ten feet
+
+wide, so ten feet wide and ten feet tall. So let's
+say I did it this way.
+
+LAURA: So you took out the rook and the pawn?
+
+TRAVIS: Yes.
+
+LAURA: Okay, hold on. Let me roll for them.
+
+TRAVIS: If they can survive 23 points of damage.
+
+LAURA: Okay.
+
+SAM: Is it total damage?
+
+TRAVIS: Yeah. 23 total.
+
+LAURA: Neither of them save on their dex either.
+Okay.
+
+TRAVIS: So these are knocked prone.
+
+LAURA: Yeah.
+
+TRAVIS and LAURA: Goosh!
+
+LAURA: That one is knocked prone as well. Okay. 23
+to each of those?
+
+TRAVIS: 23 to all three.
+
+SAM: Total. Right? No?
+
+TRAVIS: 23 each.
+
+SAM: Each? Wow!
+
+BRIAN: Nice work, mate.
+
+LAURA: Okay.
+
+TALIESIN: Where did you say you're from?
+
+BRIAN: Leeds.
+
+TALIESIN: That explains a lot.
+
+BRIAN: North Leeds. Shit, we're going to be in the
+UK tomorrow.
+
+LAURA: Did you want to try to move anybody on your
+side of the board?
+
+TRAVIS: We did, we moved the pawn, right? That was
+our--
+
+LAURA: Oh, that's right, they haven't moved yet.
+No, they did.
+
+TRAVIS: Now it's their turn in initiative or--
+
+LAURA: Oh god. Okay, okay, okay.
+
+BRIAN: Did you roll for every single chess piece,
+too, Laura?
+
+LAURA: I did not because these two, knocked over,
+are out of the fight.
+
+TRAVIS: Nice!
+
+LAURA: They can't get back up. All right, we've
+got the spiders' turns. This spider is going to
+
+come up here and attack Andy.
+
+TALIESIN: All right.
+
+LAURA: They're going to make a bite attack against
+you.
+
+TALIESIN: Fine.
+
+LAURA: Oh, that is 15 to hit.
+
+TALIESIN: Oh yeah, that hits.
+
+LAURA: Okay. That's 2d8 damage. Whoa. (adding) 15
+points of piercing damage against you. Now you
+
+need to make a constitution saving throw.
+
+TALIESIN: That was very cocked. That's a 23.
+
+LAURA: All right, you save against that, so no
+worries. Now the other spider uses its turn to
+
+stand back up.
+
+SAM: Oh no, he's still alive?
+
+LAURA: Oh, he's still alive. He stands back up and
+he can get to about there.
+
+TRAVIS: In melee?
+
+LAURA: No. Let's say he can't get you yet. He's
+very waterlogged, he's uncomfortable.
+
+SAM: This is the most complicated fight I've ever
+seen.
+
+LAURA: Claire, you're up.
+
+SAM: I'm up? To move as a chess person or to
+attack as a person person?
+
+LAURA: To attack as a person person.
+
+TRAVIS: You have Andy, Claire, Allison, Bryan.
+
+SAM: All right. I will--
+
+TRAVIS: Be brave.
+
+LIAM: If Sam doesn't put lipstick on in the
+Breakfast Club fashion before this game is over, I
+
+will be sorely disappointed.
+
+LAURA: You have to use your boobs.
+
+TRAVIS: Oh yeah.
+
+SAM: Okay.
+
+TRAVIS: If you haven't watched Breakfast Club, do
+it.
+
+SAM: Wait, am I trying to fight the chess pieces
+or the spiders?
+
+TRAVIS: All of it. Everything, there's no bad
+target. A little of both is double whammy.
+
+LAURA: You remember that Beetle did send you down
+here to kill the spiders specifically.
+
+SAM: Sure, but we also want to win in chess. Okay.
+I think I'm going to pick up my wand. I'm feeling
+
+a little cold today, so I'm feeling like there
+should be a bit of a snowstorm, and I will cast
+
+Snilloc's Snowball Swarm.
+
+LAURA: Oh my god, okay.
+
+SAM: Centered here so everything around like this,
+this, and this.
+
+TALIESIN: What's the range on it?
+
+TRAVIS: I love how wands naturally lend
+themselves.
+
+LAURA: I know, it's so great, isn't it?
+
+BRIAN: You guys should just keep these here for
+the--
+
+SAM: 3d6 cold damage on a failed save of 14.
+
+LAURA: Okay, so all of them need to roll. Okay,
+wait. I've got to say which one is which. This
+
+one's for the spider. That one definitely saves.
+This is for the knight and the pawn. They both fail.
+
+SAM: So they each take 12 points of damage.
+
+LAURA: Okay.
+
+SAM: As the snowballs hit, the spider takes six
+points of damage.
+
+TRAVIS: Nice.
+
+LAURA: Okay. Minus 12 and minus 12 on the
+knights.
+
+SAM: Uh-huh. Are they alive?
+
+LAURA: Yeah, they're still alive. They're still
+standing.
+
+LIAM: One-shots is for prop comedy.
+
+TRAVIS: Yeah, it is.
+
+TALIESIN: It's so true.
+
+LAURA: Yeah, let's be honest. Next up is Andy.
+
+TALIESIN: Well, I've got one of these coming at
+me, so I'm going to--
+
+SAM: Should we move in our chess match as well?
+
+TALIESIN: I'm going to do both, but I'm going to
+attack first, so I'm going to hit this thing with
+
+my club. I'm going to use the fire club first. I
+can do some serious damage. Wow! (counting) That's
+
+18 points of damage to the spider.
+
+LAURA: Ooh, okay.
+
+TALIESIN: I'm going to hit him again. That's ten
+points of damage. How's the spider looking?
+
+LAURA: He's still alive.
+
+TALIESIN: If I walk away, he's going to take a
+swing at me, isn't he? I think we should probably
+
+move more of the pawns forward.
+
+SAM: Sure.
+
+TRAVIS: Maybe clear a path for the queen?
+
+SAM: Oh, you've also got-- our other rook could
+make a shot at the spider.
+
+TALIESIN: Rook or pawn?
+
+SAM and BRIAN: Rook.
+
+LAURA: You want to move the rook up here?
+
+SAM: Will it attack, or will it just stop?
+
+LAURA: It will because it's wizard chess. The rook
+will move up and he'll attack the giant spider.
+
+Let me see. The rook is shaped like a giant
+castle, so it's weird to see pieces of brick come
+
+out and start flinging themselves at the giant
+spider, but it's going to happen. He makes an
+
+attack roll, and he hits!
+
+TRAVIS and SAM: Yeah!
+
+LAURA: Whoa! He does a lot of damage. Oh my gosh,
+I don't even think I have this many. (counting)
+
+What am I talking about, "I don't have this many?"
+I know! I've got a whole bag, but I didn't want to
+
+pull it all out because-- okay.
+
+BRIAN: (quietly) That's what she said.
+
+LAURA: Ha. (mocking laughter)
+
+TRAVIS: (intones Mario theme)
+
+SAM: How're you doing, ward?
+
+BRIAN: I'm fine. I'm ready to fuck shit up.
+Proper-like!
+
+LAURA: The rook does 28 points of damage to that
+spider, smashing him off the board!
+
+ALL: Yeah!
+
+LAURA: Yeah, get out, you fucking spider.
+
+SAM: King me!
+
+LAURA: Now that that rook has moved, this side of
+the board is going to take a turn, and it's moving
+
+its knight up here and claiming your rook. This
+knight smashes the rook to the ground. All right,
+
+next up is Ally.
+
+LIAM: In typical Ally Sheedy fashion, I'm going to
+bite my fingernails and point my wand out, and at
+
+a range of 120 feet, cast Erupting Earth under the
+king and queen. A fountain of churned earth and
+
+stone erupts in a 20-foot cube centered on that
+point. Each creature in that area must make a dex save.
+
+LAURA: Oh my god. So that's all of this in here?
+
+LIAM: I don't know, it's a 20-foot cube, so that
+high.
+
+LAURA: Okay, the king and queen?
+
+LIAM: Mm-hmm.
+
+BRIAN: You're a druid, aren't you?
+
+LIAM: I'm a witch, it's Schmogwarts.
+
+BRIAN: Oh, a witch.
+
+LAURA: They're making dex saves?
+
+LIAM: Dex saves.
+
+LAURA: Oh, they both succeed.
+
+LIAM: They take half damage from the attack.
+That's cocked. That's 12, and 12, and two. So 26--
+
+13 total, and then now 20 feet in the air on a
+pile of earth and rubble.
+
+LAURA: That's 23 each, you said?
+
+LIAM: No, it was 13 each. 26 total down to 13.
+Halved, yeah.
+
+LAURA: They're risen up above? Jeez, I wish I had
+something like that. I'm going to put this here so
+
+that we know that they're above everything else.
+
+TRAVIS: Yeah, Wyrmwood!
+
+SAM and LAURA: Crit Role.
+
+LAURA: Oh no, you won! Help me.
+
+LIAM: I will use my bonus action to take on my
+animal form because I am an Anischmagus?
+
+SAM: A what?
+
+LIAM: A large, oversized badger-- of course-- is
+now on the field.
+
+BRIAN: There's something over there for that.
+
+LAURA: I'm going to use this.
+
+TRAVIS: Of course there's a Horfleporf badger.
+
+LAURA: Wait, no, I'm going to make you this snakey
+thing. There you go. You're now a badger! Honey
+
+badger don't care. Who's turn is it? This is
+exciting.
+
+LIAM: Sorry. Oh no, I have to move like a chess
+piece, that's right.
+
+TRAVIS: Yeah, do it, move a chess piece.
+
+SAM: It's our turn to move a chess piece as well.
+
+LIAM: So I'm going to not provoke attack of
+opportunity and come around to the front. Wait, is
+
+that what I want to do? Yes.
+
+LAURA: All right. Bryan.
+
+BRIAN: Is it possible for me to move Dildo Baggins
+here? Maybe--
+
+LAURA: Well, this is technically Dildo Baggins;
+he's a knight. You can move one of these hobbit pawns.
+
+BRIAN: Yeah, can I move them right here? Then, is
+this me, love?
+
+LAURA: Yeah.
+
+BRIAN: Then, can I slide in behind him there?
+
+LAURA: You can't move two chess pieces at once.
+
+BRIAN: Oh, I have to move him or me? Okay. Is this
+60 feet, do you think?
+
+TALIESIN: Ten feet per square, approximately.
+
+SAM: Also, we already moved a chess piece this
+match.
+
+BRIAN: Oh. Well I thought--
+
+SAM: I mean this round.
+
+LAURA: Oh, you're right! Fuck you, this guy's
+going to move. Hold your fucking horses. This pawn
+
+is going to move right here.
+
+SAM: Oh, into attack mode.
+
+LAURA: All right, now what do you want to do? Do
+you want to move pawn or yourself?
+
+BRIAN: Is that within 60 feet?
+
+LAURA: Of you?
+
+BRIAN: Yeah, me to the spider.
+
+LAURA: (counting) Yes, it is.
+
+BRIAN: Okay. I'd like to take out my Spiritual
+Weapon.
+
+SAM: Which is?
+
+BRIAN: Which is a giant Texas Instruments
+calculator.
+
+(laughter)
+
+BRIAN: I want to whack him!
+
+LAURA: All right, roll for attack.
+
+BRIAN: Okay. Oh gods, be good to me. (gasping) 18
+plus eight.
+
+LAURA: Oh yeah, that definitely hits.
+
+BRIAN: Okay, and then it's going to end up being
+1d8 plus five. Ten?
+
+LAURA: Ten points of damage, all right. Still
+standing.
+
+BRIAN: Then, do I have a bonus thing?
+
+LAURA: I'll use this little beautiful spiritual
+weapon over here.
+
+BRIAN: The spiritual weapon's a bonus action. So
+then can I, as a bonus action on my turn, move the
+
+weapon up to 20 feet and repeat the attack against
+the creature?
+
+LAURA: No, because the bonus action is casting
+it.
+
+BRIAN: Oh, I see, okay.
+
+LAURA: Yeah, but you can do a melee attack-- Yeah,
+you can do a melee attack, that's about it.
+
+BRIAN: Because that's a bonus action I can do
+melee.
+
+LAURA: Or a cantrip as an action.
+
+BRIAN: Okay. Well, I'm super far away for a
+cantrip, so let me end up doing another-- Oh, you
+
+know what, Sacred Flame 60 feet. I'll do Sacred
+Flame cantrip. Dexterity 16.
+
+LAURA: Oh, it fails.
+
+BRIAN: Oh. Okay, 2d8.
+
+SAM: Wow, Bryan. That's my ward.
+
+BRIAN: Nine more.
+
+TRAVIS, LAURA, and BRIAN: Nein!
+
+LAURA: What did you do the first time?
+
+BRIAN: Ten.
+
+LAURA: Okay, it's still standing.
+
+BRIAN: 19? Okay. Then I'll stay where I am
+movement-wise.
+
+TRAVIS: Who were you shooting that at?
+
+BRIAN: I was shooting it at this guy right the
+fuck there, mate, yeah.
+
+LAURA: Oh, you were shooting at a spider?
+
+BRIAN: Oh, yeah.
+
+LAURA: I thought you were shooting at the pawn,
+dude.
+
+BRIAN: Oh, no. 60 feet at the spider.
+
+LAURA: Okay, wait, let me mark that off.
+
+BRIAN: Yeah, so 19 points of damage to the
+spider.
+
+LAURA: Okay.
+
+TRAVIS: Still up?
+
+LAURA: Yeah, he's still up.
+
+TRAVIS: Whatevs.
+
+LAURA: Now, it is back to that spider's turn.
+They're just hit, so this spider is going to
+
+crawl-- Actually, it's going to turn around and
+attack this badger that just came at it from behind.
+
+TALIESIN: Honey badger don't care.
+
+LIAM: Don't give a shit.
+
+LAURA: Oh my god, this-- Give a shit. Hold on,
+I've got to find the page; this is so crazy.
+
+BRIAN: Thank you, Ashley, for helping me with my
+cleric.
+
+LAURA: Ooh, yeah, that definitely hits, that's a
+natural 17.
+
+LIAM: Yeah, that hits.
+
+LAURA: So the son of Aragorg is going to bite you.
+He's going to bite you.
+
+TRAVIS: Aragorg.
+
+LAURA: Oh, and he hits. That's a natural 19 to
+hit.
+
+LIAM: Okay.
+
+SAM: Oh no. But Allison's a badger.
+
+LAURA: Yeah, make a constitution saving throw.
+
+BRIAN: Wait, did your AC change in that shape?
+
+TRAVIS: We don't have a flapolisk around, do we?
+
+LAURA: A what?
+
+TRAVIS: A flapolisk? Spiders flee before a
+flapolisk.
+
+LIAM: Natural 20.
+
+SAM: All of these jokes would make much more sense
+to me if I knew what you guys were talking about.
+
+LAURA: You will take half damage as soon as I can
+find--
+
+BRIAN: You've got some reading to do.
+
+TALIESIN: Just some movies to watch, at the very
+least.
+
+LAURA: 17 halved, so eight points of piercing
+damage.
+
+LIAM: (growling) Badger form.
+
+LAURA: Then, as a bonus action, the son of Aragorg
+is going to call forth his spider minions.
+
+TRAVIS and BRIAN: Minions?
+
+LAURA: He calls forth three swarms of regular old
+spiders, but they come from back here.
+
+BRIAN: Hey, that's where I am!
+
+LAURA: They come from over here, and then another
+swarm comes from over this way.
+
+LIAM: Lair action!
+
+SAM: Look at all of those Halloween decorations.
+
+(laughter)
+
+LAURA: Now it is Bunder's turn.
+
+TRAVIS: Oh, yes, I will--
+
+LIAM: Can we move me before I get pawned? As a
+chess piece-- it's our turn to move a piece, I think.
+
+SAM: Oh, you can move a chess piece and a--
+
+TALIESIN: Technically, I think how it is, is until
+we move, they don't move, so as long as we don't move--
+
+LIAM: Okay.
+
+TRAVIS: I'm going to come here, take this out, and
+I'm going to use--
+
+SAM: Oh, we moved. Does he have to fight?
+
+LAURA: Nope. He takes them out; that's a genuine
+wizard's chess move.
+
+SAM: Oh, so chess moves just work.
+
+TRAVIS: I'll cast Aganazzar's Scorcher 30 feet
+down this (counting), hitting those two.
+
+SAM: That's a genuine chess move, so it
+automatically works.
+
+TRAVIS: You've got to make a dexterity saving
+throw, 15.
+
+LAURA: Okay. Glittery one is for the pawn. Oh,
+pawn succeeds, knight fails.
+
+TRAVIS: (counting) 14 points of damage for the
+knight, seven for the pawn.
+
+SAM: The knight had already been hit by
+snowballs.
+
+LAURA: 14 points of damage?
+
+TRAVIS: For the knight, and seven for the pawn.
+
+LAURA: Let me add that up. Still alive.
+
+TRAVIS: Both of them?
+
+LAURA: Yeah, very much. The pawn just took--
+
+TRAVIS: Seven.
+
+LAURA: Yeah, the pawn is very much alive.
+
+SAM and BRIAN: Dang.
+
+TRAVIS: Was hoping that would be more than that.
+
+LAURA: Now it's the chessboard's move. The
+chessboard is going to try to attack you, Allison,
+
+because you're right here with the pawn. It's
+going to attack you.
+
+LIAM: Okay.
+
+LAURA: Oh my god. There's so many pieces of paper
+here!
+
+TALIESIN: So much paper.
+
+LAURA: I know.
+
+TALIESIN: I feel that. I remember that.
+
+SAM: You're doing great, Laurs.
+
+LAURA: Oh, a natural one on the pawn. Yeah, so the
+pawn feels broken, so it steps right back here,
+
+and the board's going to try to make a different
+move. So the bishop here is going to move forward
+
+and try to attack--
+
+TRAVIS: Oh shit.
+
+LAURA: So the bishop is going to attack for a 16
+to hit?
+
+TRAVIS: Definitely hits.
+
+LAURA: All right, the bishop is going to attack
+you with 2d10.
+
+SAM: Bunder, no! I mean, it doesn't matter,
+whatever.
+
+LAURA: Oh, double ones.
+
+TRAVIS: Yeah!
+
+LAURA: So that is eight points of damage.
+
+TRAVIS: Eight points of damage.
+
+TALIESIN: Oh my god, that's so rough.
+
+LAURA: It doesn't work, so it moves back and it's
+going to try to take another move.
+
+TRAVIS: What?
+
+SAM: I don't know how wizard's chess works.
+
+LAURA: It's not taking the pieces, so it's
+constantly trying to do the right thing. It's
+
+going to move this pawn forward to here.
+
+SAM: Aw, yeah.
+
+LAURA: Just kidding, to here. All right, now it is
+the spiders' turn. This spider is going to attack Andy.
+
+BRIAN: Oh no!
+
+SAM: Andy, do some jock shit.
+
+LAURA: Oh my gosh, this spider doesn't succeed.
+That's a two plus-- No, that doesn't succeed. Now
+
+it is Claire's turn.
+
+SAM: Claire? Oh god.
+
+LIAM: Oh boy.
+
+SAM: I will attack.
+
+TRAVIS: Andy's before Claire.
+
+LAURA: What?
+
+TALIESIN: We share our numbers, so it doesn't
+matter.
+
+SAM: Andy, you go first. Give me time to think.
+
+TALIESIN: Okay. I'm going to keep wailing on that
+spider. Hopefully it'll go down at some point.
+
+Let's take two attacks-- I'll just start with one
+attack on that spider. This will be my flame
+
+attack. 16 plus seven, that I assume hits.
+
+LAURA: That does hit.
+
+LIAM: Taliesin's killing it.
+
+TALIESIN: I know, it's crazy.
+
+LIAM: Slytherpin.
+
+TALIESIN: That's 13 points of damage.
+
+LAURA: 13 points of damage! With that, the spider
+is crushed beneath the weight of your club. Andy
+
+the athlete, once again, succeeds.
+
+BRIAN: Nice.
+
+SAM: Claire will use Acid Splash on that spider
+that's menacing our badger friend, Ally.
+
+LAURA: Can you do it that far away?
+
+SAM: It's 60 feet.
+
+LAURA: Awesome.
+
+SAM: 14 dex save.
+
+LAURA: All right. And that you would also hit the
+pawn in front of you, wouldn't you? No, it doesn't
+
+matter, it's your teammate. Fuck it. Oh, that's an
+18, that saves.
+
+SAM: Oh, which does that take, no damage?
+
+TALIESIN: Half, probably.
+
+LAURA: Is it a cantrip?
+
+SAM: No, it just saves. There's nothing. Aw, poo.
+
+LAURA: Do you want to move?
+
+SAM: Am I allowed to? Is it our move in chess?
+
+LAURA: It's your move in chess.
+
+SAM: Well, I can't move, but I can move one of the
+other players. I guess I could move one space out,
+
+but that seems like a waste.
+
+BRIAN: You could move that pawn there to attack
+the spider.
+
+SAM: Which one?
+
+BRIAN: Or that Dildo Baggins right there. Can he
+move forward and then that challenges--
+
+LAURA: They attack diagonally.
+
+TALIESIN: But if it moves one then the next--
+well.
+
+SAM: Let's move--
+
+TALIESIN: If it moves one, then the next attack
+will be its attack.
+
+SAM: Let's move our bishop, Dildo Baggins over
+there, out one space to get ready for some
+
+business. It's business time.
+
+TRAVIS: Hard to keep track of them over this short
+hobbits.
+
+SAM: Yeah, they are almost the exact same design.
+
+LAURA: I know, it's pretty fucked up. Yeah. God,
+this is difficult. Well, this one is going to try
+
+once again to take your piece.
+
+BRIAN: Is that E.T.? It looks like E.T. from the
+back.
+
+TRAVIS and LAURA: That's Sm�agol.
+
+LAURA: That's a natural 20!
+
+SAM: Oh schnikes. The pawn is going down.
+
+TALIESIN: Might be the end of you yet.
+
+BRIAN: Might be the end of you, mate.
+
+LAURA: It's going to do-- Oh, god. That's 2d10
+plus six.
+
+TALIESIN: Oh, yeah.
+
+TRAVIS: Most are like five.
+
+LAURA: That's cocked.
+
+TRAVIS: Should have put Mage Armor on myself.
+
+LAURA: 18 points of damage.
+
+TRAVIS: 18?
+Excellent! Got some sweet battle damage.
+
+LIAM: You got like five bucks or something?
+
+TRAVIS: No, I'm in doubles. I'm in double digits.
+
+LAURA: Oh, wait-- that was a crit, wasn't it?
+
+LIAM: Oh, shit!
+
+TRAVIS: Is that 36 points of damage?!
+
+LAURA: Wait, no, because it's--
+
+LIAM: The dice.
+
+TALIESIN: Probably 28, is my guess.
+
+LAURA: Times two is 24. That's 30 point of
+damage.
+
+TRAVIS: I'm unconscious.
+
+LAURA: Oh no! Bunder's down!
+
+LIAM, TRAVIS, and SAM: (intone "Bad to the Bone")
+
+LAURA: The bishop pushes you out of the way and
+the fallen body of Bunder is now here.
+
+TRAVIS: Am I pushed off the board near the
+spider?
+
+LAURA: No, you're just sitting there.
+
+TRAVIS: Good.
+
+SAM: Oh no!
+
+TRAVIS: (whispering) Help!
+
+LAURA: Oh, I didn't roll initiative for those.
+They'll just go with him. Okay.
+
+TRAVIS: Oh my god. I'm going to die.
+
+SAM: You must have some sort of healing--
+
+LIAM: You're a wizard, Larry!
+
+LAURA: It's Ally's turn.
+
+LIAM: Right. The badger is going to lay into the
+spider with a multi-attack, bite and claws. First,
+
+we'll do the bite. That is an 18 to hit.
+
+LAURA: That definitely hits.
+
+LIAM: Okay, so for the teeth sink in and do four
+points of damage.
+
+SAM: Yeah, badger attack!
+
+LIAM: Then claws. That is a six with the claws.
+That do not hit.
+
+LAURA: Oh, they don't even hit. Oh god, okay.
+
+LIAM: So just (growling) digs to the earth.
+
+LAURA: Badgers are tough, though! They're real
+tough. Horfleporf forever!
+
+LIAM: Not anymore.
+
+LAURA: Okay. Bryan, it's your turn.
+
+BRIAN: Okay.
+
+SAM: Do you need to get to Travis? I mean, what's
+his face.
+
+LAURA: Bunder.
+
+TALIESIN and SAM: Blunder.
+
+BRIAN: If it's touch, do I need to be there to
+touch him?
+
+LAURA: Yeah.
+
+SAM: Why don't you-- Oh.
+
+BRIAN: I can only move 30 feet.
+
+SAM: Also, you can only move-- Oh wait, no! He's a
+horsey!
+
+LAURA: Yep.
+
+SAM: Okay, you can start getting over there.
+
+BRIAN: Okay, I'll try and make my way over to
+d-bag over there, however far 30 feet is.
+
+LAURA: So that's your move?
+
+BRIAN: Yeah, that's my move.
+
+TRAVIS: Oh my god.
+
+BRIAN: Okay, so the only thing I can do is--
+
+TRAVIS: Well, actually, that one can't hit me, but
+the spider can.
+
+BRIAN: I can do Prayer of Healing again, that's 30
+feet now that I'm closer.
+
+LAURA: What's the casting time on Prayer of
+Healing?
+
+BRIAN: That's duration... Ten minutes. Oh, fuck
+my--
+
+SAM: The casting time is ten minutes?
+
+BRIAN: Sorry, I'm new to cleric. Okay, then if I
+move--
+
+TRAVIS: The struggle is real.
+
+BRIAN: I can't really-- Since I don't waste my
+turn, let me try and attack. Can I shoot something
+
+at that spider?
+
+LAURA: Totally.
+
+BRIAN: I'm going to shoot it with a big fat chunk
+of-- I'll do Sacred Flame again.
+
+LAURA: Okay.
+
+BRIAN: Dex 16.
+
+LAURA: It gets 16, so that's a save.
+
+TRAVIS: Ugh.
+
+LAURA: But you do have your spiritual still
+sitting out there which means--
+
+BRIAN: Okay, then I'll do as a bonus action my
+spiritual weapon melee attack. Is it just melee attack?
+
+LAURA: Mm-hmm.
+
+BRIAN: Yeah, okay. So do I need to do a--
+
+LAURA: You add your spell modifier.
+
+BRIAN: Okay. Oh, please. Natural one.
+
+LAURA: Your calculator glitches, it just writes
+"boobs" upside down.
+
+TRAVIS: Boobs. Starts playing snake.
+
+LAURA: Son of Aragorg, it's their turn. The son is
+going to attack Ally once more, with a-- I guess
+
+it's very close, so it's going to do a bite attack
+again. Oh, that does not succeed. They are going
+
+to use their bonus action to move their swarms in
+and this swarm of spiders is going to go
+
+(scratching) and comes towards you. This swarm is
+going to over towards Claire. This swarm is going
+
+to go (scratching) and come towards Ally. Those
+swarms, they don't do a ton, but they're going to
+
+do-- That's a five against-- nope, that doesn't
+hit. Then the last one, this is against Ally. That
+
+is a 12?
+
+LIAM: Hits.
+
+LAURA: They're going to cover you and try to bite
+you in your badger form.
+
+LIAM: (growling)
+
+LAURA: All right, so that's 4d4 here. Seven points
+of damage.
+
+LIAM: Okay, that's the total?
+
+LAURA: Mm-hmm.
+
+LIAM: Okay, Ally stands in her raggedy, normal
+form.
+
+LAURA: Ah! All right.
+
+LIAM: What was the total, did you say?
+
+LAURA: Seven.
+
+LIAM: Seven? Great.
+
+LAURA: Where did I put you, Ally? I don't
+remember. Oh, you're over here. Bloop! Ally's back.
+
+TRAVIS: She's back!
+
+LAURA: All right. It is Bunder's turn.
+
+TRAVIS: (burps) Death saving throw. Seven.
+
+LAURA: Oh, no! Bunder! The spiders are dead, their
+turn is gone. It's Claire's turn!
+
+SAM: Oh, jesus. Jesus, these spiders! Not really
+having anything else to do, I'm going to send
+
+Magic Missile-- no, that'll use my last 1st-level
+spell slot. I'll use Acid Splash to attack that
+
+same spider.
+
+LAURA: Don't you have higher level spells?
+
+SAM: Sure.
+
+LIAM: What are you saving them for?
+
+SAM: Is this it?
+
+LAURA: This is a pretty big battle.
+
+TRAVIS: We're fighting D&D on a chess board. I
+don't know what else is in store.
+
+SAM: I'll do Magic Missile.
+
+LAURA: This is a one-shot, it's not going to go--
+
+SAM: I'll do Magic Missile against the spider
+that's menacing our Allison friend.
+
+LAURA: Okay.
+
+TRAVIS: No short rest.
+
+LIAM: I'll cast Mending.
+
+SAM: All three darts.
+
+LAURA: Okay.
+
+SAM: Oh, that's good! 12 points of damage.
+
+LAURA: Okay! All right, that's total?
+
+SAM: Yeah?
+
+LAURA: Okay.
+
+SAM: Wait, what happens if I do it at 2nd-level?
+Oh, that's an extra four points. I'll do it at
+
+2nd-level! That's 16 points of damage!
+
+LAURA: All right. Minus 40-- all right, 45 points
+down, good job. We're at Andy.
+
+SAM: Oh, wait, do we move? Chess-wise?
+
+LAURA: No, the chess board has not moved.
+
+SAM: Is it our turn?
+
+LAURA: No, you haven't taken your turn yet.
+
+SAM: I'm going to move Bryan up to right there.
+
+BRIAN: Ugh, yes.
+
+SAM: Doink!
+
+LAURA: All right. It's Andy's turn.
+
+TALIESIN: I'm kind of stuck, aren't I? I'm going
+to try something weird. I'm going to cast Grease
+
+on the king and queen.
+
+TRAVIS: Grease?
+
+SAM: It's the word.
+
+TALIESIN: They're the ones that I want. They're
+the ones that-- Oh, oh, oh. Wait.
+
+LIAM: I got chills.
+
+LAURA: Up high, all right.
+
+TALIESIN: I'm casting Grease on those two there.
+They have to make a dex save of 14.
+
+LAURA: Okay. The king succeeds, the queen fails.
+
+TALIESIN: She is prone.
+
+LAURA: Oh, the queen knocked prone, which means
+she is wiped off the board.
+
+TALIESIN: Also, this is up for a minute, and a
+creature that enters the area or ends its turn
+
+there must also succeed on a dexterity saving
+throw or fall prone. So if he tries to move, he
+
+has to try again.
+
+LAURA: Got it. Very nice! It is the board's turn
+to move.
+
+TRAVIS: Did you move a piece?
+
+BRIAN: We moved me up to you.
+
+LAURA: This piece is going to come over here.
+That's a dumb move, but it's doing it. It's taking
+
+this pawn. All right, now it is Ally's turn.
+
+LIAM: Ally starts to twist her wand in the air in
+a big circle and a gigantic cloud appears over the
+
+entire chess field and all of us, and lightning
+comes down on the king.
+
+LAURA: Holy shit!
+
+LIAM: Level three. So that is a dex save, 15.
+
+LAURA: Natural 19.
+
+LIAM: Dang!
+
+TALIESIN: Can't fuck with the king, man.
+
+LIAM: Oh, that's the wrong die. It's all ten
+sides. (counting) 22, so 11 points of lightning
+
+damage on the king.
+
+LAURA: All right, the king looks a little hurt.
+
+LIAM: The storm keeps roiling above us all.
+
+LAURA: Awesome. Bryan?
+
+BRIAN: Okay, I am going to cast Cure Wounds right
+into his heart. That's 1d8 plus five. Ten.
+
+TRAVIS: Ten points. I'll take it.
+
+LIAM: Did you have a wand to your chest like Pulp
+Fiction? (gasping)
+
+BRIAN: The adrenaline jump? Yeah.
+
+LAURA: All right, do you want to do anything
+else?
+
+BRIAN: I also would like to-- let's see, where
+should we go? I don't want me to have to be the
+
+movement, though, for the whole round.
+
+SAM: We haven't moved yet this round.
+
+BRIAN: We moved me last time, so I don't want to
+move again. I think maybe bonus action-- no,
+
+spiritual weapon's going to use another spell
+slot.
+
+LAURA: No, spiritual weapon stays up, so it's
+right there. For your bonus action, you can attack again.
+
+BRIAN: Okay, then who should I hit, guys?
+
+SAM: The spider!
+
+BRIAN: I'll hit the spider.
+
+LAURA: All right. Roll for attack.
+
+TALIESIN: I believe in you. You can hit things.
+
+LIAM: Come on, Brian and Bryan.
+
+BRIAN: That's an 11.
+
+LAURA: That doesn't hit. That's okay, your
+calculator is really cool looking.
+
+BRIAN: Thank you.
+
+TRAVIS: Yeah, buddy! Thanks for the save, though.
+
+LAURA: All right, up is the son. He's going to
+attack Ally once more. All right, that's a nine,
+
+so 15.
+
+LIAM: Hits.
+
+BRIAN: I forgot to ask you: weed for a month for
+healing you.
+
+TRAVIS: Weed?
+
+BRIAN: You must give me weed for a month.
+
+SAM: You smoke?
+
+BRIAN: Occasionally, I like to smoke and listen to
+Dr. Stephen Hawking.
+
+LAURA: 13 points of damage against Ally.
+
+LIAM: Got it.
+
+TRAVIS: 13 points?
+
+SAM: Of all the scientists, that would not be the
+one I would pick out to listen to.
+
+LAURA: And make a constitution saving throw.
+
+LIAM: 16.
+
+LAURA: Oh, you succeed. All right, Bunder. Newly
+revived, you are up.
+
+TRAVIS: (panting) I fucking hate chess. I'm more
+of a checkers guy. I'll cast Fireball, my last
+
+3rd-level spell, right at the king.
+
+LIAM: Big finish.
+
+TRAVIS: Yeah. You have to make a dex save of 16.
+
+LAURA: Oh, big fail.
+
+TRAVIS: Nice! 8d6. (counting) 28.
+
+LAURA: The king burns up and falls to its side.
+All of the pieces on the chess board kneel down
+
+and bow to you.
+
+SAM: And the spiders too?
+
+TALIESIN: No, probably not.
+
+TRAVIS: We have a move?
+
+LAURA: There's no moves!
+
+TRAVIS: I'll just go here (sizzling).
+
+LAURA: I like it. Use your wands, I like that. All
+right, Claire.
+
+SAM: I'll move up and around towards this spider.
+Is this the last spider?
+
+BRIAN: There's one, two, three. There's two babies
+and a biggie.
+
+LIAM: Concentration check. Was that what the con
+was for or something else?
+
+LAURA: The constitution saving throw.
+
+LIAM: I need to make a concentration check. It was
+13 points of damage, and it'll be a ten, right?
+
+LAURA: Oh, for your lightning storm, yeah.
+
+LIAM: Yeah, to hold it up. Natural 20.
+
+LAURA: It's good that you remembered.
+
+SAM: I'll move up towards the spider.
+
+LAURA: Which one? This one?
+
+SAM: Yeah, the big one.
+
+LAURA: So you were here. Ten, 20, you can get up
+there.
+
+SAM: Oh, that one gets an attack of opportunity,
+though.
+
+LAURA: Yeah, the swarm of spiders attacks you as
+you walk away from it, but that's okay. It's just
+
+a little swarm, it's no big deal. That's a ten to
+hit?
+
+SAM: Fails!
+
+LAURA: Ooh, okay.
+
+SAM: I will cast-- oh shit, I'll hit something
+else, won't I? Oh well. I'll cast Dragon's Breath.
+
+LAURA: Holy shit.
+
+SAM: With lightning damage, we'll say. A 15-foot
+cone. They have to save with a dex 14.
+
+LIAM: Isn't it that way?
+
+LAURA: Oh, natural 16!
+
+SAM: Oh no, but I think I still get half damage.
+Ooh, good roll. 15 points, so halved, seven points
+
+of damage to both spiders and probably the
+spiritual weapon and probably one of our pawns.
+
+LAURA: That's fine. You don't need the pawn. It
+doesn't fucking matter. Wait, so seven points, you said?
+
+SAM: Seven points to the spider who saved. What
+about the other spider?
+
+LAURA: They have to make a save?
+
+SAM: Yeah, 14.
+
+LAURA: They fail.
+
+SAM: Okay, so that's 15 points of damage to that
+spider.
+
+LAURA: Swarm of spiders (scuttling).
+
+SAM: Yeah! I'm breathing lightning on you! Wow.
+Greased lightning!
+
+LAURA: All right, Andy, you're up.
+
+TALIESIN: I'm going to run up to that big spider
+and I'm going to smack him.
+
+LAURA: You fly in and you attack him with your
+club.
+
+TALIESIN. The first one is a ten.
+
+LAURA: All right, that doesn't hit.
+
+TALIESIN: All right, let's fire up the swing
+again. 21.
+
+LAURA: 21 hits!
+
+TALIESIN: All right, I lose my big hit, but that's
+okay. That's 12 points of damage.
+
+LAURA: 12 points of damage, all right.
+
+TALIESIN: I'm going to burn an extra action, so I
+get another action, which is two more attacks, I
+
+believe. I'm going to take two more attacks.
+
+LAURA: All right.
+
+TALIESIN: That's a miss and 16.
+
+LAURA: 16 hits.
+
+TALIESIN: Okay, one more hit. That's nine points
+of damage. I'm whaling on him.
+
+LAURA: He looks like he's hurting a bit. Bunder,
+it is now your turn.
+
+TRAVIS: Is it?
+
+LAURA: Just kidding, I was looking at spiders.
+Never mind. It's Ally's turn.
+
+LIAM: Okay, the storm is still roiling and I'm
+still swiveling the wand and (crashing) down on
+
+the big spider. That is another save it has to
+make. What kind? It's a dex, 15.
+
+LAURA: Oh, it's a fail.
+
+TRAVIS: Would you say it's been thunderstruck?
+
+LIAM: That's a total of 16 lightning damage.
+
+LAURA: Whoa! 16 points of damage. Oh my gosh. Let
+me do my math here. All right.
+
+SAM: Is it looking pretty rough?
+
+LAURA: It's looking pretty rough.
+
+SAM: (squealing)
+
+TALIESIN: This is like the end of It right now.
+
+LAURA: Bryan.
+
+BRIAN: Hey bruv, I'd like to--
+
+TRAVIS: I cast Dispel Magic on your fucking
+accent.
+
+BRIAN: I'd like to move right up to that spider
+and, just to be sure this goes well, I would like
+
+to do Inflict Wounds at 3rd-level.
+
+LAURA: Oh my god!
+
+BRIAN: Melee spell attack.
+
+LAURA: Yeah, make an attack hit.
+
+BRIAN: Attack plus--
+
+TALIESIN: Spell attack modifier.
+
+TRAVIS: Plus eight.
+
+BRIAN: 18 plus eight.
+
+LAURA and TALIESIN: Oh yeah, that definitely hits.
+
+BRIAN: Okay, then in that case, Miss Dungeon Mistress,
+let's go ahead and do--
+
+LAURA: That's 5d10.
+
+BRIAN: 5d10.
+
+SAM, TRAVIS, and LIAM: Oh!
+
+BRIAN: Luckily, I have five of them here with
+me. (counting) 29.
+
+LAURA: Yeah. These spiders are
+just guts. Guts everywhere splattering up to these
+
+pawns in these--
+
+TRAVIS: Not bad, dweeb. Not bad.
+
+BRIAN: Thank you, I've been practicing.
+
+LAURA: All right. We're back up to
+Son of Aragorg! Going to spin around here and
+
+attack Andy since he did so much damage to
+him.
+
+TALIESIN: That's fine. I have an AC of-- oh no.
+
+LAURA: Ooh. Yeah, that's a natural
+19.
+
+TALIESIN: Yeah, no. That hits.
+
+LAURA: That's a bite attack. That'll do 16 points of piercing
+damage and I need you to make a constitution
+
+saving throw.
+
+TALIESIN: Ugh! 11?
+
+LAURA: Ooh! That is what you needed to hit
+so that means I hit you with poison damage.
+
+TALIESIN: I might be out.
+
+TRAVIS and BRIAN: No.
+
+LAURA: Ten points of poison damage.
+
+TALIESIN: I am not out!
+
+TRAVIS: Yeah! Smytherpin!
+
+LAURA: For bonus action, he's moving-- this is
+the last swarm of spiders. (skittering)
+
+SAM: (screams)
+
+LAURA: They're going to come over to Claire and
+try to attack her again.
+
+SAM: (screams)
+
+LAURA: So they're going to bite at you.
+
+SAM: I don't like this.
+
+LAURA: Natural one.
+
+SAM: I don't-- Spiders are beneath me.
+
+LAURA: They can smell the amount of perfume
+that you're wearing and it does not attract them.
+
+SAM: Everything I learned aout my character
+I learned by looking at the poster. I think she's
+
+uppity. I don't know anything about--
+
+LAURA: Bunder, you're up.
+
+TRAVIS: Oh, I am up? Amazing. That's crazy. I will cast
+Agana-- Agazzna-- Yeah, no! The scorcher!
+
+At the big spider-der.
+
+LAURA: Spider-der?
+
+TRAVIS: Yep. Dex save of 15.
+
+LAURA: Ooh! It succeeds.
+
+TRAVIS: Shit. All right, so you take half of (counting) 15,
+so seven. Seven points of damage.
+
+LAURA: Ooh, yeah. He is looking really rough here.
+
+TRAVIS: With my bonus action, I'll wink at Claire.
+
+SAM: (gasp) With my bonus action,
+I get a little moist.
+
+BRIAN: Goddamn it!
+
+LAURA: All right, that was your bonus action.
+What's your action, Claire?
+
+BRIAN: We couldn't get through one--
+
+TALIESIN: One. Just one.
+
+BRIAN: Look. I'm gouging my eyes out with my wand.
+
+SAM: Oh, those aren't real glasses, are they?
+
+BRIAN: Movie magic, friends.
+
+LAURA: What would you like to do,
+Claire?
+
+SAM: I still have whatever my spell was-- Dragon's Breath
+up! It lasts! I'm going to (belches) again right on the thing.
+
+LAURA: Out your mouth?
+
+BRIAN: Are you sure your moistness
+isn't going to affect the flames?
+
+SAM: Lightning comes out of my mouth.
+
+LAURA: Wow.
+
+SAM: So it has to make a dex 14 save.
+
+LIAM: Molly Ringwald belching lightning.
+
+TRAVIS and BRIAN: Yep.
+
+LAURA: That does save with 15.
+
+SAM: Oh well. Ugh.
+
+LAURA: Probably won't matter.
+
+SAM: Three points of damage.
+
+LAURA: Three points of damage is enough!
+How do you want to do this, Claire?
+
+SAM: I want to angle the blast so that when the
+spider explodes and splatters, it splatters towards
+
+our little Ally over here and gets all chunky
+in her hair.
+
+LAURA: Ugh, guts just explode. You're covered
+in red and purple and
+
+black guts, Ally. It goes with your motif though.
+It looks good with your outfit.
+
+TRAVIS: Mixes in with the dandruff.
+
+LAURA: Yeah. All right.
+
+LIAM: I turn into a badger.
+
+SAM: Oh wait. There's spiders behind me.
+
+LAURA: Yeah, but it's not their turn. Andy?
+
+TALIESIN: Tempted to just wait and let it just work
+itself out. Yeah, I'm just going to saunter
+
+over to the spider.
+
+TRAVIS: Just the one?
+
+TALIESIN: Yeah.
+
+LAURA: It's a little swarm. It's a swarm of spiders.
+
+TALIESIN: I'm not even going to break
+eye contact. I'm just going to swat at it without
+
+breaking eye contact.
+
+LAURA: All right, roll with disadvantage.
+
+TALIESIN: Fine.
+
+SAM: Oh, nice!
+
+TALIESIN: 19.
+
+LAURA: Oh my god!
+
+TRAVIS: Not even scared.
+
+LAURA: Ridiculous!
+
+LIAM: Typical Smytherpin.
+
+TRAVIS: Uh-huh. Nice job, sporto.
+
+TALIESIN: That's 17 points of damage.
+
+LAURA: Yeah, these spiders are just
+squished.
+
+SAM: Man! The Sorting Mat got it right with you.
+
+LAURA: Wow.
+
+SAM: I don't know! I'm trying to talk--
+
+LAURA: As you all stand there taking in--
+
+LIAM: Actually, Ally uses a bonus
+action to turn into a badger and grapples Claire
+
+to the ground to roll the funk all over her.
+
+SAM: Ah!
+
+LAURA: Make an attack roll.
+
+SAM: No! My fine clothes!
+
+BRIAN: Now you're moist and funky.
+
+LIAM: Oh, it's a badger attack. Hold on.
+Creatures. That's an eight. Super low.
+
+SAM: Oh no, I have--
+
+LIAM: Does it hit the AC?
+
+SAM: I'm okay.
+
+LIAM: So she dances out of the way?
+
+LAURA: Now you just run up and you stand up and you put
+your paws on her shoulders and you look at each
+
+other face to face. Claire to badger eyes.
+
+SAM: What are we doing?
+
+LIAM: Is it Sixteen Candles now?
+
+TRAVIS: I cast Friends and they make out!
+No, I'm just kidding.
+
+SAM: What are we doing? I'm sorry that I splattered
+spider guts all over you. That was wrong of me.
+
+TRAVIS: You just killed Taliesin.
+
+BRIAN: Can I do something?
+
+SAM: We're not so different, you and me.
+
+LAURA: What would you like to do?
+
+BRIAN: Can I cast Command on her and make her grovel?
+
+LAURA: You can certainly try.
+
+TRAVIS: Ooh.
+
+TRAVIS and BRIAN: What is it?
+
+BRIAN: It's a wisdom 16.
+
+TALIESIN: Oh, that's not going to go well.
+
+SAM: Nine plus five?
+
+LIAM: You have advantage on wisdom saves.
+
+LAURA: That's true because he cast Beacon of Hope!
+
+BRIAN: Oh!
+
+TRAVIS: One more chance!
+
+SAM: It's tons.
+
+LAURA: You succeed. You start to cast Command on her
+and then you think better of it. You start to realize
+
+that, you guys, you succeeded in something pretty
+major together from all different walks of life.
+
+SAM: Yeah. You don't have to Command me.
+I'll grovel anyway. I know I was a bitch to you guys
+
+before and it's only because I really just, deep down,
+want to fit in. Also, side note: I'm a virgin.
+
+I read that on Wikipedia during the break. Thought I
+should admit that to you now.
+
+TRAVIS: I have an unhappy home life. I do care
+about things.
+
+BRIAN: My parents forced me to get good grades.
+
+SAM: What about you, jock?
+
+TALIESIN: I'm fine. I think we're all
+just really messed up--
+
+SAM: And you, honey badger?
+
+LIAM: The badger is peeing down the front
+of your--
+
+SAM: You know? I told you we weren't so different.
+
+LAURA: As all of you sit and talk to
+each other, Beetle pops back in. "Oh, Beetle
+
+"thanks you--"
+
+TRAVIS: Avada!
+
+LAURA: "Beetle thanks you. Thank you! The school
+is saved! Here, quickly! Make it up to your classroom.
+
+"I will try to distract the Professor before she
+gets back."
+
+TRAVIS: Do you have a plortbee or do we
+have to run back?
+
+SAM: A what?!
+
+LAURA: "Run! You cannot apparate within the school.
+Run as fast as you can!"
+
+TALIESIN: I'm pretty fast.
+
+TRAVIS: All right, yeah. Double dash. Haul our ass
+back upstairs.
+
+LAURA: Haul ass back to the classroom?
+
+TRAVIS: Yeah. (running noise)
+
+TALIESIN: Now it becomes Ferris Bueller.
+
+LAURA: Yeah, right? As you guys come
+flying up the stairs--
+
+SAM: I will literally come flying up the stairs.
+I cast Fly.
+
+LAURA: Oh, I like it.
+
+SAM: I grab a broom!
+
+LAURA: Yes, you fly up your stairs. You pass by the cat again
+and Mrs. Blilch, the groundskeeper. I don't remember
+
+what I said. They stare at you as you fly up. You
+fly up across the moving staircases. You all are running.
+
+LIAM: Yeah, and we have that one moment
+where they skid around the floor around the corner.
+
+LAURA: Yeah, definitely. You do that. You
+run up the staircases. Make an acrobatics check as
+
+all of you try to jump to the next level except
+for you, Claire.
+
+TALIESIN: 21.
+
+TRAVIS: 13.
+
+LIAM: 14.
+
+BRIAN: Eight.
+
+LAURA: All of you run and jump. Bryan starts to fall.
+Does any of you save him?
+
+SAM: I have a feature where if he's
+in danger, because he's my ward, I can switch
+
+places with him.
+
+LAURA: What?! That's so cool! Really?
+
+SAM: Yeah. I think he has to be close to me, but I don't
+really know where we're placed.
+
+LAURA: Yeah, you're close. Sure. Whatever.
+
+SAM: I will switch places with him--
+
+BRIAN: Oh wow.
+
+SAM: Which will put him in the air?
+
+LAURA: That'll put him safely across.
+
+SAM: Sure.
+
+LAURA: You're flying now. So you're where he was?
+
+SAM: Mm-hmm.
+
+LAURA: You fly up and you guys are heading up the
+hallway. Quickly, you pass by your level one
+
+spells class. You can hear, down the other
+hallway, the footsteps of Professor Furbin.
+
+TRAVIS: Furbin.
+
+LAURA: Do you try to make it across the hallway
+and into the classroom before she sees you?
+
+TRAVIS: Yes!
+
+LIAM: I cast Pass Without a Trace!
+
+BRIAN: I cast Silence.
+
+LAURA: Oh! Everybody roll stealth and with
+advantage because of that.
+
+LIAM: Plus ten with advantage.
+
+TRAVIS: Yes!
+
+TALIESIN: Thank god!
+
+TRAVIS: 31.
+
+BRIAN: 23.
+
+SAM: 22.
+
+LIAM: Jesus, so bad. 15.
+
+LAURA: Plus ten?
+
+LIAM: Yeah. Rolled a two and a three.
+
+TALIESIN: 25.
+
+LAURA: It's okay. Everybody else did really well,
+so you guys slide into the classroom, run for it,
+
+and take your seats at the desks in just enough
+time to hear the door turning and Professor Furbin
+
+walks in. She stares at all of you. "I'm glad to
+see you haven't moved from your seats like I
+
+"asked." She walks up the stairway, goes into her
+office, giving you just enough time--
+
+SAM: To write an essay?
+
+LAURA: To write this and leave it on your desk
+before all of you leave.
+
+BRIAN: I don't read.
+
+LAURA: No, you're supposed to read it, Brian!
+Jesus Christ! Watch the fucking Breakfast Club!
+
+BRIAN: (terrible British accent) "Dear Professor Furbin,
+we accept the fact that we had to sacrifice a day in--"
+
+TRAVIS: Oh boy.
+
+SAM: "Soh-crifice?!"
+
+BRIAN: "We accept the fact that we had to sacrifice
+a day in Schmogsmeade to be in detention. I mean,
+
+"what we did was pretty shady, but we think you're
+crazy to have us write an essay telling you who we
+
+"think we are. You see us as you want us to see us.
+In the simplest of terms, the most convenient
+
+"definitions, but what we've discovered--"
+
+LAURA: I'm sorry I made him read it. I'm sorry.
+
+BRIAN: "Is that each one of us is a brain, an
+athlete, a honey badger--"
+
+SAM: An "oth-lete?!"
+
+BRIAN: "A princess, and a criminal. Also, we're
+pretty tits at killing spiders. Does that answer
+
+"your question? Sincerely yours, the Club of
+Misfits."
+
+ALL: Yeah!
+
+TRAVIS: Hold that freeze frame!
+
+LAURA: And we're out.
+
+TRAVIS: Oh my god. Yeah! Laura!
+
+LAURA: Yeah! Good job, you guys.
+
+BRIAN: That was so fun.
+
+SAM: It had spiders. It had chess.
+
+TRAVIS: It had wizard's chess. Holy shit! Oh my
+god.
+
+SAM: This makes me want to go read Schmarry
+Schmopper.
+
+LAURA: Read some Shmarry Shmotter and watch The
+Breakfast Club.
+
+TRAVIS: How was it? How was your first one shot?
+
+LAURA: That was terrifying.
+
+TRAVIS: DM seat.
+
+LAURA: I think--
+
+SAM: How long did it take you to prep? Days?
+Hours? Minutes?
+
+LAURA: Days. Days of prep and then all of it goes
+just goes "Ah!" in the moment, right?
+
+SAM: Uh-huh.
+
+LAURA: Hard to sleep beforehand thinking about
+everything that's going to happen.
+
+BRIAN: Did you consult the dungeon master, Matthew
+Mercer VO?
+
+LAURA: I did. I gave him a phone call and he
+helped me out some and I also used my D&D Beyond.
+
+I looked up a lot of monster stats and everything
+like that. I got all these pieces of paper.
+
+TRAVIS: How much of an inspiration was your son,
+Ronin?
+
+LAURA: Oh, just so much. He was the king that--
+
+BRIAN: That we destroyed?
+
+LAURA: No, that was on our side. Yeah, sure.
+Whatever.
+
+BRIAN: He was the king you fireballed.
+
+LAURA: You guys were great.
+
+TRAVIS and BRIAN: You were great!
+
+LAURA: This was fun. It was really fun. It was
+really just an excuse so we can all dress up in
+
+these outfits.
+
+TRAVIS: Happy "Harroween!"
+
+LAURA: "Harroween!"
+
+SAM: If you're in England, we'll see you tomorrow
+or the next day?
+
+BRIAN: Saturday-Sunday so yeah, we'll see you
+Saturday and Sunday.
+
+TALIESIN: We have to check to see if your passport
+has been revoked for that accent.
+
+BRIAN: Nope! No way! I am going to spend the
+weekend in Heathrow, my friends!
+
+LIAM: There was England; Australia; New Zealand;
+Schenectady, New York.
+
+BRIAN: I want everyone to feel included.
+
+SAM: "Oth-letes."
+
+LAURA: All right. I guess tune in next week and
+see what happens with Mighty Nein and until then,
+
+love each other and is it Thursday yet?
+
+(cheering)
+
+BRIAN: Oh, drippy balls.
+
+[music]

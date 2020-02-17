@@ -1,0 +1,7776 @@
+MATT: Hello, everyone! And welcome to tonight's
+episode of Critical Role One-Shots, where we have
+
+taken over the slot of "No Survivors" this Monday
+thanks to the illustrious generosity of the
+
+fantastic Ivan Van Norman.
+
+IVAN: Any day, you may take the slot whenever you
+wish, especially when I get to be a player.
+
+MATT: I like it when Ivan tells me it's okay for
+me to "take his slot." The way he says it. But
+
+yeah, so this evening we have the fantastic
+pleasure of running a one-shot game of Pathfinder,
+
+which, for those of you who haven't played,
+Pathfinder is a fantastic fantasy RPG, it's
+
+actually what we played for the first two years of
+Critical Role. And tonight we get to show a fun
+
+story that we've put together for this series of
+players here, as well as show off the really cool
+
+software Syrinscape, which I mentioned a few times
+in the show, I use it to organize a lot of the
+
+music and sound cues for Critical Role, we get to
+show you some more of what it's capable of tonight
+
+outside of my custom settings, this is what the
+actual setup itself can do, which is phenomenal.
+
+So, super excited to back that. Before we get
+started, let me go ahead and introduce our
+
+fantastic players for this evening. We have on the
+table to my left, we have Ivan, who you've already
+
+seen thus far, Ivan Van Norman, hello. Thank you
+for joining us.
+
+IVAN: I am happy to be here. Thank you for having
+me.
+
+MATT: Yay! We have Marisha Ray from Critical
+Role.
+
+MARISHA: Hi, guys!
+
+MATT: And to the other table, we have Taliesin
+Jaffe from Critical Role.
+
+TALIESIN: Hi!
+
+MATT: And our very two special guests joining us
+this evening, Ashly Burch--
+
+ASHLY: Hello!
+
+MATT: And Phil Lamarr!
+
+PHIL: (deep voice) Why, hi there! I'm going to use
+this voice all night! For no good reason. A goblin
+
+with a large set of testicles.
+
+(laughter)
+
+MATT: Which, to let you guys know, tonight's game
+is going to be interesting because unlike a lot of
+
+other fantasy RPGs, tonight the whole party is
+goblins. Everyone are playing goblins, we'll go
+
+ahead and do some quick introductions as to who
+you're playing, starting clockwise back from how
+
+we were introduced. So, Phil, who are you playing
+as?
+
+PHIL: I'm playing as Browntooth the rogue. Goblin
+rogue. Sort of redundant. But it's a very large
+
+word that I learned. Redundant.
+
+IVAN: And someone clearly cast Bull's Strength on
+those testicles.
+
+MATT: Ashly, who are you playing?
+
+ASHLY: I'm Piglet the barbarian.
+
+MATT: Delightful. Taliesin?
+
+TALIESIN: I'm Mezek the monk.
+
+MATT: Aw, this is going to be fun. Marisha.
+
+MARISHA: I'm Snizzler, the mad bombing alchemist!
+
+MATT: Oh, man. I'm already excited. And Ivan.
+
+IVAN: Grizznak Stompstork, reporting for duty.
+Goblin fartmage, available to all of you. I am the
+
+brains of the bunch, as you can see.
+
+MATT: Perfect! This will be a fun adventure for
+the evening.
+
+TALIESIN: You actually get to use the phrase,
+"I've smelt it, now it's time that I dealt it."
+
+IVAN: Stolen, it will be used.
+
+TALIESIN: Yeah, take it. Public domain, public
+domain. I'm sorry if I already stepped on that one.
+
+MATT: So we've got to go through a couple quick
+announcements here and then we'll overview the game
+
+stuff. So for those watching, I want to remind you
+that this Thursday is Critical Role's 50th
+
+episode. We're having a special episode to
+commemorate this, a couple of surprises that we
+
+have in store for you guys, so definitely be there
+at Thursday at 7:00pm Pacific to check out our
+
+50th episode. Marisha, you have a new episode of
+Signal Boost tomorrow--
+
+MARISHA: Yes! Episode two of Hector! Which is
+episode six of Signal Boost! Watch it.
+
+MATT: And having already seen it, this episode has
+my favorite intro so far. I laughed for five solid
+
+minutes straight, so you'll enjoy it.
+
+MARISHA: It's very funny. Check it out, it's very
+funny. Hector's funny.
+
+IVAN: Hector's the best.
+
+MATT: Indeed. So part of this whole event tonight,
+with the folks at Pathfinder, Paizo, and
+
+Syrinscape, is in celebration of the upcoming
+International Tabletop Day!
+
+(cheering)
+
+MATT: It is happening on April 30th, we'll be
+doing a whole series of great events here in the
+
+studio throughout the day so mark it on your
+calendars, get your friends together--
+
+IVAN: 24 hours of livestreaming.
+
+MATT: Yes! It's going to be great. It's going to
+be great.
+
+ASHLY: For charity, right? For a good cause?
+
+IVAN: KaBOOM! kaboom.org, which is bringing play
+back into the lives of children currently living
+
+in property, (scoffs) "in property." In poverty!
+
+MATT: Children who have been bricked into walls!
+It's horrible!
+
+PHIL: They're stuck on estates! With nothing but
+ponies. They need to play!
+
+IVAN: They're living amongst property, land is
+surrounding them. No, guys, so currently kids
+
+living in poverty and they're trying to bring play
+back into their lives, such as things like
+
+board games, and we're actually going to be giving
+away a lot of board games to kaboom.org, part of
+
+your involvement during International Tabletop
+Day, so don't miss it.
+
+MATT: And if you'd like to plug what usually
+occupies this spot on Mondays...?
+
+IVAN: Oh, well, if you're a Critical Role fan, or
+if you're any kind of fan, and normally you're
+
+here Monday nights, then thank you for coming on
+Monday night again. If you're not, and this a
+
+weird timeslot for you, we still play role-playing
+games on Monday nights, they are just
+
+mini-campaigns instead of the epic, long
+brainchild of Matt Mercer's amazing imagination,
+
+instead we do little one-offs, like we just got
+done playing "Army of Darkness" which was then
+
+created by chat, it was coined "The Arby's of
+Darkness," because their last stand was in the
+
+middle of an Arby's restaurant which one of the
+characters managed. And officially--
+
+MARISHA: That's amazing
+
+IVAN: It was pretty cool.
+
+TALIESIN: What meat is this? What meat is this?!
+
+IVAN: The deadites actually came out through the
+portal at the very end of it, and they were all
+
+the busboys, and the, "I'll swallow your soul,
+I'll swallow your soul!"
+
+TALIESIN: That's every Arby's I've ever been to.
+
+PHIL: Really, it's the same thing.
+
+IVAN: And the next campaign that we're going to be
+doing officially/unofficially, is going to be
+
+"Pugmire," which is a new game, it's basically 5th
+edition in a world of fantasy dogs. It's
+
+a post-apocalyptic future--
+
+MARISHA: I was going to make a joke about that,
+and then it was the real thing, so--
+
+IVAN: It exists. It's in the future, in which all
+man has been wiped out and now dogs reign supreme,
+
+and they have formed a church called, "The Church
+of Man," in which they have a code of laws, the
+
+first law being, "Be a good dog." The second law
+being, "Fetch what has been left behind," and the
+
+third being, I believe it's, "Bite only those who
+attack you." So it's great--
+
+ASHLY: I'm imagining Mad Max with dogs, in my mind
+now.
+
+IVAN: But it's fantasy, it's still fantasy.
+
+IVAN: So you could be like, a pincer cleric, or
+you could be a dachshund rogue or something like that.
+
+MATT: That's fantastic.
+
+IVAN: So 7:00-10:00pm usually on Mondays, come
+hang out.
+
+MATT: Do it. Check it out, guys. It's pretty
+fantastic. So, another cool thing about having
+
+Paizo, the folks from Pathfinder here, is we have
+a bunch of giveaways to give out throughout the
+
+evening to all you guys in chat.
+
+MARISHA: Like, there's a bag of stuff. I don't
+even know what it is. It's exciting.
+
+TALIESIN: I think that's edamame.
+
+MATT: First off, you guys can go to
+paizo.com/goblins, and store.syrinscape.com/geek
+
+to get 25% off a number of their goblin goods and
+stuff as part of tonight's promotional thing. Go
+
+check it out, a lot of cool things there to grab.
+But throughout the evening we'll be giving away
+
+small giveaways that include Pathfinder Core
+rulebook pdfs in chat, the "Burnt Offerings
+
+Adventure" pdf, the soundset from Syrinscape that
+accompanies the "Burnt Offerings Adventure," and
+
+one grand prize winner tonight will get a whole
+bunch of stuff that includes the Core book, the
+
+Monster Codex, the "Inner Seas Races," the "Burnt
+Offerings," the "We be goblins" set, the goblin
+
+promo figure, the town square flip mat, goblin
+bank, goblin plush, a whole bunch of crazy stuff.
+
+So, big old grand prize for one of you guys out
+there, so make sure you're engaging.
+
+IVAN: Yeah.
+
+MATT: Anyway. Now that that's over with--
+
+PHIL: Woo!
+
+(laughter)
+
+MATT: For tonight's game, you guys will be playing
+goblins, of course. I'll go over the story here in
+
+a moment, but things to consider: part of
+tonight's fun is, at certain points during the
+
+story, if you roll really crappily on a roll, or
+you want to get that extra action in, you're doing
+
+good and you want to get that extra attack or
+extra ability, each of you have constructed and
+
+have at your disposal a goblin song that is custom
+to your character. You may choose to sing this
+
+song out loud on the stream and doing so will gain
+use of that reroll or that extra action. Use it
+
+sparingly, it's only once in a while, possibly a
+once-a-night type circumstance. But I'm exci--
+
+(burps) pardon, I'm excited to hear all of your
+individual songs as we progress.
+
+MARISHA: So excited, it gave him indigestion.
+
+MATT: It's how it's the reaction, I get nervous,
+guys. Great. So, that being the case, let's go
+
+ahead and get this show on the road.
+
+MARISHA: Oh my god, I'm so excited.
+
+IVAN: There we go. Goblin pants!
+
+MARISHA: Also, I'm using Liam's dice box because
+he's not here, and he can't stop it.
+
+(laughter)
+
+IVAN: Liam, I'm touching your stuff, I'm touching
+your stuff.
+
+MARISHA: I'm going to rub my butt on it.
+
+MATT: Here in the Sandpoint Hinterlands, nestled
+in the western side of the Devil's Platter
+
+Mountain Range, there lies the Bird-Cruncher Tribe
+of rather rambunctious goblins known for their
+
+deft trapping skills, having earned their name and
+the majority of their food supply by snaring wild
+
+birds and eating them raw. You five have grown up
+together here among the caves and cliffs over the
+
+past six years, outliving many of your other
+brethren, making you tough. Although most of you
+
+were the runts, discarded as weak and useless, you
+were all taken in and raised within your cages,
+
+which is how most goblins are raised, by the
+sagely Guffeye.
+
+IVAN: Guffeye.
+
+MATT: An ancient goblin oracle of nearly 30
+years of age, who enjoyed the idea of having her
+
+own troop of personal guardians, she shouts that
+she is touched by the sight of Zogmugot, Lady
+
+Last-Breath and the goblin hero-god of flotsam and
+scavenging, though many of her visions have led to
+
+grave misfortune and her favor within the tribe has
+waned. But you guys believe her! Mostly.
+
+IVAN: Zogmugot looks favorably upon our lovely
+Guffeye.
+
+MATT: This cold, overcast autumn morning rolls in,
+and the five of you are returning from a morning
+
+snare run, when you hear the sound of crackling
+shouts from old Guffeye's crag porch. "Come! Come!
+
+"The dream! The sight! Come!"
+
+And she darts back into her little cave
+hole.
+
+IVAN: Guffeye has another dream! You know what
+that means!
+
+PHIL: Someone's going to lose a hand.
+
+MARISHA: Usually this means she's been drinking, I
+just want to point that out.
+
+IVAN: Well, let's go see what the old windbag's up
+to, because you know it's going to involve us
+
+probably dying.
+
+PHIL: Probably.
+
+MARISHA: Let's go!
+
+MATT: Entering her home, the familiar smell of
+pungent spices and rotting wood hits your nose,
+
+and this hoarder hole of a home is crammed to the
+brim with driftwood, molded leather, metal scraps,
+
+torn hides, broken pottery, all sorts of other
+beautiful pieces of junk.
+
+IVAN: It's amazing.
+
+MATT: Nostalgia comes over you as you glance at
+the empty iron cages you once grew up in, now
+
+partially buried and filled with wet wool. As you
+guys enter, old Guffeye steps onto a small box and
+
+turns, her snow-blind eyes clouded and bulging
+above her toothy grin: "My runts! The Lady gifts
+
+"Guffeye. The wait is broken! I have a vision once
+more. A thing, a great thing was shown to Guffeye,
+
+"in both these eyes: a stone of crack and thoom! A
+rock that barks like the storm! This rock, this
+
+"stone, Guffeye must have! This Guffeye must get!
+You! You must get this stone, bring it to me, for
+
+"the Lady's blessing."
+
+ASHLY: Guffeye, if I give it to you first will you
+like me the best?
+
+MATT: "I already like you the best--"
+
+ASHLY: Yes!
+
+MATT: "--but I will like you twice best."
+
+ASHLY: Oh my God.
+
+IVAN: Guffeye, as your esteemed and most
+intellectual advisor, I have to ask: where did the
+
+Lady bestow this vision upon you that we may find
+the barking rock?
+
+MATT: "Well, I awoke this morning, envisioning
+just how much more I like Piglet than the rest of you--"
+
+IVAN: But I just got done scrubbing all of your
+sores last night!
+
+MATT: "Silence!"
+
+ASHLY: Sorry, Guffeye.
+
+MATT: "Upon brewing my morning thatch tea, the
+vision struck my face! I dropped it, it shattered,
+
+"in a beautiful clattering of broken pottery, and I
+saw before me a reminder that today is a special
+
+"day. The sun. The sun rise highest in the sky!
+Today is the day of the human festival in
+
+"Sandpoint-- filthy, stupid human festival! The
+Lady showed me a man. A man in blue, blue
+
+"everywhere, in robes, a church man." (spits)
+
+(spitting)
+
+MATT: "His name was Zaan-- Hold on."
+
+ALL: Zaan?
+
+MATT: "Zaan-- Zantos."
+
+ALL: Zantos!
+
+MATT: "Guffeye saw the people around the churchman
+at this festival-- the churchman has the storm
+
+"rock on him!"
+
+IVAN: Ooh, storm rock.
+
+MATT: "So. Go to this Sandpoint. Go to this human
+festival. Find this blue-skinned, blue-robed
+
+"church-man and take the stone for Guffeye, yes?"
+
+ASHLY: That sounds pretty easy, like nothing bad
+will happen?
+
+IVAN: Easy! Exactly! We got this!
+
+MATT: "The Lady also showed me: other goblins
+know."
+
+MARISHA: What?!
+
+MATT: "Stupid, stupid Seven-Tooth tribe also wants
+stone, going to city now!"
+
+IVAN: Why would the Lady show them the blue
+stone?
+
+TALIESIN: Four tooth too many, that's--
+
+IVAN: Seven tooth too much, two tooth is best
+tooth!
+
+MARISHA: I agree, I agree.
+
+IVAN: Two tooth is best tooth.
+
+MATT: "You go. Sneak in! Find churchman! Take
+storm rock before Seven-Tooth dumb-dumbs! Bring
+
+"back to Guffeye, get blessing-- and good meal,
+promise."
+
+PHIL: Oh, well, if there's food--
+
+TALIESIN: And drink.
+
+MARISHA: Yeah! Only with a good meal and a drink!
+You got it?
+
+MATT: "This I can provide."
+
+ASHLY: And dessert?
+
+MARISHA: Yeah!
+
+MATT: "Piglet, you're now second most favorite."
+
+ASHLY: (wailing) No! I didn't mean it! I don't
+want dessert!
+
+PHIL: Greed diminishes you.
+
+ASHLY: (crying)
+
+MATT: "Bring me stone, become first favorite!"
+
+ASHLY: Okay, okay.
+
+MATT: "Now go! Time is wasting!"
+
+IVAN: (singing) Blue stone, blue stone, we will
+get it all! Blue stone, blue stone, then we'll eat
+
+them all! Stupid Seven-tooth is going to burn and
+burn and die! Burn them all, burn burn, burn and
+
+burn and die. Yay!
+
+MATT: (laughs) As you guys exit the cavern, you go
+to your various hidey-holes, gather all your
+
+materials, your weaponry, whatever things you
+think you may require on this journey. You know
+
+that the direction is northwest, past the
+Ravenroost mountain pass, towards this town of
+
+Sandpoint, and that is where your path lies. The
+clouds begin to gather overhead at this point in time.
+
+IVAN: Ooh. Best weather for scavenging!
+
+PHIL: Nice and clammy.
+
+IVAN: They won't even see us coming! Because we're
+goblins.
+
+MATT: A gentle rain slowly begins to hit down from
+the sky above.
+
+IVAN: How long is it going to take for us to get
+to Sandpoint?
+
+MATT: Depends on who's the best leader to find
+their way there. I guess--
+
+IVAN: Grizznak is best leader!
+
+ASHLY: I am best leader!
+
+IVAN: Grizznak is smarter!
+
+PHIL: Which way do your feet point?
+
+MARISHA: Whoever said you were the smartest?
+
+IVAN: Because I am the wizard, and the wizard is
+always the smartest! This is simple goblin logic!
+
+MARISHA: That is pretty good logic. I agree with
+that.
+
+ASHLY: But I have a big hammer!
+
+IVAN: But you are-- look--
+
+TALIESIN: She does have a big hammer, she has a
+very fair point.
+
+IVAN: Guffeye already tells you that you are the
+most elite of Guffeye. So we don't want to soil
+
+poor Piglet into having you out at front, best to
+let Snizzler and Grizznak lead the way.
+
+TALIESIN: You're the most complete, you heard him,
+that's absolutely true.
+
+MARISHA: I agree with that, yeah. You don't want
+to tarnish your beautiful, shining reputation.
+
+ASHLY: You're right. She would be so sad if I
+died.
+
+TALIESIN: Tarnish the, tarnish the handle of the--
+yeah, it's--
+
+ASHLY: Yeah, that's true. She wouldn't care if you
+guys died, but if I died she'd probably be sad.
+
+MARISHA: Exactly, exactly!
+
+PHIL: Besides, whoever is in front is most likely
+to be shot in the face with something.
+
+MARISHA: Right, so, naturally, we're better to
+lead. Am I right, Grizz?
+
+IVAN: Yeah, you got it Snizzler. Grizz'n'Snizz,
+all the way!
+
+MARISHA: Grizz'n'Snizz!
+
+IVAN: So I'm assuming I'm going to make some
+navigation--
+
+MATT: I would like for you to make a survival
+check, as the leader of his group.
+
+IVAN: Haha, yes, leader!
+
+MARISHA: Grizz or Snizz?
+
+MATT: Well, whoever one is leading.
+
+MARISHA: Well, he's leading.
+
+IVAN: I'm clearly the most intelligent goblin in
+this troupe.
+
+MARISHA: Oh boy, you're so smart.
+
+ASHLY: Do I smell mutiny already?
+
+PHIL: I think I smell lunch.
+
+IVAN: But I think, I don't know if I want to burn
+my song already.
+
+MARISHA: Look, Grizz, look. I'm really good at
+building things, so naturally I know how to
+
+survive better.
+
+IVAN: You did make the best lean-to.
+
+MARISHA: I did, I did, in the Boy Scouts.
+
+IVAN: We went to juvie together.
+
+MARISHA: We did. Good times. Can I try?
+
+MATT: Well, we'll say you let (laughs) you let him
+lead for a while.
+
+MARISHA: All right.
+
+MATT: As you start heading northwest, as you begin
+to pass the south part of the Ravenroost mountain
+
+pass, you're led into a relatively thick patch of
+very, very painful bramble thicket chunk.
+
+IVAN: Underbrush is the best!
+
+ASHLY: I'm beginning to regret rescinding my offer
+to be the leader!
+
+IVAN: Everyone knows-- goblins know that the most
+painful path is usually the right path!
+
+MATT: And the most painful path does manage to
+deal two points of damage to all of you as across
+
+your flesh being dragged through the bramble
+thicket.
+
+MARSIHA: That's only your own self-loathing,
+Grizz, Jesus! Ow!
+
+ASHLY: I could use a writing utensil.
+
+IVAN: Oh, that hurts.
+
+MATT: Until eventually Snizzler decides to rise up
+in frustration and take over the leader position.
+
+MARISHA: Jeez, all right, come on. Let me see.
+
+IVAN: Here, take dick bone, that is the leader
+staff.
+
+MARISHA: All right, thank you. We got it from an
+old badger.
+
+MATT: Go ahead and make your survival check.
+
+IVAN: I swear this is best.
+
+ASHLY: Oh no. That's not a good reaction.
+
+MATT: So?
+
+MARISHA: I rolled a natural one.
+
+TALIESIN: And they were never seen or heard from
+again. Game over!
+
+MATT: Well done!
+
+IVAN: We're running the best goblin scenario ever
+right now.
+
+MARISHA: Are they going to make it out of the
+brush?
+
+TALIESIN: Like brownies and willow, man, we're
+done for.
+
+MATT: Wading deeper and deeper into the bramble
+thicket, now under the guidance of Snizzler.
+
+MARISHA: Look, it's just about finding the flow.
+
+PHIL: The flow is up my buttocks!
+
+MATT: You all take an additional one point of
+piercing damage as you're
+
+scratching your way through.
+
+IVAN: It hurt! Guys, guys, I don't know, but I
+think I have one more rash that I didn't have
+
+previously somewhere.
+
+MARISHA: Oh, jeez, there's poison oak everywhere!
+
+MATT: The rain intensifies, starting to echo
+through the mountain ranges in the distance, the
+
+storm appears to be getting relatively stronger.
+However, during this travel the rain that is
+
+washing down the side of the mountain does lead
+you to a position of the thicket that isn't quite
+
+so heavy, and eventually you guys make your way
+outside of the immediate
+
+physical danger of the terrain.
+
+PHIL: Congratulations.
+
+TALIESIN: There's got to be some cover around
+here.
+
+MARISHA: I think we're further than we started.
+
+IVAN: See, at least we're not at the cave
+anymore.
+
+ASHLY: Piglet doesn't like lightning. Can we go
+somewhere where there's no lightning?
+
+MARISHA: Okay.
+
+IVAN: Well, are we close to a tree? Because trees
+are really good to have cover under lightning, I'm told.
+
+ASHLY: I wasn't sure whether or not you were the
+smartest, but that's the best logic I've heard all day.
+
+MARISHA: I agree! I agree! You kill it every time,
+Grizz!
+
+IVAN: That's why I'm the wizard! (singing) That's
+why they call me the greatest!
+
+MARISHA: You always did read the most.
+
+PHIL: You call you the greatest. No one else calls
+you that!
+
+IVAN: Well, Grizznak is the greatest.
+
+MATT: At which point, a large bolt of lightning
+hits a tree maybe about 20 feet off from
+
+you, sending sparks flying, the tree bursts into
+flames and tumbles onto the ground. I need--
+
+MARISHA: Holy shit! Did you see that, dude?!
+
+IVAN: Look! Look! Zarongel smiles upon us! See,
+he's lit our way!
+
+ASHLY: You said that lightning didn't like trees!
+
+MARISHA: That was rad, bro! Oh yeah!
+
+ASHLY: I don't know about these guys...
+
+IVAN: So, with no cover and nothing around it I
+have a feeling maybe we should make a mad dash for
+
+either caves or potentially Sandpoint. We're not
+anywhere close to Sandpoint--
+
+MATT: You've done a few loops in the area--
+
+ASHLY: We've been looping?!
+
+MATT: Did anybody else want to try and lead this
+expedition?
+
+TALIESIN: Did you want to go which way-- no, I
+know which way! I'm going to go! And I'm going to
+
+walk in a direction. Follow me!
+
+MATT: All right, Mezek.
+
+MARISHA: I love family outings.
+
+TALIESIN: What am I rolling? I just rolled, what
+do I add to it?
+
+IVAN: Survival.
+
+TALIESIN: Survival? Where is survival? 19!
+
+MATT: All right.
+
+ASHLY: Finally.
+
+IVAN: Don't screw this up.
+
+MATT: And with this, Mezek, for as far as goblin
+franticness is concerned, manages to medicate
+
+himself with various alcohols to a state of
+concentration, pushes forward deeper into the
+
+forest, against your better judgement. But in
+doing so, stays out from the rainfall, manages to
+
+avoid a lot of the lightning storm which is now
+blowing over the southern portion of the mountain
+
+range and leads you guys, over the next couple
+hours, through a bit of a muddy, sloshy forest
+
+terrain towards the outskirts of the actual town.
+
+IVAN: Is it still night, or is it still--
+
+MATT: Oh no, it's about mid-day now, it's
+pushing-- you're pushing into, like, the early
+
+afternoon at this point. You've lost a few hours
+on your journey.
+
+TALIESIN: There! I only take about two hours of
+responsibility today, and I'm done! It's someone
+
+else's problem now!
+
+PHIL: I will lead, now that I can see where I'm
+going!
+
+IVAN: Hey, let's do the circle thing again! That
+was fun!
+
+MARISHA: That was fun, like a game.
+
+TALIESIN: Was that fun? Because I've experienced what
+I thought was fun before, and it was nothing like that!
+
+PHIL: Most of my fun does not hurt quite so much.
+
+IVAN: As they say, "No pain, no gain!"
+
+PHIL: I don't like the ones who say that.
+
+MATT: All right, guys--
+
+IVAN: As they say, "No pain, no shame."
+
+PHIL: I think they just like to rhyme.
+
+MATT: Following Mezek's path, you eventually make
+your way through the forest, alongside the
+
+southern side of the Lost Coast Road, coming upon
+the edge of the trees, to the Tyrandarock River.
+
+It surrounds the town of Sandpoint itself and
+encompasses it. It's a port town that's set on the
+
+ocean, and this river surrounds the outskirts of
+it. So you find the edge. You hit the muddy banks
+
+of this river, and looking across you can see now
+the actual city proper.
+
+PHIL: Browntooth is very into city planning so
+this is very interesting.
+
+(laughter)
+
+IVAN: I'm into city burning. That's my favorite.
+
+MARISHA: Especially if they're human cities.
+
+PHIL: Yes!
+
+IVAN: Burning, burning. So, I think because my
+survival ability is so amazing, I'd like to
+
+propose that I try to fashion some sort of
+flotsam, with Zarongel's guidance, I would like to
+
+try to take some flotsam and make some type of
+floaty-pushy thing, that we might wade the wiver--
+
+wade the river.
+
+ASHLY: "Wade the wiver"?
+
+IVAN: Wade the wiver! To get across to the city.
+Not even bothering to look for a bridge.
+
+MATT: Sure.
+
+MARISHA: You know we don't use no dirty human-made
+contraptions.
+
+ASHLY: Wait, wait, wait, why don't we just swim?!
+
+MARISHA: No, no, no, look: the Snizz can do a lot
+of things. The Snizz does not swim. Not very
+
+confident in my swimming abilities.
+
+PHIL: I'm not sure the Snizz can do a lot of things!
+
+(thunder)
+
+IVAN: Oh, Zarongel smiles on us again, yay.
+
+MATT: As you guys glance from the flash--
+
+IVAN: Smite another tree, Zarongel! Sorry.
+
+MATT: It's okay. You see the bolt of lightning
+strike a distant watchtower on the far side of the
+
+city that has a rod specifically to pull these
+types of things out of the way.
+
+IVAN: Stupid idea.
+
+MATT: Glancing over, I'll have you guys roll a
+perception check if you could. Everybody go ahead
+
+and roll perception.
+
+IVAN: Solid 17.
+
+ASHLY: 17.
+
+PHIL: Ten.
+
+TALIESIN: Natural one!
+
+MATT: Marisha?
+
+MARISHA: Ten.
+
+IVAN: 17.
+
+MATT: All right, so we got two 17s here, from you guys.
+Al right, so as you guys are glancing about, you
+
+can see the city before you and it generally loses
+most interest to all of you, especially Mezek,
+
+who, while your direction sense has been great
+today, once you get to the actual location of your
+
+intent, you've lost all interest and you're
+playing in the mud. The thick clay on the side of
+
+the river smeared on your face.
+
+IVAN: I want to kick any sculptures that he makes
+out of mud.
+
+MATT: Okay.
+
+PHIL: Make sure it's mud!
+
+IVAN: Whatcha going to do about it, Mezek, whatcha
+going to do about it?
+
+TALIESIN: Wait 'til you're asleep.
+
+MATT: Now you're not sure if it was mud because it
+spooked you a little. So, the two of you glance
+
+over and you can see there are two bridges that
+lead to the city itself that go over, but both of
+
+them look extremely heavily guarded. You have two
+passes of three sets of guards that walk back and
+
+forth, armed with crossbows. You guys do-- As the
+midday rain is still pouring down and it's causing
+
+the surface of the river to spatter, you can see
+there's a little bit of what would have been a
+
+morning marine fog that's been burning off
+since it went out there so it's no longer really
+
+at your disposal. However, you two do notice,
+right across the river against the bank before it
+
+rises up to the top of the city itself, you see,
+barely visible, the outside of a metal grate. Some
+
+sort of a subterranean sewer or tunnel system that
+is sealed shut across the way. It's a good, say,
+
+80 to 100 feet across that river right now and it
+does have quite the current to it, probably
+
+because the rain's been pouring for most of the
+morning.
+
+IVAN: Goblins plus sewers equals awesome.
+
+MATT: Smart one here, doing the math.
+
+IVAN: Yes. So we have to wade the river in order
+to get to the grate?
+
+MATT: What do you want to do to get there? It's up
+to you guys.
+
+ASHLY: Do we have to go to the grate?
+
+MATT: You don't have to.
+
+ASHLY: I don't like lightning, and I really want
+to use my hammer. As a result. Those two things
+
+are connected, don't question.
+
+PHIL: Can you swim with your hammer?
+
+ASHLY: I just want to smash the dudes guarding the
+bridge.
+
+PHIL: Are there guards on both bridges? Are there
+guards on both bridges?
+
+MATT: Yes.
+
+IVAN: Look, I think, just putting it out there,
+that grate is really, really good because there's
+
+no people in there. And humans are dumb-dumbs.
+
+ASHLY: Are you not goblins?! Do you not like
+smashing humans' skulls?!
+
+IVAN: I like, pewpewpew human's skulls. I don't
+like to get in all up in the face thing, Piglet.
+
+ASHLY: I think he's a coward!
+
+IVAN: How dare you call Grizznak the Great a
+coward! And I want to-- I don't have magic mouth--
+
+I want to Grease her. I want to cover her in
+grease.
+
+PHIL: Who doesn't?
+
+TALIESIN: This got weird quick. All right.
+
+ASHLY: Do I roll to not get greased?
+
+PHIL: We dive in the brambles and then begin to
+grease each other.
+
+MATT: It has started. The game has indeed
+started.
+
+IVAN: "I will show you true power!" As grease
+spurts out from my hand.
+
+ASHLY: I will roll against grease.
+
+MATT: Yes, for you, I need you to make a reflex
+saving throw. So go ahead and roll a d20 and add
+
+your reflex.
+
+ASHLY: 19, I will have you know. Plus my reflex.
+
+TALIESIN: There's a little box right there.
+
+ASHLY: Oh, five.
+
+MATT: You rolled a 19?
+
+ASHLY: 19 plus five.
+
+PHIL: Yeah, she rolled a 19.
+
+MATT: You go and (raspberry noise) begin to spew
+grease from the outside of your goblin staff--
+
+Piglet, however, a little ball of anger and
+muscular rage, instead darts out of the way,
+
+slamming into the side of the sandbank that you
+are currently playing in the mud and clay with,
+
+causing that to collapse partially onto you. You
+are now partially buried under the clay. And what
+
+little bit of your head is pointing out is now
+being sprayed with grease.
+
+TALIESIN: (sputters, coughs)
+
+IVAN: Oh, sorry. That was meant for Piglet. Okay.
+High five! All is forgiven.
+
+PHIL: I say we do the opposite of whatever he
+wants to do.
+
+ASHLY: So we're going to get the humans! We're
+going to smash 'em with hammers and other sharp--
+
+TALIESIN: We're supposed to be stealthy, can we do
+it and be stealthy?
+
+IVAN: I think stealth is better.
+
+TALIESIN: Is there a way to smash humans with
+stealth?
+
+PHIL: How many guards are there?
+
+MATT: Looking, there's about six to each bridge
+that you can see.
+
+ASHLY: Can I tell if it's more advantageous for
+any reason to go through the bridge
+
+versus the sewer?
+
+IVAN: Combat.
+
+MATT: It's hard to say. A town full of people--
+make an intelligence check.
+
+Go ahead and roll a d20.
+
+ASHLY: This is not going to go well!
+
+IVAN: Roll for comedy.
+
+ASHLY: One!
+
+MATT: Natural one. What?
+
+ASHLY: Ten. Ten altogether.
+
+MATT: Ten altogether? Okay. So you know humans.
+You know them pretty well. And they're tall, but
+
+they're pretty weak. There's a lot of them on
+these bridges. That's a lot of really, really weak
+
+things. Conversely, in the sewer, who knows what's
+in there? There's filth, there's scavenging
+
+pieces, and possibly dirty humans. So it's up to
+you. Do you want to go out in a delightful goblin
+
+blaze of glory? Or do you want to go out in a
+delightfully messy goblin blaze of glory?
+
+ASHLY: The disembodied voice makes a good point,
+let's go in the sewer.
+
+(laughter)
+
+PHIL: Right! Let's drown rather than be stabbed!
+
+MARISHA: How are we going to cross?
+
+IVAN: Drowning is the way Zarongel would want us
+to go out.
+
+PHIL: I thought you were going to build us some
+flotsam-floaty-flotsam.
+
+MARISHA: I'm really nervous about water. I like
+burning things.
+
+ASHLY: I can carry you, I'm strong.
+
+TALIESIN: I want to look around and see if there's
+anything to add to this flotsam pile.
+
+MATT: Sure, make a survival check.
+
+IVAN: Can Snizzler and Mezek help me to--
+
+MARISHA: Build a rough raft.
+
+IVAN: Yeah, to build a rough raft.
+
+TALIESIN: Seven.
+
+MARISHA: I roll as well.
+
+IVAN: 17.
+
+MARISHA. What am I adding here? Don't I have 
+good stuff for tinkering?
+
+IVAN: Do you want to tinker? I think this is
+survival.
+
+MARISHA: Oh, survival. Ten. But he rolled pretty
+good.
+
+MATT: Okay, it takes you guys the better part of
+about 30 minutes or so as you find things in the
+
+nearby edge of the woods. You start pulling up the
+bits of clay and sand that you were buried under
+
+as something caught your foot, and it was a bit
+pointy but you found a chunk of driftwood that looks
+
+to have made its way there. I would like you all
+to make a stealth check, as you are now having to
+
+dart in and out of the forest to find material.
+
+ASHLY: 18 plus 14.
+
+PHIL: Three plus 20.
+
+MATT: Plus 20?! Goblins! Oh my god.
+
+TALIESIN: 36. Damn!
+
+MARISHA: 32.
+
+IVAN: 33.
+
+MATT: Okay! You guys deftly, running back and
+forth along the bank of river, grabbing
+
+what you can out of the sand and the dirt,
+apparently entirely unnoticed as there even is a
+
+series of guards that come by, four of them, that
+just walk on past. One of them you swear stared into
+
+the forest right at you and went--
+
+MARISHA: Be garden gnomes you guys, garden
+gnomes!
+
+MATT: "Hey, Steven! Did you leave some gnomes out
+here? Stupid gnomes."
+
+And they keep on walking past.
+
+MARISHA: Haha, garden gnome act gets 'em every
+time! Heh, heh, heh.
+
+MATT: "Wait, I want some garden gnomes!" And he
+comes back in. "Nah, they look filthy. All green.
+
+"From the mold. Stupid garden gnomes." And he keeps
+going.
+
+IVAN: He's the first one that's going to get
+pew-pewed.
+
+MARISHA: I agree. Boom-boom! Heh.
+
+IVAN: Boom-boom, pew-pew.
+
+TALIESIN: Two arms, two legs, one head, we'll find
+him at the end.
+
+IVAN: I've got his face. I've got his beady face.
+
+MATT: So you've crafted this "raft". It's less of
+a raft and more of a pool noodle buoy thing.
+
+IVAN: Yes! Yes, let's all get on a pool noodle
+which is basically a giant branch.
+
+PHIL: That's the first smart thing you've said all
+day!
+
+MATT: This is less like Tom Hanks in Castaway,
+more Gollum in the river. You guys are having to
+
+hold on and move across. However, as you push it
+into the water, it is buoyant and it does seem to
+
+carry you. The current does tend to push it, so
+you guys are going to have to guide it across the
+
+current. If I could have you all make a swim
+check.
+
+MARISHA: Oh, I'm so bad at this! I'm really not
+the best swimmer, you guys.
+
+ASHLY: 11.
+
+MARISHA: Oh boy, this is so bad!
+
+MATT: Five?
+
+PHIL: 12.
+
+TALIESIN: 21.
+
+MARISHA: Four. I have a fear of swimming.
+
+PHIL: Sorry, 17.
+
+MATT: 17, okay. So you guys are pushing along. The
+three of you are back to back, feels like goblin
+
+power, getting in there.
+
+PHIL: Oh, I swallowed a fish! (cough)
+
+TALIESIN: Share! Share!
+
+MATT: You glance over your shoulder and see the
+two of them going, (yelling).
+
+IVAN and MARISHA: (yelling)
+
+MARISHA: I hate water!
+
+PHIL: Our fearless leaders!
+
+ASHLY: That feels perfectly appropriate.
+
+MATT: As part of the screaming echoes out, you
+hear someone in the distance go,
+
+"D'you hear that?"
+
+ASHLY: Shut up! Shut up!
+
+IVAN: (screams quietly)
+
+MARISHA: (hyperventilates quietly)
+
+MATT: Okay. You guys stop moving and the current
+carries you, and you slowly begin to rotate in the
+
+water and you're being rained on in the face. And
+you see a couple guards look as you drift under
+
+the bridge on the far left side of where you
+entered and they look down and go, "Man, they'll
+
+"throw away anything these days. Perfectly good
+piece of wood." As it drifts under the bridge, you
+
+guys have a moment to go ahead and try and push to
+shore. Go ahead and roll swim checks again.
+
+MARISHA: I'm so afraid.
+
+IVAN: Better.
+
+TALIESIN: 16.
+
+IVAN: 20.
+
+MARISHA: Negative one.
+
+MATT: Haha! It's okay.
+
+PHIL: What, are you made of lead?!
+
+MARISHA: I have a negative four swim, I just
+want to point that out. (cries)
+
+MATT: So as you're pushing there, you're making
+headway, except for the fact that Snizzler is
+
+going like, (yelling) and pushing your heads
+under, trying to climb out of the water.
+
+IVAN: Stop it! Stop! Stop it!
+
+ASHLY: I say we kill her. We cut our losses? What?
+Am I right?
+
+PHIL: Let's just knock her out, we'll need someone
+to carry all of her stuff.
+
+ASHLY: I can carry it! I'm strong!
+
+MATT: As the splashing and chaos hits, you guys
+(impact noise) hit the sandbank on the other side
+
+of the river. You have managed to cross it
+primarily.
+
+MARISHA: Snizzler vomits. As soon as he hits land
+(vomit noises).
+
+TALIESIN: I want to go through the vomit to see if
+there's anything interesting in there.
+
+IVAN: I was going to say I'm-- I fight to get to
+the vomit.
+
+TALIESIN: Yeah we'll fight, we'll fight.
+
+IVAN: We'll fight for the vomit.
+
+MATT: I want both of you guys to roll initiative
+to see who gets to the vomit first.
+
+IVAN: Fuck!
+
+TALIESIN: What's-- oh. 11.
+
+MATT: What did you get?
+
+IVAN: I got 11!
+
+MATT: You guys both--
+
+PHIL: Conk!
+
+TALIESIN: (cackling) (raspberry noise)
+
+MATT: And with that, Mezek grabs a hand scoop up
+of this crusted sand--
+
+TALIESIN: I have a jug.
+
+MATT: Puts it in the jug. Closes it off.
+
+TALIESIN: I'll go through it later.
+
+IVAN: Being a goblin is amazing.
+
+MATT: At which point you hear another voice say,
+"Did you hear laughing? I'm going to go check."
+
+And you hear a number of footsteps coming your
+way.
+
+IVAN: I'm going to cast Ghost Sound.
+
+MATT: Okay.
+
+IVAN: To see if I can distract them away.
+
+MATT: What kind of sound are you producing?
+
+IVAN: I'm going to produce a righteous
+merriment-making sound.
+
+MATT: On the direction of...?
+
+IVAN: It sounds like drunken storytelling.
+
+MATT: Okay. So, at this point you guys watch as
+Grizznak spins around, points his staff forward,
+
+and quite a ways away you hear this boisterous
+(indistinct drunk storytelling) start blasting
+
+from the opposite side of the bridge, up near the
+rocks that begin to meet the base of
+
+the city's foundation. The footsteps shift and you
+hear them going across the wood planks above you
+
+on the bridge, in the direction that he set. Now
+is your time to go ahead and dart for the
+
+grate on the outside of the sewer. Go ahead and roll
+stealth checks, all you guys.
+
+IVAN: Stealth checks?
+
+TALIESIN: That's leaning.
+
+ASHLY: 23.
+
+MATT: 23?
+
+PHIL: 40.
+
+MATT: Jesus! You vanish from time and space!
+
+TALIESIN: He folds to be one-dimensional.
+
+MATT: You have a fifth-dimensional goblin on your
+team now.
+
+TALIESIN: 31.
+
+MARISHA: 19.
+
+IVAN: 22.
+
+MATT: Okay. You guys, darting through the rain,
+using the edge of the rocky--
+
+PHIL: What took you so long?
+
+MATT: You get to the grate, and there is indeed
+Browntooth sitting there picking his teeth with
+
+one of his blades.
+
+TALIESIN: How did he do that?
+
+ASHLY: What I don't-- you were just-- and then--
+
+PHIL: Sometimes it pays to be quiet.
+
+ASHLY: I think we all learned a valuable lesson.
+
+PHIL: Now who's going to rip off this grate?
+
+ASHLY: Me!!
+
+PHIL: Oh, god!
+
+MATT: Piglet, go ahead and make a strength check.
+Roll and add your strength modifier.
+
+ASHLY: (laughing) 25.
+
+MATT: 25! With one hand, Piglet, holding the hammer
+in one hand, grabs the grate, spins it in place,
+
+sending rust and metal sparks, and throws it
+behind her, (sploosh).
+
+ASHLY: And I go like this.
+
+PHIL: Again, I would like to mention about the
+being quiet part.
+
+IVAN: I take a moment to absorb all of that
+amazing that happened right there.
+
+ASHLY: You're welcome, you're welcome.
+
+IVAN: Yeah, Grizznak, not being the strongest of
+the bunch, is easily swayed by intense feats of
+
+strength. Oh, my!
+
+PHIL: Grizznak, you look like you want to grease
+her again in a whole new way!
+
+IVAN: Wishes he had another Grease spell prepared!
+Woo! Okay.
+
+MATT: At which point you hear the howl of distant
+wind and the droplets of condensation within the
+
+depths of this sewage system beckoning to you as
+an entry portal to this city. Secretly, privately,
+
+and hopefully to wherever this festival is
+happening where you can gather this "Storm Rock."
+
+IVAN: Smells just like home.
+
+PHIL: Yes, moldy and clammy.
+
+IVAN: Yay. Hey, do you remember when we were in
+juvie and they threw us down in the "lock box"?
+
+For like a month?
+
+MARISHA: Oh, dude, and we got so blazed.
+
+IVAN: We got so blazed!
+
+MARISHA: That was so good, man.
+
+IVAN: Yeah, this reminds me of that.
+
+MARISHA: Yeah, yeah, I agree.
+
+ASHLY: I feel excluded.
+
+(laughter)
+
+ASHLY: Remember when I ripped the grate off of the
+thing?
+
+PHIL: Oh, those were the days.
+
+TALIESIN: When did that happen? I don't remember
+that.
+
+IVAN: I think we're all going to want to sneak--
+
+PHIL: Let's go inside.
+
+IVAN: Sneak around inside.
+
+TALIESIN: I want to keep my eyes peeled for
+things that might be useful or that can contain alcohol.
+
+MATT: Okay. Good to know. You guys step your way
+inside the sewer. The slick stone structure of it
+
+has lots of residue buildup from various minerals
+that have come through, as well as various degrees
+
+of wastewater that have found their way to the
+river. The smell is horrible for anyone but you
+
+guys. It's a familiar scent. As you make your way
+inside-- I'd say about 100 feet in as you're going
+
+through the darkness here-- but you guys can see
+fine in the dark, this is goblin speciality.
+
+IVAN: Darkvision, guys.
+
+PHIL: I check to see if there are any insects that
+are tasty-looking.
+
+MATT: Go ahead and make a perception check.
+
+PHIL: 21.
+
+MATT: All right. Glancing about, you do see a
+cluster of some sort of an egg sac that is pushed
+
+up into the corner along the curved rotation of this
+duct. It's roughly the size of a large melon. And
+
+it twitches--
+
+IVAN: I will burn it with Flare.
+
+MARISHA: Yeah!
+
+ASHLY: Don't burn it, we're going to eat it!
+
+MATT: As you're looking up at it, (fwoosh) it
+bursts into flames.
+
+ASHLY: What the heck!!
+
+PHIL: Who burns food?!
+
+IVAN: Roasted spiders are best spiders. See, you
+guys aren't smart, so you don't know that burning
+
+spiders makes them that much tastier.
+
+ASHLY: Are there spiders left to eat?
+
+MATT: You go and glance and the slight tiny series
+of squeaks you hear as the hundreds of tiny spider
+
+young have burned to their end. There is a nice
+waft of cooked scent that hits your nose. And the
+
+rumbling in your tummy takes over, as you guys all
+leap in at once, grabbing small chunks of what you can.
+
+MARISHA: This is the best, when it's crispy on the
+outside but gooey on the inside.
+
+PHIL: I wish there was tartar sauce.
+
+TALIESIN: "Oh wait!" I open up the jar--
+
+(horrified laughter)
+
+TALIESIN: Smear some on his spider chunk.
+
+PHIL: Close enough!
+
+IVAN: Did you season our birds spider egglettes
+with vomit?
+
+ASHLY: Don't knock it. This is the good shit.
+
+IVAN: I burned it for you!
+
+TALIESIN: I won it fair and square!
+
+IVAN: I'm going to cast arcane mark on the side of
+this wall and mark that we were here.
+
+Particularly, "Grizznak the Greatest was here," is
+what I'm going to mark. But it really looks like a
+
+giant butt with like a cloud--
+
+TALIESIN: I was about to say, can you read and
+write?
+
+PHIL: No words?
+
+IVAN: No, no words. The symbol for "Grizznak the
+Greatest" is a goblin with two cheeky farts and a
+
+cloud coming out of it.
+
+TALIESIN: I was imagining a goblin dick-butt.
+
+(laughter)
+
+IVAN: That is the mark of Grizznak the Great.
+
+PHIL: A goblin dick looks like a human dick, but
+with spurs.
+
+TALIESIN: Oh, god! Oh! Thank you, thank you.
+
+MATT: We learned a very valuable lesson this
+evening.
+
+IVAN: Of goblin physiology.
+
+PHIL: That's how you know it's love.
+
+TALIESIN: No!
+
+MATT: Tumblr, get on that.
+
+TALIESIN: Oh, god. Too late. Moving on.
+
+PHIL: I can't unsee it in my mind!
+
+TALIESIN: You won't have to, you'll go on the internet in
+about an hour, and it'll be there. There's nothing
+
+that can be done anymore.
+
+MATT: You did this, Phil. You did this.
+
+TALIESIN: We're not kidding. We're not even
+kidding a little.
+
+IVAN: Oh, all right. Grizznak the Great has left
+his Arcane Mark. A goblin dick-butt.
+
+MATT: Progressing forward for the next couple
+hundred feet into this slick sewer, making your
+
+way along embankments where bits of clutter,
+broken sticks, chunks of wayward stone and mortar
+
+pieces that have washed down here have built these
+small half-walls of junk that have mucked up the side.
+
+MARISHA: Snizzler takes a firecracker that he has
+and secretly lights it and throws it behind him
+
+real fast without telling anybody.
+
+MATT: Okay. You guys walk forward until
+(explosion) you all glance over your shoulder real fast--
+
+TALIESIN: I attack.
+
+(laughter)
+
+MATT: Go ahead and roll an attack.
+
+TALIESIN: Thank you.
+
+IVAN: "I attack the darkness!"
+
+(laughter)
+
+TALIESIN: 14.
+
+MATT: 14, okay. You turn around real fast as a
+piece of rock that is set loose from this small
+
+firecracker explosion, whips through the air and
+you punch it with your fist.
+
+Go ahead and roll damage.
+
+IVAN: I forgot he's a goblin monk. He punches
+things.
+
+TALIESIN: That's five.
+
+MATT: With that, you turn this piece of mildewed,
+slimy, sewage-encrusted stone to dust as it (poof)
+
+in front of you. Holding your fist as it shakes
+there quivering, your eyes open. Any buzz you may
+
+have carried from your morning alcohol has waned
+for now and you are far more awake and conscious--
+
+with a mild headache.
+
+IVAN: Guys, we're into this campaign and so far
+the only thing we've defeated is a rock. This is
+
+the best goblin campaign.
+
+(laughter)
+
+MATT: The path does split here now and divides to
+the right and left.
+
+ASHLY: Can I roll perception?
+
+MATT: To see...?
+
+ASHLY: If there's anything different about them?
+
+MATT: Sure, go for it.
+
+ASHLY: 17 plus four is 21.
+
+MATT: Piglet, you're the instinctual tracker. Most
+goblins hunt with traps, you hunt with teeth.
+
+ASHLY: Nice.
+
+MATT: So you get down and (sniffing) begin getting
+into the muck and pushing it aside. Less than a
+
+visual perspective here, you can smell that the
+bulk of the waste that comes through here comes
+
+from the left path. That probably means more
+waste, means more people.
+
+IVAN: More waste, more people.
+
+PHIL: So we should go away from the people...
+
+ASHLY: Wait, what are we doing?
+
+MARISHA: Yeah, why are we here?
+
+IVAN: Get the blue stone.
+
+ASHLY: A rock! The rock!
+
+TALIESIN: The cracked man with the blue stone!
+
+ASHLY: Zachary! That's the guy, right?
+
+PHIL: He's in blue. He's got a rock.
+
+IVAN: I remember he's in a birch. Like a birch
+tree. Right? Birch.
+
+TALIESIN: No, a church tree!
+
+IVAN: A church tree, that's right.
+
+MARISHA: And we stay under trees when there's
+lightning. That's what you're thinking of.
+
+IVAN: Right. That's right, because Zarongel likes
+to smite trees.
+
+PHIL: Do we go to the poop, or away from the
+poop?
+
+ALL: To the poop!!
+
+IVAN: To the poop! So we go down the left channel.
+
+MATT: All right, so you guys-- (laughs) you charge
+forward here--
+
+ASHLY: Wait, just to clarify, because I used my
+teeth, does that mean I ate
+
+poop to find the tunnel?
+
+PHIL: Well, I hope you saved some for the rest of
+us!
+
+MATT: No, you had to smear it on your teeth a
+little. Pushing forward, you guys travel another
+
+80 or so feet before you come onto a large series of
+waterfalls that run into a central open cesspool
+
+area that is down below this path. The actual path
+diverts and goes around this central tunnel before
+
+it continues in a singular direction as the water
+is pouring in.
+
+PHIL: What do we see above?
+
+MATT: Make a perception check.
+
+IVAN: Can I look as well?
+
+PHIL: 25.
+
+IVAN: 12.
+
+MATT: Okay. You look down into the cesspool and
+hock a loogie to see how far it goes down.
+
+(splash noise)
+
+IVAN: 25 feet.
+
+TALIESIN: Those are not supposed to be solid.
+
+PHIL: And deep too. What? No.
+
+MATT: You glance up and you can see there is some
+sort of a large, heavy grating that most of the
+
+water is pouring down from. You're not quite--
+looks like a lot of the rainwater runoff from the
+
+city itself. However, you do notice a glimmer from
+what little bit of light that is bouncing through
+
+from the surface and your goblin eyes catch this
+little glimmer in the corner and you glance over
+
+and instinctually run towards it. You go ahead
+and take a look.
+
+PHIL: It's shiny.
+
+MATT: You find a
+hefty well-made human shortsword.
+
+PHIL: Dibs.
+
+IVAN: So it's a broadsword for you.
+
+PHIL: Are you saying I'm small?
+
+IVAN: I'm saying we're all small.
+
+PHIL: Oh, right.
+
+MATT: What did you roll? What was the total on
+your perception check again?
+
+PHIL: 25.
+
+MATT: 25. You take this and the blade is 
+perfectly clean. This place is filthy. This blade
+
+is perfectly clean, and as you glance over
+underneath the waterfall you see another glimmer.
+
+PHIL: Ooh! I run and go over there. I carry the
+sword with me. I don't trust these two.
+
+TALIESIN: I see that he is. I'm approaching
+cautiously.
+
+ASHLY: I want to push everyone else away and get
+there first.
+
+PHIL: Hey wait, you can't even see it, can you?
+
+MATT: Both of you guys make initiative checks
+right now.
+
+ASHLY: 11.
+
+PHIL: Four.
+
+TALIESIN: Wait, you got plus six.
+
+PHIL: Ten.
+
+ASHLY: Oh wait. 15.
+
+MATT: So as you see this and you glance over out
+of the corner of your eye, you see Piglet. Her
+
+eyes go wide and both of you have that immediate
+knowledge of "me first". You both dart off around
+
+two different sides of this cistern and starting
+to get there. However, Piglet, you get there first
+
+and immediately leap towards this shiny. And the
+shiny is bigger than you expected.
+
+IVAN: Can I cast Mage Hand to see if I can snatch
+it from all three of them or
+
+away from the two of them?
+
+MATT: Is it a five-pound maximum?
+
+IVAN: Five pounds, yeah.
+
+MATT: You go ahead and cast Mage Hand towards that
+shiny and pull and (grunts) it's a little heavier
+
+than you can pull. You get there and you grab on
+to it. What you notice as you get there is a set,
+
+a full set, of a breastplate armor. Human size,
+giant breastplate with some shoulder pauldrons and
+
+a human ribcage on the inside of this
+breastplate.
+
+ASHLY: Ooh! Ribcage.
+
+MATT: You smell it. Marrow hasn't been tapped
+yet.
+
+ASHLY: Can I eat it?
+
+MATT: You can.
+
+ASHLY: I eat it.
+
+PHIL: Barbeque.
+
+ASHLY: Can I wear the armor? Is it too big for
+me?
+
+MATT: It's pretty big, yeah. You could sleep in
+it.
+
+PHIL: Rent it out!
+
+MATT: So you grab the ribcage, break off a couple
+ribs, start gnawing on them, sucking the marrow
+
+out. You do notice, getting there and inspecting,
+the ribcage is white. It is clean as well. You can
+
+see, upon close look as she is gnawing, not even
+paying attention, you see these little teeth marks
+
+on it like rats have come through here and there.
+Overall, the bone is perfectly clean. The armor
+
+itself is spotless, looks like it's been perfectly
+polished.
+
+ASHLY: This marrow's real good. You guys are
+missing out.
+
+MARISHA: Pass me a rib.
+
+PHIL: Is there any of the armor that any of us can
+fit?
+
+MATT: You could try and pull scrap from it if you
+wanted to try and scavenge pieces of the metal.
+
+TALIESIN: If we pulled the two shoulder pieces
+off, could we maybe tie them together and wear
+
+them like an Eat at Joe's sign?
+
+MATT: Could certainly try that if you want to,
+yes.
+
+TALIESIN: I'm going to give it a roll.
+
+MATT: Okay. I will say for this-- you know what,
+go ahead and make a survival check
+
+on this to try and--
+
+TALIESIN: That's funny. No, I'm down. 12.
+
+MATT: 12. You manage to (grunt) for a minute, with
+some help from a couple other of the goblins, pull
+
+one of the pauldrons off. You take it and--
+
+PHIL: Don't choke yourself!
+
+MATT: Based on your combat aesthetic, it's not
+going to be much of a help to you.
+
+IVAN: This is-- I never thought I would hear a
+goblin character say this, but I can spellcraft to
+
+check to see if it's magical at all?
+
+MATT: Sure. The armor?
+
+IVAN: The armor.
+
+MATT: Yeah. Go for it.
+
+IVAN: I almost want to kick it into the cistern to
+get it dirty. I'm sorry. I don't know why I
+
+rolled because I'm doing spellcraft. Yes, that's
+right. 19.
+
+MATT: The armor itself does not appear to have a
+magical essence to it. In fact, a close look--
+
+it's pretty close to the design of armor the
+guards were wearing on the actual bridge itself.
+
+It's just completely polished down here in the middle
+of a dank sewer.
+
+ASHLY: Does the armor help any of the rest of us?
+The goblin-crafted?
+
+TALIESIN: I'm going to throw it at Piglet. Just
+throw it at you.
+
+MATT: It's delightful decoration.
+
+ASHLY: Oh! Ho ho ho ho!
+
+IVAN: Are you Woody Woodpecker now? I think
+something killed--
+
+PHIL: I think something is down here cleaning.
+We've got to get out of here!
+
+Before it comes back!
+
+IVAN: I don't want whatever cleaned this armor to
+clean off Grizznak the Great's fine robes.
+
+PHIL: It'll take the farts right out of you.
+
+IVAN: Is there any way to climb up to the
+grate?
+
+MATT: It's about 40 feet up from you guys. The
+path continues across the cistern
+
+deeper into the city.
+
+MARISHA: We didn't think about having to crawl
+back out.
+
+MATT: Beyond the cistern, the tunnel continues
+after it converges.
+
+PHIL: Just keep going.
+
+MATT: Who's leading this expedition now?
+
+PHIL: I think I'm more qualified to lead but I
+don't like to be in front.
+
+ASHLY: I have the prettiest hat.
+
+PHIL: Piglet. I nominate you.
+
+ASHLY: Hooray!
+
+MATT: Piglet, go ahead and roll perception.
+
+ASHLY: (singing) I forget where my perception is
+every time. There it is. 19.
+
+MATT: 19, okay. All righty, so as you go-- as you
+put your new shiny hat on and begin stepping
+
+forward across where the paths converge. You--
+big, knees forward, stomping steps and you put
+
+your head forward and stop as there's a distortion
+in the air before you. And you breathe out, "huh?"
+
+and it (wobbling noise) quivers.
+
+IVAN: Step aside, step aside! Grizznak the Great
+is here.
+
+PHIL: Great. Let's get ready to be hit by
+lightning.
+
+IVAN: Well. It looks like something wobbly, so
+it's probably magic.
+
+MATT: You make a perception check.
+
+IVAN: I'm going to percept the shit out of this
+
+MARISHA: "Probably magic."
+
+IVAN: "Probably magic." 14.
+
+MATT: 14. You pull her aside. There's nothing
+visible in the air before you. You're wondering
+
+why she stopped, and as you step forward, you hit
+something. At which point you guys watch as you
+
+suddenly notice there is a large cube-like
+creature made of some quivering gelatinous
+
+material. As Grizznak is slowly being
+pulled into it.
+
+IVAN: No!
+
+MATT: Everyone roll initiative.
+
+IVAN: Guys guys guys!
+
+TALIESIN: That's how we do it. You did very well
+in that. Add your initiative.
+
+MARISHA: Oh, you found a waterbed! Aw, how cool,
+man!
+
+Oh! Gelatinous cube!
+
+IVAN: Can I get my hands together? At all? Or are
+my hands--
+
+MATT: You can certainly try here. We'll see how
+this works out for you. All right, so initiative
+
+rolls here. Oh man. All right, all right. So
+initiative orders, we have 20 to 15.
+
+TALIESIN: 21.
+
+PHIL: 25.
+
+MARISHA: 15.
+
+ASHLY: I'm 19.
+
+IVAN: 12!
+
+MATT: What'd you get?
+
+MARISHA: 15.
+
+IVAN: Grizznak is the best.
+
+MATT: Grizznak, what did you roll?
+
+IVAN: 12.
+
+TALIESIN: That's how long. That's how long it
+took. Are you happy now? Are you happy?
+
+ASHLY: (laughs) Oh! Oh no! I'm worried for
+dick-butt.
+
+MARISHA: See! If you will it, it will happen.
+
+MATT: It will happen, every time.
+
+MARISHA: Haven't you heard of the story of the
+little boy with the magical paintbrush?
+
+MATT: All right, so as you watch Grizznak
+sucked into this giant creature, you see it
+
+shifting and (squelching sounds). Top of the round
+is Browntooth. Browntooth, what do you want to do
+
+on your turn?
+
+PHIL: Suppose I have to attack it.
+
+IVAN: Pull me out! Pull me out!
+
+PHIL: Can I attack him or can I kill it? All
+right, I hit it with my cleaver.
+
+MATT: All right, go ahead and roll for attack.
+
+PHIL: 16. Do I add anything?
+
+TALIESIN: Yeah, 16 plus--
+
+PHIL: Yes. 16 plus ten.
+
+MATT: That hits. Go ahead and roll damage.
+
+So you move up there. You can
+move five feet and do your second attack if you
+
+want to. You're close enough that you can attack
+with both.
+
+PHIL: Oh great. Two.
+
+TALIESIN: Plus one.
+
+PHIL: Plus one, three. And do I do another one?
+
+TALIESIN: No, and then you have to do it for the
+other hand, which is different, so you have to
+
+roll again to hit for the second one.
+
+MATT: So what's the damage on the first one?
+
+PHIL: Three.
+
+MATT: Three damage. All right.
+
+TALIESIN: And then that's plus--
+
+PHIL: Five plus? Plus eight. 13.
+
+MATT: 13 does hit. It has a very low armor class
+because it is a giant cube,
+
+so go ahead and roll damage.
+
+PHIL: Four.
+
+MATT: Nice. All right, so as you rush forward
+taking your five-foot step and attack with your
+
+first goblin cleaver, you slice through part of
+its form, then slice through with your second one.
+
+As you cut each time you can see it leaves a giant
+opening and you cut a wedge out that
+
+(slurping noise) slops onto the ground and turns into a
+slowly liquefying piece of water. The section that
+
+you cut out begins to slowly reform but, however,
+it does lose the mass that you cut of it. So it
+
+appears to be having some sort of impact. That
+finishes your turn, Browntooth. Mezek, you're up.
+
+TALIESIN: All right. I'm going to--
+
+MATT: However, actually real fast. 'Cause this is
+part of the fun of it. Nope, actually, you're
+
+good. You're up, Mezek. Sorry, keeping track of
+the rules for the creature. I haven't used
+
+gelatinous cube in so long.
+
+IVAN: I was waiting to hear, "And Grizznak, you
+were eaten."
+
+(laughter)
+
+MATT: Technically, you were.
+
+TALIESIN: I'm going to take a deep breath.
+(screams)
+
+ASHLY: Here he goes again.
+
+TALIESIN: And hit it with a stunning fist
+
+MATT: Okay. Go ahead and roll for the attack.
+
+MARISHA: He named it himself.
+
+PHIL: And your eyes are lovely.
+
+TALIESIN: One of them's mine. 16.
+
+MATT: 16 hits. Go ahead and roll damage for the
+fist.
+
+IVAN: Don't stun the goblin inside, please.
+
+TALIESIN: Let's see. It's six points of damage.
+And then they have to make a fortitude save.
+
+MATT: What is the save DC?
+
+TALIESIN: 14.
+
+MATT: 14. It rolls a 14 plus-- Plus nine, yeah.
+This cube is unaffected by your tiny goblin--
+
+TALIESIN: It does go wobble, wobble, wobble.
+
+MATT: It does. Wob, wob, wob, wob.
+
+(laughter)
+
+IVAN: You can see me as I'm shifting.
+
+MARISHA: Cool.
+
+MATT: So I'd say you moved into there. You going to
+stay where you are?
+
+TALIESIN: I'm going to take a step back and pull
+out my quarterstaff. Now that I've had my turn.
+
+MATT: Okay, so you step back. It does get an
+attack of opportunity as you move back. Its giant
+
+pseudopod shoots out towards you.
+
+IVAN: It wants to stunning fist you.
+
+MATT: That's a 12. What's your armor class?
+
+TALIESIN: Touch AC? Or armor class?
+
+MATT: No, this is a general one.
+
+TALIESIN: 18.
+
+MATT: 18? Yeah, as it (whoosh) out towards you,
+you duck low with your quick goblin reflexes.
+
+Awesome, that ends your turn. Piglet, what do you
+want to do?
+
+ASHLY: I want to rage!
+
+MATT: Okay.
+
+(laughter)
+
+MATT: You go into a full goblin Piglet rage.
+Grabbing your oversized goblin skull-breaker
+
+hammer, go ahead and roll your attack.
+
+IVAN: I've always wanted to hear a goblin say
+that.
+
+ASHLY: Oh okay, so it was 20. Plus seven.
+
+MATT: 20 plus seven. That hits. Go ahead and roll
+damage.
+
+ASHLY: Where's a d10? Am I crazy?
+
+TALIESIN: Do you need a d10? Here.
+
+MATT: Also, Grizznak, I need you to roll a
+constitution save. Sorry, a constitution base
+
+saving throw, fortitude save.
+
+ASHLY: So this is a d10 plus four. Oh, that's a
+pretty one. Eight plus four. Times three? Is that
+
+what that is, or?
+
+MATT: Well, no. It should say, your second attack
+down, is during raging.
+
+ASHLY: Oh, I'm sorry. Okay. Oh, okay. So it's
+eight plus six then.
+
+MATT: All right, there you go. 14 points of damage
+as your hammer comes down. Wham! Hitting it,
+
+stopping an inch from the edge of Grizznak's face
+as he turns and watches from inside. The whole
+
+thing shakes from the impact.
+
+ASHLY: Do I also get to bite because I'm raging?
+
+MATT: You do.
+
+PHIL: Ew. Lucky you.
+
+IVAN: I have so many feelings right now. Some of
+them are wobbling.
+
+ASHLY: 19.
+
+MATT: 19. That hits again. Go ahead and roll for
+your bite damage. As you go in and bite a chunk
+
+out of this giant gelatinous mass like it's
+dessert.
+
+ASHLY: d3?
+
+MATT: Yeah, so roll a d6 and divide by two.
+
+ASHLY: Okay. Boop. So it's a three.
+
+TALIESIN: That would be two.
+
+MATT: Yeah, so that would be two. Two plus?
+
+ASHLY: Plus three.
+
+MATT: Two plus three. So you do five points of
+damage. Giant goblin maw bites into the side, once
+
+again near Grizznak's face.
+
+PHIL: She's raging. She doesn't know where she is.
+
+MATT: As you pull a bit away, immediately as you
+pull back, the rage is in you, you don't really
+
+notice the fact that your mouth has gone tingling
+and you've lost all sensation in your mouth.
+
+ASHLY: Oh no.
+
+MARISHA: Hey Piglet! How's the jello monster?
+
+ASHLY: Delicious.
+
+MATT: As you blah, drools out. As she talks, her
+lips are numb. It's like blah, blah, blah.
+
+(laughter)
+
+MATT: It dribbles down the front of her body.
+Yeah. Your tongue and mouth aren't moving like
+
+they should. You're a goblin that got out of the
+dentist right now, because you took a bite out of it.
+
+MARISHA: The novocaine cube.
+
+ASHLY: Novocaine cube. That's awesome.
+
+MATT: Grizznak, did you roll your fortitude save?
+
+IVAN: My fortitude save? No, I haven't. Oh god.
+Fortitude save. 11?
+
+MATT: 11. Okay.
+
+IVAN: Question mark?
+
+MATT: Okay, you are currently paralyzed for eight
+rounds.
+
+MARISHA and ASHLY: What?!
+
+MATT: Being engulfed by this entity, it's actually
+caused all of your muscles to lock up. And you
+
+feel that same tingling sensation as you glance
+over and all the little hairs that might be
+
+protruding on your body dissolve. And part of your
+skin begins to peel away.
+
+IVAN: I still have the last look that I had, which
+is this stupid face of awe and wonder of Piglet
+
+raging. And that's all that's on my face right now
+as I'm paralyzed inside of the cube.
+
+MATT: All right, so finishing Piglet's turn, that
+comes to you, Snizzler. What are you going to do?
+
+MARISHA: Does he have any limbs or anything that
+are sticking out still that are accessible?
+
+MATT: No. No. He is fully engulfed by the entity
+right now.
+
+ASHLY: Oh shit.
+
+MARISHA: Where am I on the map?
+
+MATT: You are right there. By the way, this is the
+opening. This drops down about 20 feet and the
+
+water is pouring into that, right behind you. So
+be careful where you're stepping.
+
+MARISHA: Oh, that's good to know. Okay. Snizzler
+runs up, takes out a pipe bomb. (clicking noise)
+
+Can I shove the pipe bomb in the jello?
+
+MATT: You can, if you want to.
+
+MARISHA: Is it going to start sucking me in when I
+do that?
+
+TALIESIN: (shushes) Go with it. Go with it.
+
+MATT: You want to go with it? So you take a step
+forward, you--
+
+MARISHA: I want to find the hole Piglet made and
+aim for that.
+
+MATT: Okay, so you're going to step into there.
+
+MARISHA: And (grunts). Explosive bomb.
+
+MATT: So you watch as this haphazard piece of
+metal shrapnel that's been matted together with
+
+pig feces and twine, goes (sticking noise). And is
+now right in front of you as you see a little fuse
+
+going (sizzling).
+
+IVAN: I can't scream because I'm paralyzed, but
+inside, I'm screaming. I'm screaming very loudly.
+
+MARISHA: And I look at Grizz and I go--
+
+MATT: Are you going to stay right there?
+
+MARISHA: And I take a few steps back. Not into the
+hole.
+
+MATT: So it would probably be one, two, three.
+We'll put you there. As you do that and pull back,
+
+another giant pseudopod goes (whoosh) out towards
+you and slams into the stone next to you, but you
+
+go, huh. That's the least of your worries, right
+now.
+
+MARISHA: Hang on one second, man.
+
+MATT: As you pull back, there's an explosion sound
+as it bursts inside the cube. So I want you to go
+
+ahead and roll for an attack on this. Just for the
+purposes of this.
+
+MARISHA: Sorry, Grizz. 18.
+
+MATT: 18, so yeah. This is a direct hit on the
+creature. So go ahead and do your firebomb damage
+
+to the cube.
+
+IVAN: Oh, how much damage is it?
+
+MARISHA: Aw, it went into my soy sauce but I'm
+going to take it because it was a six.
+
+(laughter)
+
+MARISHA: Ten plus three plus another d4--
+
+PHIL: That's what you call--
+
+PHIL and TALIESIN: --a salt with a deadly
+weapon.
+
+MARISHA: So 15 points of damage.
+
+MATT: 15 points of fire damage as it bursts on the
+inside. You are paralyzed, cannot make a reflex
+
+saving throw, you take six points of fire damage from
+being in the blast radius of this thing.
+
+MARISHA: I was going to say, I do want to do an
+explosive bomb, so direct hits catch fire, dealing
+
+an additional 1d6 fire damage every round.
+
+MATT: Oh. Good to know. So the actual cube is also
+on fire. Due to the blast radius-- Because of the
+
+size of your explosion too, because it is the
+ten-foot, I need both of you guys to roll reflex
+
+saving throws, if you could.
+
+ASHLY: I think it's a 20.
+
+MATT: Yep, d20, and add your reflex save.
+
+ASHLY: 17.
+
+PHIL: 16.
+
+MATT: 16. It's half damage, right, for that, so
+both of you take three points of fire damage, as
+
+the blast radius of this sends chunks of this
+creature sticking to the ceiling and slopping down.
+
+PHIL: I have evasion.
+
+MATT: You take none because you're a rogue.
+
+IVAN: Have I at least been blown out of the cube
+or am I still inside of the cube?
+
+MATT: You're like partially out of it, right now,
+with the blast radius. But--
+
+IVAN: So slightly exposed.
+
+MATT: You're slightly exposed. It's partially
+exposed. And as you're there, going (muffled
+
+screaming), it (sucking noise, muffled screaming).
+Closing around you slowly. All right, that
+
+finishes your turn. Now it is your turn. You take
+two points of acid damage as it begins to slowly
+
+digest you from the inside.
+
+IVAN: So guys, I will probably not last another
+couple of rounds. Just to be clear, so.
+
+TALIESIN: Working on it.
+
+IVAN: The skin is starting, but beyond just the
+burning, oh god, the burning, there is-- you can
+
+see as most of Grizznak's robes have been
+dissolved into nothingness, and part of his goblin
+
+face is starting to peel off, revealing my
+immensely beautiful crooked teeth. So, yeah.
+
+TALIESIN: If my parents taught me anything, it's
+that a burning sensation is nothing to worry
+
+about. You're good, you're good.
+
+MATT: All right, so as you two are there right in
+front of it, the thing begins reforming the front
+
+of it, which is currently blown open from the bomb
+that Snizzler left in there. It begins to shift
+
+and slither towards both of you guys and intending
+to engulf you as well. I need you both to go ahead
+
+and make reflex saving throws.
+
+MARISHA: Oh man.
+
+ASHLY: No! I got seven. Do I get to know what the
+result would be before I use my song?
+
+IVAN: You just get to reroll.
+
+MATT: You don't know what the result is, but do
+you want to use your song now?
+
+MARISHA: Is that adding your reflex?
+
+ASHLY: I had a seven. Yeah, adding my reflex.
+
+MARISHA: Adding your reflex.
+
+MATT: What'd you get? Browntooth?
+
+PHIL: I got a 19 plus nine. 28.
+
+MATT: Okay, you dart out of the way into the
+groove here as it moves forward.
+
+PHIL: Which is what I was planning to do anyway.
+
+MATT: So as you duck, as it begins to shift
+forward, Piglet, in a moment of intensity, staring
+
+into the face of this for the first time, probably
+your entire life, you're like, I can die. What?
+
+What are you going to do?
+
+ASHLY: I decide, no, I'm going to live forever,
+and I'll sing my song.
+
+MATT: All right, go for it. What's your song?
+
+ASHLY: Okay. I'm going to try a thing. I don't
+know if it's going to work.
+
+MATT: All right.
+
+ASHLY: I'm going to try to sing my song to the
+tune of Kiss from a Rose. Because that's my go-to.
+
+TALIESIN: You're my favorite. Oh god.
+
+ASHLY: Let's see. (sings) Piglet, twitchy scratch
+the rash until she sees them loud. Love trash,
+
+lift the hammer down and crash. Piglet angry time
+to smash. Sorry.
+
+MATT: Well done. So go ahead and reroll your
+reflex.
+
+IVAN: Please post those lyrics at some point.
+
+ASHLY: I got a two again.
+
+TALIESIN: No!
+
+ASHLY: I am going to die.
+
+PHIL: I mean, it wasn't a very good song.
+
+MARISHA: Fuck you, Seal. Fuck you.
+
+ASHLY: No! Shit.
+
+MATT: The creature has now engulfed both Piglet
+and you get pulled up right next to it, jammed
+
+into the currently paralyzed Grizznak. I need you
+to go ahead and make a fortitude saving throw.
+
+ASHLY: Oh my. Okay. It's the 20?
+
+TALIESIN: Here. Go nuts. That's the serious
+business die.
+
+ASHLY: 14.
+
+TALIESIN: There we go.
+
+ASHLY: 19.
+
+This is beautiful.
+
+TALIESIN: Thank you. That's the angry die.
+
+ASHLY: That's the goddammit die.
+
+PHIL: Goddammit, don't die.
+
+MATT: And as you're pulled into it, trying to find
+your way through, you get pulled into the thing,
+
+and you feel like that same numb sensation all
+across. Which, by the way, your goblin song maybe
+
+missed a few vowels because of the blahlah, but
+the rest of your body begins to tingle and you
+
+begin to fight against it and your body won't
+move.
+
+MARISHA: No!
+
+MATT: Your body's paralyzed for six rounds.
+
+PHIL: Only six.
+
+MATT: Jammed up against-- However, it does take
+another d6 points of fire damage from your bomb. So
+
+go ahead and roll that if you could.
+
+MARISHA: Four.
+
+MATT: Four points of fire damage. All righty. All
+right, that brings us back to the top, Browntooth,
+
+you're up. You dodge to the side. You see it
+engulf--
+
+PHIL: Is it moving away from me?
+
+MATT: It is. It moved this way and you sidestep
+and it's moving parallel to you.
+
+PHIL: Okay. I would like to get behind it and
+shoot my crossbow.
+
+MATT: Okay. So you move--
+
+PHIL: Because I've decided I don't want any more
+hand-to-hand combat. Seems like a bad idea.
+
+MATT: A pseudopod swings out towards you but you--
+it misses you entirely. As you dart backward with
+
+your crossbow loaded, you take aim and go ahead
+and fire.
+
+PHIL: This one, right? Fuck. Seven plus nine. 16.
+
+MATT: You've heard the term "couldn't hit the
+broad side of a barn"? Thankfully, this creature
+
+is the size of a barn. You manage to sink the bolt
+into it. Go ahead and roll damage. You feel a
+
+slight bit of pain at your back as a bolt nips you
+in the butt. But you can't do anything about it
+
+because you're paralyzed. Five points of damage.
+All right. You guys can see the creature's shaking
+
+and shimmering as it's moving forward. It's having
+a hard time keeping its form together, it's
+
+looking really rough as it's slowly dissolving
+your two friends.
+
+MARISHA: Burn! Fire!
+
+MATT: All right, that's going to go ahead and
+bring us to Mezek.
+
+TALIESIN: I am going to charge it with my
+quarterstaff and hit it with a flurry of blows. I
+
+don't have any Ki points right now, do I?
+
+MATT: No because you are sober-- You require a
+full round action to do flurry of bros. (laughs)
+
+MARISHA: Fury of bros? (laughs)
+
+PHIL : Fury of bros, (screams) yeah dude!
+
+TALIESIN: Okay, so I can't make a movement.
+
+MATT: You are two squares away from it, so in
+order to get into it you would have to do a full
+
+round action.
+
+TALIESIN: Okay, I'll take the-- I'll take a nice
+big, flying swing with my stick.
+
+MATT: Go for it.
+
+TALIESIN: (goblin screech) That's 13.
+
+MATT: 13 hits, go ahead and roll damage.
+
+TALIESIN: God damn. That's seven. Seven points of
+damage.
+
+MATT: Seven points of damage--
+
+How do you want to do this?
+
+TALIESIN: I want to, screaming bloody murder,
+squish it and splash it with the stick like you
+
+were trying to hit a rat scurrying around on the
+ground, and I don't care, once it's gone, I'm
+
+going to keep hitting them. I'm going to keep
+slapping and slapping until it's mush.
+
+MATT: Okay. You guys watch as Mezek goes batshit
+insane on this cube, smacks into the side, manages
+
+to hit a core of its form where some of the bones
+are floating inside from previous victims.
+
+Probably the shiny things you saw earlier, the
+person that once wore it, bits of them are
+
+floating inside. As it begins to collapse on
+itself like an order of cold flan and as it
+
+liquefies, part of it pouring into the cistern,
+the two of their bodies are starting to be pulled
+
+into the cistern with its form, unable to keep
+shape.
+
+ASHLY: Help! Help! Help!
+
+TALIESIN: I run in and grab them!
+
+MARISHA: Yeah, I help as well. Oh, Grizz!
+
+MATT: Okay. You guys grab them, pull them out onto
+the side. The last bit of the flaming corpse of
+
+this cube sloshes into the cistern. You wait about
+another minute or so before you both get your
+
+bodies back.
+
+MARISHA: I take a little goo out of his ear and
+I-- Ah, yeah, it's got a little kick there, yeah,
+
+you're right.
+
+IVAN: I take my nose and go-- and I watch as goo
+goes (wet noise) out of my ears.
+
+ASHLY: Is this what being greased feels like?
+Because I don't like it.
+
+TALIESIN: It's not easy--
+
+ASHLY, PHIL and TALIESIN: Being greased.
+
+MATT: So as you're resting up from this, do you
+guys need to do anything to heal up a bit?
+
+IVAN: If we had things in which to heal up with,
+but as of course--
+
+MARISHA: Do we get any healing surges or anything
+like that?
+
+MATT: No. This is Pathfinder, girl.
+
+IVAN: This is not like fourth edition. I don't
+think we have anything because I certainly didn't
+
+take it and we have no real--
+
+TALIESIN: I have the healing skill, can we try and
+use the healing skill to reset things?
+
+MATT: Sure I'll let you do that, being the monk
+that you are.
+
+PHIL: When they say it couldn't hurt, I'm not sure
+they're right.
+
+TALIESIN: 20!
+
+MATT: 20? And with that, with the various burn
+wounds on your body, from the acid that's burned
+
+away and parts of the actual burn damage you've
+taken from the explosion, Mezek rushes in and like
+
+the roughest masseuse you've ever seen--
+
+IVAN: It's like the best shiatsu massage I've ever
+gotten.
+
+TALIESIN: Let go! Let go! You're holding a lot of
+tension!
+
+IVAN: Ugh, that's good, that one right there. That
+knot especially.
+
+PHIL: Don't forget to breathe.
+
+MATT: I'd say for that, go ahead and heal four
+points due to the rhythmic massage of Mezek's
+
+rough and tumble goblin hands.
+
+IVAN: I would like to point out that you just healed me
+through a goblin shiatsu massage,
+
+that was amazing.
+
+MATT: Yes, yep that happened.
+
+TALIESIN: With vomit-based massage oil! It's
+organic!
+
+ASHLY: Only the finest for you.
+
+IVAN: I step up and I crack my back a little bit
+and okay. We're good to go. Let's do this.
+
+TALIESIN: Do any of my flasks or jugs have any
+liquor in them?
+
+MATT: No. However, make a perception check.
+
+ASHLY: I also have a jug, I don't know what's in
+it.
+
+TALIESIN: 20.
+
+MATT: 20. You have a jug, it's mainly sloshing
+water and grime, your usual-- what you like to sip
+
+on the way of your journey. Whatever you find
+along the way. You guys are into this whole
+
+scavenging thing. As you're thinking about this,
+ah, you didn't bring any alcohol,
+
+you smell alcohol.
+
+TALIESIN: (sniffs) Happy juice. Happy juice!
+
+MATT: All of a sudden you guys watch as Mezek
+darts down the path--
+
+IVAN: Follow him! He found booze, which means when
+there's booze there's stuff and a happy Mezek.
+
+MARISHA: Yeah, I like that.
+
+MATT: As you dart ahead, you come to the edge, and
+you can see there the path continues for another
+
+200 feet before it dips off, but you don't know
+quite where. But the scent is strong here and you
+
+look over and you can see the wall to your
+immediate right actually has a fissure in it. A
+
+part of it has cracked or a part of it has
+semi-eroded away. And you can see the very distant
+
+dark glimmer of something beyond it.
+
+TALIESIN: I stick my hand in and go for it.
+
+MATT: Go ahead and make a strength check.
+
+TALIESIN: That's not funny. Eight.
+
+MATT: Eight. You go and grab the stone, you
+lift your whole goblin body up on it and start pulling. You
+
+guys catch up and see Mezek fighting with this
+wall and making no headway whatsoever.
+
+TALIESIN: Piglet! Piglet!
+
+ASHLY: Okay, let me smash this with the hammer.
+
+IVAN: I was going to say, I'm going to grab
+Mezek's waist and help him pull, so that we're just
+
+two goblins pulling on it now.
+
+MATT: (laughs) Okay, so you guys are just like
+double-pulling on it. You make a strength check
+
+as well. Go ahead and roll an attack against the
+wall.
+
+MARISHA: Is Mezek getting in a fight with a
+wall again?
+
+IVAN: He does this, just humor him.
+
+PHIL: He usually loses.
+
+ASHLY: 17? Is this plus strength?
+
+TALIESIN: Plus strength modifier.
+
+MATT: Well, go ahead and roll damage because you
+hit the wall. Outside of a critical fail,
+
+you're fine.
+
+ASHLY: So should I do my normal?
+
+MATT: Yes, a normal d10 plus-- you're not raging,
+so that would be a plus four.
+
+ASHLY: Five.
+
+MATT: Five points of damage. As you guys are
+pulling, the hammer comes down as Piglet smashes
+
+into the side of this wall. The stones crumble inward and
+you both go flung forward into the darkness,
+
+tumbling over each other before you both (impact
+noise) against the wall, slowly slide down. As you
+
+look around, you're inside this darkened chamber.
+Glancing around you, first off you immediately
+
+notice that there is a heavy smell of alcohol in
+this room.
+
+IVAN: We're in one of those, humans call them a
+"Ta-vern" or one--
+
+MARISHA: This is one of those cel-lar. Cel-lar?
+
+IVAN: It's, yeah, it's where they do their
+fighting at. It's basically where humans go to
+
+beat up each other. It's a goblin pit!
+
+TALIESIN: Sounds like heaven.
+
+IVAN: It's amazing.
+
+ASHLY: I've heard they also "pick up chicks".
+Whatever that means.
+
+TALIESIN: Baby chickens?
+
+ASHLY: (loudly) There are chickens here?! It's
+like a "hoo-er house", right?
+
+PHIL: Do they eat owls, too? Chickens and owls?
+I'm getting hungry!
+
+TALIESIN: Baby owls!
+
+MATT: Which, as you guys are getting hungry, you
+look around this chamber you're in, you see a sack
+
+of moldy grains, small containers of salts and
+spices, dried meats that are put on racks against the wall,
+
+casks and bottles of wine, and ale all throughout
+this--
+
+TALIESIN: Done. Ale? Done. Going for the ale.
+
+IVAN: We forgot about our mission for as long as
+it takes for us to eat everything in this cellar.
+
+MATT: You guys go nuts! Devouring everything,
+grabbing at meat, filling your bellies. You'd
+
+be welcome to fill your jugs with alcohol--
+
+TALIESIN: I'm filling my flask and my waterskin.
+
+MATT: Do you clear out your
+jug first, or are you just going to add to it?
+
+TALIESIN: No, I'm just going to add it.
+
+MATT: All right, cool.
+
+IVAN: Does this help me at all with my current hit
+point situation?
+
+MARISHA: Eat up, maybe?
+
+MATT: For the circumstances here, you heal
+one hit point from the food--
+
+TALIESIN: We all heal one?
+
+IVAN: But yeah, I will eat it all, if anything it
+will allow me to feel better.
+
+MATT: I will say, if you want to go ahead and tear
+into that moldy grain, that might heal you a
+
+little more, but it looks like your stomach might
+have a rough time with it.
+
+Do you want to go for it?
+
+TALIESIN: Maybe you have to have a chat with a
+spirit animal.
+
+IVAN: I'm a god damn goblin.
+
+TALIESIN: Nothing bad happens when you eat moldy
+grain.
+
+MATT: You get on top of that moldy grain, you tear
+into it, you destroy it--
+
+IVAN: I'm going to-- at one point I'm going to take
+one of the pots and I'm going to scoop it, and I'm
+
+going to pour it over my head because I know that
+moldy grain has healing properties. And as I put
+
+it into my mouth I'm going to rub it all over my
+burning sores.
+
+PHIL: I call you Grizznak the Glutinous.
+
+(laughter)
+
+TALIESIN: I'm imagining Orson Welles at the end of
+Apocalypse Now! right now, with the towel--
+
+IVAN: Also Arcane Mark on the cellar wall, Goblin
+Dickbutt, Grizznak the Great has been here.
+
+MATT: As you go ahead and focus over on the wall,
+you hear this rumbling in your stomach. Go ahead
+
+and roll a fortitude saving throw.
+
+IVAN: Yeah, I'm really good at fortitude saves,
+why can't I do will saves, ever? Fortitude
+
+saves... shit.
+
+PHIL: (cackles) Literally.
+
+IVAN: Eight.
+
+MATT: Well, the good news is you heal three
+additional hit points as your goblin metabolism
+
+takes in the horrible, moldy grain. The downside
+is, you then vomit up all the moldy grain, and you
+
+lose the hit points.
+
+ASHLY: I'm going to get rid of the wine and put
+that all in my jug.
+
+MATT: Okay.
+
+IVAN: I feel great until I vomit it back up
+again.
+
+ASHLY: I had all the wine in my jug, and I got rid
+of it and filled it with vomit.
+
+PHIL: I'd like to secretly pocket some of the
+dried meats. To take with me.
+
+MATT: Secretly, so nobody else sees it, or--
+
+PHIL: No, they don't see it.
+
+MATT: Make a sleight-of-hand check.
+
+TALIESIN: I like a man with secrets. Oh my--
+
+ASHLY: He just shoved an entire cow down his
+pants.
+
+PHIL: 32.
+
+TALIESIN: He rolled a-- tell him what you rolled.
+
+PHIL: I rolled a natural 20 with a plus 12
+sleight-of-hand.
+
+MATT: (laughs) As everyone else is marveling
+themselves at this display of goblin gluttony, you
+
+step backwards and somehow in the process of
+giving your fellow goblins a little bit of a head
+
+nod, you have managed to fill all of your pouches
+and pockets with every single piece of meat on
+
+that wall. It goes from full to empty in a second,
+and no one's the wiser. You got like saddle bags
+
+filled with food right now and no one seems to
+have noticed.
+
+IVAN: Browntooth! You're looking very fit.
+
+PHIL: Well, I work out.
+
+MARISHA: You're very curvy.
+
+IVAN: So curvy.
+
+MARISHA: And you've got a little junk in the
+trunk, looks good.
+
+PHIL: Yeah, y'know. Comes from my mother's side.
+
+MARISHA: Ah, sure, yeah. Your mom, man.
+
+MATT: As you guys are finishing this mountain of
+goblin gluttony, we're going to go ahead and take
+
+a quick break here, we'll be back here in a few
+minutes.
+
+MARISHA: Don't let me forget, I want to try and
+find some wine bottles for molotov cocktails,
+
+don't let me forget.
+
+MATT: All right. We'll be right back.
+
+[break]
+
+MATT: Welcome back. So. We've had a little break
+here, we're coming back into the chaos here. So,
+
+this goblin band, having taken root in this
+storage basement beneath this human barn, the
+
+center of the town of Sandpoint, you've--
+
+MARISHA: Oh, wait, I want to make sure I find some
+wine bottles, maybe I can make some molotov
+
+cocktails real quick. Maybe.
+
+MATT: Okay. You gather a couple of bottles of
+wine. You, not really being able to read the
+
+labels, gather what seems to be alcoholic and
+functional.
+
+MARISHA: Looks expensive.
+
+TALIESIN: Looks like molotov.
+
+MARISHA: Yeah.
+
+MATT: All right. While this is happening, does
+anyone want to do anything else here?
+
+IVAN: I want to roll in the discarded grain that I
+then threw up to give me temporary hit points, and
+
+I want to roll in it.
+
+MATT: Okay. You roll around in it and you feel
+like it'll give you sufficient protection against
+
+a light wind.
+
+MARISHA: Like a dog rolling in his vomit.
+
+IVAN: Yes, exactly. That's exactly how it's going
+down.
+
+MATT: You can hear the footsteps and what sounds
+like voices from upstairs. There is a ladder in
+
+the far edge of this room that leads up to a trap
+door, and when the trap door is closed, you can
+
+hear what sounds like the occasional chuckle,
+voices that are muffled through the wood. It
+
+appears that there is an actual tavern above you
+on street level that has a handful of patrons in it.
+
+IVAN: So, do we escape through the tavern or do we
+go back into the caves and see if we can get under
+
+the godly poopoo place?
+
+ASHLY: Can I roll a perception to see if there's
+any other way out apart from the place with all
+
+the humans and the place we just came from?
+
+MATT: Sure.
+
+ASHLY: That's not great. It's a ten.
+
+MATT: Ten. I mean, there's the path. You can keep
+going or there's the tavern.
+
+ASHLY: Oh right, we can keep going.
+
+IVAN: We can keep going to find the birch tree.
+
+PHIL: Church.
+
+IVAN: Which is where the-- Church, right, the
+birch.
+
+MATT: Which as a note, you guys currently have no
+idea where in this city you are. You're just in
+
+the sewers.
+
+IVAN: This is fine. This is part of the plan.
+Don't even worry about it. Or we could just run
+
+out into the streets. Goblins.
+
+PHIL: That sounds decidedly unstealthy. I say we
+keep going down until we find poop that seems like
+
+it's from a blue man.
+
+MARISHA: I like that. Yeah. For the blue poop.
+
+IVAN: Browntooth, let's go find the blue poop.
+
+MARISHA: Let's find the blue poop. Onward.
+
+IVAN: So we're going to crawl back out through the hole
+that we made.
+
+MARISHA: Maybe there's more cellars like this
+too.
+
+MATT: Okay.
+
+PHIL: More food.
+
+MATT: You guys climb outside of the
+section of the broken wall and continue down the path.
+
+IVAN: As we leave, I would like to leave a parting
+Flare into the cellar, because burning.
+
+MATT: (chuckles) Okay.
+
+IVAN: Because burning. As I leave, I'm like-- on
+my way out.
+
+MATT: Okay. You see the flare begin to slowly
+cause an ember to burn at the edge of a burlap
+
+sack of some spices in the corner.
+
+MARISHA: Good one.
+
+IVAN: Yeah! Woo.
+
+MATT: All right. You guys continue to walk down
+this pathway in the sewage system for about
+
+another 100 or so, 150 feet. It slowly pinches
+into about a five-foot-wide tunnel. You guys can
+
+stand shoulder-to-shoulder, two at a time at your
+goblin size to get across. And the little bit of
+
+water that is coming through here from the rain
+runoff from some of the upper grate areas that are
+
+pouring in, it seems to be running to the edge.
+And you stumble a ways ahead before you find out
+
+that there, that drop-off that you noticed, you
+come up to it and it is indeed a drop-off. You
+
+glance down and the walkway you're at ends
+abruptly around a large cylindrical cistern-type
+
+chamber. Probably a good 80 feet across and about
+80 feet down, further than your vision can really
+
+see. You don't see a bottom of it. You see (water
+falling).
+
+IVAN: What does the loogie tell me?
+
+MATT: You spit out the loogie. Make a perception
+check.
+
+IVAN: Loogie perception check.
+
+MARISHA: We're all rolling terrible tonight.
+
+MATT: You get so caught up with the flow of the
+loogie that you keep leaning forward further and
+
+further trying to figure it out as your heels lift
+up.
+
+IVAN: Woo!
+
+MATT: You guys watch as Grizznak suddenly tips
+forward and goes over the edge.
+
+ASHLY: Well, he's dead.
+
+IVAN: Is anyone going to catch me? Because I'm
+going to sing my song.
+
+ASHLY: I can try to catch you. What would that be?
+Or would it be acrobatics?
+
+MATT: This would be a straight up, I would say,
+dexterity. Go ahead and roll a dexterity check on
+
+this one to see if you can be fast enough to
+grab.
+
+TALIESIN: I'll join her in it.
+
+MARISHA: I'll join. We'll make goblin--
+
+PHIL: This is the last time I save your ass.
+
+ASHLY: Seven.
+
+MARISHA: Goblin chain. We're going to goblin chain
+this. Everyone loop together.
+
+PHIL: 21.
+
+TALIESIN: 13.
+
+MATT: Oh, you're not helping. You're watching.
+
+MARISHA: No I'm goblin chaining this with them.
+Straight dexterity? 20, total.
+
+MATT: 20, okay. Piglet reaches forward and goes
+over, too.
+
+ASHLY: Oh god. My hubris.
+
+MATT: As they both begin to tumble over the edge,
+you grab and you both slip forward. The three of
+
+you manage to grab the back of Piglet and pull her
+up and slowly, you guys get back up into the
+
+tunnel. No, no, no. Piglet managed to grab the
+very back of Grizznak and pull him back up.
+
+MARISHA: Damn, guys. We're badasses, just like we
+practiced. Good work.
+
+MATT: Grizznak, you're really frustrated because
+you swear you were this close to seeing when that
+
+thing would drop before you got pulled up.
+
+IVAN: Guys, what's the big deal? I was almost
+there. I almost saw it. Oh, hi.
+
+PHIL: No more saving you.
+
+ASHLY: I have an alternate plan. What if I throw
+one of you across to the other side?
+
+PHIL: Hmm. I have another alternate alternate
+plan. I look to see if there is any way to climb up.
+
+MATT: Okay. Make a perception check.
+
+PHIL: Math is killing me. 24.
+
+MATT: You glance upon the sides of the stonework
+on the inside of this giant cylindrical cistern
+
+that leads up to the where all the water's pouring
+in from. Glancing about, there are very, very
+
+sparsely set stones that are slightly more
+protruding than the rest. You gather they could be
+
+leapt from stone to stone, if one is so interested
+in being a good climber. So there is a way, yeah.
+
+ASHLY: Goblin toss. That other thing, that sounds
+way boring. Goblin toss. Boring.
+
+TALIESIN: I volunteer as tribute!
+
+ASHLY: Yeah! You want me to toss you?
+
+TALIESIN: I tie the rope to my waist and I tie the
+rope to her.
+
+PHIL: All the way across?
+
+ASHLY: All the way across.
+
+TALIESIN: I have 50 feet of rope.
+
+MATT: Mezek ties the rope around. Who gets the
+other end of the rope?
+
+TALIESIN: Give it to Piglet.
+
+MATT: Okay. Piglet, you have one side of the rope
+now.
+
+ASHLY: I'm going to start swinging him around.
+
+MATT: Okay. Because there isn't a lot of-- Roll a
+strength check.
+
+TALIESIN: I approve of this plan on every level.
+
+ASHLY: 12.
+
+MATT: 12. So you swing him around once before you
+realize that, because you're up against a wall
+
+there's not a whole lot of space and (impact) into
+the stonework. You take one point of bludgeoning
+
+damage, hitting the side as he slips down and then
+is now dangling and you can pull him back up.
+
+TALIESIN: All right. Toss--
+
+MATT: There's a big gap in Mezek's grin as a tooth
+is now missing from that.
+
+ASHLY: It looks good. It suits you.
+
+TALIESIN: It was hurting already.
+
+PHIL: More space to eat.
+
+TALIESIN: Yeah. Strawholder. All right.
+
+ASHLY: All right. Well, that's all my plans.
+
+PHIL: You're not going to throw him across?
+
+ASHLY: Oh wait. I could toss him across. Is there
+something on the other side? Did I make that up?
+
+Is there more path?
+
+MATT: Looking across the way, you can see there is
+another opening, 80 feet across.
+
+ASHLY: Shall I try to toss him?
+
+TALIESIN: Well, I only have 50 feet of rope. That
+would have gone poorly.
+
+MATT: You can try.
+
+ASHLY: Do you still volunteer as tribute?
+
+MARISHA: I volunteer.
+
+ASHLY: You volunteer?
+
+MARISHA: I think I have a plan. It only works for
+me though, but fuck you guys.
+
+ASHLY: All right, I'm going to toss you.
+
+MARISHA: Wait, first I take out a bottle and I
+drink it. And I shrink. I take my Reduce Person vial.
+
+MATT: Extract. Okay. What is normal-sized Snizzler
+shrinks down to about half the size now. Voice is
+
+higher, appearance is ridiculous. You guys now all
+can't help but chuckle at this.
+
+MARISHA: Okay. Are you ready to throw me? Let's
+try this.
+
+ASHLY: You're so dumb.
+
+MARISHA: What are you guys laughing at? What?
+Don't-- (garble)
+
+ASHLY: You're small. You're comparatively smaller
+to us now.
+
+IVAN: I take her little tiny arms and I start
+making her dance like a little doll.
+
+MARISHA: Stop it.
+
+IVAN: My name's Snizzler. Snizzler, Snizzler,
+Snizzler. I like to fly. I like to fly.
+
+MARISHA: Mom! Mom!
+
+MATT: Snizzler, you immediately regret this
+decision.
+
+ASHLY: All right, now I'm going to toss you.
+Okay.
+
+IVAN: I'm going to, just for shits and giggles,
+I'm going to also cast Breeze.
+
+ASHLY and MARISHA: 20!
+
+MATT: A natural 20?
+
+ASHLY: 23 all together.
+
+TALIESIN: It's the Golden Snitch, man. Don't fuck
+with the Golden Snitch.
+
+MATT: So you take this tiny goblin, lick your
+grimy finger, feel the wind, point Sir Ruth style
+
+and shotput. Snizzler arcs forward, much farther
+than you expected. Overward, you see in the
+
+distance-- rope not attached, by the way.
+
+MARISHA: You guys, it's beautiful from up here.
+
+MATT: Over. It comes up and you can see, you may
+or may not be close enough to the ledge, oh god,
+
+it's right there before you. Go ahead and make an
+acrobatics check in the middle of the air to try
+
+and maneuver yourself in the air to catch--
+
+MARISHA: Hang on, wait. She rolled the Golden
+Snitch. Let me roll my golden. Not, not--
+
+TALIESIN: I was about to say, that Golden Snitch
+never rolls well, though.
+
+MARISHA: It never rolls well. Wait, this is just a
+dexterity?
+
+IVAN: Acrobatics.
+
+MARISHA: 12.
+
+MATT: 12.
+
+ASHLY: Oh no. Wait, is it song time? Is it song time?
+
+IVAN: Song time. Sing your song.
+
+MARISHA: What? Am I falling now?
+
+MATT: It's up to you. If you want to let it go.
+You can sing your song and go for a reroll.
+
+MARISHA: I guess it's song time. As I'm still
+soaring, in my tiny voice, I say (sing) Snizzler,
+
+zazzlers, sizzler, zaz. Eyebrows this goblin once
+had. My bombs go boom, they never miss. Hi
+
+Homeland Security, because now I'm on the
+watchlist.
+
+TALIESIN: It's funny because it's true.
+
+MARISHA: Yes. Yes, it is.
+
+MATT: Go ahead and reroll that acrobatics check.
+
+PHIL: Don't use that die.
+
+MARISHA: I'll use this one.
+
+IVAN: Got to get better. Got to get--
+
+ASHLY: Did it get worse? What is with the
+rerolling?
+
+MARISHA: Ten.
+
+MATT: So, Piglet. You had this. This isn't your
+fault. Stupid bomb goblin can't catch a ledge. But
+
+you like, you cross your arms and look around,
+just so everyone else understands that it wasn't you.
+
+IVAN: Good try, Piglet.
+
+MATT: (splashing) Into the water below.
+
+MARISHA: I hate water.
+
+PHIL: She really does.
+
+ASHLY: Hey. He didn't die.
+
+MATT: I do need you to make a swim check.
+
+MARISHA: I'm fucking terrible at swimming. Oh god.
+Okay. Well, I rolled a 14 and I have a minus four,
+
+to my swim. So ten.
+
+MATT: So you're treading water and slowly making
+your way across this giant cistern, about 20 feet
+
+below where they are. You get halfway across,
+splashing. You guys see Snizzler trying to make
+
+her way over to where you guys are.
+
+IVAN: (laughing) There's water down there.
+
+MARISHA: Seriously, you guys.
+
+MATT: Roll another swim check to try and make it
+the other half of the way.
+
+IVAN: Come on, Snizzler.
+
+MARISHA: Oh, that's better. 13.
+
+MATT: 13. You make your way up to the edge, like
+(grunting). You guys can look down now and you can
+
+just barely see outside of your darkvision here,
+you see Snizzler approach and is now treading
+
+water at the bottom of the cistern below you.
+
+ASHLY: We'll lower the ropes, Snizz.
+
+MARISHA: Come on. Can I see if I can find purchase
+on a little rock? Off to the side, I can hold onto.
+
+MATT: Yeah. You go over and reach over and you
+grab a rock and pull onto it and pull your weight
+
+up and your fingers slip off of it. There is a
+slick liquid from general grime.
+
+IVAN: Grab the rope.
+
+MARISHA: Come on! Come on.
+
+TALIESIN: I drop the rope.
+
+MATT: Okay. The rope (thumps) into the water next
+to you. You grab onto it and the rest of you guys
+
+slowly pull Snizzler back up onto the
+entranceway.
+
+IVAN: My turn. My turn. I want to be thrown next.
+My turn.
+
+TALIESIN: I'm going to look at the ceiling. I want
+to see if there is anywhere we can attach the rope
+
+to the ceiling to make a swing.
+
+MATT: Currently, it is a dome, a smooth stone dome
+that then has three openings where the rainwater
+
+is pouring into currently and filling the bottom
+of the cistern.
+
+ASHLY: So the only way up is basically those
+little stones? That we can see.
+
+IVAN: The only other thing I can think of, taking
+my Snizzler hat off for a sec-- er, my Grizznak--
+
+is I could potentially Mage Hand up the rope. But
+I don't think I can tie it, I can just move it up.
+
+PHIL: You know what? No, I'll climb up and tie the
+rope. And everyone else can climb.
+
+IVAN: We'll catch you if you fall.
+
+PHIL: Right. That'll happen. I climb up to the
+grate, with the rope.
+
+MATT: Okay. Go ahead and roll a climb check.
+
+PHIL: 12 plus climb. 18.
+
+MATT: 18. As you pull yourself up (grunting) and
+it is a slight curvature, so you're, like, hanging
+
+and holding onto it, but in true goblin Tom Cruise
+fashion, keeping a stern expression on your face.
+
+PHIL: Well, you know Tom Cruise is a goblin.
+That's why he's so small.
+
+MATT: Makes sense. Hopping on the sofa.
+
+PHIL: (goblin noise) I'm in love. I'm in love. I'm
+in love.
+
+MATT: As you pull yourself up, tiny goblin feet
+dangling below, keeping your focus, Browntooth,
+
+you bring your way across the ceiling, carrying
+that rope in your grin. You get up to the edge of
+
+where the water's currently pouring into the
+cistern and it's moving past, I need you to roll
+
+another climb check to try and keep holding.
+
+PHIL: Nine.
+
+MATT: Nine. Your fingers are starting to slip.
+You're starting to slip.
+
+IVAN: Can I cast Open on the grate and see if
+it'll maybe lift him up with it open?
+
+MATT: Yeah. You know what, for a--
+
+IVAN: Do you want me to grab it?
+
+MATT: Yeah. Let's see if we can. What's the spell?
+This is Open?
+
+IVAN: Open.
+
+ASHLY: I'd just like to take this moment to say
+that Browntooth is clearly the coolest goblin of
+
+all the goblins.
+
+(laughter)
+
+ASHLY: He transcends space and time and climbed
+a slippery wall with a rope in his mouth.
+
+PHIL: Almost climbed.
+
+MARISHA: The rest of us are total degenerates.
+
+ASHLY: I'm just throwing people, like--
+
+MATT: Yeah, there's no resistance to it. As you're
+slipping, slipping, all of a sudden the grate that
+
+contains the water opens and actually slams into
+your side, but you manage to catch onto it. It
+
+knocks the wind out of you, but you manage to hold
+on the edge. You catch your breath and you realize
+
+this is, first off, holding your weight, and
+second, there's a number of cross iron bars that
+
+are all welded together that would be a good place
+probably to tie the rope off.
+
+PHIL: I think I will tie the rope to the things
+that would make a good place to tie the rope.
+
+IVAN: You're welcome!
+
+PHIL: Yeah, right. I saved your life, you saved
+mine-- twice.
+
+IVAN Well, you know what? Now we've got one left.
+
+PHIL: One left.
+
+IVAN: Which means I owe you a bird. (sings) Birdy
+bird bird bird bird. Bird for you, bird for me.
+
+Two birds for you and one bird for me. Smash it,
+twist it, turn it in a stew. Stick it in your face
+
+and you love-- and I love you.
+
+MARISHA: I love that song.
+
+PHIL: He's got many songs.
+
+TALIESIN: Very impressive.
+
+MATT As you finish tying the rope, helping each
+person up, each of you manage to climb, having it
+
+tossed back. It takes you a while to get going,
+but you do manage to--
+
+PHIL We've now been on this quest for five days.
+
+TALIESIN In my head it's all Henson puppets, and
+it's adorable. It's like Fraggle Rock, I'm there.
+
+(cheering)
+
+ASHLY: The other goblin crew has already made it,
+they've got the stone, they're back. That's what's
+
+already happened in my head. I'll be disappointed
+if that's not what happens.
+
+MATT: In climbing up the side of the grate,
+however, going on the other side, you are now
+
+fighting against the torrent of water so I need
+each of you to make a climb check.
+
+MARISHA: Oh we're all doing this?
+
+TALIESIN: Yeah, yeah.
+
+MATT: You don't have to, you can stay back in the
+sewers.
+
+PHIL: Wait for the fire to come.
+
+ASHLY: 14.
+
+MARISHA: Oh my god.
+
+PHIL: 16.
+
+TALIESIN: Nine.
+
+MARISHA: Three?
+
+MATT; (laughing) What do you have, Grizznak?
+
+IVAN: Two.
+
+MATT Two? Okay. So--
+
+PHIL: Who do we have to save now?
+
+MATT: We'll say for the sake of brevity here, an
+additional hour or so is spent perpetually
+
+retrieving your allies who keep getting all the
+way up and then (splash) right into the water. But
+
+you have to admire the tenacity.
+
+TALIESIN: I drink everything in my flask at this
+point.
+
+MATT: Okay, so you get your Ki point going.
+
+TALIESIN: I've got to keep drinking.
+
+MATT: Eventually you guys make your way up past
+the flowing of water, which has slowed now, and
+
+that's probably how you're able to do it.
+
+TALIESIN: Someone upstairs finally jiggled the
+toilet.
+
+MATT: Yeah. You make your way up into an upper
+sewage system, and you guys crawl through what is
+
+a much smaller series of pipes, to the point where
+you as goblins still have to crawl to make your
+
+way through. The sludge is thicker here and what
+little bit of rain is pouring through you manage
+
+to keep between your arms and legs. Eventually you
+find your way into the bottom of some sort of a
+
+chamber that is filled with apparently human
+waste.
+
+TALIESIN: Yes.
+
+ASHLY: The blue poop has to be here.
+
+MARISHA: I take the poop and I start making a ball
+out of it and I light it to see how flammable it is.
+
+MATT: Okay.
+
+IVAN: This is totally logical.
+
+PHIL: If it were church people, they drink a lot,
+so it should light up.
+
+MATT: Like the finest of candles, it does catch
+fire and begins to burn slowly. It's not dry
+
+enough to catch-- we're having this conversation.
+
+TALIESIN: No, I'm really excited that this is a
+thing that's happening right now.
+
+MATT: It would need to be suitably dried out to
+work as proper fuel, but--
+
+MARISHA: Definitely lots of alcohol, lots of
+drugs, yeah. I start packaging up some of the poop.
+
+MATT: All right.
+
+PHIL: I look for any sort of egress.
+
+MATT: Make a perception check.
+
+IVAN: Same.
+
+ASHLY: Why not, I'll do it too.
+
+IVAN: 16.
+
+PHIL: Eight.
+
+ASHLY: 18.
+
+MATT: All right. While you're collecting your
+filthy prize, both Piglet and Grizznek, you guys
+
+look up and notice that there is a wooden or stone
+ceiling, but a singular opening above you. Like a
+
+circular hole.
+
+IVAN: First, I would like to listen to see if
+there's any stinky, stupid humans upstairs.
+
+MATT: Make a perception check.
+
+IVAN: (singing) Stinky stupid humans. Eight.
+
+PHIL: I love that game. Stinky stupid humans!
+
+IVAN: They're so dumb. Stinky stupid humans, but
+they're fun-- to kill!
+
+MATT: You listen and you hear the muffled noises
+of conversation as well. It sounds like there are
+
+a few different voices, though they're behind a
+couple of walls from where you are.
+
+IVAN: So they're not straight above us?
+
+MATT: No.
+
+IVAN: I'm going to cast Open again on that
+opening.
+
+MATT: Okay. You cast Open. The opening is open.
+
+(laughter)
+
+MATT: So the spell is a success!
+
+IVAN: Yes! I will climb up through the poop
+chute.
+
+MATT: As you pull yourself up out of it, in a
+wonderful medieval version of the Ghoulies VHS
+
+cover, you pull yourself out from--
+
+TALIESIN: Wow, we went back.
+
+MATT: Oh man, I couldn't go near toilets for years
+because of that movie cover at the VHS store.
+
+IVAN: I stick my head up and I look through the
+toilet seat and then I go (blows nose) and knock a
+
+huge chunk of poop out of my nostril.
+
+MATT: There you go. Glancing ahead, your Open
+spell missed, but did hit the front of the
+
+outhouse which has currently swung open in the
+mid-day, facing the window leading into the tavern
+
+that you guys nearly entered beforehand.
+
+IVAN: Oh. Close.
+
+MATT: Closes shut. However, it does appear to be
+nestled in an alleyway on the outside of it. It's
+
+a very thin opening. You didn't see any people
+actually in the alley. You saw the outside of a
+
+window and a street thoroughfare.
+
+IVAN: Mmm.
+
+PHIL: Where are we?
+
+IVAN: We're outside now. We seem to be in what the
+humans use to get rid of all their precious waste.
+
+TALIESIN: We're inside an outhouse?
+
+PHIL: That sounds sort of oxymoronic.
+
+IVAN: We're in one of those redundant human cubes
+in which humans go to poop inside of instead of
+
+doing it where they sleep, which is way more
+practical.
+
+ASHLY: Wait, guys, those church things-- isn't
+there like a symbol that people use, like a circle
+
+or like--?
+
+IVAN: Well, I say we get Browntooth up here and he
+can go scout it out. Right, Browntooth?
+
+PHIL: If it keeps you from blowing things up, and
+you setting anything on fire. Right, I climb up
+
+and go out the outhouse to stealthily move into the
+street.
+
+MATT: All righty. So, as you--
+
+IVAN: Wait, wait, wait. I'm also going to cast
+Penumbra on him.
+
+MATT: Okay.
+
+IVAN: So, Penumbra, it basically puts a permanent
+shadow on him.
+
+PHIL: Oh. I thought it gave me a number from
+before.
+
+(laughs)
+
+MATT: Go ahead and roll a stealth check, if you
+could.
+
+IVAN: Makes it so that even light spells make him
+still look like he's covered in shadow.
+
+PHIL: 32.
+
+MATT: All right. As you stumble into the shady
+alley, looking about, you glance over the side of
+
+the window real fast into the tavern, and you do
+see there are probably a dozen patrons in there.
+
+Some drinks being served, a guard at the door on
+the inside. However, looking to your left, there
+
+the alleyway spills out into a main street
+thoroughfare, and you can see people walking by,
+
+families with children. There's a general air of
+jovial energy to it, and some people are wearing
+
+flower crowns on their heads. You can see
+carts being put along the street. Seems like the
+
+festival you were told of, this terrible, human
+festival seems to be in full swing. Go ahead and
+
+make a survival check.
+
+PHIL: 16.
+
+MATT: You come out to the edge of the alleyway,
+glance about. First thing you notice is the sun in
+
+the sky. You were like "eh, it's probably
+mid-day-ish". No, it's pushing toward sunset now.
+
+You probably have another hour of sunlight. So
+you don't know how much longer this festival's
+
+going to be going. You spent quite a while getting
+here and wandering the sewers.
+
+IVAN: As per typical goblin fashion.
+
+MATT: Indeed. However, you notice that everyone is
+walking a certain direction. And, one, there are a
+
+number of carts that are going by. There are
+currently unmanned, closed carts that would be
+
+used to sell fruit and fish. This being a port
+town, fish is a big export here. And the alleyways
+
+that you came out of? There is a second alleyway
+that offshoots from where the outhouse is that
+
+goes between the buildings off the main
+thoroughfare. This is what you're able to gauge in
+
+your time out here.
+
+PHIL: I go back and tell them what I've seen. So
+everybody's going that way.
+
+IVAN: We should probably go--
+
+ALL: That way?
+
+IVAN: That way.
+
+ASHLY: That way!
+
+MARISHA: Maybe if we get on each others' shoulders
+with a coat, we'll look like peoples!
+
+ASHLY: I want do a perception roll for a big coat.
+14.
+
+MATT: You glance over the window and look inside.
+One of the bar patrons, sitting by the bar, is
+
+this rotund-looking gentleman in his late 40s.
+Balding hair, a double chin, leaned forward on the
+
+bar, looking like he's ready to pass out from the
+amount of alcohol he's been drinking. He is in the
+
+inside of the tavern. He has a very long coat that
+drapes past the bar.
+
+ASHLY: We got to do it! There's no alternative!
+
+PHIL: There is an alternative! There's the little
+alleyway!
+
+ASHLY: No alternative! This is what we're doing.
+How many patrons are there? Do I get to know from
+
+my perception check?
+
+MATT: Glancing in there, you see probably ten
+patrons altogether.
+
+MARISHA: I look around. Do I see anything that
+looks like a children's clothing store? Maybe two
+
+of us can be a child and three of us can be an
+adult.
+
+IVAN: If each one of us is a leg, and we're three
+goblins tall, that's six feet.
+
+MARISHA: Okay, yeah, no, you're right, Grizz.
+
+PHIL: Look for a cow costume. Perception check for
+a cow costume.
+
+IVAN: I'll cast Penumbra on you, so at least
+you'll be in shadow.
+
+ASHLY: And then I could stealth. Well, your
+stealth is insane, actually. He has +20 stealth.
+
+TALIESIN: I've got very high stealth, too, so I'm
+going to come in with this.
+
+ASHLY: You guys should go in and get the coat!
+I'll go in, too!
+
+TALIESIN: We're going to sneak in to get the
+coat.
+
+MARISHA: I'll stand guard and watch outside the
+window.
+
+PHIL: I still have my Penumbra, right?
+
+IVAN: Penumbra.
+
+MATT: You do not have Penumbra because he cast it
+on her, right? Or is it a once at a time thing, or
+
+can you do multiple people?
+
+IVAN: That's a good question. Shit. It's in the
+Ultimate Magic book.
+
+MATT: We'll say, for the time being, it affects
+both of you. It's fine. Using the shadows around
+
+you, it's getting late. The angle of the sun,
+shadows are not too hard to find. Roll stealth
+
+checks, all three of you, as you make your way
+along the side, darting between barrels and trying
+
+to find a way into the tavern from the window,
+other than the front door.
+
+ASHLY: 30.
+
+TALIESIN: 31.
+
+PHIL: 33.
+
+MATT: Woo! You guys duck behind every single
+possible piece of discarded material, empty crates
+
+and boxes, barrels that are available. You jump at
+certain times, following the lead of Browntooth.
+
+You manage to find your way through the
+thoroughfare to an entrance to the kitchen on the
+
+side of this tavern. The door is partially ajar.
+You look in and there is one person manning the
+
+kitchen. You see this poor, older woman, who is in
+the process of running around with four things
+
+burning and is like, "There's too many! I hate
+festivals! Coming!" She's not paying attention to
+
+the door right now.
+
+ASHLY: So we could stealth by her, too?
+
+MATT: You could try.
+
+PHIL: Or we could kill her.
+
+ASHLY: Look, I know I'm a goblin and I love human
+blood, but she looks like she's trying her best,
+
+you know?
+
+MATT: She seems largely distracted. You guys, with
+your current stealth, not an issue. You make your
+
+way through the kitchen unnoticed. You make your
+way into the tavern proper. You can see a handful
+
+of patrons around a table playing cards, talking to
+each other. You hear a couple of them. One
+
+person's like, "Stupid tradition. I'm just going
+to stay here and drink until I care." Takes a big
+
+old sip. Somebody on the other side of the table
+goes, "Speeches every year, speeches! Father
+
+"Zantas has shown that religion has no sense of
+brevity!" You see this other guy at the far end
+
+table gets up, "And what about you, Zed?" And
+slaps the shoulder of the guy who has the large
+
+coat on. He's leaning forward and goes, "At least
+the meals were good. I'm probably going to skip
+
+"out on the consecration. I've no stomach for
+prayer these days." He's face down on the bar
+
+right there. "Oh, Zed! That'll be me in an hour."
+He goes and sits down at the table. There's just
+
+the barkeep at the bar who's close. Everyone else
+is at the table now at the card game and Zed is
+
+passed out at the bar. What are you going to do?
+
+ASHLY: Guys, what was the name of that dude we
+were supposed to find?
+
+PHIL: Something with a 'Z,' with two parts. It's
+not him.
+
+ASHLY: It's not him?
+
+PHIL: He's not wearing blue.
+
+MATT: No, he's not wearing blue. He's wearing a
+dark, muddy brown color.
+
+ASHLY: Let's steal his coat!
+
+MATT: All right. The three of you guys going into
+this tavern area.
+
+Go ahead and roll stealth again.
+
+ASHLY: 20.
+
+MATT: Cannot roll perception for NPCs today at
+all.
+
+PHIL: 34.
+
+TALIESIN: 37.
+
+MATT: You guys dart under one table, wait for a
+moment, the barmaid walks by, dart under another
+
+table. You're chaining your way across this room
+between these men. Eventually, finding your way
+
+right to the outside of this passed-out Zed whose
+arm drifts and hangs loosely to his side. His body
+
+is half against the bar and is a good two minutes
+from slumping directly onto the ground
+
+and off his stool.
+
+ASHLY: How do we steal it?
+
+PHIL: Should we wait for him to slump?
+
+MATT: The barkeep is like, "You okay, Zed?" Pokes
+him a little bit.
+
+TALIESIN: (heavy sigh)
+
+MATT: "He's all right." Goes back to cleaning a
+mug.
+
+ASHLY: Maybe one of us should distract the barkeep
+while the other two grab the coat. Make noise in
+
+the corner or something.
+
+IVAN: We're still outside, right?
+
+MATT: Yeah, you're just waiting.
+
+IVAN: I keep casting Open and Close on the
+outhouse door.
+
+MATT: (creaking) (slamming)
+
+TALIESIN: Does Zed have anything on his person
+other than a coat?
+
+MATT: You can only see the coat on him right now
+because it's a long trench coat.
+
+PHIL: We'll throw something to the other side of
+the bar.
+
+ASHLY: Break some glasses. Really distract them.
+
+MATT: What do you throw?
+
+TALIESIN: I'm going to grab one of my goblin jag
+stars and I'm going to pop one of the bottles on
+
+the shelf. I assume there's a shelf of bottles.
+
+MATT: There is a shelf of bottles.
+
+TALIESIN: I'm going to pop one on the opposite
+side of us to try and knock it over.
+
+MATT: Mezek, you pull out your goblin jag star,
+which is essentially the equivalent of a
+
+shuriken, but it's carved out of pieces of odd,
+rusted metal that had been tied together. It's
+
+more of a cluster of broken whatever you found
+from a wagon wheel that was busted weeks ago, but you throw
+
+it as a ranged weapon. Roll an attack.
+
+TALIESIN: That's 20.
+
+MATT: 20. A bottle shatters and sprays across the
+back of the barkeep who's like, "Hey, what the
+
+"hell is that?!"
+
+TALIESIN: Grab it!
+
+MATT: He seems currently distracted. The three of
+you together make sleight of hand checks right now
+
+as you rush up to try and pull this off.
+
+TALIESIN: Where's sleight of hand?
+
+MATT: This is probably me, sorry.
+
+IVAN: Should be under sense motive.
+
+TALIESIN: We don't have it.
+
+PHIL: I have it.
+
+MATT: So you guys aren't trained in it, so this
+is going to be a basic roll, adding your dexterity
+
+modifier.
+
+ASHLY: So 11, then.
+
+PHIL: 28.
+
+TALIESIN: 19.
+
+MATT: Okay, you're all above a ten with two high
+rolls, that's good. You all leap up real fast,
+
+grab his coat, and pull it off of him before
+anyone seems to notice.
+
+TALIESIN: I want to see if he's got anything on
+his belt like a pouch or anything like that.
+
+MATT: You glance, and there is a belt pouch
+there.
+
+TALIESIN: I want to make a stab at grabbing and
+ripping it off.
+
+ASHLY: Don't get greedy!
+
+MATT: Roll another sleight of hand check.
+
+IVAN: We're goblins; of course be greedy!
+
+TALIESIN: What am I rolling?
+
+MATT: This is another sleight of hand.
+
+TALIESIN: 15.
+
+MATT: 15. Okay! You snatch it and all of a sudden
+you hear a voice from the front door go, "Hey,
+
+"what's that? I saw something! Is someone trying to
+steal from Zed?!" You hear footsteps as somebody
+
+begins walking over to where he was right now.
+
+ASHLY: Go! We run?
+
+MATT: You guys run? Make stealth checks, guys.
+
+ASHLY: We have the coat, though, right?
+
+MATT: You have the coat with you, yeah.
+
+ASHLY: Oh no!
+
+PHIL: 40.
+
+ASHLY: 15.
+
+TALIESIN: 34.
+
+MATT: Okay, you guys run. As you're running,
+Piglet, you're running behind them hanging on the
+
+back of the coat and you slam your head at the
+bottom of the table, putting a big old knot on it.
+
+It happens to be the table where the card game was
+being played. All the cards go (crashing), all the
+
+coins scatter in the air. The guys go, "Whoa what
+the hell is that?!" And they see as this coat
+
+scampers off into the kitchen on its own. You guys
+hear voices go, "Did you see that?!" "It went in
+
+"the kitchen, come on!" You hear the sound of
+chairs scooting as all of a sudden people are
+
+beginning to stand up and rush towards the kitchen
+after you.
+
+TALIESIN: While we're running, I'm going to take my
+jar of puke and pour it out on the ground behind
+
+us like a mud slick.
+
+ASHLY: I have puke, too!
+
+MATT: You're holding the knot on your head, you
+pull the jar, pour it out, and spill this slick
+
+mass of goblin vomit and whatever else liquid you
+put inside there. As you dart through the kitchen,
+
+the cook goes, "Your food's ready! What the--?!"
+And sees you guys dart out the door as the crowd
+
+comes in and two of them (yell) and fall on their
+backs immediately there. A third man steps over
+
+and follows you into the alleyway. The cook's
+like, "You can't be in here! What are you doing?!"
+
+As the door slams, you guys make your way into the
+alley. You see the three of them rush out holding
+
+the coat.
+
+MARISHA: What's going on?
+
+(frantic yelling)
+
+MARISHA: I'm so glad I planned for this. And I go,
+go guys. Smoke bomb!
+
+MATT: As the door opens again, you see this
+breastplate-adorned guard of the city who is
+
+essentially the bouncer of this place, rushes out,
+blade drawn, helmet half-cocked on his face where
+
+it doesn't fit right and one eye looks higher than
+the other, and he goes, "You!" (explosion) As
+
+smoke fills this entire alleyway, he begins
+coughing.
+
+MARISHA: Before the cloud gets too thick, I go--
+and run.
+
+ASHLY: We should go in the outhouse and assemble
+our Mary Kate and Ashley situation.
+
+MARISHA: Okay, let's do it!
+
+IVAN: We should probably not do it in the
+outhouse.
+
+TALIESIN: We can run all the way around the
+alleyway from this. Let's get down the alley.
+
+MATT: You guys rush out of the alleyway, you get
+out of the fog, you manage to dart off to the side
+
+and wait a little bit. You hear that guard wander
+off and start shouting, and vanishes in the
+
+distance. After a few moments of waiting, you're
+pretty certain he hasn't been able to keep up with
+
+your trail because you're that stealthy. Are you
+going to do this?
+
+ASHLY: Yeah! Who wants to be the head?
+
+IVAN: That's the important one.
+
+PHIL: We all have goblin heads.
+
+IVAN: I have a 17 charisma.
+
+MARISHA: I don't like talking to people.
+
+ASHLY: Whoever has the highest charisma should
+definitely be the head.
+
+IVAN: Grizznak the Great will be the head!
+
+MATT: This is the best goblin Voltron ever!
+
+IVAN: Hello, fellow human! Aren't you having a
+wonderful human day today?
+
+PHIL: You guys have the high strength.
+
+TALIESIN: Well, we've got the high dex. You should
+be the middle, so we'll be the legs.
+
+IVAN: You form the torso. I will form the head and
+together we shall be Goblon!
+
+MARISHA: I've been doing a lot of crunches, so I
+feel pretty good about being the core.
+
+TALIESIN: What's in the pouch?
+
+MATT: In the pouch you find eight gold pieces, a
+small snuff box.
+
+TALIESIN: Ooh! I eat all the snuff.
+
+MATT: Okay!
+
+PHIL: You're flying!
+
+MARISHA: What did you eat?!
+
+MATT: Roll a will saving throw.
+
+TALIESIN: Where's my will saving throw? There it
+is. 16.
+
+MATT: 16. Okay. The world gets a little funny for
+a bit, and you feel exhilarated, though a little
+
+unfocused. What normally is the goblin ADHD is now
+in hyperdrive. You're looking everywhere. We have
+
+Grizznak as the head.
+
+IVAN: Grizznak forms the head!
+
+PHIL: We are the middle.
+
+MATT: You guys are the middle.
+
+MARISHA and TALIESIN: We're the legs.
+
+MATT: With that, you stand up, coat goes on,
+snapping it shut.
+
+ASHLY: I give Grizznak my pretty hat.
+
+IVAN: Okay. I actually have a goblin's wizard's
+hat.
+
+ASHLY: Can you put it on top to humor me?
+
+IVAN: Why don't you put it under one of our arms
+so it looks like we're carrying a helmet?
+
+ASHLY: All right. Fair enough.
+
+IVAN: I'll probably get away more with the wizard
+hat.
+
+PHIL: Oh, you think?
+
+MATT: So, where are you guys going?
+
+PHIL: We're going towards where the people were
+going. Was the alleyway
+
+parallel to the main street?
+
+MATT: It was, yeah. You follow that.
+
+PHIL: Head down the alleyway.
+
+MATT: Great. The sky has cleared, by the way.
+
+PHIL: Like Vincent D'onofrio.
+
+MARISHA: Yes, like Men in Black.
+
+MATT: Okay, so! (laughs) I'm so happy right now.
+
+IVAN: Hello!
+
+PHIL: Morning!
+
+MATT: As you guys trudge down the alleyway, the
+sky is clear now. Most of the upper areas are dry
+
+other than a few rain barrels that have caught a
+lot of water in the side of this alleyway. You can
+
+hear the music in the distance, you can hear the
+laughter of children, you can hear people playing.
+
+It sounds like this festival is in heavy swing.
+You come to the end of the alleyway into an open
+
+town square, a main open thoroughfare with large
+tents that are erected, with large carts, people
+
+barking for food, different carnival games set up
+throughout this area. What you notice amongst the
+
+buildings and houses is a large stone cathedral
+that looms over this entire area. In front of this
+
+cathedral, there is a raised platform where the band
+is playing, where the music's coming from. People
+
+all around this area are now talking and families
+laughing. There are small poles that are erected
+
+that are covered in flower wreaths that are hung
+around it.
+
+PHIL: Sounds gay.
+
+MATT: Actually, quite happy and jovial.
+
+IVAN: Never been so disgusted in my entire life. I
+poke my legs and my torso to move them forward so
+
+that we can get closer to the stone. Does it look
+like there's a speech
+
+that's going to be starting soon?
+
+MATT: People are gathered towards the center of
+this area around that.
+
+IVAN: I would like to motion my torso and my legs
+to be on the outer edge of the front couple of
+
+lines of the group.
+
+MATT: Okay.
+
+PHIL: Look and see if there's anybody wearing
+blue.
+
+ASHLY: Yeah, look for the blue poop.
+
+IVAN: Blue. I see silver. I see brown, which is
+nice. I see red. I see--
+
+ASHLY: What about blue? I don't care about the
+other colors!
+
+IVAN: I see purple. You mean yellow?
+
+ASHLY: No! Blue!
+
+PHIL: Look for the guy in the blue!
+
+IVAN: I see a blue sky!
+
+MATT: As this is happening, a drunk man,
+30-something, a red chin-strap beard, and long
+
+hair pulled into a top knot has a tankard in front
+of him and, (hiccup) "Hey, happy Autumn's-thing."
+
+IVAN: Happy Autumn's-thing!
+
+MATT: Make a bluff check.
+
+IVAN: Oh, I'm so good at bluff. 15.
+
+MATT: He goes, "I think you need some more of this
+than I do."
+
+IVAN: Yeah, I do!
+
+MATT: He pats you on the back with a hefty arm.
+
+MARISHA: Whoa!
+
+MATT: Since you are the guys that are holding the
+legs right now, I need you to both
+
+make strength checks.
+
+TALIESIN: Oh god!
+
+ASHLY: 20.
+
+TALIESIN: Five.
+
+MATT: Five. One leg, whoa, goes forward, and you
+stumble and take a knee like you're kneeling in
+
+the middle of the street. And the man who holds
+the drink goes--
+
+ASHLY: Kids, I want to talk to you about safe sex.
+
+IVAN: I am reflecting upon the glory that is this
+most holy day--
+
+PHIL: Stop talking!
+
+MATT: "Oh, you're one of them church types. Never
+mind." And the guy stumbles off. At this point,
+
+you see the crowd starting to hush a little and
+gather towards--
+
+TALIESIN: Hup!
+
+MATT: You get back up. Make a perception check if
+you could, Grizznak.
+
+IVAN: Okay, that was very close. 17.
+
+MATT: 17. Glancing up, you can see now--
+
+IVAN: I try not to put my little hand up. I put it
+back down.
+
+MATT: The people that are gathering towards this
+central platform area you can see a person
+
+ascending the steps on the side. What you see is a
+man dressed in simple, but elegant blue robes that
+
+walks from the cathedral, who is standing now at a
+podium in the center of this. As people begin to
+
+hush, some yell towards him. He has short brown
+hair and a well-kept beard that show a social
+
+station amongst the townspeople, although his
+demeanor is very humble. But some people are
+
+paying attention to him, some people are looking
+around, some people are still yelling and playing
+
+games. He seems to be a little frustrated that no
+one's paying attention.
+
+IVAN: Blue alert! Blue alert! We have a code blue!
+
+TALIESIN: Running towards it.
+
+PHIL: Does he have a stone?
+
+IVAN: Can I see the stone at all?
+
+MATT: You do not see a stone. However, as you guys
+begin to make your way through the crowd, and
+
+everyone's paying attention to various things in
+the area, he reaches into the pocket of his robe
+
+and pulls out a small cast iron pellet about that
+large. And he takes it, looks around, and throws
+
+it to the top of this platform. As it hits the
+woodwork, you hear a sudden (thunderclap). It
+
+causes this echo of thunder throughout the
+entirety of this area and everyone stops and goes
+
+(gasp).
+
+IVAN: He's got a boom cube.
+
+MARISHA: He's got a boom-boom rock.
+
+ASHLY: Is that the rock we want?
+
+IVAN: No, it's not the rock, but I like that rock.
+
+PHIL: That's the rock we want!
+
+IVAN: No, it's not, it's just a boom-boom rock.
+Guys! You've seen boom-boom rocks. We all know
+
+about boom-boom rocks.
+
+PHIL: Have we seen these before?
+
+MATT: You have not.
+
+IVAN: Okay, well, Grizznak likes to think he's
+seen a boom-boom rock before because he's the
+
+smartest and the greatest Grizznak.
+
+ASHLY: Is there a way to confirm whether or not
+that's the rock that--?
+
+MATT: Actually, for you, go ahead and roll a
+wisdom check.
+
+IVAN: Oh, hohohoho.
+
+PHIL: O Grizznak the Barely Alive.
+
+IVAN: 21.
+
+MATT: You realize at this moment, as you were
+instructing the goblins that can't possibly
+
+be the stone because that's a boom-boom rock, you
+realize, holy shit, this entire journey was to
+
+retrieve a boom-boom rock.
+
+IVAN: Guys, Guffeye wants us to get boom-boom
+rocks.
+
+ASHLY: Why does she want us to get boom-boom
+rocks?
+
+IVAN: Because they're boom-boom rocks!
+
+ASHLY: But we have boom-boom rocks back home!
+
+MATT: With this, suddenly, you hear screams. You
+hear dogs starting to bark in the distance and you
+
+see the glow of flames over across the way as two
+streets, three streets away, you see fire
+
+beginning to glow and plumes of smoke build up.
+
+MARISHA: Fire!
+
+MATT: People begin to run, and chaos breaks in the
+crowd as people begin looking about, screaming,
+
+"What's going on?! We're under attack! Goblins are
+here!"
+
+IVAN: Okay, so Goblon is going to lurch forward,
+and I'm going to try and see-- does he have like a
+
+pouch of boom-boom rocks? Or anything like that?
+
+MATT: No, all you see is the single stone rolling
+off the top of the stage--
+
+IVAN: Mage Hand.
+
+MATT: Okay, you Mage Hand and the stone stops
+there in place as you begin walking towards it.
+
+The crowd now is scattering and running away as
+people are trying to flee from this distant flame.
+
+You hear another explosion in the distance as a
+section of burning wood flips.
+
+MARISHA: Someone's making really big boom-booms.
+I want to meet that person!
+
+PHIL: Do you think that had anything to do with
+the fire you set?
+
+IVAN: I don't think it's the fire that I set in
+the tavern.
+
+ASHLY: Wait, guys, remember? There's other goblins
+here.
+
+IVAN: Remember, it's the Seven-Teeth--
+
+PHIL: We've got to get the rock!
+
+TALIESIN: Too many tooth! Get the rock.
+
+PHIL: Wait, I'll ask you. Is anyone watching us?
+
+IVAN: I think everyone's pretty distracted by the
+big boom-booms.
+
+MARISHA: Here, I can help clear this area out,
+too. I light another little firecracker and throw
+
+it down next to us to scare the crowd.
+
+MATT: Okay, so as you throw another firecracker,
+you guys stumble forward, foot by foot. I want you
+
+to make another bluff check. And I want both the
+legs, both of you guys to make another strength
+
+check to try and get there quickly.
+
+IVAN: Natural 20. That puts me up to 27.
+
+MATT: Okay.
+
+ASHLY: Nine.
+
+TALIESIN: Ten.
+
+MATT: Okay, so: as you're rushing forward you can
+see the crowd look at you as you turn and be like,
+
+"No! Don't go that way! The goblins are that way!"
+And they're actually genuinely trying to save you.
+
+IVAN: I will save us from this goblin scum!
+
+MATT: And as you say that, the firecracker goes
+off behind. Everyone looks around distracted, as
+
+both of your legs tumble forward and you tumble
+forward. The coat unravels as what was once a
+
+single entity rolls into five goblin balls that
+all (rolling thumps) across the stonework,
+
+slamming into the base of this platform. You guys
+can hear the distant screams of goblins two or
+
+three streets over where the main battle's
+happening. The guards have moved in that
+
+direction. This open thoroughfare is mostly empty
+of all people at this time. You glance over and
+
+can see the stone is in the center of a light
+piece of mud that hasn't fully dried from the
+
+earlier storm.
+
+PHIL: I go to get the stone.
+
+MATT: You rush forward, grab the stone, and put it
+in your hand. You hear a voice say, "Halt! You
+
+"will walk no further, foul creature! Sarenrae's
+vengeance will end your existence." You all glance
+
+over to the left of you and you see a woman
+dressed in gold armor and light blue cloth
+
+clutching a scimitar in one hand and a small gold
+statue of a winged woman in the other. As she
+
+glares at you, you hear a voice behind her say,
+"Come on, Kyra, don't think we'll let you
+
+"have all the fun to yourself." You see, walking up
+behind her, a small halfling man grinning with
+
+shaggy blond hair saunters up, pulling out a
+flute. Behind him, a human in heavy armor, his
+
+long brown, unkempt hair around his shoulders
+draws two blades and scowls. "Goblins, of course."
+
+He readies himself as a shield appears before him
+as another heavily armored figure steps in front
+
+of the lot. A tall woman wielding a longsword, her
+hair pulled back tight and her face tense goes,
+
+"Behind me. We shall smite them where they stand."
+Behind all of them, you see an older man with long
+
+white hair and a beard hold up a staff and smirk.
+"Well, Seelah, I can just destroy them from here.
+
+"That's fine with me." I need you all to roll
+initiative.
+
+TALIESIN: Oh, shit.
+
+IVAN: Adventuring party.
+
+MARISHA: Damn adventuring parties.
+
+ASHLY: 21.
+
+MARISHA: 22.
+
+IVAN: Look at all this adventure.
+
+TALIESIN: Five.
+
+IVAN: I'm at an eight.
+
+PHIL: 24.
+
+MATT: All right, hold on just a second.
+
+ASHLY: There's no fleeing in D&D is there?
+
+MARISHA: Yeah, you can flee.
+
+PHIL: Oh, watch!
+
+TALIESIN: You can do anything you like.
+
+IVAN: If you've never seen goblins run before--
+
+PHIL: You're going to see some hellacious fleeing
+right now.
+
+MARISHA: I'm not above it.
+
+PHIL: Because there's a lot of them with armor and
+winged statuary!
+
+MARISHA: They got lots of hair. We've got really
+big ears, though.
+
+MATT: 20? Higher than 20, anybody?
+
+PHIL: 24.
+
+ASHLY: 21.
+
+MARISHA: 22.
+
+MATT: Damn, look at that! All right.
+
+IVAN: Super runaway!
+
+MATT: That's Browntooth. You had--
+
+ASHLY: 21.
+
+MARISHA: 22.
+
+TALIESIN: We've got the rock?
+
+PHIL: I've got the rock.
+
+IVAN: Glad that we were able to keep it.
+
+PHIL: So far.
+
+MATT: These humans look ready and eager, and
+there's a part of you that's like, "Oh man, it
+
+"would feel good to cut them down." It is up to you
+what you want to do.
+
+PHIL: How many of them are there?
+
+TALIESIN: Four.
+
+IVAN: Four against five. Those are good goblin
+numbers.
+
+ASHLY: There's five of them.
+
+IVAN: Oh, there's five of them? There's five of
+us. That's bad goblin numbers. That's very bad
+
+goblin numbers.
+
+MATT: 20 to 15, anybody?
+
+IVAN: Ten to 15?
+
+MATT: Sorry, 20 to 15. Nope? All right.
+
+ASHLY: I'm all for smashing stuff, but I smashed a
+wall, I smashed a crate. I'm down to run.
+
+MATT: 15 to ten?
+
+IVAN: 15 to ten, no.
+
+MATT: Nope. Ten to five?
+
+IVAN: Eight.
+
+TALIESIN: Five.
+
+TALIESIN: I like the random sounds of sheep being
+tortured.
+
+MARISHA: (sheep bleating)
+
+TALIESIN: Thursday night. It's a nice Sunday night
+right there.
+
+MATT: Top of the round. All of them charge into
+the square as the rest scattered. Bring this in
+
+here. Browntooth, you're up first.
+
+PHIL: I look for some place to hide and head there
+as quickly as possible.
+
+MATT: Closest place to hide here would be behind this
+cart or behind the platform.
+
+PHIL: Where are the attacking people?
+
+MATT: They're right here.
+
+PHIL: Ah! There they are. I get behind the
+platform.
+
+MATT: You duck around here. Go ahead and roll a
+stealth check to hide in the shadows.
+
+PHIL: 30.
+
+MATT: 13?
+
+PHIL: 30.
+
+MATT: 30! Okay! You duck underneath the platform,
+keeping an eye on what's happening.
+
+Is that your turn?
+
+PHIL: Can I see them?
+
+MATT: You can see them.
+
+PHIL: Yes, that's my turn.
+
+MATT: Snizzler, it's your turn.
+
+MARISHA: First, I'm going to take a pipe bomb and
+throw it right at that one.
+
+MATT: Right there? All right. He is 25 feet away.
+Do you want to get a little closer to do it?
+
+MARISHA: I move up one square and then I hit him.
+
+MATT: Lob it! Roll for an attack.
+
+IVAN: Goblin pipe bombs!
+
+MARISHA: 18!
+
+MATT: 18 hits!
+
+ASHLY: Nice!
+
+MATT: It is a touch attack, correct?
+
+MARISHA: Touch attack.
+
+MATT: He's actually on fire right now.
+
+MARISHA: Everyone in a ten foot radius must make a
+reflex save.
+
+MATT: Indeed. What's the DC on that?
+
+MARISHA: 14.
+
+MATT: That is a failure, success, success. Three
+damage, three damage, and six damage. Nice!
+
+MARISHA: Plus the main dude takes 13 damage.
+
+MATT: 13 points of damage! Woo!
+
+MARISHA: Can I use the rest of my movement to also
+run backwards?
+
+MATT: Sure.
+
+MARISHA: Run towards these things.
+
+MATT: That's about as far as you can get right
+there.
+
+MARISHA: That's fine.
+
+MATT: You run up, fling it, and dart away, as it
+lands at the foot of the guy with the blades out,
+
+he prepares himself and goes to guard as it
+(explosion) bursts in front of him. You can see
+
+the flames coast up and now the fire is caught
+into his hair and his armor is burning from
+
+whatever goblin liquid, napalm-like material you
+had in there adhered to him. As the fire bursts
+
+outward in a ten foot radius because of your
+goblin expertise with explosive devices, the
+
+flames catch the three other allies of his, who
+all manage to avoid most of the impact. But you
+
+do see them scarred and burned a little bit from
+the side of the blast. The fighter is furious as
+
+the flames lick across his torso. That ends your
+turn. Piglet, you're up.
+
+ASHLY: Well, you lit them on fire, so now I want
+to smash them. But maybe I should run away.
+
+TALIESIN: Follow your heart.
+
+PHIL: Ranged attack? No.
+
+ASHLY: I don't have a ranged attack.
+
+MATT: You are an up-close and angry--
+
+ASHLY: Screw it, I'm going to rage!
+
+MATT: Yes!
+
+ASHLY: So I rage.
+
+MATT: You rage. You can move 40 feet because
+you're a barbarian, so you can go pretty far.
+
+Where do you want to go?
+
+ASHLY: How up-close and personal can I get? What
+dude did Marisha just hit real hard?
+
+MATT: That guy.
+
+ASHLY: How close can I get to him?
+
+MATT: You can get right up to him.
+
+ASHLY: Let's get right up to that guy.
+
+MATT: You (yells) rush up, hammer in the air. You
+get one hammer attack on this turn.
+
+ASHLY: 17.
+
+MATT: 17 just hits! His armor class is 17. Go
+ahead and roll damage on that.
+
+ASHLY: This is my d10, right?
+
+MATT: Yep, d10.
+
+ASHLY: Seven plus six is 13.
+
+MATT: 13 points of damage. As you rush up to the
+man that's on fire, you leap into the air (yells)
+
+and plant your goblin Skullbreaker Hammer right
+square in the chest. You can see his armor bend
+
+inward and he goes (gasping) as the air escapes
+with a spatter of blood that crosses your face.
+
+It's warm and you take it in. As you pull back the
+hammer, the flames still burning on him. He's
+
+coughing up blood now from the impact. He's
+already taken a very poor round.
+
+That ends your turn?
+
+ASHLY: Mm-hmm.
+
+MATT: Angry Piglet's up front. First and foremost,
+the little halfling bard shouts out to the rest of
+
+the group, "Valeros, you okay, bud? All right,
+let's do this. Great!" And he jumps up onto this
+
+cart right here and pulls out his flute and begins
+singing, "And as their footfalls to the ground,
+
+"the strength and mighty muscles bound! They raise
+their blades into the sky and cut those goblins
+
+"nigh and high!" As he begins to sing, he bolsters
+all his allies in song. You see all of them begin
+
+to rally themselves for the battle, hearing their
+friend accompanying this rousing fight. That
+
+finishes his turn. They all have bonuses to their
+combat prowess.
+
+PHIL: That's bullshit.
+
+MATT: The paladin, who watched her friend get
+pummeled in the chest and set aflame, goes, "Not
+
+"on my watch!" and steps in to you and is going to
+take a swing with her longsword.
+
+PHIL: Paladin who worships cliches, apparently.
+
+MATT: Would you consider yourself an evil
+character?
+
+ASHLY: I'm just trying to get mine, you know what
+I mean? Probably, yeah.
+
+MATT: She's going to attempt to Smite Evil as her
+swift action. That's a natural 20. I have to
+
+confirm to see if it crits. That is a 17. What's
+your armor class?
+
+ASHLY: 19.
+
+MATT: 19, it does not confirm crit! However, you
+do suffer--
+
+ASHLY: Piglet's going to go down swinging, guys.
+
+MATT: That's eight points of slashing damage as
+the blade strikes into you and a burst of divine
+
+energy as you feel your dark core of your
+blackened goblin heart all of a sudden burn with
+
+radiant, divine energy. That ends her turn.
+
+PHIL: Fucking born agains.
+
+MATT: Next up, this older wizard dude is going to
+look to the one who threw the bomb and goes,
+
+(casting) and holds aloft his staff.
+
+MARISHA: What? I don't understand you! Speak
+English!
+
+MATT: You put out your giant goblin ear to listen
+to the strange language. A pock of greenish energy
+
+forms in the air as an arrow streaks towards you.
+
+MARISHA: Foul play, man, foul play. Thought you
+were trying to tell me something.
+
+MATT: What's your armor class?
+
+MARISHA: 17.
+
+MATT: 17. Okay! As this arcane arrow full of acid
+streaks towards you, you do a goblin cartwheel out
+
+of the way and it hits a barrel behind you. It
+begins to melt the barrel and you can see a thick
+
+series of berries begin to spill out onto the
+thoroughfare. He goes, "Oh, damn it!" He ducks
+
+into this alleyway between those buildings here.
+That ends his turn. The cleric, now, is going to
+
+step up to the center, holds her scimitar in one hand
+and her holy symbol to the sky and goes,
+
+"Sarenrae, protect us!" Energy drifts off. All of
+her allies heal up six hit points.
+
+PHIL: All right, I'm going to kill her.
+
+MATT: You also heal six hit points because you are
+a living creature and you're in the radius, so you
+
+heal six. Unintended consequence of her
+circumstance.
+
+IVAN: Because her god considers you collateral.
+
+ASHLY: Her god's like, "I like this one!"
+
+IVAN: I like this one's spunk!
+
+ASHLY: This one's got the moxie!
+
+MATT: The fighter who's on fire is going to grin
+and bear the flames because he wants to take down
+
+the one who smashed him with the hammer. He's
+going to take another 1d6 fire damage; go ahead
+
+and roll for that.
+
+MARISHA: Five.
+
+ASHLY: Nice!
+
+MATT: However, he is angrily going to unleash upon
+you with his longsword and shortsword. That is 13
+
+to hit with his longsword. What's your armor
+class?
+
+ASHLY: 19.
+
+MATT: You duck out of the way. He goes in to stick
+you with a shortsword. That's an 18.
+
+ASHLY: 19. Yes!
+
+TALIESIN: We are hard to hit.
+
+ASHLY: (yelling) I'm going to live forever!
+
+MATT: Can't seem to find you with his blades as he
+angrily swings outward.
+
+IVAN: And by forever you mean 30.
+
+MATT: Grizznak, your turn.
+
+IVAN: Oh, crap. I think I'm going to give this a
+shot. I'm going to try to get kitty-corner to
+
+where Piglet is, so five feet away, not within
+threat range of the group.
+
+MATT: There?
+
+IVAN: Yeah, one more step towards me. Trying to
+see if that's going to get Piglet in the way or
+
+not. It may. If I have the movement, I'll do one
+more right next to it.
+
+MATT: Yeah, you have the movement.
+
+IVAN: I'm going to mock the wizard. I'm going to
+look at him and go, (casting) (sneezes) And cast
+
+Flaming Sneeze. (sneezing) As gouts of flames
+start coming out of my nose over and over again.
+
+MARISHA: Yeah, go Grizz!
+
+TALIESIN: Moldy grain, man. Not even once.
+
+IVAN: I know, I get really bad allergies to grain.
+Moldy grain especially. (sneezes)
+
+MATT: I'm okay with this. What are the rolls you
+have to make for that one?
+
+IVAN: I still have to make a concentration. Shit.
+My DC on it is 13 and I got a ten. Song time!
+
+MARISHA: Song time!
+
+IVAN: Song time for my reroll in the midst of my
+sneezing, because I'm not feeling like I'm tickled
+
+enough, I launch into my: (sings) Grizznak, Grizznak, the
+greatest that there is! Smarter than the stupid
+
+ones, even when he whizzed. Look at them run, look at
+them hide, look down to watch them burn and die!
+
+Zergamot will loot the corpse and then we'll take
+a ride, hey! I'm going to reroll. I'm never
+
+allowed be a player ever again.
+
+MARISHA: Every time we've used our songs to reroll
+it's gotten worse!
+
+MATT: What'd you roll? Are you kidding me?!
+
+ASHLY: Oh no!
+
+IVAN: I will allow you to light myself on fire
+with my own sneezes.
+
+MATT: That's what happens!
+
+TALIESIN: Do not sneeze into the wind!
+
+IVAN: (sneezes)
+
+MATT: Is it called Fire Sneeze or Flaming Sneeze?
+
+IVAN: It's called Fire Sneeze.
+
+MATT: Based on the effects of this spell, I need
+you to--
+
+IVAN: For two rounds, I'm doing this continually.
+I keep sneezing for two rounds.
+
+MATT: Roll a reflex save.
+
+IVAN: All right!
+
+MARISHA: Big money, no whammies!
+
+IVAN: Seven!
+
+MATT: Seven. Go ahead and roll 2d6 of fire damage
+as you glance over at the wizard, wink, go to
+
+sneeze and suddenly you catch yourself, close the
+mouth.
+
+IVAN: Grizznak Snopstork signs off, everybody, as
+I consume myself in flames. And take ten damage.
+
+PHIL: That's the good roll you get?
+
+IVAN: That's my good roll.
+
+TALIESIN: You sneeze yourself to death.
+
+MATT: As you sneeze, there is a ball of flame that
+bursts out of the nostrils and ears of Grizznak.
+
+As smoke pours out, (yells) and falls onto the
+back. (sizzling) Unconscious, but smoldering at
+
+the moment.
+
+MARISHA: Oh, shit! That was nuts!
+
+IVAN: Just to be clear, that puts me at negative
+one.
+
+MATT: Negative one. Mezek, you're up.
+
+ASHLY: This is not going super hot, guys.
+
+PHIL: I told you to run!
+
+TALIESIN: The guy who's on fire, who's not doing
+well, right?
+
+MATT: Yes.
+
+TALIESIN: I'm going to run screaming at him. I'm
+going to (yells) throw one of my awful stars
+
+directly at him as I run straight up to him.
+
+PHIL: Why not run away and throw the star? It's
+a ranged weapon!
+
+MATT: Mid-run, you throw a star using your deadly
+aim.
+
+TALIESIN: I am using my deadly aim. That can't
+possibly go poorly. That's 18.
+
+MATT: 18 hits. Go ahead and roll damage with the
+additional plus two damage for the deadly aim.
+
+TALIESIN: I don't have to roll damage, it's an
+auto. That's six points of damage. (yells)
+
+MATT: As you rush up, you throw it, it embeds in
+the side of his throat and he's like (coughing).
+
+He reaches up and pulls it out and a gout of
+blood goes (spraying). He's like (grunting)
+
+holding his longsword in one hand. "Stupid
+goblins!" As the flames are still burning around
+
+him. You move all the way up to him.
+
+TALIESIN: I'm straight up in their business.
+
+MATT: Ending your turn, we're back up to the top
+of the round. Browntooth, you're up.
+
+IVAN: Drunken master.
+
+PHIL: Now, I like you guys, I really do.
+
+IVAN: But super run away?
+
+MATT: They have no idea you're hiding.
+
+MARISHA: You have the rock, don't you?
+
+PHIL: Yep!
+
+IVAN: Oh, that would be very goblin of you to just
+leave everyone to die and be the one that brings the
+
+boom-boom rock back to Guffeye.
+
+PHIL: I would be her favorite. Especially if I
+were the only one left! I might get a drink with
+
+dinner! But first, I am going to shoot my light
+crossbow at the-- there's the flaming fellow--
+
+MATT: Right there. There's the paladin, and
+there's the cleric there. That's the bard.
+
+PHIL: Should I finish off the big guy?
+
+TALIESIN: He's on fire.
+
+IVAN: He's got blood coming out the side of his
+neck.
+
+PHIL: I could reach all of them.
+
+TALIESIN: Yeah, you can hit anybody you like.
+There's a bard, a cleric--
+
+PHIL: The wizard has run off.
+
+TALIESIN: He's run off.
+
+ASHLY: You could try to finish off flame dude.
+
+MARISHA: Whereabouts are you, Browntooth?
+
+ASHLY: He's behind that platform over yonder.
+
+TALIESIN: Yeah, he's the yellow circle.
+
+PHIL: The cleric.
+
+MATT: Go ahead and roll for attack.
+
+ASHLY: Ooh! 17 plus nine.
+
+PHIL: 25.
+
+MATT: Yeah, that definitely hits. Go ahead and
+roll damage with additional 2d6 sneak attack
+
+damage.
+
+PHIL: Should I do them all at once?
+
+TALIESIN: Yeah, do them all at once.
+
+PHIL: (grunts) Seven.
+
+MATT: Seven points of damage to the cleric. The
+bolt strikes the back of the cleric's lower torso,
+
+the kidney area and she goes (grunts) and almost
+drops the holy symbol, catching it in the middle
+
+of the air, looks around. Make a stealth check to
+see if you manage to remain hidden this round.
+
+PHIL: 29. No, 26.
+
+MATT: 26. She glances around and doesn't know
+where it came from and is like (grunts). Are you
+
+going to move, or are you going to stay where you
+are?
+
+PHIL: Stay where I am. Stupid goblins. Run!
+Leave!
+
+MATT: That ends your turn. Snizzler, you're up,
+Piglet, you're on deck.
+
+MARISHA: Seeing where Browntooth is, I'm like,
+he's got the right idea. I'm going to move up like
+
+to here. Over one. Yeah. Throw another bomb at the
+cleric. Yeah.
+
+MATT: You lob it towards the cleric. Go ahead and
+roll for an attack.
+
+MARISHA: Bombs! Boom boom! That's not good at
+all!
+
+IVAN: It scatters!
+
+MARISHA: Oh, that's right, it does technically
+scatter. I'm going to let it scatter.
+
+MATT: What'd you roll?
+
+MARISHA: I rolled a four plus eight, so 12.
+
+MATT: Yeah, 12, that's going to miss.
+
+IVAN: It lands right on Grizznak, on his
+unconscious corpse.
+
+MATT: It's going to land right there.
+
+MARISHA: Oh, perfect!
+
+MATT: Minimum damage on that is six. I need a reflex
+save from Piglet and from Mezek.
+
+All right, that's six damage to all of
+them.
+
+ASHLY: It is 11.
+
+MATT: You take six fire damage.
+
+TALIESIN: 20.
+
+MATT: You take three points.
+
+TALIESIN: I take zero because I have evasion.
+
+MARISHA: Fire! I continue my movement towards
+Browntooth.
+
+ASHLY: I might go down, but I'm going to go
+down--
+
+TALIESIN: You're as close to a tank as a goblin
+can be.
+
+ASHLY: That's true.
+
+MATT: Remember, your maximum hit points went up to
+what your rage score is.
+
+ASHLY: Oh, that's right! 44?
+
+MATT: Whatever it says.
+
+ASHLY: Yeah, 44.
+
+MATT: As you're raging, your hit points are up
+higher.
+
+ASHLY: That's right, so I'm not at 24 maximum hit
+points.
+
+MATT: Keep that in mind. All right. That ends
+Snizzler's turn. You're up.
+
+ASHLY: There's no way I can take my hammer and hit
+multiple people? No?
+
+MATT: No, but because you're raging and you're in
+base to base with them, you can attack and bite.
+
+ASHLY: Okay. I'm going to attack flame dude. With
+my normal attack.
+
+MATT: Go ahead and roll with your normal attack.
+
+ASHLY: 20 naturally, plus nine.
+
+MATT: Natural 20?
+
+TALIESIN: Golden snitch, motherfuckers!
+
+MATT: Roll again to see if you can confirm
+critical. Roll another d20.
+
+IVAN: Piglet MVP!
+
+ASHLY: 12 plus nine?
+
+MATT: Plus nine? That's a critical hit! What's the
+damage multiplier on that?
+
+ASHLY: Huh?
+
+MATT: It should have a multiplier next to the
+weapon.
+
+ASHLY: Times three.
+
+MATT: Roll 3d10.
+
+ASHLY: 3d10?!
+
+MATT: Yes, plus six. 3d10 plus six damage.
+
+PHIL: Are the zeroes tens?
+
+MATT: Yeah.
+
+ASHLY: Oh, zeroes are tens? 21 plus six. 26.
+
+MATT: How do you want to finish him off? Because
+you destroy him. So, the man who's on fire in
+
+front of you with his two weapons out.
+
+PHIL: That's the one you hit?
+
+ASHLY: That's the guy. Damn it, I wish I had gone
+for the other one.
+
+MATT: How do you want to finish him off? He's
+(heavy breathing).
+
+ASHLY: I want to knock his head off with the
+hammer and I want it to fall into the lap of his
+
+now grieving friend and spray blood all over them.
+The most adjacent friend. No, the bard.
+
+I hate the bard.
+
+MATT: The bard?
+
+ASHLY: Hit the bard in the head with his friend's
+head.
+
+MATT: You swing as the fighter goes to parry your
+blow. Your goblin rage gets you a faster speed
+
+than he ever expected. As he goes to swing it to
+the side, the hammer comes straight across from
+
+the direction he wasn't expecting, like an
+unintentional feint. His eyes goes wide for a
+
+second before the hammer (slams) and the head gets
+carried off of his shoulders. It spins backwards,
+
+and the bard, who's singing his song, looks up as
+his friend's head towards him. Falls onto his feet and goes
+
+(yells). Makes a concentration. Fails his
+concentration. I'll say the song ends, he has to
+
+start it again because he just saw his friend's
+head land at his feet. He goes, "Valero? You!" You
+
+can see there is a genuine horror and sadness in
+his face.
+
+ASHLY: I go: Yay!
+
+TALIESIN: You still have a bite attack!
+
+ASHLY: I still have a bite attack!
+
+MATT: Yes, you do!
+
+ASHLY: Who's by him?
+
+MATT: This is the paladin right here.
+
+ASHLY: I'll bite the paladin.
+
+MATT: Go for it. Roll for attack.
+
+TALIESIN: Cleric's right there.
+
+ASHLY: Is that a six or a nine?
+
+TALIESIN: That's a nine.
+
+ASHLY: That's a nine? Okay, so 13?
+
+MATT: 13? Oh, the paladin? Yeah, it definitely
+misses the paladin. Her shield's too big. You go
+
+to bite her and she slams the shield out and you
+catch metal instead. She pulls the shield away and
+
+you scrape tooth marks against the metal, which is
+impressive for a goblin. She looks at you and
+
+goes, "You! You foul, terrible creature! You will
+pay for what you've done!" You see tears in her
+
+eyes. That ends your turn?
+
+ASHLY: I go: Heh, loser. I'm going to stay there.
+Maybe that's unwise, but I'm
+
+just going to stay there.
+
+MATT: The bard is too angry to even consider-- no.
+No, he's too angry. He's not going to be able to
+
+do his bard performances this turn. He's too
+fraught with frustration.
+
+He's going to cast Sleep.
+
+MARISHA: Oh, shit.
+
+MATT: As part of the Sleep spell, just to double
+check what the saves are; I believe it's a will
+
+save. There we go, we got Sleep. Give me a second,
+guys. I need you to make a will saving throw.
+
+ASHLY: A will saving throw? Okay.
+
+MATT: You get plus two because you're raging.
+
+ASHLY: Where is my--?
+
+TALIESIN: It's on the third square on the right.
+
+ASHLY: Oh, I see. Okay. 19.
+
+MATT: With that, you look over as the bard ends up
+singing this incantation in a language you don't
+
+understand. You feel a wave of sudden sleepiness
+hit you. One of your eyes begins to sag, and then
+
+you (grunts) shake it off. Foam forming at the
+corner of your mouth. The bard goes (yelling).
+
+ASHLY: I go (blows raspberry).
+
+MATT: Unaffected by it. That ends his turn. The
+paladin, friend is gone, cannot do anything yet,
+
+is going to angrily move this way to begin a
+pincer movement and is going to power attack you.
+
+That is a natural 20.
+
+ASHLY: Oh no!
+
+MATT: See if it confirms. With a natural 18, I'm
+pretty sure that hits. That's times two on that.
+
+You take-- it's not too bad, you take 12 points of
+damage as the sword streaks down, cleaving off
+
+part of your ear and ends up embedding in your
+shoulder. You look over, grab the sword, and pull
+
+it out and throw her backward. She's caught off
+guard by how this tiny thing has so much might.
+
+That ends the paladin's turn there. We're going to
+bring us to the cleric. The cleric is going to see
+
+how rough this is, circumstantially. She is
+looking over at the bombing one. Moves over here,
+
+turns to you and goes, "You will set nothing more
+ablaze, creature!" I need you to make a will
+
+saving throw.
+
+MARISHA: Eh? What? Natural one. Again.
+
+IVAN: You shouldn't even sit next to me.
+
+PHIL: Your luck is rubbing off.
+
+MATT: As the Hold Person takes effect, your muscles
+lock up. As you're reaching for a bomb (grunting).
+
+You just can't move! You see a grin across the
+cleric's face. "That's what I thought." Ending the
+
+cleric's turn. The fighter is gone. Boom.
+Grizznak, you're down to negative two.
+
+IVAN: Yeah, negative two. Can I make a
+constitution check to see if I can stabilize?
+
+MATT: Go ahead and make a fortitude save.
+
+IVAN: Fortitude save. Oh! 20!
+
+MATT: 20? I'll say, for the sake of this, you
+manage to stabilize, you're no longer bleeding.
+
+You're good. That ending your turn. Mezek, you're
+up.
+
+TALIESIN: I'm going to run up to the cleric who
+just paralyzed my friend. I'm going to run right
+
+up to him. Him, her, I don't actually know the
+right pronouns for the cleric.
+
+MATT: You frog leap over the raging Piglet, and
+land.
+
+TALIESIN: And I (yells) and I open palm into the
+throat to use a stunning fist to try to silence her.
+
+MATT: Go for an attack.
+
+TALIESIN: That's a 15?
+
+MATT: 15 hits! She doesn't have a huge armor
+class.
+
+TALIESIN: I said fist, I'm doing fist. That's five
+points of damage and needs to make a fortitude save.
+
+MATT: Which she rolls a five, she does not.
+
+TALIESIN: She is stunned for a round.
+
+MATT: Yep. As you jump over, leap to the ground
+and then shoryuken-like upper fist to her chin.
+
+You see a tooth go flying and her helmet gets set
+off. She pulls back. She drops the holy symbol in
+
+her hand, which now hangs from a chain, grabs at
+her head going (groaning) and is doubled over
+
+unable to gather her senses right now. Ending your
+turn there. Browntooth, you're up.
+
+PHIL: Crossbow attack at the paladin.
+
+MATT: Paladin? All right, go for it. Roll the
+attack for that one.
+
+ASHLY: It's 14.
+
+TALIESIN: You could try to maybe reroll it with a song.
+You haven't used your song yet.
+
+MATT: You haven't used your song yet, if you
+wanted.
+
+ASHLY: Maybe this'll be the first time that it
+gets a better roll.
+
+PHIL: Yes, this is the one time. And my life's
+not at stake. All right. I will sing my song.
+
+MATT: What's your song?
+
+PHIL: (sings) When Browntooth axe lifts up high, someone
+is about to die! Someone will bleed, lots will get
+
+bit, though I'd rather avoid direct conflict. I'm
+Browntooth the Rogue!
+
+MATT: Go ahead and reroll that as you steel
+yourself, locking in another bolt into the
+
+crossbow.
+
+IVAN: Songs are cursed! All of our songs are
+cursed!
+
+MATT: (singing) Goblin songs are cursed!
+
+MARISHA: People hate goblin songs.
+
+PHIL: It's worse than K-Pop.
+
+MATT: I got you a sad trombone for you, there.
+
+IVAN: Yep. Deserve it.
+
+PHIL: Man. At least I didn't die. No offense.
+
+IVAN: None taken.
+
+MATT: As the crossbow bolt goes off somewhere into
+the skyline, you're realizing perhaps the distance
+
+game isn't working for you. Might need to get up
+close and personal if you're going to land an
+
+attack here. Are you going to stay where you are?
+
+PHIL: Is the church that way?
+
+MATT: The church is up here. These are the steps
+to the church.
+
+PHIL: I move over to the edge of the podium.
+
+MATT: Over here?
+
+PHIL: Yeah.
+
+MATT: Roll to see if you can remain stealthed.
+
+PHIL: 30.
+
+MATT: All right. Ending your turn. Brings it to
+Snizzler. You're locked in place. Make a will
+
+saving throw to see if you can resist the effect
+of the Hold Person spell.
+
+MARISHA: Just a straight will save?
+
+MATT: Yeah.
+
+MARISHA: Three.
+
+TALIESIN: How is that even humanly--?
+
+MATT: Unable to shake the effect. You're still
+locked in place. Hand on the bomb. You're looking
+
+down at it. You were about to light it and your
+hand is hovering there and you're like
+
+(strains).
+
+TALIESIN: I cast Methadone.
+
+MATT: Piglet, you're up.
+
+ASHLY: I'm going to rage. I'm going to attack the
+paladin.
+
+MATT: You can both hammer and bite.
+
+ASHLY: I'm going to do both.
+
+MATT: Go for it.
+
+ASHLY: 18 plus nine.
+
+MATT: That hits. Go ahead and roll the hammer
+damage.
+
+MARISHA: Roll that hammer damage!
+
+ASHLY: That is 12.
+
+MATT: 12? Ooh! As you bring up and slam the hammer
+down, she pushes the shield up to block the blow,
+
+but the mallet catches over the top. The sheer
+weight of it pushes the shield away as it comes
+
+down and slams into the side of her chin. You can
+see the jaw breaks from the impact. A little bit
+
+of blood begins to trickle out of the corner of her
+mouth. She's like (pained grunting). She spits a
+
+glob of blood across her otherwise pristine silver
+armor.
+
+PHIL: Seriously, she's all about cliches. Does she
+do this?
+
+MATT: Roll for the bite attack.
+
+ASHLY: 18 plus four.
+
+MATT: That also hits. Go ahead and roll damage.
+
+ASHLY: A d3 plus three.
+
+MATT: Roll a d6, halve that, add three.
+
+ASHLY: Four.
+
+MATT: Four points of damage. As she's reacting
+from that and spits the blood out, looks down, you
+
+run up the side of her shield and bite into the
+chin you just broke and tear a chunk out of her
+
+face! She's like, (screaming) "Who does
+that?!"
+
+ASHLY: Piglet does, bitches!
+
+MATT: That ends Piglet's turn. The bard, whose
+spell has been less than active, and the wizard who
+
+spent his last term in absolute horror of his
+friend, regains his senses and is going to step up.
+
+ASHLY: Oh, I forgot about the wizard.
+
+MATT: Yeah, the wizard hid off to the side and
+watched his friend get beheaded and spent the turn
+
+looking in horror. The bard is going to attempt to
+cast Sleep on you again.
+
+Make another willpower save.
+
+ASHLY: I'm raging, so it still applies, right? 18
+plus three.
+
+MATT: 18 plus three. Once again, shrug off the
+effect. And he's like, "Why won't you stay down,
+
+"stupid thing?!" He's pointing his finger,
+clutching his flute angrily in the other hand.
+
+Nothing is affecting you.
+
+TALIESIN: Red Bull!
+
+MATT: He's going to rush over to the side behind
+the cleric now and be like, "Can you heal me?
+
+"Please!" He's running off to the side and asking
+for a heal. The paladin is going to, as a reaction
+
+to you, furiously swing at you with the longsword.
+That is a 22 to hit.
+
+ASHLY: It hits.
+
+MATT: That hits. You take seven points of slashing
+damage as the blade streaks down across you.
+
+You're still chewing the chunk of her face that's
+running around in your jaw, but the blade goes
+
+across the front of your torso, and leaves an
+opening that begins to spill dark, brackish,
+
+goblin blood. You don't even feel the pain. You're
+in such a furious bloodlust right now.
+
+ASHLY: So, next round might be my last round,
+guys.
+
+PHIL: When we get down to two, I'm going to take
+off.
+
+ASHLY: I got 11 hit points left.
+
+MATT: The wizard's going to step forward now.
+
+TALIESIN: This round might be your last round.
+
+MATT: Going to go ahead and cast Magic Missile.
+One arcs off at you while you're held in place.
+
+MARISHA: Oh, shit!
+
+MATT: One's going to streak off and hit you.
+Mezek, you take two points of force damage.
+
+Snizzler, you take three points of force damage as
+two missiles arc off and slam into the sides of
+
+you from the arcane nature of the spell. That ends
+his turn. The cleric can't do anything, is stunned
+
+this round. Manages to shrug it off, but has
+absolutely no way of using any of her abilities
+
+because of the fist in the face she got from
+Mezek. Grizznak!
+
+IVAN: (singing) I found a nest of baby birds.
+
+MATT: Finishing that. Mezek, it's your turn.
+
+TALIESIN: I'm going to use my Flurry of Blows, with my
+quarterstaff, and I'm going to use Stunning Fist, again.
+
+MATT: Your last?
+
+TALIESIN: Yeah.
+
+MATT: Go for it! So you are doing two punches or
+two hits with your quarterstaff?
+
+TALIESIN: Well, Stunning First, is it fist or
+first?
+
+MATT: Stunning Fist is as an attack; you can have
+it be a Stunning Fist attack.
+
+TALIESIN: So I'm going to (punching sounds). I'm
+going to use the quarterstaff.
+
+MATT: So roll for that, see if it hits.
+
+TALIESIN: For the Stunning Fist first; that's 20.
+
+MATT: 20, that hits. Go ahead and roll damage on
+that. Rolls a seven.
+
+TALIESIN: That's six points of damage.
+
+MATT: Six points of damage and she is stunned
+again. Quarterstaff clocks her upside the head,
+
+now causing the armor to bend in on her temple and
+one eye has gone a little
+
+cross-eyed from the impact.
+
+TALIESIN: So I'm going to hit her again.
+
+PHIL: Who'd you hit?
+
+TALIESIN: The cleric. The cleric is unconscious.
+They can't do another round of anything.
+
+ASHLY: That's true.
+
+TALIESIN: Hitting her again.
+
+MATT: Go for it.
+
+TALIESIN: That's 12.
+
+MATT: 12 total bonus?
+
+TALIESIN: To hit.
+
+MATT: She is currently flat-footed with the armor
+that's still 14, so yeah.
+
+ASHLY: Is it time?
+
+TALIESIN: It's time.
+
+Reroll that. (singing) Mezek, Mezek the
+songs he is keen, so pour a pint of beer for me or
+
+I'll punch you in the spleen ugh!
+
+ASHLY: Come on, this is our only chance!
+
+TALIESIN: Yay! 19!
+
+MATT: 19 hits, roll damage.
+
+TALIESIN: I'll use the flashy pink one. Oh, that's
+better! Eight points of damage, boom!
+
+MATT: Eight points of damage, how do you want to
+finish off the cleric?
+
+ASHLY: You did it!
+
+TALIESIN: Quarterstaff one to the front and then I
+just want the quarterstaff to find a chink in the
+
+armor and just watch the head cleave with just
+stick. A big melty, awful cleave. Like, wood
+
+should not cleave.
+
+ASHLY: You should aim it at someone.
+
+MATT: So, after you slam her in the side of the
+head, stunning her, she leans forward from the
+
+impact. You spin the staff in one hand and then do
+a golf swing up the side of the head. You hit at
+
+such a way that you cause the bent metal of the
+helmet to act like a guillotine-like blade. With a
+
+(boomp) her head, up in the air, rolls on the
+ground, the bard who came up to ask for healing,
+
+"Heal me, Heal me!" and the body slumps down on
+the ground in front of him, and the head lands a
+
+second later.
+
+IVAN: That's two heads for you!
+
+MATT: And he rolls a one on his will save, he is
+currently horribly shaken by this experience and
+
+is having penalties from watching his two friends
+lose their head in the same battle.
+
+TALIESIN: Am I within quarterstaff contact of anyone
+else?
+
+MATT: Currently the bard, yeah.
+
+TALIESIN: I'm going to hit the bard. I'm going to
+spend my ki attack and hit the bard.
+
+MATT: Okay.
+
+MARISHA: About the time the adventuring party
+starts rethinking their career choices.
+
+PHIL: Ooh, it's flashing baby!!
+
+MARISHA: Natural 20!
+
+MATT: Roll to confirm crit.
+
+MARISHA: Come on, come on! Big money, no
+whammies!
+
+TALIESIN: 11.
+
+MATT: 11. I'll say with the penalties he has
+suffered from watching his friends die, I'll say
+
+it just barely hits.
+
+IVAN: Taliesin is MVPing this so hard.
+
+TALIESIN: 14 points of damage. Straight stab.
+
+MATT: How do you want to do this to the bard?
+
+TALIESIN: I want to go straight through the mouth
+all the way through the skull and I want to hold
+
+it there.
+
+MATT: As he is screaming, the staff goes through,
+bursts out the back of the base of the spine where
+
+the brain connects and goes (gurgling). Blood
+dribbling down the side of his mouth,
+
+you hold him aloft.
+
+TALIESIN: Music to my ears! (laughs)
+
+MATT: What do you do with the corpse at the end of
+the staff?
+
+TALIESIN: I'm going to hold it for my next attack
+on the next round.
+
+MATT: Okay, he is currently now held limp against
+your staff just being held aloft by your weapon.
+
+ASHLY: Oh my god.
+
+MATT: Absurd.
+
+TALIESIN: Fuck yeah!
+
+PHIL: How many are left? Paladin and wizard?
+
+MATT: There is the wizard and the paladin and they
+are both looking around themselves and wondering
+
+how these goblins steamrolled their adventuring
+party.
+
+PHIL: And I'm still stealthed right? So this
+would be sneak attack?
+
+MATT: As far as you know, yes.
+
+PHIL: Crossbow at the paladin.
+
+MATT: Crossbow to the paladin. Go for it.
+
+PHIL: 19.
+
+MATT: 19 hits. What is the critical range on the
+crossbow? Does it just say times something?
+
+PHIL: 19 to 20.
+
+MATT: So roll again to see if it crits.
+
+PHIL: 18!
+
+MATT: Go ahead and roll double damage on that.
+Roll 2d6 plus sneak attack,
+
+so 4d6 damage total on this.
+
+ALL: Oh my god.
+
+MARISHA: Yeah, Browntooth!
+
+IVAN: Grizznak was the goblin sacrifice to
+Zarongel to make all of you succeed.
+
+TALIESIN: Holy shit!
+
+PHIL: 16.
+
+MATT: How do you want to finish the paladin? How
+do you want to do this, Phil? The paladin's back
+
+is to you, bearing down on Piglet now. Both
+bloodied and engaged in gladiatorial combat, this
+
+tiny goblin meat shield and this shielded piece of
+human meat.
+
+PHIL: Does the paladin have a helmet?
+
+MATT: She does, yes.
+
+ASHLY: You could go for the hat trick of
+decapitation, if you wanted.
+
+It's really up to you.
+
+IVAN: Bard's dead, though, now. It wouldn't be
+funny unless you landed in the--
+
+TALIESIN: Still funny.
+
+PHIL: Can I get to her ear?
+
+MATT: Yeah!
+
+PHIL: In one ear, out the other.
+
+MATT: As you aim carefully, you wait for her as
+the blows trade back and forth between her and
+
+Piglet. After the hit, she pulls back and spits
+off to the side and you can see the front of her
+
+face. As her head turns back, you use that moment
+to release and catch it right in the side of the
+
+helmet where the ear would be. The bolt out one
+side and gets partially out the other. She stands
+
+there for a second before (thud) to the knees,
+face first on the ground in the mud.
+
+MARISHA: Man, left side of the table today. Table
+Right is just sucking it up. We don't need to be
+
+here, really.
+
+MATT: Snizzler, make a will saving throw.
+
+MARISHA: Even though she's dead, it doesn't just
+break?
+
+MATT: You know what? The spell does break because
+the cleric's dead. You regain control of yourself.
+
+Thank you for the reminder.
+
+MARISHA: Good work, Team Left! Yeah! Good work,
+Grizz, even though you're still unconscious.
+
+MATT: There's one wizard that rushed out of the
+alleyway like, okay, I can do this! Runs out and
+
+all of his friends are dead and his chin's
+quivering under his short, gray beard.
+
+It is your turn.
+
+MARISHA: Where is he at?
+
+MATT: Right there.
+
+MARISHA: I see the wizard and I take a step back
+onto the platform right behind me. I take out my
+
+goblin bomb launcher.
+
+PHIL: Is that a thing?!
+
+MARISHA: Yeah!
+
+TALIESIN: It is now!
+
+MARISHA: I go, all right! I arc it upwards and I
+go boof and aim for the wizard.
+
+PHIL: Thankfully, he's far enough away that none of the
+rest of us will catch fire.
+
+MATT: A cross between a bazooka and a large egg
+shell. She jams the bomb into it. As it detonates,
+
+it sends out a wave of smoke and ash. It blows
+apart and sets you on your feet from the impact of
+
+the launcher. Roll the attack, it doubles the
+range. That's just enough.
+
+MARISHA: 18!
+
+MATT: 18 does hit. His armor, with mage armor, of
+16. Go ahead and roll damage on that. That's 2d6
+
+plus three plus 1d4 because of your explosive
+feat.
+
+MARISHA: Six plus three plus two, so 11 damage.
+
+MATT: 11 points of damage and he is on fire. As he
+looks over and is like, "My friends. What?!"
+
+(explosion) He's screaming on fire.
+
+PHIL: Water balloon from hell.
+
+IVAN: Whee!
+
+MATT: That's Snizzler's turn. Piglet, you're up.
+
+ASHLY: Wizard! I run.
+
+IVAN: Wizard!
+
+MATT: Leaping on top of the cart that is there
+before him.
+
+ASHLY: As expected, I rage. I'm going to do the
+Skullbreaker on him.
+
+MATT: Go for it. Leaping in the air.
+
+ASHLY: Oh no! That was terrible! 11.
+
+MATT: You go and swing with the hammer, and
+because the flames are hot in your face, you swing
+
+wide and end up smashing part of the cart instead.
+He looks at you through the fire going, "No!"
+
+TALIESIN: Can you take a bite?
+
+ASHLY: No.
+
+MATT: You have to be right up close to do that.
+That finishes your turn, Piglet. Everyone else is
+
+dead. The wizard is in the flames going, "No!" and
+put out his hands like this and a gout of fire
+
+like a flamethrower bursts from the arcane
+energies. Go ahead and roll d6 fire damage,
+
+by the way.
+
+MARISHA: Burn, wizard, burn! Another point of
+damage.
+
+ASHLY: Man, that's going to be a bummer way to go
+out after I missed a hammer attack.
+
+MATT: Go ahead and make a reflex save, if you
+could.
+
+ASHLY: Nine.
+
+TALIESIN: Plus your reflex save?
+
+ASHLY: Yeah.
+
+MATT: You take six points of fire damage.
+
+ASHLY: I'm still alive!
+
+MATT: Through the flames, more flames come. You
+burn, the cinders. What little bit of hair may have existed
+
+on you is gone. You are a charred, black mass of
+cracked goblin flesh and anger. You're enjoying
+
+being on the edge of death. That ends his turn. No
+one else is alive. You.
+
+IVAN: Hi. I found the bird's nest!
+
+MATT: Mezek, you're up.
+
+TALIESIN: I want to see if I can get enough of a
+pull to remove the head of the bard from the body
+
+and fling it as a projectile attack at the
+wizard.
+
+MATT: You're horrible!
+
+TALIESIN: I'm the worst person you know!
+
+MATT: You can use that. We're going to consider
+this an improvised ranged weapon. Go ahead and
+
+roll an attack with your dexterity bonus as opposed
+to your strength bonus. With a minus four, because
+
+you're not proficient in ranged improvised
+weapons. Just melee ones.
+
+TALIESIN: That'll work.
+
+MATT: What's your dex modifier?
+
+TALIESIN: Four.
+
+MATT: Roll a d20 and add three to it.
+
+TALIESIN: Add three?
+
+MATT: Just your attack bonus.
+
+PHIL: He's just making shit up!
+
+TALIESIN: 14.
+
+MATT: 14 unfortunately misses. You look through
+the flames, he goes (heavy panting) and looks over
+
+as the bard head careens towards him and ricochets
+off his arcane armor. He goes (screaming).
+
+TALIESIN: I'm running straight towards him.
+
+MATT: Your monk speed, you get right next to him.
+He's being surrounded now. Browntooth.
+
+PHIL: I can't reach him, can I? Can I shoot him?
+
+ASHLY: Everyone else is dead, so you can get
+closer.
+
+PHIL: Oh, that's true.
+
+MATT: You can move this way.
+
+PHIL: I'll move up to the wizard.
+
+MATT: You can get there and see him off to the
+side.
+
+TALIESIN: He's flanked, also.
+
+IVAN: Why didn't you run, wizard?
+
+PHIL: Am I flanking him?
+
+MATT: Roll a stealth to see if he sees you. He
+does not. He is so distracted with all his dead
+
+friends and being on fire, there's no way he can
+beat your stealth score with a six he rolled.
+
+PHIL: 28.
+
+MATT: Yeah, you're fine. Go ahead and roll an
+attack.
+
+IVAN: Watch as Phil finishes off the final
+character for the night.
+
+PHIL: 16.
+
+MATT: 16 just hits! Go ahead and roll. That is his
+AC with mage armor. Go ahead and roll 3d6.
+
+PHIL: 13.
+
+MATT: 13. How do you want to do this?
+
+ASHLY: Wow!
+
+MARISHA: Yeah!
+
+MATT: On fire, looking aghast at the heroes slain
+around him.
+
+PHIL: Nose?
+
+IVAN: Nose.
+
+TALIESIN: Nose is good, we haven't done that.
+
+PHIL: Right through his nose. Up the nose, into
+the brain.
+
+MATT: He's over there and he's like (heavy
+breathing). As he looks over, up to the sky, for
+
+the first time in his entire existence becoming a
+religious man. At the cathedral. The flames behind
+
+the cathedral from the mounting goblin hordes that
+are descending upon this square. He goes, "Why?"
+
+as the bolt strikes him right in the center. His
+eyes go wide and, slo-mo, (thud). The flames
+
+(sizzling) consuming the rest of his body on the
+ground.
+
+MARISHA: Whoa! That was rad! Rad!
+
+MATT: You guys can now hear the screams in the
+distance still growing louder. You can barely see
+
+the shadows of the Seven-Tooth goblin horde coming
+down the mountain,
+
+coming through the alleyway here.
+
+TALIESIN: Back to the sewers!
+
+PHIL: Now can we go?!
+
+MARISHA: Hang on. Snizzler walks over and pours a
+Cure Light Wounds down.
+
+IVAN: You had one this entire time?
+
+MARISHA: Just one.
+
+TALIESIN: Power was with her all along.
+
+MATT: You gain five hit points.
+
+IVAN: Hey, guys. Did we win? Oh!
+
+PHIL: Thanks for your help!
+
+MARISHA: Dude, you were unconscious. It was so
+cool.
+
+IVAN: Did anyone die in a really cool and very
+glorifying way?
+
+MARISHA: Yeah, you did, man! It was awesome.
+
+IVAN: Well, shit!
+
+MARISHA: Yeah! All right, let's go.
+
+ASHLY: We run.
+
+IVAN: Also, before I leave, goblin dickbutt,
+goblin dickbutt.
+
+MATT: Every corpse is marked appropriately
+with your victory token of the goblin dickbutt.
+
+MARISHA: As they go down into the sewer, I'm going
+to be the last one and I'm going to take my last
+
+bomb launcher. I'm going to aim for the church.
+
+TALIESIN: I'm so proud of you.
+
+IVAN: That's the best!
+
+MATT: (laughing) Roll an attack!
+
+MARISHA: In the sushi again! Ooh! 21.
+
+MATT: (explosion) You see an explosion as flames
+begin to burn up on the long tapestries that hang in
+
+the front of the temple. Inside, you see two
+people that were hiding in the temple from the
+
+goblin hordes come running out on fire just as the
+goblin hordes round the corner and go (screaming)
+
+and rush and start striking them down, stabbing
+them repeatedly with their blades. The rest of the
+
+temple begins to catch flames as it licks out the
+sides of the now-shattering stained glass. You nod
+
+your head proudly before you dart back into the sewer
+after your friends.
+
+MARISHA: Grizz.
+
+IVAN: What's this?
+
+MARISHA: This is my art.
+
+PHIL: (singing) Amazing Grace.
+
+TALIESIN: (singing) How sweet the sound!
+
+IVAN: I'm so proud of you.
+
+MARISHA: Thank you, man. It's beautiful.
+
+MATT: You guys your way out of what remains of the
+town of Sandpoint. Heroes left scattered across
+
+the center of the festival grounds. Make your way
+all the way back to your home.
+
+PHIL: All right, now I'm glad I didn't run away.
+
+ASHLY: Aren't you? That was pretty sick.
+
+MATT: You head past to the west side of the
+Devil's Platter Mountains to the home
+
+of where your--
+
+PHIL: Old Guffeye.
+
+MATT: Yep. Where Old Guffeye is. You head back
+into her cavernous abode. She sits there waiting.
+
+There's a smell of extremely nasty boiling liquid.
+She spins around. "You! You've returned! And do you
+
+"bring me the promised stone?"
+
+ASHLY: Well, I helped a lot! But--
+
+PHIL: I brought the stone!
+
+MATT: "Give me it. Give it to me."
+
+PHIL: I hand to her.
+
+MATT: She takes the stone. "Yes!" The Lady's
+blessing upon you all. She spins around, drops the
+
+stone in the pot and begins stirring it. "Stone
+soup for meal tonight! Flavored well with victory.
+
+"You've earned a fine meal, my goblins!"
+
+(cheering)
+
+MATT: As she pours you all your evening's meal of
+boom-boom stone soup, you recount the tales of the
+
+horrible slaughter that befell those who walked in
+your path. You realize you managed to bring back a
+
+trench coat as part of your victory prize.
+
+PHIL: Stir in a little bit of dried meat with it.
+
+IVAN: We throw it on top of our trophy pile.
+
+TALIESIN: And an empty snuff box tin.
+
+MARISHA: And some poo and some bottles for molotov
+cocktails.
+
+MATT: A masterful bounty you've collected this
+evening.
+
+IVAN: I cast Grease on all of us.
+
+MARISHA: Slip'n'Slide!
+
+MATT: Freeze frame credit roll. (singing) Anyway
+you want, that's the way you need it. And that is
+
+your game tonight, your one-shot Pathfinder game.
+Big thank you, once again, to Paizo and to
+
+Syrinscape for helping us put this together, for
+bringing the prizes for our fantastic audience.
+
+Thank you all for watching this wondrously chaotic
+goblin spree that transpired. Big round of
+
+applause for our players this evening. You did
+amazing.
+
+PHIL: Pure, unadulterated Id.
+
+IVAN: Seriously, #TeamLeftSide. For all of the
+deaths you dished out.
+
+MATT: We're rolling for the grand prize winner
+right now. While they're doing that, I don't know
+
+if you're aware, but you systematically slaughtered
+the Iconic Heroes of the Pathfinder universe.
+
+ASHLY: That's their actual stats and everything?
+
+MATT: Yeah.
+
+ASHLY: Oh my god.
+
+MARISHA: The ones that are always in the books?
+
+MATT: In the books, yeah!
+
+ASHLY: That's amazing!
+
+MATT: The actual Pathfinder Iconic characters!
+
+MARISHA: We killed Pathfinder!
+
+ASHLY: Yay! We murdered it!
+
+MARISHA: These people, yeah!
+
+TALIESIN: I was prepared to go down in a blaze of
+glory.
+
+ASHLY: Yeah, me too! I thought we were all
+going to die.
+
+MATT: For those who weren't aware, the Attack on
+Sandpoint is actually the very first encounter adventure
+
+in The Rise of the Runelords campaign setting and
+adventure guide for Pathfinder. You guys played
+
+the other half of that battle. What's normally the
+first fight for the heroes, they got slaughtered
+
+by five goblins.
+
+ASHLY: So this merry band of people came together,
+are like, "We're going adventuring!" Their first
+
+day out, they fight a group of goblins that
+beheaded all of them.
+
+IVAN: In an alternate dimension, we TPKed another
+Pathfinder game.
+
+TALIESIN: Congratulations, we are the darkest
+timeline.
+
+MARISHA: Somewhere, there's a whole new set of
+gamers being like, "This RPG shit's bullshit. I
+
+"died at level two. It was stupid. I'm over it."
+
+MATT: Well done, guys.
+
+IVAN: Thank you, Matt!
+
+ASHLY: Thank you, Matt! Amazing!
+
+PHIL: I felt like I was in another world!
+
+MARISHA: So they get these cool little goblin
+things, and this cool stuffies?
+
+IVAN: There's a lot that's in the big package.
+It's all books, and all stuff.
+
+MATT: All these little goblin things are available
+on the Paizo store, guys. The banks look awesome.
+
+IVAN: The banks are cool.
+
+MATT: It's good desk accessories.
+
+IVAN: As a sidebar statement, I would like to say
+that even though 17k and Ivan breathes fire, I
+
+don't know if we hit 17k or not. Oh, we did? This
+is not fortuitous. I will not actually light
+
+myself on fire.
+
+TALIESIN: Have you actually ever breathed fire
+before?
+
+IVAN: Yeah! I do it a lot, but I'm not going to
+sneeze fire and then light myself on fire.
+
+PHIL: Sneezing fire is different than breathing
+fire.
+
+TALIESIN: Sneezing fire would blow my mind. I've
+never seen that before.
+
+IVAN: Different orifices.
+
+MATT: This is Ivan breathing it, not Grizznak.
+
+PHIL: Grizznak really is lucky to be alive. He
+literally died three times.
+
+IVAN: I actually was hoping that you guys would
+leave me there.
+
+MARISHA: I debated. I was like, I'm chaotic evil.
+Technically, I wouldn't. Well, you're my homie,
+
+it's fine.
+
+PHIL: If we had to carry you? No.
+
+IVAN: If you carried me, I would have expected you
+to throw me in the stew to have for the rest of
+
+the evening with the boom-boom stone.
+
+MATT: Oh my god, that was delightfully ridiculous.
+Well done, guys.
+
+PHIL: Whose dice are these?
+
+MARISHA: We got a winner?
+
+MATT: PacManWakkaWakka. Grand prize winner. You're
+going to get a fantastic care package courtesy of
+
+Paizo that involves Pathfinder Core Rulebook,
+Monster Codex, Inner Sea Races Book, Burnt
+
+Offerings Book, We Be Goblins, the goblin promo
+figure, the challenge square flip mat, which you
+
+got to see right here, goblin bank, plush, and a
+one-year subscription to Syrinscape. That is
+
+fantastic, congratulations!
+
+MARISHA: And a one-year subscription to
+Syrinscape?
+
+MATT: Yeah!
+
+MARISHA: That was some good music. I really liked
+the drum one. The tribal one.
+
+MATT: Great music tracks. You can customize your
+own tracks.
+
+IVAN: The sewers were great.
+
+MARISHA: The screaming people were great.
+
+MATT: There was a bar brawl in case you guys used
+a bar brawl as a way to get through. Here's the
+
+tavern brawl. Go ahead and hit that there.
+
+IVAN: Awesome.
+
+MATT: Dudes beating the crap out of each other.
+You can put in glass shattering punches.
+
+IVAN: Syrinscape also has not just a fantasy
+division, but they also have an entire sci-fi
+
+catalogue, too. I know we used it a bunch on the
+TMNT.
+
+MATT: For the record.
+
+(Wilhelm scream)
+
+TALIESIN: Oh my god, they have a Wilhelm!
+
+MATT: Wilhelm is on the sound list there. You have
+a dragon if you want to use it. It's the best bar
+
+brawl ever. Sad trombone, which we got to use
+earlier.
+
+IVAN: All things you want while your players are
+doing stupid things.
+
+MATT: It's really cool stuff. If you have spells,
+like a fire spell, which you didn't get to hear
+
+over the music when you burst into flame last
+time.
+
+MARISHA: Did you do it, though?
+
+MATT: Yeah.
+
+TALIESIN: This, by the way, is what an evening at
+Matt Mercer's house is like. He's sitting going,
+
+"Look at this!" (trombone)
+
+MATT: I make the sounds happen!
+
+TALIESIN: This was Sunday evening, pretty much.
+Add YouTube and that's pretty much it.
+
+MARISHA: Yeah, we don't do a lot when we have the
+opportunity.
+
+IVAN: It was a pleasure being unconscious for most
+of the battle. Thank you.
+
+MARISHA: You did so much early on.
+
+PHIL: You tried to talk us out of our mission.
+
+IVAN: I did so enjoy all of the wayward things.
+
+PHIL: That's not it!
+
+TALIESIN: Just think, you might have lived if you
+hadn't taken that bramble damage. I just want you to
+
+live with that. Sleep like a baby tonight. I want
+you to sleep like a baby.
+
+IVAN: That's going to keep me awake, you asshole.
+
+TALIESIN: You're welcome.
+
+IVAN: You know what? Suck it.
+
+TALIESIN: Live with it.
+
+PHIL: How much ass would we have kicked if any
+of the songs had worked?
+
+TALIESIN: I got the one.
+
+MATT: You got one.
+
+ASHLY: Thank god. That would have been really
+depressing if none of the songs worked.
+
+TALIESIN: I roll really well.
+
+MARISHA: We all sang our song once.
+
+MATT: Everyone got to sing their song once, which
+is cool.
+
+TALIESIN: I wrote mine on my lunch break today.
+
+MATT: You guys were awesome. Thank you guys so
+much for watching. Thank you guys for playing. You
+
+guys should come Thursday at 7:00pm to see the
+50th episode of Critical Role.
+
+TALIESIN: It's going to be crazy.
+
+IVAN: Feel free to stick around next Monday.
+
+MATT: Every Monday!
+
+PHIL: Every Monday in the week?
+
+IVAN: Every Monday, and it sucks because I won't
+be there next week because of Tabletop and for the
+
+next three weeks, but you'll see we'll be playing
+Kick Ass and Chew Bubblegum next week. It's a fun
+
+little one-off. You have two actions. You can
+either chew bubblegum or you can kick ass.
+
+MARISHA: That's fantastic.
+
+IVAN: If you ever run out of bubblegum, you can
+only kick ass.
+
+MARISHA: What happens if you run out of kicking
+ass?
+
+IVAN: You can't ever run out of kicking ass.
+
+PHIL: There's always ass to kick. But bubblegum
+is finite.
+
+IVAN: If you ever want to explore the weird and
+wacky RPGs and explore small campaigns, not unlike
+
+this scenario in little chunks, tune in Monday.
+
+MATT: You should run a Hole game sometimes.
+
+IVAN: What's that? Hole's on my list.
+
+TALIESIN: I love Hole.
+
+MATT: He got me the Hole books for my birthday a
+couple years ago. And all the expansions.
+
+IVAN: We also want to play Tune. Do you know
+Tune?
+
+TALIESIN: I don't know Tune.
+
+MATT: You don't know Tune?
+
+TALIESIN: Oh, Tune! Yes.
+
+IVAN: Tune's basically Saturday morning cartoon
+show, the role-playing game.
+
+TALIESIN: I've been trying to dig up Tofos for
+you, too.
+
+MARISHA: Like Who Framed Roger Rabbit, the RPG?
+
+IVAN: Basically.
+
+ASHLY: That sounds really cool.
+
+IVAN: There's a lot of really fun systems out
+there. A lot of them don't get a lot of attention
+
+because they're either independently published or
+whatever, but we find them and have a good time
+
+with them.
+
+MATT: That's what No Survivors is about.
+
+IVAN: It's called No Survivors because characters
+can die and it's okay. Anyway. Thank you, Matt.
+
+MATT: Thank you, guys. No Survivors, every Monday
+here, 7:00pm, Critical Role every Thursday at
+
+7:00pm. Thank you guys so much for coming. Have a
+wonderful night, and we'll see you Thursday. Bye!

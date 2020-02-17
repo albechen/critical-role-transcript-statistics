@@ -1,0 +1,7914 @@
+MATT: Hello, everyone, and welcome to tonight's
+episode of Critical Role, where a bunch of us
+
+nerdy-ass voice actors sit around and play
+Dungeons and Dragons. Before we go ahead and jump
+
+into tonight's story, we have some announcements
+to get through. First and foremost, tonight's
+
+episode is sponsored by our fantastic friends at
+Marvel Puzzle Quest.
+
+(cheering)
+
+MATT: Indeed. Returning to be awesome fans of the
+show and friends and Sam do you have anything to
+
+say about that?
+
+SAM: We love Marvel Puzzle Quest and they love
+that we love them. In fact, Puzzle Quest had a
+
+bunch of critters come up to their booth at
+Gen-con to say hi, and they wanted to thank the
+
+community for being so awesome and welcoming. The
+game is legitimately awesome. It is so awesome, it
+
+is so epic that me talking about it doesn't do
+justice. Really it needs another artform. One that
+
+is an amazing theatrical experience and expression
+of joy and emotion. It needs opera.
+
+MATT: Oh no.
+
+SAM: So combining Puccini and Marvel Puzzle Quest,
+I give you an operadvertisement. Shit, that music.
+
+TALIESIN: Wait!
+
+SAM: No, it's okay. This is going to be terrible
+anyway. (singing) The new SHIELD clearance level
+
+nine lands today, bro. Better rewards and
+challenges you can recruit Lockjaw the inhuman
+
+doggo. For more chances to summon Black Bolt,
+other Inhumans, and Kamala Khan, and boost the
+
+power of your superhero squad. Last but not least,
+for a limited time you can also recruit the Silver
+
+Surfer and Thanos and Star-Lord and the cosmic
+legends pack. (speaking) Oh shit, I forgot my
+
+props. (singing) From now until the 30th of
+September. Marvel Puzzle Quest. Marvel Puzzle Quest!
+
+(cheering)
+
+MATT: Wow! Well done! Thank you, Sam, and thanks,
+Marvel Puzzle Quest. It's available for free on
+
+the Apple App Store and Google Play. Next up.
+Merch, what have we got?
+
+LAURA: We got these.
+
+(cheering)
+
+SAM: Hey, how do you say it? Is it Dalen's--
+
+LAURA: It's Dalen.
+
+SAM: Thank you. Jesus.
+
+LAURA: Yeah, because you said it wrong. Speaking
+of Talks Machina, though-- No, that wasn't Talks
+
+Machina. When I announced these shirts on Talks
+Machina. My brain. There's a new shirt for Talks
+
+Machina. You should check it out in the store.
+It's got "Stay Turnt" on it. It's a thing for
+
+Talks Machina.
+
+TRAVIS: Yeah, man. It got Foster in front. Stay
+Turnt.
+
+LAURA: 8-Bit Foster!
+
+LIAM: It's cute.
+
+LAURA: Have you seen it, Ashley?
+
+ASHLEY: I have, and I may have one. I almost wore
+it tonight, but it is in the dirty hamper.
+
+MATT: That's a good reason.
+
+LAURA: Also, there's all the other stuff that I
+always say.
+
+MATT: Also, Ashley, we miss you.
+
+MARISHA: We miss you so much!
+
+LAURA: Look at that pretty face!
+
+MARISHA: You in your little pink hat! We just love
+you.
+
+MATT: Okay, next up. (laughs) I regret everything.
+No, issue one of Critical Role: Vox Machina
+
+Origins is out. Super excited. I'm really proud of
+it. Matt Colville did an incredible job.
+
+LAURA: He did such a good job with the dialogue.
+
+MATT: I know. Encapsulated the characters,
+especially the characters early in their arc.
+
+Olivia Samson's art captures the mood and the feel
+so well. Chris Northrop's color and his lettering.
+
+Everyone did an amazing job on this. If you have
+an opportunity to check it out, it's available on the
+
+Dark Horse Comics app, through our friends at Dark
+Horse or ComiXology and other avenues from there.
+
+Super proud of it, super excited.
+
+LIAM: Can I get it on my Zune?
+
+SAM: It's only on PalmPilot.
+
+MATT: You can get it on Kindle, Nook, iBooks,
+Google Play-- I should have read the list.
+
+TALIESIN: I made that list specifically so you
+could reference it. That's fine. I do these
+
+things. It's okay. I don't mind.
+
+MARISHA: Also, all the updates are on Geek and
+Sundry right? Don't tweet the same question 30
+
+times to every member of the cast. Don't do that.
+Just look it up on Geek and Sundry. You're going
+
+to get a quicker answer, though, if you look it up
+on Geek and Sundry.
+
+LIAM: We knew we picked the right people for the
+job, but even so, it far exceeded our
+
+expectations. It came together really well.
+
+ASHLEY: It's so good.
+
+LAURA: We've been freaking out.
+
+TRAVIS: We've been reading it out loud. Pretending
+to be those characters.
+
+MATT: Yeah, Sam hates it, though.
+
+SAM: I love it.
+
+MATT: Needs more Scanlan.
+
+SAM: It does need more Scanlan. It's a good start.
+It's like season one of The Office. Pretty good,
+
+but it gets way better.
+
+MARISHA: American Office or British Office?
+
+SAM: American.
+
+MATT: All right, of course we have Talks Machina
+next Tuesday at 7:00pm Pacific Time here on Twitch
+
+and Alpha to discuss tonight's episode. So you can
+check it out then with our fantastic host Brian
+
+Foster.
+
+Laura and Travis, you're going to be at Anime
+Weekend Atlanta.
+
+TRAVIS: A.W.A. next weekend. Friday, Saturday, and
+Sunday in Hotlanta. Come see us.
+
+LAURA: We're going to say hi. What are we doing
+there?
+
+TRAVIS: We've got panels. We got autograph
+sessions. We got chances to take pictures, and eat
+
+food, and we're going to run through the quad
+streaking.
+
+LAURA: Yeah, he is. I'm going to take pictures.
+
+TRAVIS: Tequila. Yeah, so that stuff.
+
+MATT: Fantastic. It is Subtember on Twitch. If you
+haven't had enough cash to throw towards subbing to
+
+your favorite Twitch channel, for the month of
+September, you get half off for doing so. If
+
+you're interested in doing that, this is the
+month to do it. Go look into it.
+
+Last but not least, as many of you are aware in this
+string of natural disasters that keeps hitting,
+
+there was a terrible earthquake that hit Mexico City and
+the surrounding areas this past week. We want
+
+to implore people to do whatever you can to donate
+and help those who are currently recovering in
+
+the relief effort in the areas that were heavily
+hit by this earthquake. Having lived through a
+
+number of earthquakes in my youth, it's a very
+scary and very dangerous thing, and nothing on the
+
+scale of what they're undergoing there, so if you
+have the opportunity, we want to promote UNICEF
+
+and Oxfam México. The links will be in the chat
+soon, but if you can, please give. It all helps and
+
+people who are in the middle of that scenario will
+be very thankful. Thank you very much.
+
+All right, on that note, let's go ahead and dive
+in to tonight's episode of Critical Role.
+
+[dramatic music]
+
+MATT: Hello, and welcome back. You guys can
+discuss this in a minute. Last we left off, Vox
+
+Machina had been climbing their way through the
+bowels of an undead risen primordial titan,
+
+previously having found information about the
+history of Vecna from the Knowing Mistress
+
+regarding his ascension, the avatar form, and the
+drive he needs to create a miracle before he can
+
+truly embody and begin to grow the power to really
+exemplify the abilities of the god that he has now
+
+become. You began to make your way through the
+interior where you battled corrupted earth
+
+elementals that existed in him naturally. You
+began to battle undead skeletons and undead
+
+trolls. Eventually, after making your way towards
+a series of key-trapped rooms, one of which seemed
+
+to be some sort of mirrored incinerator, you made
+your way towards an upward tunnel and encountered
+
+a number of disciples, cultists of the Undying
+King, Vecna.
+
+In this confrontation, you encountered
+face-to-face a Sphere of Annihilation, and through
+
+some clever uses of short-range teleportation and
+losing one's face, you managed to stop them
+
+before, one, they destroyed your party, or managed
+to escape to alert others of your presence, and
+
+last we left off, you all were resting within that
+hallway, thinking about what the next course of
+
+action is.
+
+So, Vox Machina, what would you like to do?
+
+TRAVIS: Cry? Hold each other.
+
+MARISHA: So we were going up a tunnel?
+
+LAURA: Yeah, we need to keep going up. Oh,
+somebody needs to heal Scanlan.
+
+TRAVIS: I think it was the other side of your face
+last week.
+
+LAURA: No, it was the same side.
+
+LIAM: I palm Scanlan by the face and cast Lay On
+Hands. How bad are you, buddy?
+
+SAM: You know, medium.
+
+LIAM: Medium?
+
+LAURA: I think it's more like when your toe was
+missing. I think it's like that.
+
+LIAM: I'm dumping 29 hit points of paladin power
+into your face.
+
+MARISHA: Isn't that most of your paladin power?
+
+LIAM: Yeah, it's all but one.
+
+MARISHA: Oh dear god.
+
+LAURA: But what if you needed that?
+
+MARISHA: We've got other people who can do healing
+spells.
+
+MATT: As he reaches out and his fingers touch the
+side of your face, you feel the muscles tighten
+
+and the skin begin to reform. As he pulls away,
+there's still a little bit of reddish rash or
+
+irritation of fresh skin, but the scarring seems
+to have subsided and your face is intact.
+
+SAM: Am I handsome again?
+
+LIAM: We like you handsome.
+
+TRAVIS: I liked the new way. This is old "I know
+this" face.
+
+SAM: Yeah, I'm sorry. I'm boring. I bore you now.
+
+TRAVIS: Just a little bit.
+
+SAM: I'll get a tattoo.
+
+TRAVIS: Okay.
+
+(laughter)
+
+TRAVIS: What are we doing now?
+
+LAURA: We need to keep going forward. Either try
+to make it up this tunnel, or we can try going
+
+down that path that the Sphere was forming. I
+don't know what that is.
+
+TRAVIS. It didn't go all the way. It just started.
+I looked.
+
+LAURA: Oh, okay. Then we keep going forward.
+
+TRAVIS: I think it's a chunnel, actually.
+
+LAURA: A chunnel?
+
+TRAVIS: Yep. Small difference.
+
+LAURA: What's a chunnel?
+
+LIAM: That's a tunnel that goes under the English
+Channel. Wherever that is.
+
+LAURA: So forward then, huh? Where's everybody at
+health-wise? Are you solid?
+
+LIAM: I'm pretty good.
+
+TRAVIS: I guess I'm all right.
+
+LAURA: Pike? How are you?
+
+ASHLEY: I think I'm okay.
+
+LAURA: You got hit a couple times in that last
+fight.
+
+ASHLEY: I did. I think I'm okay, though.
+
+LAURA: All right.
+
+MARISHA: Is this a short rest that we're doing?
+
+MATT: That's up to you guys.
+
+LAURA: That's up to us. We could take 30 minutes
+or just keep moving.
+
+TALIESIN: Let's keep moving forward.
+
+TRAVIS: Look, I know we haven't said it much, but
+Pike, I am glad you are here. I just felt like
+
+saying that.
+
+ASHLEY: Me, too. I know we have been here this whole
+time, but thank you for instilling confidence in
+
+me yet again.
+
+TRAVIS: Yeah, no problem.
+
+ASHLEY: Love you, Grog.
+
+TRAVIS: Love you, Pike!
+
+MATT: All right, so you guys are continuing up
+the staircase?
+
+TRAVIS: Yes. Sneaky fucks in front.
+
+MATT: Marching order? All right.
+
+LIAM: Sneaky fucks in front.
+
+LAURA: Should I do Pass Without a Trace, because
+they might have some inkling suspicion that we're on--
+
+SAM: How many more of those do you have?
+
+LAURA: Well, I've got one level two spell left and
+all my level threes. I can cast it at a higher level,
+
+because most of my spells are pointless at this
+point.
+
+TALIESIN: I'll go behind the twins.
+
+SAM: I'll go behind Percy.
+
+LAURA: I'm going to cast Pass Without a Trace.
+Everybody's got plus ten to their stealth.
+
+TRAVIS: Pike and I got the rear.
+
+MATT: Trinket is in your necklace or out now?
+
+LAURA: I'm bamfing him back out.
+
+TRAVIS: But we are being sneaky.
+
+LAURA: Yeah, but we've got Pass Without a
+Trace.
+
+SAM: Famous last words.
+
+MATT: Trinket is out and being stealthy.
+
+LAURA: Yes.
+
+MATT: Perfect. As you continue up the stone
+stairway, you said you were looking for traps? I
+
+figured.
+
+LIAM: Always.
+
+MATT: Slow moving up the steps as you slowly are
+looking for-- okay, go for it.
+
+LIAM: For traps, for investigations, that is 18.
+
+MATT: Okay. You continue up the staircase, the
+steps being wider than the previous ones you've
+
+seen before. Eventually, you pass through the
+carved tunnel of a cave-in up the steps. The next
+
+chamber reveals itself naught but 25 feet upwards. It
+opens up. You find yourselves standing within a
+
+small building ruin, but the walls have fallen
+around you. You can see the bare structure around you.
+
+Elements of the base floor, rubble and broken
+slate. You see around you what must have been a
+
+once-colossal courtyard or a commons for the
+dwarven city of Thomara, with varying levels and
+
+paths and platforms holding rare types of now
+petrified leafless trees scattered amongst this
+
+thoroughfare, climbing up dozens of feet like
+frozen bolts of lightning forever reaching in
+
+vain. You see dead-littered paths, weaving between
+stout multi-leveled buildings of Thomara make,
+
+corpses that have been torn apart and are
+twitching, shifting on their own, the occasional
+
+hand pulling its way across. Whatever bits and
+pieces of undead here remain, they are not
+
+functional. They have been so sundered through the
+ages or other sort of confrontation, and yet are
+
+cursed to forever twitch and wander.
+
+Your eyes, as they focus in on this interior, you
+glance to the opposite side. You see the ghost of
+
+this past beauty of the city surrounding you is
+now currently defiled on a mass scale. Over half
+
+of this 300-foot-wide cavern appears to have
+collapsed or is currently crushed under an
+
+invading mass of black earth and rock, unlike the
+rest of the titan's interior. The familiar smell
+
+of wet earth and ancient decay is now mixed with
+another familiar scent of cold ash and iron dust,
+
+the smell of the Shadowfell.
+
+At this distance, you can see the rough shape of
+three carved archways at the base of this inverted
+
+mass of earth that curves down and collapses half
+of this cavern. About 40 or so feet apart. You can
+
+see at each of these entrances, there are some
+figures, some shapes. They are too far from you at
+
+the moment, hundreds of feet away from you, to
+make any sort of clear vision, but you see a few
+
+bits of torchlight in the distance and shifting
+shadows near those entrances.
+
+LAURA: Are we in a dark tunnel? They can't see us,
+right?
+
+MATT: Currently, you guys are emerging from
+underneath in this small rubble. There is no
+
+light in here. The only bit of light you can see is
+some of that bio-luminescent fungus that you had
+
+in that previous tunnel and the torchlight across
+the way.
+
+LAURA: Should we put out your hands? So that they
+can't see us? Well, there's a bunch of people off
+
+in the distance.
+
+LIAM: Want me to go take a look? You've dusted me.
+I'm pretty quiet.
+
+LAURA: Yeah, but you have to stay within 30 feet
+of me--
+
+SAM: 30?
+
+LAURA: 30 if you want to keep Pass Without a
+Trace. 60 to stay within the ring.
+
+LIAM: I'd probably be good without it. And we could
+go together about 50 feet away from the group, and
+
+then I could go a little bit further and see if I
+can get a better look.
+
+LAURA: Let's stick around to the sides.
+
+TRAVIS: Vast space? Big, wide open?
+
+MATT: It's a wide space. As the cavern opens in
+this large, dome-like interior path, loosely
+
+kidney bean shaped or a wide oval, half of it is
+currently crushed and occupied by this darker mass
+
+of Shadowfell earth.
+
+LAURA: It's sitting on top of it? That's the city?
+The roots of the city crushing down--
+
+MATT: That's the roots of the city crushing down
+into this chamber.
+
+TRAVIS: Could be a Rick and Morty portal to the
+Shadowfell.
+
+MATT: Where the titan ends and Thomara begins
+would be this particular threshold.
+
+LAURA: So we could go up from here? This is where we
+go up. You can get that sphere again and tunnel up.
+
+SAM: I have the sphere.
+
+LAURA: I know, we go straight into the city.
+
+MATT: Well, the sphere is back in the tunnel with
+you. You can concentrate on it and bring it with
+
+you and it moves at a very slow speed.
+
+SAM: We haven't moved very far.
+
+LAURA: We've only gone a little bit.
+
+SAM: Sure, I'll bring it as far as we've gone.
+
+MATT: Okay. Cool. So what's your intelligence
+modifier, again?
+
+SAM: Now it's three.
+
+MATT: Three? So you can move it 15 feet a round.
+It's slower than any of you.
+
+SAM: Sure, but we're just walking here.
+
+MATT: As you make your way up the tunnels, this
+hovering ball of dense death and destruction is
+
+(humming).
+
+SAM: Simon Three.
+
+MATT: Humming ominously, Simon Three makes its
+way.
+
+MARISHA: Does it make that sound?
+
+LAURA: Is it noisy?
+
+MATT: It does give off vibration and a noise to
+it. You do hear the subtle hum.
+
+LAURA: How far away from it do we have to be in
+order to not hear the hum?
+
+MATT: About 80 or so feet.
+
+TRAVIS: That's further than I thought.
+
+SAM: It's going to reveal our position, isn't it?
+
+MATT: It's very faint sound.
+
+TRAVIS: They are a couple hundred feet away.
+
+LIAM: You still have Silence?
+
+TALIESIN: We still have some cloaks.
+
+SAM: We can put one on the Sphere?
+
+LAURA: No, put them on us.
+
+SAM: Disguise him! Put him in a hat, gloves.
+
+LAURA: I'm going to instantly throw a robe over
+top of Scanlan. You've got a robe on you now. I
+
+put a robe on, too.
+
+MATT: Okay, so you put on a robe and Scanlan puts
+on a robe.
+
+LAURA: Yeah.
+
+MATT: All right.
+
+TALIESIN: They know that the orb was with two of
+the others, so as long as we keep the distance,
+
+everything should be fine.
+
+SAM: Oh, so now we're legit.
+
+LAURA: Yeah, we look like we're with them.
+
+TRAVIS: Hey, twins? How do our flanks look if we
+move forward? Is it just trees? Is it buildings?
+
+LIAM: I was about to ask. We see flickering light
+far away, but I don't trust anything. I want to
+
+specifically see if anything besides twitching
+fingers and toes are hiding closer to us.
+
+MATT: Make a perception check.
+
+LAURA: And I'm listening for voices. Do I hear
+anything?
+
+MATT: Perception check.
+
+LIAM: 24.
+
+LAURA: Oh, 19.
+
+MATT: Okay. Between the both of you focusing in
+the still silence, you can hear very faint distant
+
+muttering of conversation, briefly, on the
+left archway. But around you, aside from the
+
+small skittering of an occasional hand that is
+crawling its way forward, you don't see any
+
+full-bodied undead. In fact, in comparison to the
+chamber you'd exited more than an hour ago, which
+
+had hundreds and hundreds of wandering undead,
+this is mostly vacant of anything that isn't
+
+directly at those archways.
+
+LIAM: Which are how far away from us?
+
+MATT: They're about 150 or so feet. They're right
+at the center part of where the chamber
+
+would be, where the earth of Thar Amphala's
+current resting place begins.
+
+LAURA: We're not within the distance of 80, so
+they wouldn't be able to hear the orb.
+
+SAM: Okay, great. Send it straight at them, then.
+
+LAURA: Definitely.
+
+TRAVIS: (laughing) Super slow.
+
+(laughter)
+
+MATT: Austin Powers it.
+
+TALIESIN: It could in theory collapse the arches,
+if you were so inclined.
+
+TRAVIS: Yeah, but we're in here.
+
+LAURA: We could collapse all the rest of the
+tunnels and we go straight up into the city.
+
+TRAVIS: It's a tiny ball.
+
+MARISHA: Sounds a bit like bringing the city to
+us.
+
+TALIESIN: How big is the ball, again?
+
+MATT: The ball is about two feet in diameter.
+
+TALIESIN: Grog's not going to fit in that hole.
+
+SAM: It could curlicue up.
+
+TALIESIN: I don't trust you as a sphere artisan.
+
+SAM: But with you by my side, your engineering
+wits and my ball-handling skills, we'll be fine.
+
+TALIESIN: As legendary as your ball-handling
+skills are--
+
+TRAVIS: Make a ball-handling check.
+
+TALIESIN: Roll 2d6.
+
+LIAM: I volunteer as tribute!
+
+TALIESIN: I don't see how I could possibly help
+with this.
+
+MARISHA: I'm afraid it might slow us down.
+
+TALIESIN: Here's a question, if you start thinking
+of it going in a particular direction, does it
+
+keep going in that direction?
+
+SAM: Or does it have a radius where it stops
+listening to me? Let's give it a shot.
+
+TALIESIN: We could send it in a direction?
+
+MARISHA: Yeah, that's fun.
+
+LAURA: Yeah, let's send it off towards one of
+those torches.
+
+MARISHA: Destroying everything in its path for
+forever.
+
+SAM: Let's find out, right?
+
+TALIESIN: Or we could send it straight up.
+
+SAM: I'm going to concentrate on Simon Three and
+send it back the way we came. Not hitting
+
+anything. Just to see how far it goes before I
+lose telekinetic connection with it.
+
+MATT: It continues until it's out of sight. So it
+starts digging and burrowing--
+
+SAM: Is it still going?
+
+MATT: As soon as you send it downward at an angle,
+it hits the floor and begins carving its own path,
+
+tunneling lower and lower--
+
+SAM: How far away is it now?
+
+MATT: At this point? I'd say it's about 70 feet.
+
+SAM: Okay. Come back!
+
+MATT: It begins to slowly come back in your
+direction.
+
+TALIESIN: You finally found a worse pet than
+Trinket. Well done. I love Trinket.
+
+LIAM: By the way, what direction is Vecna from us
+now?
+
+MATT: Sourcing it would be upwards, at an angle,
+from where you see the base of Thar Amphala. It's
+
+in that direction, at an upward angle. You get the
+sense that this is near the edge of the city.
+
+LAURA: Can we see any light from above us?
+
+MATT: Other than the very faint bio-luminescence
+left by the little patches of dull orange here and
+
+there that give you a sense of the overall
+scope and enclosure of the chamber, no other light
+
+source. There's no opening.
+
+LAURA: So the option is really to keep moving
+forward and find our way out.
+
+TRAVIS: Same option as ten minutes ago.
+
+MARISHA: The figures in the distance. Can we tell
+by scale how big they are? Do they look humanoid
+
+or bigger?
+
+MATT: Make a perception check.
+
+MARISHA: Don't fuck me, Gil.
+
+TALIESIN: To control the sphere, is it just will?
+
+SAM: It obeys me because I asserted my dominance.
+
+MARISHA: 21.
+
+MATT: The left archway, you see two torches being
+held by two human-sized figures, humanoid. Hoods
+
+are down, but you can't see at this distance
+anything beyond the size. They appear to be
+
+surrounded by five or more dwarf-size skeletons
+that are shambling in unison around them in one
+
+uniform movement as they pace around the opening
+to the archway.
+
+The middle archway, you see another humanoid
+figure, but armored. You can see the sharp edges
+
+of plated shoulders and a helmet. And a few other
+skeletal figures wandering around, but one. At the
+
+very very edge of the one torch that it holds you
+see one large hulking figure, about ten or so feet
+
+tall. But you only see the very edge; you don't
+actually see the rest of the body. All you see is
+
+the edge of the shoulder or the beginning of the
+side.
+
+SAM: That's one way, right?
+
+LAURA: There's three ways.
+
+MATT: And then there's the right archway. You can
+see three small-ish-looking humanoid figures. Two
+
+that are very hunched, on hands and legs. 
+Have a humanoid silhouette on the head and
+
+shoulders, but they're down on the ground, almost
+like a dog. Between the two of them, there is one
+
+humanoid figure that's still hunched slightly, but
+still standing upright, hooded and cloaked.
+
+MARISHA: Do they appear to be looking for
+something? Or are they wandering like a patrol?
+
+MATT: As you watch them for a moment, you see
+they do move a little bit, glancing around the
+
+area, keeping a watch, but they appear to be
+stationed there with a minor patrol in the
+
+vicinity.
+
+SAM: Can they see each other?
+
+MATT: For the most part. They are about 40 feet
+from each other. As there is a curve, the right
+
+and the left archway probably have a hard time
+seeing each other. The middle one has a view of
+
+each. Occasionally, they'll interface; they
+converse a bit between the two of them. But for
+
+the most part they're definitely keeping a look
+out. They're very vigilant and looking out into
+
+the empty space before them.
+
+LIAM: Seeing which way Keyleth is looking, Vax stands
+a bit on tiptoe and puts his chin on her shoulder
+
+and looks in the distance, and sees the armored
+figure. Are we close enough to tell if that
+
+armored figure has a sword?
+
+TALIESIN: I can lend the scope of my gun, if that
+helps.
+
+MATT: Okay, that would probably help. Make a
+perception check.
+
+TRAVIS: What is that?
+
+TALIESIN: Scope?
+
+TRAVIS: Yeah.
+
+TALIESIN: Just a series of lenses--
+
+LIAM: 26.
+
+MATT: So this is the central figure in the armor?
+
+LIAM: Yeah.
+
+MATT: It's wearing similar armor, not to the
+knight you had encountered with Vecna, more the
+
+blackened armored knight that you had battled at
+the ziggurat on Marquet.
+
+SAM: Wait, what?
+
+MATT: When you first encountered Delilah Briarwood
+and you found the pathway into the Shadowfell.
+
+MARISHA: Is that the same guy?
+
+MATT: Well no, you murdered that one. But it's
+similar set of armor, yes.
+
+TALIESIN: I let Grog look through the scope.
+
+TRAVIS: (gasping) They're right here!
+
+(laughter)
+
+TALIESIN: I regret nothing.
+
+MARISHA: (laughing) Ashley's face. Oh no.
+
+ASHLEY: Are you scared?
+
+TRAVIS: Look through the scoop. Look through it.
+What do you see?
+
+ASHLEY: I just see big guys. But I guess everybody
+looks big to me.
+
+(laughter)
+
+TRAVIS: Pike's so brave. So brave.
+
+LIAM: Through Skype, it's like my niece sat down
+at the table to start playing.
+
+LAURA: Can we scry on the death knight or on
+Delilah to see if they're with Vecna right now?
+
+Because if they're separate from him, then what if
+they're in these chambers?
+
+MARISHA: Yeah. I will use a 5th-level spell to
+scry. As opposed to the Scrying Eye. Does my
+
+Scrying Eye use my spellcasting ability? No, it's
+15.
+
+MATT: It's 15. It's tied to the item.
+
+MARISHA: I'm going to scry on--
+
+TRAVIS: Death knight.
+
+LAURA: He probably would be less aware. If you
+scry on Delilah--
+
+MARISHA: She'll alert people to our presence.
+Yeah. That death knight that seems to be the
+
+right-hand man.
+
+LAURA: We can scry through the ring, right?
+
+MATT: What's the ring say?
+
+LAURA: Hold on. I have to find it.
+
+TRAVIS: I didn't even think about that.
+
+LAURA: Band of Shrouds. While attuned, all
+creatures and their belongings within 60 feet of
+
+the bearer are immune to most divine magics that
+would locate or reveal the whereabouts of the
+
+creature.
+
+MATT: You can scry outside of it, but you cannot
+scry into it.
+
+MARISHA: Yeah, let's do it.
+
+LAURA: Most divining magics. That doesn't mean we're
+immune to everything.
+
+MARISHA: I want to scry on that big guy that was
+with Delilah when I saw them walking out.
+
+TALIESIN and MARISHA: Armor bro.
+
+MATT: With your spell?
+
+MARISHA: With mine.
+
+MATT: Okay. Hold on.
+
+TALIESIN: Matt's finding his murder sheet.
+
+LIAM: How are your magical reserves?
+
+MARISHA: They're all right. I'm using my last
+5th-level spell for this.
+
+MATT: You back up into the hallway to find a
+space that isn't immediately visible and begin to
+
+build the circle of incantation. The rest of you
+keep watch in case anything begins to make its way
+
+toward the entrance. As you complete the ritual, your
+vision expands, and you feel your essence being
+
+pulled up through the earth and rock, changing
+from gray and brown to black and dead, until
+
+eventually, for a brief instant, you see a burst
+of the city of Thar Amphala, matching precisely
+
+your memory of the inner sanctum of the city.
+
+In an instant, there's a rush of momentum and
+energy, and you see footsteps. You see before you
+
+the death knight that you had previously
+encountered in the struggle is stepping up these
+
+dark, ruddy stone steps. One, two, three, you can
+hear the echo surround you in this slightly
+
+curving staircase.
+
+MARISHA: Do I see Delilah?
+
+MATT: You do not. Unfortunately, you see a very
+vague image of a room that's disappearing behind
+
+him as it curves around where you can see two
+other armored figures similar to the one that's in
+
+the center archway that are standing watch in that
+chamber. They vanish as he curves around, and you
+
+watch as he steps up, step-step-step.
+
+MARISHA: Can I get any other details on where he
+is? Can I see any other identifying landmarks?
+
+MATT: Currently it's a windowless stairway that
+curves.
+
+MARISHA: Is he going upwards?
+
+MATT: Yeah.
+
+MARISHA: Oh, he's in a tower.
+
+LAURA: Well, maybe. What else does she see?
+
+MATT: You see a sudden swelling of greenish-blue
+light as he reaches the apex of this staircase.
+
+You now see the top of the tower exposed where
+three large hooked, stone spires curve inward to a
+
+familiar top of the tower.
+
+MARISHA: He's trying to do it again!
+
+MATT: Out of the corner of your eye, you see-- the
+sky itself, from this perspective, has this
+
+weird sickly blue-green tint to it, and as you try
+and focus beyond the proximity of the knight, you
+
+get a glimmer of some shape currently gliding in
+the air above. Then a voice says "No," and--
+
+LAURA: You were scrying on the death knight, not
+Vecna!
+
+TRAVIS: He doesn't know who it's from.
+
+MARISHA: Or where.
+
+TRAVIS: He probably detected it, but he doesn't
+know who. Or where. Said the barbarian about the god.
+
+MATT: Knowing, as you've cast the spell before, a
+creature that can see invisible objects sees the
+
+sensor as a luminous orb about the size of your
+fist. Creatures that can see invisible can see the
+
+source of a scry spell.
+
+SAM: Can see the source?
+
+MATT: Not necessarily, but they can see that
+something is scrying on the space. As soon as you
+
+kick back you're like, "Shit. That's probably what
+it was."
+
+MARISHA: Shit, that's probably what it was.
+
+LIAM: He knows we're coming.
+
+LAURA: There was that moment when you two were
+falling to your deaths before we entered the
+
+titan. You were away from me, so it's possible
+that he knows.
+
+MARISHA: I'm sure he knows we're around.
+
+TALIESIN: Do we want to deal with these people or
+get around them?
+
+LAURA: Do we see any other tunnels that aren't
+guarded?
+
+MATT: Make a perception check.
+
+LAURA: Whoa. That's a big fat no.
+
+MATT: It's real dark, and you have to travel
+deeper into the actual cavern space to try and see
+
+any other tunnels.
+
+LIAM: There's no peeling around the sides of this?
+There's too much rubble and shit? This huge space
+
+that we're in.
+
+MATT: No, it encompasses the entire opposite side
+of this. This was at one point a 250- to
+
+300-foot-long cavern, but half of it is entirely
+occupied by the base of Thar Amphala.
+
+TRAVIS: Couldn't Scanlan look like one of the
+mages we killed and walk up and be like, "All
+
+"clear, everybody. Go home. It's all done."
+
+LAURA: We can totally try that.
+
+TALIESIN: What was his name?
+
+TRAVIS: He had a name?
+
+LAURA: He did have a name. What was the name? You
+wrote it down.
+
+SAM: The names of the people we killed? We know
+their names?
+
+LAURA: Yeah, you wrote it down.
+
+MARISHA: Odell.
+
+LAURA: Odell.
+
+MARISHA: Tell Viscon we have visitors. I wrote
+that in quotes.
+
+SAM: I could be one of them. I have an orb of
+destruction next to me that would seem like his.
+
+TRAVIS: Yeah, you could walk it up real close and
+be like--
+
+LAURA: Be like, we're going to tunnel in this 
+one now, so move.
+
+MARISHA: Do you remember what Odell looked like?
+
+SAM: Sure. We just killed him, right?
+
+MARISHA: Odell seemed to be a more
+high-ranking member of Vecna's forces.
+
+SAM: Which was the one who was 
+controlling the orb, though?
+
+LIAM: Wait a second. Scanlan could do that, but he
+can't go by himself! We all have to creep along with
+
+him, or be found out.
+
+SAM: I won't be alone. I'll have Simon with me.
+
+LIAM: We all have to go together so we don't fall
+out of range of her ring.
+
+LAURA: This is true. We're going to be within 60
+feet of you, very stealthily.
+
+LIAM: We're all stuck together, unfortunately.
+
+TALIESIN: Can you send them down there?
+
+SAM: Send who down where?
+
+TALIESIN: The rest of them to help the other-- We
+tell them they need help down below, in the cavern
+
+where we murdered everybody. You're Odell. Viscon
+might be one of them. Send them down there to see
+
+if there's a problem, then cave them in when they
+all go.
+
+SAM: How far are they from us?
+
+MATT: They're about 140 or so feet.
+
+LIAM: Send who?
+
+TRAVIS: The people who are guarding the archways.
+We trap them with explosives and shit.
+
+TALIESIN: How is it that Grog is following me
+right now? Am I making that little sense?
+
+TRAVIS: Always the tone of surmise.
+
+MARISHA: How many robes do we have? Are we going
+to claim that we're there to relieve them of their
+
+shift? Is that what you're pitching?
+
+LAURA: No, we're going to say we're going to
+tunnel in that area now, so they have to clear out
+
+or else they'll be caved in.
+
+TALIESIN: We send one of us up as Odell to tell
+Viscon there's a problem down there and that we need
+
+everybody to help because we found something.
+
+TRAVIS: Yeah, we heard rumblings down there.
+
+LAURA: Not people, don't let anyone know there's
+people, but there's definitely something
+
+interesting.
+
+SAM: But you people have to be near me when I do
+this. How is that going to happen?
+
+TALIESIN and LAURA: We're going to hide.
+
+SAM: Is there anything to hide behind?
+
+MATT: It's dark, and there are a number of dwarven
+buildings in various levels of disrepair and
+
+collapsing.
+
+LAURA: As we get closer, I can use Hide in Plain
+Sight and camouflage all of us to where they can
+
+walk by us and they won't see us.
+
+LIAM: Additionally, we can play monkey in the
+middle; as long as Vex is in the center you can be
+
+50 feet or so ahead, and everyone else can be
+either with Vex or back.
+
+TRAVIS: Oh, this actually sounds like a plan,
+which means it will go terribly.
+
+LAURA: They're 120 feet from us?
+
+MATT: 140, 150 feet.
+
+LAURA: Okay, we'll move forward a bit, and then I
+can camouflage all of you.
+
+SAM: Wait, an actor prepares. Who am I? What's my
+motivation? Am I Odell? If so, why does Odell have
+
+the sphere with him?
+
+LAURA: Because he's going to tunnel in that
+tunnel.
+
+TRAVIS: Look, Odell went to Vecna because his wife
+left him because she's like, "Oh, you're not very
+
+"powerful." And he's like, "I will find and show
+you power." So you went to Vecna and you gouged
+
+your eye out. But then your depth perception is
+off now. So then you're like, "I'm going to work
+
+"my way up through the ranks."
+
+MARISHA: But then you went back and she was like, "Now
+you're hideous. Now I'm not taking you back at all!"
+
+And you were spiteful, so you went back and
+turned to a life of crime and deceit.
+
+SAM: Sure, I'll show her. I'll show all of them! I
+like this. Good backstory.
+
+TRAVIS: Pike, smack Scanlan. Let him know.
+
+ASHLEY: I smack him on the butt. Go get them.
+
+SAM: Wait. Who's Viscon? Which one is he?
+
+LAURA: Odell was the one holding the sphere,
+right?
+
+MARISHA: Yes. Because one of the other minion guys
+was like, "Odell, go tell Viscon."
+
+SAM: Yeah, but he was running away. He wasn't the
+one holding the sphere.
+
+LAURA: Odell wasn't holding the sphere.
+
+SAM: It was the green robe guy.
+
+MARISHA: Who's the green robe guy, then?
+
+LAURA: Gray. Yeah, it was gray. Hold on, I pull it
+out and look at it. Yeah, it was gray.
+
+SAM: Wait, we have the actual robe? Just give me
+that.
+
+MARISHA: Are they written on the tags like a
+school play?
+
+LAURA: Yeah, does it have his name written in it
+anywhere so he keeps track of it?
+
+MATT: Roll an investigation check.
+
+SAM: Property of Jimmy.
+
+LAURA: Oh, this is pretty good. 24.
+
+SAM: "If found, return to--"
+
+MARISHA: "Property of--"
+
+MATT: This is which one?
+
+LAURA: This is the gray robe.
+
+SAM: I thought green!
+
+LAURA: It was gray, the guy that was controlling
+the orb.
+
+MARISHA: You know these people have
+anal-retentiveness issues.
+
+LAURA: No! The red guy was holding the orb. The
+green guy put up the force wall and ran away.
+
+SAM: So we want the red?
+
+LAURA: The red robe. I'm looking at the red robe.
+
+MARISHA: Because the red robe was Odell.
+
+LAURA: I don't know! We don't know.
+
+LIAM: Vax starts quietly praying to the Raven
+Queen in a corner right now.
+
+MATT: Odell is the one that ran off.
+
+LAURA: Okay, so that's not the one we want; we
+want the one in red that was controlling the orb.
+
+MATT: Viskorad.
+
+SAM: Did we ever hear his name?
+
+MATT: Yes. "Turn back and tell that Viskorad found
+sneaky prey."
+
+SAM: Viskorad. My name is Viskorad.
+
+TRAVIS: Do you want to know his backstory?
+
+(laughter)
+
+SAM: I'll just use the same one.
+
+MARISHA: Viskorad and Viscon are two different
+people?
+
+MATT: I might have mis-said it at the moment. I
+was on painkillers.
+
+MARISHA: So there is no Viscon, there's a
+Viscorad.
+
+MATT: Viscon I think is the name of an island
+elsewhere.
+
+(laughter)
+
+TALIESIN: He's looking forward to vacation when
+this is all over.
+
+SAM: We know the other one was named Odell and
+he's dead. So I can go over to them and say,
+
+"They've killed Odell."
+
+LAURA: No, don't say that there's anybody that
+they need to watch out for. Don't set them on
+
+alert! No, tell them you found something
+interesting and Odell is investigating it.
+
+SAM: So they need to go get what?
+
+LAURA: They need to go down into the tunnel to
+help him.
+
+SAM: Okay, but what is the thing that we found?
+
+TALIESIN: Anything you'd like.
+
+MARISHA: Your long-lost wedding ring from your
+past marriage.
+
+TALIESIN: Not that, but yes. We found something
+interesting. It's strange, possibly dangerous,
+
+possibly useful.
+
+LAURA: You definitely need help for it. Vecna's
+going to be thrilled! Everybody's going to get
+
+promotions.
+
+SAM: Odell is still down there. He needs some
+help. I'm going to go talk to Vec while they go
+
+help Ode. Right? I'm going to put on my Hat of
+Disguise and become as close to that man's form as
+
+I can. Wait, was he a human? Was he an elf?
+
+MATT: He's human.
+
+SAM: He was human?
+
+LAURA: So we sneak forward. Trinket's going back
+into his necklace. It's too dangerous, buddy.
+
+SAM: Moles and trolls. Red leather, yellow
+leather.
+
+LAURA: So as soon as we get within a hundred feet of them
+I'm going to do Hide in Plain Sight on everybody
+
+and camouflage everybody so that they--
+
+MATT: Okay, so Hide in Plain Sight and
+camouflage.
+
+LAURA: On top of Pass Without a Trace. Hide in
+Plain Sight.
+
+TRAVIS: We could hide in a house, one of the
+ruins.
+
+MARISHA: We've got camo paint and camo clothes,
+while carrying a bush.
+
+MATT: Hide in Plain Sight is the camouflage you're
+referring to.
+
+LAURA: Just to disguise everyone so that they're
+super hidden.
+
+TRAVIS: Pike can get on my back.
+
+MATT: Camouflage you can really only do on
+yourself.
+
+LAURA: I can use my ranger skills to cover
+people!
+
+MATT: Sure, you can Arnold-Schwarzenegger-in-Predator 
+this for other folks.
+
+LAURA: We're keeping within Pass Without a Trace.
+
+MATT: I'll say make a wisdom check.
+
+LAURA: To see if I can actually do it?
+
+MATT: To see how well you manage to mask the
+terrain nearby.
+
+LIAM: I stand ten feet away from her and give her
+a plus two. Oh, that's so low.
+
+LAURA: I know. Eight.
+
+LIAM: Plus two!
+
+LAURA: Oh, a wisdom saving throw or a check?
+
+MATT: A check. It looks like, unfortunately, the
+shale and broken rock in this vicinity, it's hard
+
+to find anything that would actually help hide
+them, beyond their natural stealth roll. So you're
+
+going have to rely on your Pass Without a Trace.
+
+LAURA: So we have to stay within 30 feet of me.
+
+TALIESIN: We'll stay in there. We're going to get
+into the ruins and have our guns trained in case
+
+anything goes wrong.
+
+LAURA: Scanlan, stay within 60 feet of me.
+
+MARISHA: Keyleth finds some black dirt on the
+ground and gives a war paint.
+
+TALIESIN: Remember, if anything goes wrong, it's
+been a pleasure working with you.
+
+SAM: Wonderful. We have the jenga. We can do the
+jenga!
+
+TRAVIS: You're the only one who'll be saying
+jenga, pretty much.
+
+LAURA: Yeah, you can do the jenga. What do we do
+if it's jenga?
+
+SAM: We kill everyone.
+
+TALIESIN: We think well of you and move on.
+
+LIAM: I'm going to stick close to Vex in case she
+needs backup, but also if Scanlan needs backup.
+
+Ready to run in.
+
+ALL: Okay.
+
+MATT: The only person going forward is you?
+
+SAM: Yes.
+
+MARISHA: Wait! Before he goes, I grab him, and I
+cast Freedom of Movement on him. You can't be
+
+grappled.
+
+LAURA: Can you cast something to help his charisma
+and his persuasion?
+
+MARISHA: Yes, actually, I can, because Freedom of
+Movement is not a concentration spell. So I'm
+
+going to burn my last 2nd-level spell and do
+Enhance Ability to give you--
+
+MATT: Advantage on charisma checks?
+
+MARISHA: Peacock's Charisma or whatever the fuck
+it's called.
+
+MATT: Note you have Freedom of Movement. How long
+does it last? Is it an hour?
+
+LAURA: An hour.
+
+MATT: So you have Freedom of Movement for an hour.
+Everyone else who's not going forward, make a
+
+stealth check, please.
+
+LAURA: It's plus ten!
+
+MARISHA: Let's do the druid dice. Oh yeah,
+that's good!
+
+LIAM: Natural 20. 47.
+
+SAM: You're going to be in triple digits soon.
+
+TALIESIN: He appears in another game. Somewhere in
+Deep Valley.
+
+MATT: You go back and watch previous episodes, and
+Liam's not there. It's really weird.
+
+LIAM: Somewhere in the future, there's an
+Acquisitions Inc. game going, and my head pops in
+
+from the side, and then pulls out again.
+
+MATT: I love it. Perfect.
+
+LAURA: I got 43.
+
+LIAM: That's pretty good.
+
+TRAVIS: 22.
+
+MATT: Pike?
+
+ASHLEY: 20!
+
+MATT: Keyleth?
+
+KEYLETH: 32.
+
+TALIESIN: 34.
+
+MATT: Wow. That's some pretty solid rolls, guys.
+You all stay as quiet as possible, moving along
+
+the exterior of Vex's ability to move forward. You
+move forward slowly while keeping Scanlan in
+
+sight. You slowly begin to move forward, with
+Simon Three humming slowly in front of you.
+
+SAM: I am going to limp as I go.
+
+MATT: Interesting character choice.
+
+SAM: Strong choices, commit to them a hundred
+percent.
+
+MATT: You guys are quietly stepping through, and
+you hear his footfalls echoing, and immediately
+
+you see some of the torches shift, and there's
+some talk and some whispering back and forth and a
+
+small shout. You watch as some of the skeletal
+entities at two of the entrances shift and look in
+
+that direction, and begin to shamble slowly. The
+two torch-bearers on the right begin to move
+
+forward as the armored figure in the center
+watches on, arms crossed. What are you doing? You
+
+have three archways.
+
+SAM: I go to the one that had that knight near it,
+right?
+
+MATT: That's the middle one.
+
+SAM: I'll go to the middle one. I'm going to keep
+the ball in front of me to obscure me a little
+
+bit. Not dead in front of me, but it's up here,
+just in case. Hanging my head a little bit. I'll
+
+go up and say: Power! So much power! I've never
+experienced anything like it before! Come! I need aid!
+
+MATT: Make a deception check with advantage.
+
+SAM: Okay, first one was better. Ten, plus-- what
+is this?
+
+TALIESIN and MATT: Deception.
+
+SAM: 28.
+
+MATT: The shambling skeletons to the left of you,
+you can hear the scraping and clacking sound as
+
+their bones rattle and shift across the stone
+floor, pieces of rock being pushed as their feet
+
+drag across the stone dwarven walkways. The two
+torch-bearing, cloaked figures you can see
+
+approaching, and they're talking amongst themselves.
+One of them is currently holding some sort of a
+
+holy symbol in their hand, and they're starting to
+glow a bit. They're glaring forward. The armored
+
+figure with the arms crossed puts a hand out like
+this. They both look over and stop and hold in
+
+place. The armored figure steps forward. You can
+hear the armored footfalls across the stone. The
+
+rot behemoth, which you now see emerging behind.
+Rot behemoth, the entities you saw patrolling Thar
+
+Amphala and two of them stormed into Sprigg's
+house, begins to follow behind him.
+
+SAM: So far it's going great, guys.
+
+MATT: Every minute or two, you have the vibrating
+footfall of the titan, and a few of the rocks fall
+
+and tumble from the ceiling, and a bit of dust
+begins to get knocked free from the high-up
+
+ceiling of the cavern.
+
+The armored figure approaches, gets within about
+15 feet of you and stops. You see no face. This is
+
+Magneto-style; there's space for the eyes and the
+mouth, but it's too shadowed for you to make any
+
+features out. It's this dark void. You can see the
+hooked, spiked shoulders and the horns built to
+
+come out of the sides of the helmet. Arms still
+crossed before. "What did you say?"
+
+SAM: We were tunneling with the orb, and we found
+something. An ancient, dwarven artifact. It bends
+
+reality. It changed things. It changed my voice!
+It changed my whole world for a moment. It's still
+
+down there. Odell needs help!
+
+MATT: There's a pregnant pause, a stillness that
+causes the back of your neck to grow warm. The
+
+nerves begin to creep up the back of your spine.
+Instinctually, your eyes begin to glance at the
+
+two other archways as you see shapes shifting.
+The armored figure gives a subtle chuckle, "Very
+
+"well. Lead us to this find."
+
+SAM: I have been injured. Take the orb, go down to
+where we were, down that way. I will go get help
+
+for myself. Odell needs you to help him contain
+the power.
+
+MATT: The head retracts slightly, confused and a
+bit worried. He takes one step onto the back foot,
+
+almost like it's not sure if it should be close to
+you or not. It raises its hand back towards the
+
+two other torch-bearing, cloaked figures and goes,
+"Vislal, take the orb." One of the hooded figures
+
+steps forward and takes a moment and concentrates.
+The orb jolts towards him immediately and he
+
+yelps. He's going to try again. Okay. With a
+second try, you can see the sweat on his brow as
+
+he begins to step backward, like, "I'm not really
+good with this." Are you relinquishing your
+
+control over it?
+
+SAM: Yes.
+
+MATT: So then he focuses for a moment, and the
+orb-- you can feel the slight bit of will that you
+
+had imposed over it has pulled back. The orb
+begins to push forward slowly in his direction of
+
+choice. You can see a smile come across his
+hairless, older face. He nudges the other figure,
+
+which you can see is a female half-orc who looks
+heavily scarred across the chin and the side of
+
+the neck, and they're both missing the
+corresponding eye.
+
+They both begin to move forward and slowly push
+the orb past you. The vibration you hear getting
+
+louder in your guys' direction as the armored
+figure begins to follow suit behind. The rot
+
+behemoth begins to follow, and the armored knight
+goes, "Keep watch." The skeletons begin to move
+
+backward with the rot behemoth. Now you have the
+heavy footfalls of the large, looming rot behemoth
+
+in the center walkway and a handful of skeletons
+for that approach, blockading that, as the knight,
+
+with the two other hooded figures, begin to make
+their way towards the entrance where you guys rose up.
+
+LAURA: You shouldn't have given them the Sphere.
+
+SAM: What am I going to do with a fucking Sphere?
+
+LAURA: Yeah, but we have to cave it in, and
+they're going to see.
+
+SAM: Wait, we're supposed to cave in shit?!
+
+LAURA: We're going to cave it in after them.
+
+SAM: Goddamn it, why didn't you tell me this
+plan?!
+
+LAURA: We did.
+
+MATT: So they begin to walk forward and slowly
+make their way towards the staircase that you guys
+
+emerged from.
+
+SAM: I'm not the best at this game.
+
+LIAM: So we part, like the sea.
+
+MATT: You guys part a bit, move around the sides.
+Okay. You guys keep as quiet as you possibly can.
+
+There's a brief moment, Pike, where your arm is on
+the side of one of the stone walls, and a piece of
+
+rock snaps and breaks to the ground. One of the
+figures with the hood back stops for a second and
+
+goes to look, just as one of the titan footfalls
+impacts and the whole area shakes sending other
+
+rocks tumbling around. It seems to be just enough
+to distract. They continue walking forward. You
+
+hear the hum of the orb as it slowly makes its way
+past you, faint hint of a Doppler. You watch them
+
+descend into the ruins that you emerged from, down
+into the tunnel.
+
+TALIESIN: So they can only move at the speed of
+the orb, since they have the orb with them.
+
+SAM: Well, they can move faster, but they won't
+have the orb with them.
+
+LAURA: Should we still cave it in, though, behind
+them?
+
+TALIESIN: How many creatures are left guarding
+us?
+
+MATT: Currently, you still have the cluster of
+eight skeletons on the left one. There are four
+
+skeletons and the rot behemoth in the middle, and
+on the right, you still have one humanoid figure
+
+flanked by two hunched humanoid figures.
+
+LAURA: We can definitely take the skeletons out,
+though, and sneak through, potentially, in that
+
+one tunnel. We should still cave this shit in, and
+it'll seem like a natural cave-in, right?
+
+MARISHA: Skeletons we can handle pretty easily. So
+wait, it's 12 skeletons, one rot behemoth, and two--
+
+SAM: Don't you think the thing that the big thing
+is guarding is the better path?
+
+LAURA: Probably.
+
+MATT: There are eight skeletons on the left path,
+four skeletons and the rot behemoth in the center,
+
+and then one humanoid figure with two crouched
+humanoid figures on the right.
+
+MARISHA: One humanoid, two crouched figures.
+Okay.
+
+LIAM: How spread out are those three groupings?
+
+MATT: They're about 40 or 50 feet from each other
+around a curved outcropping. From your
+
+perspective, it's around this. The center can see
+both; the right and left probably can't see each
+
+other too well. It's dark and there's a vanishing
+point around the curve where the far ends can't
+
+make eye contact.
+
+TALIESIN: Humanoids are the big problem.
+
+TRAVIS: But they can both see the middle?
+
+MATT: They can both see the middle, yeah.
+
+MARISHA: Out of all of these, the human with the
+two crouched things is what I'm most worried
+
+about.
+
+TRAVIS: Because we don't know what it is?
+
+MARISHA: Well, and humans have common sense.
+
+TRAVIS: Do we have a way to alienate these three
+that are walking to go see Odell? Do we, or do we not?
+
+TALIESIN: We have the gem.
+
+TRAVIS: But we don't know what it does.
+
+TALIESIN: It may make the undead move towards it.
+
+LAURA and MARISHA: That's true.
+
+LAURA: But should we cave in this fucking tunnel
+so that they can't come back through?
+
+MARISHA: How wide are the tunnel entrances?
+
+MATT: They're about 12 feet wide and about ten
+feet tall. And when I say they're arches--there's
+
+simple stone placed and then built around to
+maintain an arch, but they've been fairly recently
+
+constructed and it's more like the very basic
+beginnings of a mine shaft. It looks like these
+
+tunnels were carved probably once Thar Amphala
+arrived above the titan. So they're not extremely
+
+stable, but they're stable enough for passage in
+and out.
+
+SAM: The guy who talked to me, is he still here?
+
+MATT: He went with the orb.
+
+SAM: Okay. Which archway did he come from?
+
+LAURA and MATT: The middle.
+
+SAM: Okay, I'm going to go up to the middle one
+and say: Excuse me, big fellow. I have to get by.
+
+MATT: Make a deception check. With advantage
+still.
+
+LAURA: Don't go too far from me!
+
+SAM: 25.
+
+MATT: 25? The rot behemoth glances at you. You see
+its large metal cage-like helmet that guards its
+
+sunken head that rests squarely in the center of
+its chest at this point. The smell emanating from
+
+it is this awful combination of rot and
+long-putrid milk. You can see no face behind the
+
+mask, just glowing red coals for eyes. As it
+watches you as you pass, it doesn't make any
+
+motion.
+
+SAM: I'm going to go in through the archway.
+
+LAURA: Don't keep walking fucking away from me!
+
+SAM: I'm going to go a few feet in. Do I see
+anything?
+
+MATT: You can see it seems to curve upward.
+
+SAM: It's stairs?
+
+MATT: It's not stairs. It looks like the interior
+of this was made with a Sphere of Annihilation,
+
+like someone had taken a while-- because there's
+no dirt, there's no mounds of dirt around it. It
+
+looks like someone had been carefully carving this
+path. You get the sense this sphere has been a
+
+utility object since they arrived.
+
+SAM: How far can I get before I'm away from 60
+feet?
+
+MATT: You have no idea where she is.
+
+SAM: Well, I must have gone with them and then
+gone forward.
+
+MATT: Well, they have to follow you.
+
+LAURA: Every time you move forward, I have to move
+forward.
+
+SAM: Well, you better fucking move forward. No,
+I'm at the threshold of the entrance.
+
+MATT: You walk about three feet past the behemoth
+and stop.
+
+SAM: I take a knee. (groans)
+
+MATT: It slowly turns towards you.
+
+SAM: I'm okay, I just need a second. (whispering)
+What's going on?
+
+TALIESIN: Move the behemoth away.
+
+SAM: What's going on with my brain? (groans)
+What's the plan?
+
+TALIESIN: Move the behemoth away!
+
+SAM: Okay, you can do this, man. Stand up.
+(whispering) Lead him away? Where?
+
+LIAM: Convince it that the people we sent away
+need it.
+
+SAM: I'll start back. I go back through and I say:
+No, it's too dangerous. They need help down there.
+
+I fall down to one knee again, and say: Ugh! Damn
+these legs! You must go help them! They'll die
+
+down there! Can't you see it's getting worse?! The
+pain!
+
+LIAM: Is that the DM's face, or the creature's?
+
+MATT: Probably both.
+
+(laughter)
+
+MATT: Make a straight charisma check. You have
+advantage because of the spell. You would.
+
+SAM: Just charisma?
+
+MATT: Just charisma bonus; charisma modifier.
+
+SAM: 23.
+
+MATT: Okay. That's all you're going to leave it
+at? 23?
+
+LAURA: You can inspire yourself!
+
+SAM: Wouldn't it seem odd if I started singing to
+myself?
+
+LAURA: What if you're crazy?
+
+TRAVIS: You're in a fever dream.
+
+TALIESIN: I can assist in your inspiration.
+
+SAM: How? You're 60 feet away from me!
+
+TALIESIN: Can I assist in his inspiration?
+
+MATT: Anything you do to assist will reveal you
+from stealth.
+
+TALIESIN: Including casting a spell?
+
+MATT: Oh yeah.
+
+SAM: Sure, I'll inspire myself. Why not? Oh, I get
+to roll something.
+
+MATT: Roll a d12 and add that to your 23.
+
+SAM: Ooh, another eight!
+
+MATT: Eight onto that? So a 31. There's another
+long pause. Generally, an entity like this is
+
+tethered to the will of one creature. In most
+circumstances, it would not take any orders from
+
+anybody outside of it. But somehow, your words get
+it to consider in its simplistic, undead mind that
+
+if its master is in danger, then obviously the
+master would want help.
+
+SAM: That's robotics law one, right?
+
+MATT: Somehow, your force of words circumvent the
+tethered command, and the behemoth begins to
+
+hulkingly make its way, with the four other
+skeletons, walking with the skittering of the
+
+skeletons, away, towards where its master
+disappeared.
+
+LAURA: I'm going to wait until it passes by me to
+whisper into my earring. (whispering) Maybe if we
+
+all go down the middle tunnel, then we can
+collapse that tunnel behind us.
+
+MARISHA: Instead of collapsing three tunnels?
+
+LAURA: Yeah. We make a run for it and then
+collapse the tunnel. Because the other two tunnels
+
+are going to see us once we get in the middle.
+
+MARISHA: Okay. Yeah, I'm into this. Do people have
+abilities to make sure these people stay back and
+
+don't rush us while we get through?
+
+SAM: They're idiots. Just go!
+
+MARISHA: But there's a person thing.
+
+LAURA: We stealth around the other side.
+
+MARISHA: Yeah. Because the skeletons are better to
+deal with.
+
+TRAVIS: Are you talking about collapsing the
+middle tunnel?
+
+SAM: That we're about to go into.
+
+TRAVIS: Should we entertain the idea of collapsing
+the tunnel that we sent everybody to? But all the
+
+danger, the majority of it, is behind us.
+
+TALIESIN: We can stealth-kill these humans super
+quick.
+
+LAURA: Can you collapse the one they went down?
+Then we'll collapse ours, too. Because the thing
+
+is a Sphere that can--
+
+TRAVIS: Even if you can just get the one. All of
+them coming back or chasing us is going to be a
+
+bitch. Even if it just slows them down.
+
+MARISHA: This is all pretty much unworked stone
+for the most part? Since you said it was all
+
+self-carved. It's pretty rough.
+
+MATT: Yeah, it's natural earth and stone. As
+natural as the Shadowfell's slate and rock is.
+
+It's unworked, for the most part.
+
+MARISHA: I could go earth elemental, go into the
+walls, collapse tunnel A. You guys make a run from
+
+it. I can earthglide through the walls, get to the
+middle as soon as you guys get through, and
+
+collapse second tunnel. But it might take a little
+bit. I don't know.
+
+SAM: What about the 60-feet thing?
+
+TALIESIN: We have to wait for the first wall to
+collapse, then we may run.
+
+TRAVIS: Make a run for it?
+
+MARISHA: And I'll collapse tunnel one?
+
+LAURA: Collapse tunnel one.
+
+MARISHA: How far away is tunnel one right now?
+
+MATT: Tunnel one, the one with the eight
+skeletons--
+
+MARISHA: No, the one we came from.
+
+MATT: Oh, that one! With you guys having to keep
+at the 60-foot radius with Scanlan, it's about 80
+
+or so feet behind you.
+
+LIAM: Another option: you said that these three
+passageways, they curve this way, and that the two
+
+on the sides don't have a really good look at each
+other, right? On the left is a bunch of undead
+
+fuckers, right? And on the right we've got a
+humanoid and two little crunched over guys, right?
+
+So you've got that Silence doohickey, and us. So
+we could bet it all on stealth-kills, and creep in
+
+and go. Leave it all behind. One in the middle's
+now empty. One on the left over around the corner
+
+is undead.
+
+SAM: Who are you going to stealth-kill?
+
+LIAM: Humanoid and two creepy-crawly guys. If it
+pans out, we take them out, and the skeletons over
+
+there can't see over here. If we are quick, and
+then we go!
+
+TALIESIN: Well, I would say collapse the tunnel,
+then go.
+
+LAURA: We still have to collapse the tunnel.
+
+LIAM: All right. But kill them, and then make a
+loud noise. Because as soon as we start shit
+
+rumbling, everybody gets paranoid and upset.
+
+TALIESIN: We'd have to be lucky.
+
+SAM: They're probably getting down to Odell at
+this point. We should hurry!
+
+MARISHA: I can throw up a wall of stone to block
+the tunnel we came from, and then we go and we do
+
+the other stuff.
+
+LAURA: Let's do it and go!
+
+MARISHA: Okay! I'm burning the last of my shit!
+6th-level spell Wall of Stone!
+
+LAURA and MARISHA: The tunnel we came from.
+
+MATT: So you create a stone over that entrance?
+
+LAURA: Yes. Once they're all in there, we block
+them in.
+
+MARISHA: We block it up completely.
+
+TRAVIS: If they're all in there.
+
+MATT: Yeah, they've all been in there for about
+two minutes, at this point.
+
+LIAM: Can we say that the twins and Freddie have
+been ready to go as you cast and make our move on
+
+these three on the side?
+
+MATT: Sure. Are you going for the three
+humanoids?
+
+LIAM: Yes.
+
+LAURA: Are you sure? Those seem like the most
+powerful ones.
+
+TALIESIN: That's why we stealth-kill them now.
+
+LIAM: Stealth-kill them and get the drop.
+
+LAURA: So after that's up, we all move as a group
+in that direction so we're within 60 feet of each
+
+other.
+
+MARISHA: Well, my spell is going to make noise,
+right? Should you guys stealth-kill first?
+
+TALIESIN: We could go for surprise kill if we
+want.
+
+LIAM: That's what I'm saying.
+
+MATT: So you're waiting for them? You hold off.
+You talk. You guys move over stealthily.
+
+MARISHA: I stay with them as far as I can.
+
+MATT: They don't seem to notice your approach.
+Just the two of you?
+
+TALIESIN: Yeah, I'm at great distance.
+
+LAURA: What do they look like from this distance?
+
+MATT: You see there's one hooded figure, hood up,
+holding a torch with one hand, but the torch is up
+
+above, so the shadow cast, you're not really able
+to make out any features or so. You can see the
+
+faint side of an older female face. That's all you
+can make out. And you see two shadow ghasts, the
+
+creatures that you saw leaping from rooftop to
+rooftop in Thar Amphala, and one of them you
+
+captured briefly at Sprigg's house. They're both
+on chained necklace-like chokers, being held in
+
+the other hand of this individual, like dogs.
+
+LAURA: So we should kill her.
+
+LIAM: I guess I'll start with her, then the
+ghasts. I'm going to assassinate this woman.
+
+Hopefully. Flick-flick on her.
+
+MATT: Roll an attack. Both of you guys.
+
+LAURA: Wait, is it an automatic crit because it's
+surprise?
+
+LIAM: Yes.
+
+LAURA: Sweet! So 30 for attack.
+
+MATT: 30? Awesome. Why is my music not working? 30
+definitely hits. For you, Vax?
+
+LIAM: That's 25 and 23.
+
+MATT: All hit.
+
+LIAM: Here we go. I'm going to dump a smite into
+it, as well.
+
+LAURA: 19 times two is 28 plus eight is 36 damage
+on my first arrow.
+
+MATT: All righty.
+
+LAURA: Second attack.
+
+TRAVIS: 19 times two? Is what?
+
+LAURA: No, 38. 19 times two is 38 plus eight. 46!
+
+MATT: There you go, 46 damage.
+
+LIAM: First dagger to strike does 88.
+
+MATT: So the humanoid figure in the center holding
+the torch, all you see is them drop back to the
+
+ground as the chains clank to the ground. The
+torch clatters, and you see the light shift and
+
+flicker. The two shadow ghasts immediately look
+in your direction.
+
+LAURA: Yep. That was one, so for my second
+arrow--
+
+MATT: Then the wall of stone goes over and covers
+the top. And you start catching up to the rest of
+
+the group? Grog, Pike? You're running to catch up
+with Vex and Vax? You're making the second
+
+strike?
+
+LIAM: Yeah, I threw two daggers as part of the
+surprise.
+
+MATT: Go ahead. This is against which
+shadow ghast, the left or right?
+
+LAURA: I'm going left.
+
+LIAM: You fired? To the left or the right?
+
+MATT: You don't know.
+
+LIAM: I'm going to fire at the same one that my
+sister does.
+
+LAURA: So 31 to hit.
+
+MATT: All right, that hits. What'd you roll, Vax,
+to hit?
+
+LIAM: It was earlier I did it. They both hit; it
+was 20-something.
+
+LAURA: 19 on the left.
+
+LIAM: Just seven for me, though, and that's all
+I'm going to do.
+
+MATT: All righty. Then you are shooting?
+
+TALIESIN: First one is 32 to hit.
+
+MATT: That hits.
+
+TALIESIN: Second shot is 28 to hit. First shot is
+terrible! It's 12 points of damage. I don't have
+
+surprise bonus at all, do I?
+
+MATT: No, because at this point they've already
+been made aware.
+
+TALIESIN: Second shot is-- oh my god, what a
+terrible roll! Ten points of damage. Nope, I'm so
+
+sorry! That's not nearly as bad as I thought it
+was. 16 points of damage. That's way better. That
+
+seven looked like a one.
+
+MATT: Yeah, that's enough. Second shot destroys
+most of the upper body of the shadow ghast on the
+
+left. The loud gunshots going off in the cavern
+echoes, and you see the skeletons beginning to
+
+shift from the other hallway toward the direction
+the gunshots came from.
+
+TALIESIN: I'm booking it.
+
+MATT: As you guys are rushing up, you manage to
+catch up to the rest of them as the final shadow
+
+ghast (snarls), and it only sees currently the two of
+you. It's going to run forward and it's going to
+
+move here. Even at its full distance, it gets
+right up next to you, but it's not going to be
+
+able to attack unfortunately. It uses its full
+movement and runs toward you with an unnatural
+
+speed and it leaps and lands on you with its claws
+grabbing your chest and you begin to fall back and
+
+start to catch yourself.
+
+LIAM: Stab! Stab! Stab!
+
+MATT: Go ahead and make your attacks. The rest of
+you manage to catch up to the group.
+
+TALIESIN: Running up to the center tunnel.
+
+MATT: Everyone else running up to the center
+tunnel?
+
+MARISHA: Center tunnel. Go!
+
+MATT: As you guys approach, you hit the tunnel and
+begin to move inside as eight skeletons begin to
+
+curve around the corner.
+
+MARISHA: Are we all in?
+
+MATT: No, currently she's still being assaulted by
+a shadow ghast.
+
+SAM: I'm still at the door, and I'll say: No! Get
+away from me, you interlopers! Evil-doers! That's
+
+right, you infiltrator! (screams)
+
+MATT: Perfect! You're stabbing at the guy that's
+got her?
+
+LIAM: 40 for the first. Second one is a seven. No,
+it's 17 for the second one, and the last is a
+
+crit, and that is eight.
+
+MATT: That'll do it, actually. As you repeatedly
+jab your dagger into the back of it, its tongue is
+
+lashing out and its claws are trying to sink into her
+armor. Can't seem to find any purchase on her
+
+flesh. The horrible smell of its breath is on you
+as you watch as dark blood spatters out of its
+
+mouth on you as it's being stabbed to death on top
+of you. The weight pushes you onto your back, and
+
+you crumple onto the ground as it goes limp. You
+have to shove it off of you.
+
+LIAM: I take Whisper and the venom dagger and lift
+it by the head off her.
+
+LAURA: Thanks.
+
+MATT: As you guys are getting up to do this
+action, the rest of you made it up to the tunnel,
+
+and you can see as the eight skeletons begin to
+turn around the corner and begin hacking at the
+
+slowest who's there, which is going to be Pike. So
+Pike, you get four skeletons that are able to
+
+attack you at this entrance way.
+
+ASHLEY: That's okay.
+
+MARISHA: She's got this shit. She's a cleric!
+She's a monster.
+
+MATT: 13 misses. Misses. Misses. They all miss!
+They're scratching at your armor.
+
+ASHLEY: I'm almost there!
+
+MATT: You guys run past the skeletons?
+
+LAURA: Yeah because we're going to tunnel this
+shit anyways, right?
+
+TALIESIN: I think we're going to all get in and
+then, Grog, I'm going to have you punch the
+
+darkness.
+
+TRAVIS: Sure.
+
+MATT: All right so you guys all continue to run
+in. As you guys run past, Pike, four attacks of
+
+opportunity on you from the ones that were
+attacking you.
+
+15. No. No. 17, no. What's your armor class?
+
+ASHLEY: 23.
+
+MATT: 19, it rolled naturally, plus four equals
+23. One has managed to finally get to you. It
+
+swings up with its shortsword at you, and you take
+eight points of piercing damage. One of the
+
+skeletal shortswords strikes across the back of
+your armor. It glides off and catches you in the
+
+edge of the ear and you're like (yelps). But you
+guys continue to run into this. Are you running
+
+with them?
+
+ASHLEY: I want to attack them so bad, but I know
+we need to go.
+
+SAM: I'll run, but I'll say: No! No, don't take me
+with you. I need to stay here.
+
+TALIESIN: You're our hostage now!
+
+MATT: As you're shouting this to skeletons, you
+glance off over the back of your shoulder and you
+
+see a bit of torchlight emerge as a black orb
+burns through a stone wall.
+
+MARISHA: Let's go!
+
+TRAVIS: I wait until everybody's through, and do I
+see a crack or nice weakened part in the archway
+
+that I can smack?
+
+MATT: Make an investigation check. You put your
+hand through to find a specific place--
+
+TRAVIS: Hold onto your butts. 13.
+
+MATT: 13? Maybe.
+
+TRAVIS: I like the maybe. I rear back and hit the
+fucking shit out of it.
+
+MATT: All right, go ahead and roll.
+
+TRAVIS: Reckless. That's nice. 24.
+
+MATT: 24, that hits. Go ahead and roll damage.
+
+TRAVIS: What do I roll? 1d4?
+
+MATT: 1d4 with the gauntlets then add your
+strength modifier.
+
+TRAVIS: Oh, that's a one. Nine.
+
+MATT: All right, as you slam your fist into the
+wall, part of it breaks and cracks and you can see
+
+earth begin to fall and filter in and it's not
+enough to take it down. You can hear multiple
+
+skeleton voices and you see a bunch of them
+rushing up the hallway at you.
+
+LAURA: Can I shoot the skeletons that are
+approaching?
+
+TALIESIN: I'm going to shoot, as well.
+
+MATT: Okay, both of you guys take fire. Throw your
+second punch.
+
+LAURA: 26 and 27 to hit.
+
+TALISIEN: 25 and 28.
+
+MATT: All hit.
+
+TRAVIS. 12, 24.
+
+MATT: 24 points of damage? Right. As you guys all
+fire and begin to prepare your weapons, you strike
+
+with your arrows, with your gun blast, with your
+daggers as the top of the cavern caves in,
+
+swallowing whatever projectiles you were throwing,
+as well as closing off the entranceway. You can
+
+see now, as it falls forward, parts begins to
+shift.
+
+MARISHA: Run!
+
+TRAVIS: I pick up Pike, and we start running.
+
+MATT: Okay. So you're grabbing Pike by the back of
+the armor and you guys are rushing. It is starting
+
+to collapse and fall behind you. At that moment,
+you feel the low sub-vibration of another
+
+titan footfall. At that point, it sends the rest of
+this cavern into a more rapid collapse. As you can
+
+hear the cracking sound of the rocks behind you,
+Grog, make a dexterity saving throw.
+
+TRAVIS: I have advantage on those. It's okay.
+
+LIAM: If we're all running together he gets plus
+two from me, if he's within ten feet.
+
+MATT: You guys are probably a little bit higher up
+than him.
+
+TRAVIS: 17.
+
+MATT: 17? As you're moving forward and you're
+rushing, some of the rocks begin to slam into you.
+
+Both you and Pike suffer seven points of
+bludgeoning damage. The impact of rocks-- make an
+
+athletics check.
+
+TRAVIS: 23.
+
+MATT: Yeah, the rocks begin to collapse around you
+and they begin to pin your body, but the physical
+
+strength you have manages to break through and you
+are not held in the collapsing tunnel beginning to
+
+push forward. You all begin to rush. Slowly the
+sound of the collapsing tunnel subsides as you
+
+begin to glance upward and see the color of
+green-blue light approaching.
+
+SAM: Approaching us? Or we're approaching it?
+
+LAURA: We can see the sky and we're causing the
+collapse behind us? We're up at Thar Amphala? Can
+
+we slow down at all, or do we have to keep booking
+it to avoid the cave-in?
+
+MATT: Make a perception check.
+
+LAURA: 18.
+
+MATT: It sounds like the crumbling noises have
+begun to subside, and all you can hear now is the
+
+slow resting and easing to existing loose rubble
+and rock, the slow clattering behind you.
+
+LAURA: So we can slow down.
+
+MATT: You guys can slow down. You're about 15 feet
+from the surface at this point.
+
+TALIESIN: Very carefully see what's up there and
+find some cover.
+
+LAURA: I still got Pass Without a Trace because I
+didn't cast Hunter's Mark.
+
+SAM: Who are you people? What do you want with
+me?
+
+TRAVIS: I reach over to Scanlan, and I rip his
+hair off.
+
+MATT: You reach out, and your hand passes through
+nothing.
+
+TRAVIS: That is a great hat.
+
+LIAM: I got a new 45 stealth check, so I'm going
+to go peek. We're level 19. I'm level 19, y'all.
+
+MATT: You peek up past the edge. The sky above you
+glows a sickly teal color as the darkened storm
+
+above is obscured by the crackle of the arcane
+barrier that encases the city. Glancing at the
+
+size of the barrier and the points of origin, you
+can see that only the inner portion of Thar
+
+Amphala is here. The inner wall and everything
+within. The outer regions were left in the
+
+Shadowfell when it was transported.
+
+Peppered shifting shapes of winged, black clusters
+of creatures scan the sky above. Dozens and dozens
+
+of gloomstalkers seeking any sight of intruders
+across the enclosed atmosphere of this arcane
+
+dome. In the distance, you can see the terrible
+spire of Entropis standing once more. A web-like
+
+network of greenish energy fork like veins across
+the exterior to hold the structure firm.
+
+A muffled boom is heard. You glance up, and see
+from the outside of this dome an explosion burst
+
+across the magical barrier. Harmless, then
+dissipates. Squinting hard, you can make out
+
+obscured shapes of wyvern riders. Swarming and
+circling the outside of the barrier.
+
+LAURA: Is there any city on the way to
+Vasselheim?
+
+MATT: Well, you traveled with wyvern riders. You
+don't know how many there are. But do note that
+
+you did travel with wyvern riders. Tossing
+occasional weapons that bounce off and shatter
+
+with sparks across this barrier. Nothing is coming
+through and they're trying to find a weak point
+
+somewhere of what is encasing this. Currently, no
+help to you in your circumstance.
+
+You see a massive skyship hovering far above
+that's unable to do anything and is staying far
+
+enough out of reach to not unfortunately fall.
+
+LAURA: We have to get these shields down.
+
+MATT: You catch a flashing glance of a huge winged
+beast streak across the top of the barrier: a
+
+glittering brass dragon. An arcing blast of arcane
+energy fires from the barrier, striking J'mon Sa
+
+Ord, who briefly jolts from the impact, but barely
+changes course to curve away and out of sight.
+
+As your vision now begins to focus down to the
+city around you, you can see the mostly intact
+
+buildings you recall from your last jaunt through
+Thar Amphala. The interior of the city is less
+
+war-damaged from past history frays.
+
+Here you stand, and here's where we're going to
+take a break. We'll return here in a few minutes.
+
+We have a video at the break to get you guys ready
+for the Wyrmwood giveaway. Once again, help out
+
+with the earthquake recovery in Mexico if you can.
+And we'll see you guys in a few minutes.
+
+[break]
+
+MATT: Welcome back, everybody! And welcome back,
+Ashley! Welcome back! We have our winner of the
+
+Wyrmwood giveaway: Pharadar! P-H-A-R-A-D, what looks like
+an A or an O? Possibly an E? R! You are the
+
+winner! Danoba will contact you and get your
+information so we can send you your awesome signed
+
+Wyrmwood piece of accoutrement! Congratulations!
+
+All righty. Coming back into the game, folks. As
+you all are waiting in this tunnel that emerges
+
+into Thar Amphala proper, Vax has taken a visual
+scope of the surroundings and the current
+
+circumstance. What do you do?
+
+LAURA: Vax? Does it look like anyone has noticed
+the noise coming from this tunnel?
+
+LIAM: I was about to assess that. Couple of
+questions: One, how far is the tower from where we
+
+are right now?
+
+MATT: You guys are maybe 150 feet or so from the
+edge, so you're toward the side of the city. The
+
+tower is in the very center, so it's maybe half a
+mile from you. It's not half a mile; half a mile
+
+is ridiculous. No, it's maybe 400 feet from you?
+
+LIAM: Am I able to tell, if this is a giant,
+domed-in city, are we in a little corner of it, or
+
+are we coming up somewhere mid-range?
+
+MATT: If you were to look out at it from an
+overhead circle view, from the center, you're a
+
+little ways near the edge.
+
+LIAM: Okay, so not right against it?
+
+MATT: Yeah, you're about 150 feet from the edge.
+
+LIAM: How close are the nearest of the
+gloomstalkers flying around?
+
+MATT: At this point, looking up, you see about
+three or four that are maybe 70 or 80 feet above
+
+you. But they're doing passes. They're not being
+stationary and they're constantly circling
+
+through. As you glance up and look and nudge away,
+you can see their yellow eyes piercing from their
+
+black, lightless form. Their wings, as they expand
+and shift, you can see that faint glance, the
+
+beams of their vision, scanning across the
+rooftops. They're all very intent on seeing what's
+
+going through the city.
+
+LIAM: And do I see any motherfuckers on the
+streets?
+
+MATT: Make a perception check.
+
+LIAM: Yeah. Use the Colville die, the meteorite.
+It's pretty good. It's 29.
+
+MATT: 29? Okay. Couple things. One, as you glance
+through the streets, you can see now why the top
+
+chamber of Thomara was so bereft of undead.
+They've all been moved topside. You see, glancing
+
+through the bits of street that you have in visual
+range, maybe 35 to 40 dwarven undead that are
+
+wandering through open spaces, mixing with the
+various soldiers from battles long past, when Thar
+
+Amphala still existed in the Shadowfell. You've
+encountered those undead already.
+
+You also glance around past the gloomstalkers as
+you're keeping an eye. As you're scanning through
+
+the crowds, you see something different: larger,
+flying through the skies on the opposite end of
+
+the dome. It appears winged, with a tail, but
+porous, like a tattered sail or a ladder. A
+
+skeletal beast of long neck and tail makes a
+baneful circle over the city with burning
+
+green-blue eyes.
+
+LIAM: Is it dragon-shaped?
+
+MATT: It's kind of dragon-shaped.
+
+MARISHA: It's Daenerys' dragon!
+
+MATT: It appears to be skeletal. There is no
+flesh. With what little bit of look you can see,
+
+you can see the light behind the dome is--
+
+LAURA: How is it even flying?
+
+LIAM: Is there any color to it, other than dead?
+
+MATT: Not bleached-white bone, but yellowish,
+off-white bone with various shades of rot to it.
+
+It's coasting around and you get one view of it as
+it begins to spin. You get a faint, distant glance
+
+at it. You only see one, but it is apparently also
+making its path over the city with the rest of the
+
+gloomstalkers. It does have stretched bits of
+broken, leftover flesh and leather that are
+
+tattered in places.
+
+LIAM: Do me a favor and stay down there. It's a
+real party up here, and everybody's dead.
+
+TRAVIS: I like parties.
+
+LIAM: There is a dead dragon in the sky, and
+there's a lot of dead dwarves and other various
+
+types, and those things that Scanlan charmed a few
+days ago. It is really shitty up here, so stay put.
+
+LAURA: Do any of them seem to have noticed this
+tunnel?
+
+LIAM: I don't believe so.
+
+LAURA: Then come back down here.
+
+LIAM: I back slowly the 15 feet that I traveled.
+
+LAURA: So what's the plan here, guys?
+
+TRAVIS: I don't know how much further we have, but
+we really need that sword, right? We still have
+
+not seen the Sword of Kas?
+
+TALIESIN: I've been thinking about that.
+
+TRAVIS: Oh. Good.
+
+TALIESIN: I haven't come up with anything. No, we
+could try and find the object. There are legends
+
+that say that the sword was lost somewhere near
+the city. We are, for as much of a moving, still
+
+in the earth somewhere near the city. We could
+find the sword.
+
+LAURA: Potentially.
+
+MARISHA: Yeah, maybe it's in the dirt that we just
+came by!
+
+TALIESIN: I really hope we don't have to go back
+down there, but maybe. That might have been what
+
+they were searching for.
+
+LIAM: You can scry on people. Can you scry on
+things?
+
+MARISHA: I can. I don't currently have Locate
+Object with me.
+
+LAURA: I have Locate Object.
+
+MARISHA: I can give my Scrying Eye to Vex.
+
+LAURA: So that we can see it, so we can locate
+it.
+
+TRAVIS: Oh, because we haven't seen it yet?
+
+MARISHA: I don't know what it looks like. Unless
+we have seen it, in which case I still don't know
+
+what it looks like.
+
+TRAVIS: I think the Death Knight was holding the
+Sword of Kas.
+
+LAURA: Well, we'll find out when we scry on it,
+won't we?
+
+MARISHA: I pull out the Scrying Eye, toss it to
+Vex.
+
+MATT: Have you scryed before?
+
+LAURA: I haven't.
+
+TRAVIS: Oh shit, you about to ride the Matrix,
+girl! You about to plug in!
+
+SAM: Your first time's always disappointing.
+
+MARISHA: You can have these rushes, you know? It
+can get a little intense. You'll be great. Yeah.
+
+Try and focus real hard, though.
+
+LAURA: I focus on the Sword of Kas.
+
+MARISHA: Yes, and try and keep your mind clear and
+on the sword, or else you'll get other weird
+
+interference.
+
+LAURA: I'm thinking of so many other things, but
+I'm really trying to focus on this sword, okay?
+
+Penises, dicks. No, Sword of Kas! Sword!
+
+MARISHA: It's very phallic, but sword.
+
+MATT: All right, so. As you glance into this
+crystalline sphere, your vision begins to go dark
+
+at the edges. Tunnel vision begins to slowly swell
+and take your view. Your breath quickens. It's a
+
+really uncomfortable and unfamiliar feeling. But
+as your vision goes tunnel into the sphere, the
+
+coloration and the diffraction of the little bit
+of light and vision you have in this tunnel go
+
+cloudy and blur. The tunnel vision withdraws. It
+gets darker and darker, and you can see before you
+
+a hilt of some sort of black blade. It's beautiful
+and hooked in places. It's surrounded by muck.
+
+It's surrounded by what you get a sense of, but
+there's no open space around it. It is in some
+
+thick, molasses-like silt.
+
+LAURA: It's buried. Does it seem like the dirt
+that surrounds the Shadowfell? Is it that kind of dirt?
+
+MATT: It's the same color. There's no light in the
+vicinity. You can sense it's there, but you do
+
+sense that the earth around it is not super hard.
+There is a dampness. When I say silt--
+
+LAURA: Oh no, now I'm thinking of dicks again! Hold
+on. Sword!
+
+MARISHA: Focus, Vex! Focus.
+
+TRAVIS: Big black sword.
+
+(laughter)
+
+TALIESIN: We're going to die.
+
+MATT: It seems to be submerged somewhere.
+
+(laughter)
+
+SAM: Children.
+
+LAURA: I'm focusing!
+
+MATT: So you see it before you, but because it's
+seemingly buried in this area of damp rock and
+
+silt, you have no other idea of where it is.
+
+LAURA: Okay, but I did get a good look at it, at
+least?
+
+MATT: As much as the Scry spell can employ, yes.
+
+LAURA: Okay. All right, thanks, stone! It was not
+being held by that knight. No. It was buried
+
+somewhere.
+
+MARISHA: I told you it was where we just walked
+by! I don't know if that's true.
+
+LAURA: I'm going to give Vax a super detailed
+description. I don't know if it helps, but I know
+
+we can both cast Locate Object.
+
+LIAM: Yeah, but you saw it.
+
+LAURA: Yeah, but I'm giving you a really detailed
+description!
+
+LIAM: But I didn't see it.
+
+LAURA: We're twins! Look into my mind!
+
+LIAM: You have the spell, yeah? So you should do
+it.
+
+MARISHA: Can I have my Scrying Eye back?
+
+LAURA: Have you scryed on any of us, without us
+knowing?
+
+TRAVIS: You can admit it. It's okay. Come clean.
+
+TALIESIN: She's a terrible liar. We'd know.
+
+MARISHA: I wanted to scry on Scanlan, but then
+Grog wouldn't let me.
+
+SAM: Why would you want to scry on me?
+
+LAURA: Oh, when you were missing and we didn't
+know if you were safe or not.
+
+SAM: If you did, you would've seen this: a big
+black sword.
+
+TRAVIS: Is that what you call big?
+
+SAM: I'm a little guy. Look, it's bigger than my
+mug!
+
+MARISHA: Did you really paint Mythcarver black?
+Why would you do that?
+
+SAM: For a joke.
+
+LAURA: Okay, I'm going to cast Locate Object and
+envision the Sword of Kas to see if it's around
+
+us. I cast it at 3rd level, though, because I used
+up all my 2nd.
+
+MATT: Okay. Within a thousand feet of you. Okay.
+
+SAM: Is it a roll? No, it's a thing that happens.
+
+MATT: In a brief instant, you close your eyes,
+recite the incantation, snap your fingers. As you
+
+do, from behind your closed lids, you immediately
+feel this draw, this sense, this direction. It is
+
+not moving. It is stationary. It is--
+
+MARISHA: 3,000 miles away.
+
+MATT: No, it's within a thousand miles. Let me
+see. Sense the direction. So you know the
+
+direction of it at all times. You don't know quite
+how far from you it is. You sense it's lateral and
+
+down from where you are. Deeper toward the city,
+but at a downward angle.
+
+LAURA: So underground. So we don't have to go
+above ground to find it. Do you guys want to spend
+
+time getting this sword?
+
+TALIESIN: It would be advantageous.
+
+TRAVIS: Do we really need it?
+
+LAURA: It's super important to fighting Vecna.
+
+TRAVIS: We had the ability to tunnel through
+earth, but this guy let it go.
+
+SAM: Who are you people? Let me go! I'm innocent!
+
+MARISHA: Your wife left you!
+
+SAM: Oh, that's true! (fake sobbing) That is my
+backstory!
+
+LAURA: What about the earth elemental thing that
+you were going to do? Can you still do that and
+
+tunnel with that?
+
+MARISHA: That lets me glide through earth. It
+doesn't let me tunnel. I can do a Move Earth
+
+spell.
+
+LAURA: You can't take me with you if you glide
+through the earth, can you?
+
+MARISHA: You would die. You would suffocate and be
+crushed from the pressure of the earth.
+
+TRAVIS: Unless you wanted to hop in the necklace
+and give it to her in the elemental form.
+
+SAM: But you wouldn't be able to help her find it
+in a necklace.
+
+LAURA: It's that direction.
+
+SAM: Is it the direction that we came from, or the
+direction that we are going, but down?
+
+MATT: The direction you're going, but down.
+
+TALIESIN: Like hopping Earth orbit.
+
+SAM: We don't know if there's even any catacombs
+or anything down there. It could be buried in
+
+solid earth.
+
+LAURA: Which is why Keyleth is clutch.
+
+SAM: And it could be a thousand feet down.
+
+TRAVIS: That's probably what they were looking
+for.
+
+TALIESIN: It's probably what they were digging
+for.
+
+TRAVIS: But they were going the wrong way.
+
+TALIESIN: I can keep blowing his mind like this.
+It's quite nice.
+
+MARISHA: Okay, all right, shit. Do you know how
+close it is?
+
+LAURA: It's within a thousand feet. Right? Yeah,
+no, I only sense things within a thousand feet.
+
+TALIESIN: How much of a problem is the Move Earth,
+and how far can we go? A thousand feet, with the
+
+Move Earth?
+
+LAURA: What if I point Keyleth in the direction?
+Can you glide as an earth elemental and find it
+
+that way?
+
+MATT: Do consider, once you do find it, the sword
+cannot earthglide with you.
+
+LAURA: Oh, it can't?
+
+SAM: If only we had some sort of sphere!
+
+LAURA: If only somebody hadn't sent it away! Which
+is, by the way, chasing behind us still.
+
+MATT: Yeah, probably.
+
+SAM: Shit. But when it catches up to us, we'll
+take it back!
+
+LAURA: Maybe see if you can sense it right now.
+See if you can take it back right now.
+
+SAM: Simon? Answer your master. I can't.
+
+LAURA: Keep trying.
+
+MATT: The spell only lasts for up to ten minutes,
+by the way.
+
+TALIESIN: We have to move quick.
+
+MATT: So you've got to move quick.
+
+LAURA: I'm going to have to keep casting it.
+
+MARISHA: All right, here's the thing. I have an
+8th-level spell left, and I have a 9th-level spell
+
+left. I want to save one of those. I can Move
+Earth and make 40-foot tunnels for up to two hours
+
+as I go.
+
+LIAM: Do we have the Gate Stones? Both of them?
+
+SAM: Yeah. Gate Stones? They're not Gate Stones.
+
+LAURA: Whatever, but yeah.
+
+LIAM: Do we have them?
+
+SAM: I have one.
+
+LIAM: I have a great idea, but it'd take a little
+time. I have a little tub of oil that makes you
+
+ethereal, and if one of us-- you, me, whoever--
+travels through the ethereal plane and walks down
+
+to the sword and waits with it and then pops back
+into the material plane--
+
+SAM: Underground?
+
+LIAM: Finds it and then waits somewhere.
+
+LAURA: I've got another idea. But your idea led to
+this idea. It's a building process. What if
+
+Keyleth took one of the Gate Stones, glided down
+there as an earth elemental, grabbed the sword,
+
+and then bamfed back to us.
+
+MARISHA: Would that work?
+
+SAM: She'd have to become a different form.
+
+LAURA: An earth elemental.
+
+TRAVIS: In your ethereal idea, do you leave your
+physical body and your stuff?
+
+LIAM: No, I'm on a different plane parallel to
+this one.
+
+SAM: She'd become an earth elemental in solid
+earth.
+
+TALIESIN: It takes a minute to activate the stone,
+though. You would be down there-- that's the
+
+problem.
+
+LAURA: That's why Keyleth could do it.
+
+MARISHA: Yeah, but the voice from above said I
+can't glide the sword with me, but I should be
+
+able to grab it and then concentrate--
+
+SAM: And change your form into an earth
+elemental.
+
+MARISHA: Well, I'll already be an earth elemental,
+and I'll have the Gate Stone.
+
+LIAM: Do you have any sense of if it's buried very
+deep? Or is it sitting in a puddle of shit?
+
+LAURA: I can send her in a direction.
+
+LIAM: We don't know, though.
+
+MARISHA: All right, this is a good plan. What if
+we combine plans? Because etherealness can let you
+
+glide through your plane, right? It's a glidey
+thing, but for all things. Right, so can you take
+
+the potion, piggy-back on me, we glide together,
+get the sword--
+
+LIAM: She would not be able to hold onto it.
+
+LAURA: But I would help her find it.
+
+SAM: But you would be a mist. How would you tell
+her anything?
+
+TALIESIN: She would follow her.
+
+SAM: How are you going to see?
+
+MARISHA: We've got our awesome telekinetic
+earrings.
+
+MATT: You still have to whisper in the earring.
+
+LIAM: They're two different dimensions. It's two
+different planes. But if you or I, with Locate
+
+Object, douse ourselves in this oil and we locate
+the object, we know exactly where it is, and we
+
+move toward it and then go down there. It might be
+encased in a ton of stone or something. We don't
+
+know. We could go toward it, find it, and then go
+sit 20 or 30 feet away from it, wait to pop back
+
+into this plane, go grab it, Gate Stone up here.
+
+TRAVIS: That's not a terrible idea, if your stuff
+works that way.
+
+SAM: And if you can find a place to pop back into
+existence 30 feet away.
+
+MARISHA: And I can make tunnels, though, as long
+as I go with you. I can't find it alone. I can get
+
+close.
+
+TRAVIS: It's also super loud and moves a lot of
+stuff, and shit collapses--
+
+LIAM: Also, I should try to do it, because if I
+come back in a wall of stone, it doesn't matter.
+
+TRAVIS: All in favor of the ethereal idea, raise
+your hands.
+
+LAURA: How long does it last?
+
+LIAM: An hour.
+
+TRAVIS: All in favor of the earthglide elemental,
+raise your hand.
+
+MARISHA: Wait, I thought we had to have more or
+less both, though.
+
+LAURA: We have to have both.
+
+LIAM: Why? We have the Gate Stone. Ethereal will
+take me down toward the thing. I wait by it, pop
+
+back into material, pick it up, Gate Stone back--
+
+TRAVIS: Is Gate Stone immediate?
+
+LIAM: It takes a minute to do.
+
+MARISHA: That's not how earth works, though. You
+can't wait down there and then switch back and
+
+then think you can grab this.
+
+LIAM: We don't know that we're going through solid
+earth. It could be sitting in a foot-deep puddle
+
+of muck in a cavern somewhere. It's not like it
+was teleported into a solid mountain.
+
+MARISHA: If it was sitting under a foot deep of
+muck, someone would have found it by now.
+
+LIAM: We've been stealthing for not too much
+space. I think that I could get pretty far.
+
+SAM: But she knows where it is.
+
+LIAM: Well, I could do the same thing that she
+did.
+
+SAM: All right, do it.
+
+MARISHA: But she knows what it looks like.
+
+LIAM: If you hand me that bauble again, I can do
+the same thing.
+
+MATT: Unfortunately, it's already been used.
+
+TRAVIS: You've got to let Vex go.
+
+LIAM: That is hilarious.
+
+MARISHA: It's got to be a Vex and Kiki. That's the
+thing: it's got to be both of us.
+
+TALIESIN: Can you follow her?
+
+SAM: No, she cannot. She won't be able to see her.
+If you're ethereal, you're in a different plane.
+
+MARISHA: You're stealthy as fuck. We can get
+there, get close enough, get above it, and then--
+
+TRAVIS: You're talking about going in the open
+air? Risking the open air to get closer?
+
+MARISHA: She's stealthy as fuck, and I can glide
+under the dirt.
+
+TRAVIS: Leaves a lot of room for a bad roll.
+
+TALIESIN: Or we make a tunnel and we all go.
+
+SAM: Why don't you go find it and come back and
+tell us?
+
+LIAM: Let's try your idea. You thought that I
+would be able to locate it by you telling me about
+
+it, so what did it look like?
+
+LAURA: I explain exactly what it looked like.
+
+LIAM: Awesome. I'm going to cast Locate Object
+right now.
+
+MATT: Okay. As you cast the spell, you close your
+eyes and snap your fingers. It can't find
+
+anything. Unfortunately, you have to have seen the
+object for the spell to have an effect.
+
+LIAM: No, I'm not upset at you. I'm upset at
+Laura, because this was my idea on the break, and
+
+it got yanked from me, but what are you going to
+do? I'm not upset. It's fine. I'm taking my
+
+marbles and going home!
+
+TRAVIS: So how long can you tunnel? And how long
+in each tunneling thing?
+
+LAURA: Plus, If I give you a direction, you can
+tunnel in that direction, you can earthglide in
+
+that direction until you find the sword, grab a
+hold of it and try to bamf back. Let's try that.
+
+TRAVIS: Or tunnel back.
+
+MARISHA: With you telling me where it is?
+
+LAURA: I'll point you in a direction.
+
+LIAM: What's the range on the earring?
+
+MARISHA: Yeah, can she guide me through--
+
+LIAM: Wait, the ring. Within 60 feet of each
+other. All of this was a waste of time.
+
+TALIESIN: Tunnel!
+
+MARISHA: All right, I tunnel, then! Fucking hell!
+
+MATT: This was so much DND right there. All the
+DND. Everyone who's ever played DND is right now
+
+going "yep, I've been there." All right, so what's
+the plan?
+
+LAURA: We tunnel towards the fucking sword.
+
+TALIESIN: We collapse the tunnels behind us.
+
+TRAVIS: Pike and I charge out of the tunnel.
+
+TALIESIN: You lead us, we go straight there. Less
+than a thousand feet.
+
+SAM: Okay, let's go.
+
+TALIESIN: I know that this is burning, but we've
+got no choice.
+
+LAURA: We know the direction. Go in that
+direction.
+
+MARISHA: Are we going to try and go above, or are
+we tunnelling all the way there?
+
+LAURA: In the direction that I'm pointing. Tunnel
+that way.
+
+MARISHA: I'm going to burn my 8th-level spell on
+Move Earth. I still have a 9th, and then this is
+
+reaching the end of my shit.
+
+MATT: All right, so this lasts up to two hours,
+concentration, and you can move a 40-foot space to
+
+create a tunnel every ten minutes.
+
+SAM: Every ten minutes? That's useless.
+
+TALIESIN: Under a thousand feet.
+
+SAM: The Locate Object only lasts ten minutes.
+
+LIAM: It's within a thousand feet.
+
+LAURA: And then I can cast it again twice. I have
+two more times to cast it.
+
+LIAM: A thousand feet is not that far.
+
+TRAVIS: Did you say 40 feet?
+
+SAM and MARISHA: Every ten minutes.
+
+TRAVIS: And we've got three of those, so we're
+going 120 feet?
+
+LAURA: No, she can keep going that direction and
+then I'll cast it again in a little bit.
+
+TALIESIN: That's assuming we hit no pockets.
+
+SAM: 240 feet. That gets us 480 total feet
+possible in two hours. Halfway.
+
+LIAM: It's more likely that this thing is sitting
+in a pool of stilted water. It's probably not
+
+encased in a passageway of stone, because how did
+it get there?
+
+MARISHA: If that's the case, we have to move on
+foot above ground quickly and get close, and then
+
+I can tunnel us down. I think that's the only way.
+Other than that, we're taking several hours to get
+
+there at a very slow pace.
+
+SAM: And we might not get there.
+
+TRAVIS: Two dozen plus things flying around. Pike
+and I are going to roll some stealth checks. It'll
+
+be great.
+
+TALIESIN: All right, fuck.
+
+MARISHA: Wait!
+
+ALL: Wait.
+
+TALIESIN: (laughs) Does anybody know that joke
+outside of this room? Wait, that's right. We
+
+Instagrammed it.
+
+MARISHA: Scanlan, you still have a mansion?
+
+SAM: I do.
+
+MARISHA: We could break this up. Scanlan casts the
+mansion, we split the party, and we have a stealth
+
+team go get the sword and come back--
+
+LIAM: And Vecna knows where we are.
+
+MARISHA: If they're in the mansion, though--
+
+LAURA: You can't sense anybody in the mansion.
+
+MARISHA: He can't sense anyone in the mansion, so
+we cast the mansion while you're still here. Half
+
+the party goes in, team Stealth Sword Recovery
+Plan goes out, gets the sword, while the rest of
+
+the team camps in the mansion.
+
+TRAVIS: If there's anything around that sword when
+you get there, you're on your own.
+
+LAURA: Then we go away. We don't try to fight it.
+
+MARISHA: Unless we all want to decide, right here
+and right now, to try and get closer to the sword
+
+than the thousand feet we are potentially away
+from it right now, together as a team, and then
+
+cast the mansion. Or not at all.
+
+TRAVIS: (laughs) This is craziness. I think there
+is an upside to Pike and I not having to roll
+
+those stealth checks, even with Pass Without a
+Trace, but if there's anything around that sword,
+
+it's going to be up to you to either fight it and
+get the sword, or get the fuck out.
+
+LAURA: Avoid it, yeah.
+
+TRAVIS: You want to do that?
+
+SAM: Stealth team is not me, right? It's you two.
+
+MARISHA: It'd be us two and maybe Vax, as well.
+
+TRAVIS: Corner three.
+
+LIAM: I'm not that stealthy.
+
+LAURA: Let's do it.
+
+MARISHA: Does anyone have a better plan? Is this
+what we're going with?
+
+ASHLEY and TRAVIS: Do it.
+
+MATT: Okay, then.
+
+SAM: We're also committing that this is where the
+mansion is going to live for the night? Is this a
+
+good spot for it?
+
+LAURA: The sphere is coming out soon.
+
+MATT: Keyleth, Vex, you feel a very faint
+vibration in the ground.
+
+MARISHA: Does the sphere fuck up the mansion?
+
+TALIESIN: It's a Disintegration spell.
+
+LAURA: Probably. We need to get out.
+
+SAM: No, the mansion can't be seen. They would
+have to know that it's there.
+
+TRAVIS: Even if it accidentally hits it, it's
+toast.
+
+SAM: Well, we can hide it behind a closet or
+something.
+
+TALIESIN: There's no closet. We're in a tiny
+tunnel.
+
+SAM: I always carry a closet with me.
+
+TALIESIN: We know.
+
+MATT: What are you doing, guys?
+
+LAURA: Let's peek up. Is anything near us right
+now?
+
+MARISHA: And whatever the closest building is
+closest to the sword.
+
+MATT: All right, so you guys all emerge out into
+the open light--
+
+LAURA: No, we don't! We peek up first to see if
+anything's near us.
+
+MATT: Make a perception check.
+
+MARISHA: Who, all of us?
+
+MATT: No, just the ones who are looking.
+
+LAURA: 27.
+
+LIAM: 31.
+
+MATT: Okay, the two of you glance off as you're
+emerging. Your exiting point looks to be a hole in
+
+the middle of a street that has been dug down.
+From this point, you can see there's a nearby
+
+building, maybe 20 feet from you, that is a
+two-story building that is partially collapsed,
+
+but still mostly intact.
+
+LAURA: Is there anything around?
+
+MATT: Yeah, there's a gloomstalker at any given
+point in time within a hundred feet of you.
+
+They're all keeping a net of movement around.
+
+TALIESIN: I'm going to walk up to Grog and Pike.
+
+MATT: You hear rocks beginning to emerge--
+
+TALIESIN: I grab Grog and Pike. We're going to run
+together. I activate my Silence spell. You two are
+
+in my Silence spell.
+
+TRAVIS: I've got Pike in my hand.
+
+MARISHA: And you still have Pass Without a Trace.
+
+LAURA: Still Pass Without a Trace.
+
+MATT: No, because when you cast Locate Object,
+that stopped.
+
+LAURA: I recast it! It's okay. I recast it.
+
+MATT: Okay, mark that off. So as you guys all
+emerge topside, rushing this 20 feet distance, I
+
+need you all to make stealth checks. Grog, you
+make it with advantage; you're still visible--
+
+MARISHA: That doesn't take up one of your Locate
+Object spells, does it? Then let me cast it. I'm
+
+casting Pass Without a Trace, not her.
+
+MATT: Using what spell level?
+
+MARISHA: 2nd.
+
+MATT: Sorry, I misheard. I thought you only had a
+9th-level spell slot left.
+
+MARISHA: No, I'm talking about my big mack daddies
+in order to still cast other things.
+
+TRAVIS: I had to roll for both of us.
+
+TALIESIN: But you have advantage.
+
+ASHLEY: You had to roll for both of us?
+
+TRAVIS: But I had advantage. I think we're okay.
+
+MARISHA: For everyone paying attention, I have
+three 1st-level spells left, no 2nd-level spells,
+
+two 3rd, one 4th, and then an 8th and a 9th. And
+that's it.
+
+SAM: You have advantage on this?
+
+TALIESIN: Do I have advantage? Well, I might have
+advantage also. I'm in the Silence spell also. Not
+
+that I need it, though.
+
+TRAVIS: That advantage saved that whole thing from
+going tits-up, because that first roll was
+
+(explosion).
+
+SAM: 25.
+
+TALIESIN: Natural 19, so 29.
+
+MARISHA: 18 plus nine plus another ten. 38.
+
+LIAM: 37.
+
+LAURA: 46.
+
+TRAVIS: 24.
+
+Wait, don't high-five shit yet! Why are
+you high-fiving? What the fuck? What's wrong with
+
+you people? Jesus!
+
+SAM: What did Pike get?
+
+MATT: Pike was being carried. His roll was
+dependent on both of them. So as you guys dart
+
+through the open light, the first time you've seen
+light since arriving in this titan. The sky
+
+outside is super dark; most of the light here is
+actually emanating from the barrier. It's creating
+
+its own false twilight sense over this entire
+city. As you rush into the room, you all dart into
+
+the nearby doorway. There's a half-ajar door
+that's broken, and you push through, being careful
+
+not to slam into it or to break it and cause any
+noise, but you all rush into this chamber.
+
+Immediately, the smell wafts of old decay, and
+glancing around, you can see long-dried bits of
+
+flesh or nondescript innards that have long
+withered and turned to partial dust.
+
+You all come into the shadow of the chamber and
+take a minute to breathe. You hear the distant
+
+sound (screeching, flapping, crunch). You hear one
+perch on one of the buildings about one block down
+
+(screeching, flapping) and continue off. It does
+not appear that you are currently being stalked or
+
+noticed.
+
+TALIESIN: They can't hear you.
+
+SAM: It is visible, so is there a closet in here
+or some sort of alcove?
+
+MATT: If I recall correctly, the entrance is only
+visible to people that you signify.
+
+TALIESIN: People who see invisible things can see
+it.
+
+SAM: The entrance shimmers faintly and is five
+feet wide and ten feet tall. You and any creature
+
+you designate can enter.
+
+MATT: Okay, it is visible, but only creatures you
+designate can enter. That's the difference. So it
+
+is a faint shimmer.
+
+LAURA: We have to hide it, yeah.
+
+MATT: Make an investigation check.
+
+LAURA: Can I help him find a place that would be
+hidden?
+
+SAM: Investigation, I got a 23. 22.
+
+MATT: Okay. You go to help him. Most of the
+furniture in here is destroyed and withered. You
+
+go upstairs, and there is a double-door cabinet. A
+cupboard.
+
+LIAM: The Lion, the Witch, and the Wardrobe!
+
+MARISHA: I thought the same thing!
+
+SAM: Harry Potter lives there. I started reading
+Harry Potter.
+
+LAURA: Oh, I'm so glad!
+
+TRAVIS: Started?
+
+SAM: Yeah, I'm on chapter three!
+
+LIAM: Greetings, time traveler.
+
+MATT: I can't wait to take you to Universal.
+
+LAURA: It's going to be so great.
+
+MATT: All right, so you cast the mansion in the
+cupboard. The shimmering purple hue, the familiar
+
+vision of the door of Scanlan's magnificent
+mansion arrives. Who's going and who's staying?
+
+Pike, Grog, Percy, and Scanlan staying? The three
+of you going?
+
+TRAVIS: I hold out my hand to Vax and I say: Good
+luck. I hold out my hand to Vex and I say: Take
+
+care of him.
+
+TALIESIN: Just in case, is it wise to leave one of
+the Gate Stones outside the door? You take one so
+
+if you need to port back to it, it's here.
+
+LAURA and LIAM: That's a good call.
+
+MARISHA: Does someone have to be holding it?
+
+TALIESIN: Nope!
+
+LAURA: Put it in a cupboard.
+
+TALIESIN: I'm going to leave it in the kitchen.
+
+MATT: To transfer to a Gate Stone? No, you have to
+activate it and hold it on one side, but it brings
+
+you to wherever the Gate Stone is.
+
+TALIESIN: So I'm going to put one of the Gate
+Stones in a corner, so it's not so obvious. Yep.
+
+And then you guys have the other one.
+
+MARISHA: I have the other one, yeah.
+
+LIAM: You can get back on your own pretty easily,
+yeah? Tunneling through stone, do you have that
+
+left? Or that's done?
+
+MARISHA: No, if I'm an earth elemental, I can
+earthglide. I do still have that.
+
+LIAM: I feel like maybe Vex should carry the
+stone, then. She has less of a chance of getting
+
+back on her own.
+
+MARISHA: Yeah. Hopefully we're together, though,
+but yeah. I toss Vex the Gate Stone.
+
+MATT: Okay. You pocket it. You sense you maybe
+have three more minutes on your spell, by the way, Vex.
+
+LAURA: All right, it's that direction.
+
+TALIESIN: All right, we're in the mansion.
+
+MATT: Okay, the rest of you head into the mansion
+quietly.
+
+SAM: If we drink wine tonight, it will only be in
+remembrance of you. Or to get snookered.
+
+LAURA: If we don't come back, save Vasselheim on
+your own and the entire world.
+
+LIAM: (singing) Empty chairs at empty tables...
+
+MARISHA: Team stealth is stealthing as far as we
+can, yeah?
+
+LIAM and LAURA: Yeah.
+
+MARISHA: Oh my god. Team half-elf! Yeah! This is
+me saying this, not Keyleth.
+
+MATT: Okay, good to know. So as you all vanish in
+the mansion, you are outside of the need to
+
+utilize the radial portion of the ring. The three
+of you with the spell quickly waning, you begin to
+
+make your way outdoors. I need another stealth
+check from you three.
+
+LAURA: Another one?
+
+ASHLEY: I love you guys. Please come back.
+
+MARISHA: All right, don't fuck me, opal die. That
+opal die fucked me. Wait, do I have advantage? No.
+
+LAURA: You have plus ten.
+
+TRAVIS: (laughing) Right out of the gate?!
+
+MATT: What did you get?
+
+LIAM: Does my luck transfer to anybody? No.
+
+MARISHA: Can I do anything else? Okay, let's go!
+And I run into a door.
+
+MATT: So as you guys rush outward into the open
+way, you begin to head across the thoroughfare,
+
+following Vex, who's currently leading the charge,
+and you can sense it down below. At this point,
+
+based on the trajectory of it, make an
+intelligence check.
+
+MARISHA: They covered for me, right?
+
+LAURA: Intelligence?
+
+MATT: Yeah, roll plus your intelligence modifier.
+
+LAURA: 12.
+
+MATT: 12? Okay. You're not sure of the distance
+based on the angle, but you know it's getting
+
+closer. So you guys begin darting from building to
+building. Keyleth is straggling a bit behind and
+
+ends up stubbing her toe and instinctually lets
+out a yelp sound. At which point, you hear a
+
+distant shriek.
+
+MARISHA: (shrieking noise)
+
+TRAVIS: Wow, make it worse. That's a one.
+
+LAURA: Go underground!
+
+MARISHA: Earth elemental!
+
+(laughter)
+
+MATT: Okay. Thankfully, because there is an old
+ancient cobblestone walkway here with loose stone,
+
+but portions of it have been destroyed and broken,
+and you can find loose earth easy enough and you
+
+can dart in. You Scrooge McDuck dive into the
+stone.
+
+As you guys dart off to the side and you watch as
+two gloomstalkers land where she was (screeching)
+
+and begin to scan over and look through, and
+they're walking forward on their large, hefty,
+
+muscular hind legs, walking past where you guys
+are hiding off to the side. They stop and then
+
+turn around, and one of them scans past and you
+both barely duck out of the way.
+
+They both take off, one after the other.
+
+LIAM: Fuck a duck.
+
+MARISHA: Goddamn it.
+
+SAM: Does that burn your spell? Are you done?
+
+MARISHA: No, I'm beast shaped. I'm my earth
+elemental right now, okay? So I have tremorsense,
+
+right? I sense the twins.
+
+LAURA: I'm going to cast Locate Object one more
+time. Oh, that that takes me out of stealth,
+
+doesn't it?
+
+MARISHA: No. Oh. But I have Pass Without a Trace,
+which is still going.
+
+LIAM: Do you vaguely remember the direction it was
+in? So maybe we go vague for a minute?
+
+MARISHA: So I pop my head out, Jaws-ing.
+
+LAURA: And I point in the direction and have her
+keep following it.
+
+MARISHA: And I'm going to be like-- I'm going to
+follow their footsteps with my tremorsense.
+
+MATT: And as such, you don't have to make a
+stealth check. You're down below, and you follow
+
+their footsteps underneath. You guys continue on
+your current stealth run. You get forward about
+
+another 150 or so feet. Do you want to keep going
+or do you want to cast?
+
+LAURA: Is there an abandoned-looking building or
+anything I can duck into?
+
+MATT: There's a handful. Most of the city has been
+long abandoned.
+
+LAURA: Okay, then I'm going to duck under
+something so I can cast the spell and then
+
+re-stealth before I come back out so I don't bamf
+in the middle.
+
+MATT: Right. Okay, so you duck into a small
+alleyway. You guys are keeping out of view and
+
+waiting for the swarms of undead in the street,
+and as you come around the corner you immediately
+
+see about 12 or 13 zombies clattering past. As
+you're waiting for them to pass by, eventually
+
+they get quieter and quieter. You take a minute
+and you cast the spell Locate Object, and it's a
+
+much steeper angle now. You're getting much closer
+to it. So do you want to keep going?
+
+LAURA: Yes. I want to re-stealth and move until
+I'm directly over it.
+
+MATT: Roll another stealth check. Both of you,
+actually, because we've gone partway through. Not
+
+that I have to worry about Vax.
+
+LAURA: 33.
+
+MATT: Yeah, because you still have Pass Without a
+Trace from underneath.
+
+LIAM: 40.
+
+MATT: Okay. The two of you, making your way
+through, ducking between streets and passages.
+
+Eventually, you get to a point where you sense and
+almost--
+
+LAURA: Did she just yawn?
+
+TRAVIS: No, she just breathed.
+
+MARISHA: She stress exhaled.
+
+ASHLEY: My hand, and it made a farting noise,
+sorry.
+
+MATT: You're fine. You get about another 85, 100
+or so feet, and it's nearly directly below you.
+
+You're about halfway between the edge of the wall
+and where Entropis, the tower, is.
+
+LAURA: Okay. I'm going to tap my foot on the
+ground and point directly down to you, Keyleth.
+
+MARISHA: Directly down. Doing this as I go.
+
+MATT: Okay. So you swim down.
+
+MARISHA: Yeah, swimming down.
+
+MATT: Okay, and you're feeling through earth. Make
+an investigation check.
+
+MARISHA: Not my strongest suit.
+
+MATT: With disadvantage because you are currently
+blind in the earth.
+
+MARISHA: No, I'm awesome.
+
+MATT: You can glide through it. But you can't see
+through the earth.
+
+MARISHA: I'm an earth elemental.
+
+MATT: Give it a shot.
+
+TRAVIS: Come on, you got this. Let's go.
+
+LIAM: Just roll high.
+
+TRAVIS: Just drop it out your hand and watch as--
+
+ALL: Yeah, okay.
+
+MARISHA: Do I count the ones out? Can I roll it
+again on the inside?
+
+MATT: That's not how it works.
+
+TRAVIS: Is it cocked? It looks cocked.
+
+MATT: What did you roll?
+
+MARISHA: Are we sure with disadvantage? Five.
+
+MATT: Five. Okay. You swim around for about a
+minute or so, and you're finding nothing.
+
+MARISHA: Yeah, I'm wise; I'm not smart. There's a
+difference.
+
+MATT: So yeah, you're swimming around in there.
+You're not finding anything.
+
+LAURA: Oh, does she still have the earring on? Any
+luck?
+
+LIAM: She can't talk.
+
+MARISHA: Actually, I can. We recently ruled.
+because it's mental, yeah. Oh, wait. No.
+
+LAURA: You don't know where it is?
+
+MARISHA: No, I can't find it.
+
+LAURA: Can I give her an idea of how deep down it
+feels, how far away it is?
+
+MATT: You don't know the distance, just direction.
+You failed your intelligence check, so you're not
+
+quite able to consider the changing angle for
+distance.
+
+MARISHA: But maybe that etherealness thing, and
+now I can literally come up and drag you down.
+
+LAURA: Would I be able to see the sword, though,
+if I was on another plane?
+
+MATT: Make an intelligence check.
+
+LIAM: I think so, yeah. You just can't interact.
+
+LAURA: Do I get your thing of plus two because I'm
+standing next to you?
+
+LIAM: It's for saves, not checks.
+
+LAURA: 13.
+
+MATT: Okay. You don't know much about how
+etherealness works or what the effects are. You
+
+don't know if it will help or hinder. You're not
+entirely certain what the effects will do.
+
+LAURA: Great!
+
+MARISHA: But you still have Locate Object, and
+then you rub some on you, so you can still maybe
+
+sense it?
+
+LAURA: And I would know when it's right on me
+because I can sense that much, at least.
+
+MARISHA: Maybe?
+
+LIAM: And you can still see everything. Yeah, you
+just can't interact with anything.
+
+LAURA: Put that shit on me, then.
+
+LIAM: Okay, so I start slathering her up.
+
+MATT: Okay. As the oil slathers around you, your
+vision of the world becomes dark gray and
+
+colorless. It's very similar to when Frodo puts
+the ring on. There's a flickering sense, and the
+
+world itself seems to be immersed in shadow and
+not quite there. You watch as all the skeletons
+
+that are swarming through the streets and your
+brother all become translucent and almost not
+
+there, like these ghostly visions of them.
+
+LAURA: I don't know. Is it like Sauron? Is he
+going to be able to see me?
+
+TALIESIN: Hush. Ignore him.
+
+LAURA: Okay. Can I sink into the ground?
+
+MATT: The ground's hard.
+
+MARISHA: What?!
+
+LIAM: Wait.
+
+LAURA, MARISHA, and TALIESIN: Wait.
+
+LAURA: The ground is hard.
+
+LIAM: No, we've forgotten about the 60 fucking
+feet again.
+
+LAURA: She's not 60 feet away.
+
+MATT: You ignore objects and effects that aren't
+on the Ethereal Plane.
+
+LIAM: If you take the ring further than 60 feet
+away from me, we're blown.
+
+MARISHA: But it might not be 60 feet away.
+
+LAURA: I'll stay 60 feet within the surface of the
+earth.
+
+MARISHA: Do we still have another one of those
+potions? You can come with us?
+
+MATT: Actually, no, this is a point of order here:
+ignores all objects and effects that aren't on the
+
+Ethereal Plane. This is complicated.
+
+MARISHA: This is one of those stupid DND, now we
+have to interpret what they mean.
+
+TRAVIS: It's a DM call on him, I think. Or how he
+wants to translate it.
+
+MATT: So here's the thing. Here's technically what
+happens: as the oil begins to be pressed along
+
+your body, you begin to look around and notice as
+your vision goes gray and everything begins to
+
+fade, everything begins to fade. As in, on the
+Ethereal Plane, Thar Amphala, this interpretation
+
+of this space, is not at this location.
+
+LAURA: So I would disappear? I would fall?
+
+MATT: Let's see here. This is getting really
+wonky.
+
+LAURA: Can I cancel it once it starts getting on
+me and I'm like, this does not seem right?
+
+TALIESIN: Shit might get really weird now.
+
+LAURA: I might just be gone.
+
+MATT: Allowing you to move through objects you
+perceive-- no, that's true. It's not there on the
+
+Ethereal Plane, it's only on this plane. I'm
+sorry. This got really confusing. Welcome to DND.
+
+Thar Amphala, there is no version of it on the
+Ethereal Plane, however, which means that
+
+currently you can pass through the ground.
+
+LAURA: I can?
+
+MATT: Yes. My apologies.
+
+LAURA: I'm on another plane of existence, though?
+
+MATT: The Ethereal Plane overlaps this one. It
+layers it in a similar way that the Shadowfell does.
+
+TALIESIN: You are actually perceivable? But only
+to the things that can perceive.
+
+LIAM: But the proof is in the pudding because if
+that ring were gone from my presence, Vecna would
+
+be bending me over a barrel right now.
+
+MATT: Which--
+
+LIAM: He's doing.
+
+MATT: As you dissipate in the Ethereal Plane--
+
+SAM: Poor Ashley.
+
+ASHLEY: This is so stressful!
+
+MARISHA: Wait, though. Come on.
+
+LAURA: I didn't think about the fact that it works
+in a different fucking plane.
+
+TRAVIS: That makes sense.
+
+MATT: So as you vanish into the space, a little
+whisper curls into your ear, Vax'ildan. "Ah, there
+
+"you are. I've been looking all over for you and
+your friends. Welcome." And that's it.
+
+LIAM: Everybody back to Chicken Town. Chicken
+Town! And I click the Boots of Haste, and I start
+
+booking back.
+
+SAM: You're abandoning your sister?
+
+LAURA: No, it's okay! I've got the thing.
+
+MARISHA: It's me and you now; we got this. We're
+good. Go!
+
+LIAM: You're staying?!
+
+MARISHA: I'm getting the fucking sword!
+
+LIAM: I'm hearing this over the earring. I just
+heard that. I heard it. Vecna whispered to me, and
+
+I said that to everybody through the earring. She
+shouted back at me.
+
+MATT: But they don't hear you because they're not
+in the same plane with the earrings.
+
+LIAM: Does she still hear me?
+
+MATT: No, she doesn't.
+
+LIAM: But I heard that, so: You're not going to
+go?
+
+MARISHA: I'm getting this sword. I'm here now
+under the fucking ground!
+
+LIAM: I can't talk to you anymore.
+
+LAURA: I'm just floating downwards.
+
+MARISHA: I reach up. Can I grab your shin?
+
+LIAM: I realize Keyleth's not going anywhere and I
+plunk down.
+
+MARISHA: Hang on, wait. Can I hear you, can I see
+you? Nothing with her?
+
+TRAVIS, LIAM, and MATT: No.
+
+MARISHA: Why did we do this, then?
+
+TRAVIS: I don't know. Keep going. Keep doing it.
+
+TALIESIN: Because it's late and this is what's
+happening.
+
+SAM: Back in the mansion, we're all sipping wine
+and I'm saying: I know our friends will come back
+
+to us, and I know that they won't ever lead anyone
+here.
+
+MATT: Okay, make another check.
+
+LAURA: Can I float or am I stuck on the surface of
+the ground?
+
+MATT: Let's see here. You can move up or down.
+
+LAURA: Okay, I'm going to go down towards where
+the sword is.
+
+MATT: You glide through the ground.
+
+MARISHA: Is that 12? Okay, all right, that's
+actually not too bad. 14.
+
+MATT: Okay, was that with disadvantage?
+
+MARISHA: Seven.
+
+MATT: Okay. You're still floundering around. You
+have Vax dart off and Vex has vanished.
+
+LIAM: If she screamed, I stopped once I realized
+she wasn't leaving. I stayed.
+
+MATT: Okay. So are you darting back?
+
+LIAM: And nobody replied and I stopped because I
+doubted it, and I'm waiting.
+
+MATT: Okay, are you going to stealth?
+
+LIAM: Yeah, of course, but Vecna's whispering in
+my ear. 33 and Pass Without a Trace, so 43.
+
+MARISHA: Go. You should go. I come over the ear
+piece and I say: Vax, you should really go because
+
+you could compromise all of us by staying here.
+You should go.
+
+TRAVIS: She's currently in ethereal form drifting
+down; we should see what happens with that.
+
+MATT: Your movement speed, at double movement,
+would be 60 with the double dash. You're moving 30
+
+feet per round because when you're moving through
+the Ethereal Plane through solid objects and
+
+matter, it does slow you to half speed.
+
+LAURA: Can I sense Keyleth at all? I can't see
+her, right?
+
+MATT: You can't see her, you can't sense her, but
+you do sense the sword. You sense the direction
+
+still, because Locate Object is still in effect,
+and you're drifting down, down, down. About a
+
+hundred feet. 150 feet. And then as you head down
+to that point, you suddenly emerge and you can see
+
+a small cavern, maybe ten feet in diameter. Looks
+like there's a bit of rubble. Looks like there may
+
+have been a path that led to here that long
+crumbled and was either intentionally collapsed or
+
+naturally collapsed by the movement of the titan.
+And as you come into this ten-foot little cavern
+
+space, half of the floor is coated in this
+brackish green fluid, and the other half is solid rock.
+
+LAURA: Okay. I keep going towards the sword.
+
+MATT: Okay. It then takes you at a slight angle
+down into the liquid, and now you can see the
+
+tunnel continues downward. There's a small basin
+that changes shape as you go down into this murky
+
+greenish fluid, down where there's no light. It is
+normally pitch black here, but the etherealness
+
+allows you to take a little bit of the space in.
+Looking around, you can see that there is a thick
+
+residue that is gathered along the edges, and
+there at the bottom, you can sense, though you
+
+cannot see it because it is actually a few inches
+beneath the muck, you assume, the sword.
+
+LAURA: I can't touch it.
+
+MATT: Correct.
+
+LAURA: But I know where it is. Can I come up into
+the cavern, and you said there was rock
+
+outcropping that I can stand on? Can I get this
+shit off of me, the oil off of me, or am I stuck
+
+as an ethereal form?
+
+MATT: This is going to be an interesting
+question.
+
+TRAVIS: It's like LSD, isn't it? It'll take eight
+hours to go away.
+
+(laughter)
+
+MATT: How long does it last on the oil?
+
+LIAM: I lost the paper, but I'll look it up.
+
+MATT: I feel like it lasts for an hour. Let me
+double check.
+
+LIAM: Yeah, I think that's what it is.
+
+LAURA: It lasts--
+
+LIAM: One hour.
+
+SAM: Shit. (laughs)
+
+LIAM: We've got to bail on it and come back for it
+later, if at all.
+
+LAURA: No, not necessarily.
+
+MATT: Let's see.
+
+LAURA: I have the stone.
+
+LIAM: It's ethereal.
+
+TALIESIN: That's cool.
+
+LAURA: This could work.
+
+MARISHA: It could still work.
+
+LAURA: You guys are in the mansion.
+
+MARISHA: We're cool.
+
+LAURA: Yeah, we're good. I don't know if there's
+anything wrong, so you keep tunneling down and
+
+I'll wait.
+
+MATT: All right, make another check.
+
+MARISHA: Investigation?
+
+MATT: Yep.
+
+LAURA: Come on.
+
+MARISHA: At disadvantage?
+
+MATT: Yep.
+
+MARISHA: Oh, that's better! 13.
+
+MATT: 13? Okay. You begin to eventually find a
+tunnel that appears to be completely packed with
+
+collapsed loose rock and earth. It's been long
+collapsed.
+
+MARISHA: It's heading downwards?
+
+MATT: Seems to be at an angle, yeah.
+
+MARISHA: All right, I'll keep being like, this
+seems like a path of least resistance. I'll glide
+
+through that for a bit.
+
+MATT: Takes you a little bit. Eventually, your
+spell dissipates.
+
+LAURA: It's been an hour?
+
+MATT: Well, no. The spell lasts for up to ten
+minutes.
+
+LAURA: Oh, the Locate Object, right.
+
+MATT: Vax, what have you been doing?
+
+LIAM: I'm paralyzed; I don't know what to do, so
+I'm hiding, not doing anything. But how far away
+
+have we traveled from the building we started at
+with the mansion in it?
+
+MATT: How far have you traveled from the building?
+You're about 120 feet, maybe?
+
+LIAM: That's fine.
+
+MATT: As you're waiting there paralyzed, the voice
+creeps in once again. "But where are all your
+
+"friends? Why are you alone?"
+
+LIAM: I don't say shit.
+
+MATT: (chuckles) You eventually break through the
+edge and come into the same small cavern that she
+
+encountered, and you can see the dark green fluid
+there.
+
+LAURA: Keyleth!
+
+MARISHA: Vex?
+
+LAURA: Keyleth! I'm right here! Keyleth!
+
+MARISHA: Vex?
+
+LAURA: Keyleth! Over here! I'm over here!
+
+MARISHA: Vex?
+
+LAURA: Yes!
+
+MARISHA: Vex?
+
+LAURA: Yeah!
+
+MATT: Nothing.
+
+LAURA: (laughing) How long has it been?
+
+MARISHA: Can you throw a rock or something?
+
+LAURA: I can't do shit! I can't interact with
+anything! I'm just fucking standing here! 15
+
+minutes. This is the best.
+
+MARISHA: It's been 15 minutes?
+
+MATT: Since she took the oil, yeah.
+
+TALIESIN: So you found a cavern.
+
+MARISHA: I found a cavern.
+
+LAURA: I described where it was to you, so I
+described that it was murky water. Muck is what I
+
+described to you. It's surrounded by silt, is what
+it felt like.
+
+MATT: Okay. So what do you do, Keyleth?
+
+SAM: We need Whoopi Goldberg.
+
+TALIESIN: Don't we always.
+
+SAM: "Molly, you in danger, girl."
+
+LAURA: Keyleth, it's right here! It's right here!
+It might be poisonous water; I'm not sure what it
+
+is. Can you hear me? It's right here.
+
+MARISHA: I'm going to try to investigate this
+cavern, I guess, as much as I can. Am I still at
+
+disadvantage now that I'm in a cavern? That's
+cool. That's better. God fucking hell.
+
+TALIESIN: That's a terrible roll. I'm so sorry.
+
+MARISHA: Nine.
+
+MATT: It looks like a cavern, filled partially
+with fluid.
+
+MARISHA: I come over and I say: Vax, where is your
+sister?
+
+LIAM: She is on another plane. She's in the
+Ethereal Plane. We did the oil thing. We didn't
+
+think it through.
+
+MARISHA: What do you mean we didn't think it
+through?
+
+LIAM: Vecna's whispering in my ear. By the way,
+where is he?
+
+MATT: Still on Entropis.
+
+LIAM: Still in his spot?
+
+MARISHA: So she's not with you?
+
+LIAM: No, she slipped down into the ground. She's
+probably near you somewhere?
+
+MARISHA: What? Vex?!
+
+LIAM: We lubed her up in ethereal oil, and she
+went down your direction.
+
+LAURA: Vecna can probably hear him.
+
+MATT: Vax. You begin to hear loud wings flapping
+louder and louder outside and above, a different
+
+sound than the wings of a gloomstalker.
+
+LIAM: Keyleth, you know where to go. I have to
+run. And I click the Boots of Haste and I start
+
+bolting towards the mansion.
+
+MARISHA: I'm not going to leave without your
+sister! Bye.
+
+MATT: So are you moving stealthily or are you
+bolting?
+
+LIAM: I'm going to stealth.
+
+SAM: And here's cucumber salad, everyone.
+
+TRAVIS: Why is it always green?
+
+TALIESIN: Is it considered a salad if it's mostly
+cucumber in there?
+
+SAM: There's some dill.
+
+TALIESIN: How is this different than a sliced
+pickle?
+
+MARISHA: I really like dill.
+
+TALIESIN: You're in a cavern. You can't have any
+dill.
+
+MARISHA: I'm speaking as myself right now. Marisha
+really likes dill.
+
+TALIESIN: What does Keyleth think of dill? We
+don't know, do we?! We'll never know.
+
+MATT: All right. Vax.
+
+LIAM: Sorry. I'm freaked out. 35. Am I still Pass
+Without a Traced at this point? 35.
+
+TRAVIS: He's an astronaut without a ship.
+
+TALIESIN: God fucking damn it.
+
+MATT: Okay. As you're stealthing, moving along,
+you can glance over or keep focusing forward.
+
+LIAM: No, I'm going to keep going.
+
+MATT: All right, you keep going. You move, move.
+You can hear the wings; you can hear this horrible
+
+raspy, sounds like a whetstone being slid across
+steel, slowed down with bass. It's this (croaks).
+
+LIAM: As I'm probably getting farther away, I say:
+Kiki, stay underground, please. And keep going.
+
+MATT: Okay. Eventually, you find your way back to
+the household, seemingly not directly followed,
+
+but you hear the wings are circling, more
+localized to where this house is. Keyleth, what
+
+are you doing?
+
+MARISHA: I'm in a cavern alone?
+
+MATT: Yeah.
+
+SAM: "That's my turn. "
+
+(laughter)
+
+MARISHA: Vex! Vex, give me a sign? Vex! Throw a
+pebble. If you can hear me, throw a pebble!
+
+LAURA: I sit down on the ground Indian-style.
+
+MARISHA: Okay. I'm also working this out as me and
+Keyleth. Vax told me: stay underground; made a bad
+
+call; sister's underground near me; I know where
+to go. He thinks I know where to go. I go over to
+
+the muck, the greenish liquid, and throw a rock
+in. What happens?
+
+MATT: It's a little syrupy, but it definitely
+splashes.
+
+MARISHA: Does it look like acid? Does it look like
+what we're used to with acid?
+
+MATT: It looks brown, green, sludgy. It doesn't
+look like the typical acid you've encountered, but
+
+it looks like a liquid.
+
+MARISHA: I just dip in my toe in the cold water.
+Just dip my toe in.
+
+MATT: You take two points of acid damage. It is a
+caustic liquid.
+
+MARISHA: It's acid.
+
+LAURA: It's acid.
+
+MARISHA: It's acid. No one can hear me, but I'm
+confirming it's acid.
+
+LAURA: I can hear you. It is definitely acid.
+
+MARISHA: I feel so alone.
+
+LIAM: I've stepped in the door, by the way, of the
+mansion.
+
+MARISHA: Two points of acid damage?
+
+SAM: How's it going outside?
+
+LIAM: Not well. Not very well. It's fucked. He
+knows we're here. He doesn't know where you are or
+
+where I am right now, but he knows that we're
+here.
+
+SAM: He knows where you are?
+
+LIAM: No, not anymore.
+
+SAM: Did he know where you were?
+
+LIAM: He did.
+
+SAM: And did he know that you came over here?
+
+LIAM: Probably.
+
+SAM: So he knows where we are, so we have to leave
+now.
+
+TALIESIN: Well, we're at least relatively safe
+here for a moment until they figure out a way to
+
+find us and then get rid of us.
+
+SAM: Yep. But then we have to leave or be ready to
+leave at a moment's notice. Or we should maybe
+
+leave right now.
+
+LIAM: No, we wait a little bit. I think that they
+can get back.
+
+SAM: And then what? Then we all have to leave.
+
+MARISHA: I go deeper.
+
+MATT: Okay. So you dive into the liquid?
+
+MARISHA: Not into the liquid! Just through the
+stone, going deeper.
+
+MATT: Okay. You coast along the outside and you
+can sense that you're traveling on the outskirts
+
+of this descending tunnel where the acidic liquid
+is encased, and eventually it rounds out.
+
+MARISHA: I do another sword check.
+
+MATT: Make an investigation check.
+
+MARISHA: Am I at disadvantage again?
+
+MATT: No, because you know what you're looking
+for.
+
+MARISHA: That's good! Don't fuck me, Gil! 16.
+
+MATT: Okay. You reach out and you grab forth, and
+you feel a few things that you grab and as you
+
+sense them, you poke your head through, which in
+the process of doing, you do suffer six points of
+
+acid damage, and your hands find bones. And
+glancing through a little bit into the space, you
+
+can see the entire bottom of this basin is bones.
+Probably a good four to five feet of stacked
+
+bones. This has been used as a means of disposing
+of unwanted things.
+
+MARISHA: Disposing people. I keep looking. I can't
+leave without a Vex.
+
+LAURA: I'm fucking sitting on the ground; there's
+nothing else I can do.
+
+MARISHA: Eight.
+
+MATT: Four points of acid damage, and you're
+finding nothing, but rummaging through.
+
+TALIESIN: Keep rummaging.
+
+MARISHA: I'm desperate. I keep going. Can I go
+around and deeper? Can I follow this path a little bit?
+
+MATT: Yeah, you can. On the bottom of it or
+another side? What do you want to do?
+
+MARISHA: I'm going to try and go under it. I'm
+going to think, if there's a pit of bodies that
+
+have been thrown away, that maybe a sword is
+somewhere buried under this pit of bodies.
+
+MATT: Go for it. Make another investigation
+check.
+
+MARISHA: Fucking hell. This is so nerve-wracking.
+Six.
+
+MATT: You take ten points of acid damage.
+
+TRAVIS: You could just wait it out.
+
+MARISHA: Yeah, but Keyleth.
+
+MATT: Make another check if you want to.
+
+MARISHA: Every few minutes, I go: Vex? I'm
+constantly, Vex? Vex? Vax? Vex? Still looking
+
+under this pit of people. 12.
+
+MATT: You suffer eight points of acid damage, and you
+reach through and your hand finally hits something
+
+hard and cold within the silt. It's stuck in the
+muck, but there's something there that is not like
+
+the rest of the bone. It feels metal.
+
+MARISHA: Okay. I try and earth clear.
+
+SAM: Earth clear? (laughs)
+
+MARISHA: Earth clear! Clear eyes!
+
+MATT: Make a strength check.
+
+SAM: Everclear.
+
+TALIESIN: Wow, it's been a long time.
+
+MARISHA: This is stressful.
+
+MARISHA: Oh! Natural 18. 23? Wait, no. 24!
+
+MATT: Okay. You take seven points of acid damage.
+
+MARISHA: Seven?
+
+MATT: As you reach out and you grab, and you can
+now glance through and see this is the hilt of a
+
+blade, and it's stuck in the muck. You yank it
+free; you pull it out of the muck, and it's free
+
+at this point. You're surrounded by skeletal
+bones, and you feel the fingers pulling at you and
+
+tearing, and you look around you as a wall of
+these corpses, these broken corpses, all begin to
+
+grasp at you--
+
+MARISHA: I go up to the cavern! I'm out! I'm
+bailing with this.
+
+MATT: You can't pull this into the rock with you.
+
+TRAVIS: We discussed this.
+
+MATT: It's metal; it doesn't come into the rock.
+It doesn't earthglide with you. So you have to
+
+glide up with your hand out.
+
+MARISHA: Okay, yeah. I'm beating as I go upwards.
+
+MATT: Make another strength check to see if you
+can break the grapple of the undead hands that are
+
+now grabbing and trying to hold you there at the
+bottom of the basin.
+
+LAURA: Can I see any of this happening?
+
+MARISHA: Okay, 21.
+
+MATT: No. 21? You do manage to break free. You
+suffer another five points of acid damage and
+
+begin to earthglide your way up. You get about
+halfway up and suffer another nine points of acid
+
+damage.
+
+MARISHA: 84, 70, 76. Okay. Yeah, still going.
+
+MATT: And you eventually emerge from the top as
+you suffer another seven points of acid damage and
+
+manage to earthglide. You watch as all of a sudden
+the water separates and bursts, and you watch as
+
+her earth elemental form emerges, its hand coming
+up through the water, clutching a blackened blade.
+
+MARISHA: Vex!
+
+LAURA: Okay. Shit. Trinket's still in my necklace.
+I wonder if I bamf him out-- he wasn't covered in
+
+oil-- if he'd be in the regular plane or if he
+would be in the Ethereal Plane.
+
+TALIESIN: You may never see your bear-- nope.
+Playing devil's advocate. Cosmic bear.
+
+MATT: (laughing) Cosmic bear?
+
+MARISHA: Does he become a constellation after
+that?
+
+TALIESIN: He'll look like Eternity from Marvel
+Comics. He'll be this star bear--
+
+LAURA: Would he be an ethereal bear, or would be
+bamf out in the regular plane?
+
+LIAM: That's a big risk.
+
+MARISHA: How much time has it been?
+
+MATT: It's been about 30 minutes.
+
+LAURA: I don't know how this shit works. I'm going
+to bamf Trinket out of the necklace.
+
+TALIESIN: What?!
+
+LAURA: I don't know how this fucking shit works.
+I'm going to try to bamf Trinket out of the
+
+necklace.
+
+MARISHA: Come on, Trinket. Come on. Keyleth sees
+Trinket. Keyleth sees Trinket!
+
+SAM: Best episode ever.
+
+MARISHA: Come on, damn it!
+
+MATT: As the cold sense of worry comes over you,
+you clutch the necklace and there's a flash as you
+
+watch Trinket's form burst from the necklace, gray
+and shaded. And you see as Trinket pops out of
+
+nowhere. By the way, between the two of you, you
+guys are pretty crammed into here to not be in the
+
+acid right now. You're both like (grunts).
+(confused bear noises)
+
+MARISHA: (bear noises) Where's Vex? Vex?
+
+MATT: He's sniffing around.
+
+LAURA: I was basically trying to let her know
+where I was.
+
+MARISHA: I saw him appear suddenly, right? Okay.
+Vex? Okay, I pet Trinket for an indeterminate
+
+amount of time. I wait.
+
+LAURA: Can you chill? Right here. Because this is
+where I am. Can we wait it out?
+
+MATT: You can. How long can you hold your form?
+
+MARISHA: Half my level.
+
+MATT: Yeah, so you're here for a while. Okay. So
+you guys sit and wait, carefully thinking,
+
+contemplating. Over the next 30 minutes or so,
+eventually you begin to watch as Vex'ahlia's form
+
+begins to emerge once more into this plane.
+
+SAM: She's back!
+
+LAURA: This was the stupidest idea we've ever--
+
+MARISHA and LAURA: (sobbing in relief)
+
+LAURA: Trinket, get back in the necklace.
+
+MATT: Trinket is licking your face intensely.
+
+LAURA: You're such a good bear. Okay.
+
+MARISHA: I want to drop my form. Is this it?
+
+LAURA: That's it. But here's the thing, should you
+glide back to the mansion, I stone back to the
+
+mansion with the sword? Okay, give me the sword.
+
+MARISHA: Okay. I give her the sword. I have the
+sword. Is it the sword? It is the sword.
+
+MATT: It's what you saw, yeah.
+
+(cheering)
+
+MARISHA and LAURA: Okay!
+
+MARISHA: I know where the mansion is, right?
+Vaguely?
+
+LAURA: You can glide back to the mansion.
+
+MATT: It might take you a little while, but you
+can find your way back.
+
+MARISHA: Okay, go? Okay, I'll see you soon.
+
+LAURA: Okay. Good luck. And I'm going to think of
+the stone. I already put Trinket back in the
+
+necklace.
+
+MATT: Okay. You concentrate for a minute as the
+stone's energy fills you. You flash and all of a
+
+sudden you're standing over the other stone--
+
+MARISHA: And before she leaves, I say: Do a little
+tap dance, so I know, on the outside where the
+
+mansion is. I know where the mansion is, though.
+
+MATT: Yeah. You know where it is.
+
+MARISHA: Okay, that's fine. Okay.
+
+LAURA: Okay. All right, I pick up the stones and
+go in the mansion.
+
+MATT: Okay, you grab the stones and go in the
+mansion.
+
+MARISHA: I doggie-paddle back.
+
+MATT: As you make your way slowly in that
+direction, you hear a little voice whisper in your
+
+ear. "It's not going to help you."
+
+(laughter)
+
+LAURA: Oh, he would've--
+
+MATT: Eventually, you slowly make your way to the
+building, and as you emerge from the inside, you
+
+can hear the loud flapping of wings nearby,
+jumping from rooftop to rooftop.
+
+MARISHA: I go in the mansion as fast as I can.
+
+MATT: All right. You dart into the mansion. You
+guys watch as Keyleth's elemental form bursts into
+
+the mansion space with the rest of you.
+
+LIAM: Oh my god.
+
+I run forward and hug the big fucking stone
+giant like a cat.
+
+LAURA: This was really stupid. We were so dumb.
+This was so dumb.
+
+SAM: Is she back? Do you have the sword?
+
+LAURA: I have the sword, yeah.
+
+MARISHA: I drop form.
+
+LAURA: There you go, Grog.
+
+LIAM: We are blown.
+
+SAM: We have to move. The safehouse has been
+compromised.
+
+LAURA: Okay, so here's the thing. He knows we're
+here.
+
+LIAM: He can't see us anymore, but he knows--
+
+LAURA: He knows that you two are here. He doesn't
+know the rest of us are.
+
+MARISHA: He knows we're in this vicinity. I think
+once we get into the mansion, he doesn't know an
+
+exact place, so as long as they don't figure out
+the mansion?
+
+SAM: He doesn't know we're in here, but he knows
+where the mansion is and he will come to dispel
+
+it. So we have to get out of this mansion and
+either make another mansion somewhere else or go
+
+to somewhere else from inside this mansion right
+now.
+
+LAURA: We can Plane Shift.
+
+MARISHA: I can Plane Shift us.
+
+LAURA: Will you be able to get us back here,
+though?
+
+MARISHA: If we rest.
+
+SAM: To this exact spot?
+
+LAURA: Or to Thar Amphala?
+
+MARISHA: If we leave from a mansion, I can
+teleport us back to a mansion with some pretty
+
+accurate-- it'd be the difference between the spa
+or the kitchen. But if it's gone, then it's gone.
+
+But then I could still bamf us back to Thar
+Amphala or whatever other city that we came out of.
+
+TALIESIN: Worst case scenario, we can leave the
+gate stone outside.
+
+MATT: There's a moment with a faint, whining,
+high-pitched sound and this sudden thrust. There's
+
+a sudden thrust of vacuum as the mansion around
+you dissipates and you're all plopped onto the
+
+ground outside of the cupboard where across,
+crawled upward partway into the building, you see
+
+a skeletal dragon standing there, its claws jammed
+into the inside, its wings open, and you see
+
+standing on the back of the dragon, finger
+forward--
+
+MARISHA: Plane Shift!
+
+MATT: I know. Finger forward, finishing the Dispel
+Magic she had cast, Delilah Briarwood, with behind
+
+her, darkened armor, arms around: Sylas, grinning.
+As she goes, "Oh. Glad you could make it.
+
+"No, wait!" As soon as you gather, she's going to
+attempt to Counterspell.
+
+LAURA: Oh god.
+
+ASHLEY: No, don't do it!
+
+LAURA: Don't do it!
+
+MATT: (chuckles) So Plane Shift is 7th-level,
+right?
+
+MARISHA: No, but I am doing it as an 8th-level
+because I'm out-- I'm doing it as an 8th-level.
+
+MATT: Okay, good to know. So where are you Plane
+Shifting to?
+
+MARISHA: Feywild.
+
+MATT: Feywild, okay.
+
+MARISHA: Do we have a city in the Feywild that we
+know of that's safe-ish?
+
+LAURA: Go to the pond.
+
+MATT: That's a natural eight.
+
+MARISHA: The pond! Fuck you! The pond!
+
+MATT: As she attempts to counter the spell, even
+at a higher level, it fizzles, unable to break
+
+through. And all of you, as you watch her hand
+extend and Sylas about to dismount--
+
+TRAVIS: Say it.
+
+MATT: (whoosh)
+
+(yelling)
+
+MATT: You find yourselves pulled out of Thar
+Amphala.
+
+(yelling)
+
+TALIESIN: Fuck the Briarwoods!
+
+MARISHA: Why did we do this?!
+
+LAURA: That sword better be the most amazing
+sword.
+
+TALIESIN: We're practically gods. Let's be fair.
+We're so fucked.
+
+TRAVIS: Oh god. Jesus.
+
+MATT: You guys all plop down, your feet hitting
+the somewhat wet, grassy ground of the swamp where
+
+you-- You said the pools where you first emerged
+last time?
+
+LAURA: Yeah, where the water elemental is.
+
+MATT: Yeah. Where the nymph was. You guys all land
+in these pools. Looking around, you can see the
+
+darkened wood over you. The sound of crickets and
+nearby insects fill the air, and for the first
+
+time in a long time, though your blood pumping
+would not tell you, a stillness and a peace in the
+
+vicinity around you.
+
+TALIESIN: Oh god, we should turn off our cell
+phones more often. This feels really good. Oh god.
+
+LIAM: Really cool.
+
+TRAVIS: Immediate perception check around us.
+
+MATT: Make a perception check.
+
+TRAVIS: Oh, 17!
+
+SAM: Music just got supes loud.
+
+TRAVIS: 17.
+
+MATT: All right. Glance about your vicinity. You
+see nothing that has noticed your presence or
+
+seems to be of interest to you at the moment.
+
+TRAVIS: You all figure out what we're doing next.
+And I put the bloodaxe away and I start
+
+concentrating on this giant greatsword.
+
+LAURA: Are we fucked?
+
+MARISHA: Did we leave behind a gate stone? Did
+someone say we were leaving one?
+
+LAURA: No, I took all the gate stones.
+
+TALIESIN: We thought about leaving one as a marker
+for us.
+
+LAURA: Yeah, but it doesn't go through planes.
+
+MATT: As you concentrate on the cold metal of the
+weapon, a different but still familiar sense
+
+creeps in.
+
+MARISHA: Oh no.
+
+MATT: "I get the sense this isn't the first
+time."
+
+SAM: Wait. What?
+
+TRAVIS: Well. You always remember your first.
+
+MATT: "I also sense we have a similar goal."
+
+TRAVIS: Could you be a little bit more specific?
+
+(laughter)
+
+LIAM: We all see this, right? He's not snuck off,
+right? I'm going to come and sit next to him and
+
+watch. What's up, buddy? Just keep doing your
+thing. I'm ten feet away. I'm not breathing down
+
+your neck. You all right?
+
+TRAVIS: Are you hearing anything? Aces.
+
+(laughter)
+
+MATT: "The lich must die."
+
+TRAVIS: The witch?
+
+MATT: "The lich."
+
+TRAVIS: Oh, the lich. Yeah. Are you talking about
+Vecna?
+
+MATT: "Yes."
+
+(laughter)
+
+TRAVIS: Then yes, we do share similar goals. I
+don't know if you can hear me very well. Your
+
+voice is barely there.
+
+MATT: "Oh no." So are you inspecting it, or are
+you attuning to it?
+
+TRAVIS: I'm attuning! I'm locking it in.
+
+LIAM: I'm going to assume I have deduced somewhat
+what is going on here.
+
+MATT: Yeah, he's talking to his weapon. You have
+all seen this before, and it's as disconcerting
+
+now as it was last time.
+
+TRAVIS: Hey. Hi.
+
+LIAM: Hey, man, you do you.
+
+TRAVIS: I'm not even trying to hide it this time.
+
+LAURA: You can definitely hear the sword?
+
+TRAVIS: Yeah. Anybody else?
+
+ALL: No.
+
+TRAVIS: What?
+
+ASHLEY: What's it saying?
+
+TRAVIS: Oh! It was saying that we have similar
+goals and that the witch must die. The lich is
+
+Vecna. Lich. The lich. It's very emphatic about
+the lich, meaning Vecna, and it's going to die.
+
+MATT: "His secrets, his followers, all of it must
+topple. You will be my instrument."
+
+TRAVIS: Apparently, I'm going to be an instrument.
+He's going to play me to topple the followers and
+
+his secrets.
+
+ASHLEY: What does it want from you in return?
+
+TRAVIS: That's a good question, Pike! (whispering)
+What do you require from me in return?
+
+MATT: "Just wield me. Spill blood for me. Bring me
+to the Undying King and cut his throat with my
+
+"blade. That's all I ask. That's all I need."
+
+TRAVIS: He really doesn't ask much. Just average
+run-of-the-mill fight stuff. Be true to thy
+
+friend. This one is nothing to worry about.
+
+ASHLEY: Okay.
+
+MATT: It's still currently embedded in its
+scabbard.
+
+TRAVIS: Oh. Reception problems. Hold on.
+
+LAURA: I like that you grab it by the blade.
+
+SAM: Weapons training.
+
+TRAVIS: Yeah, I'm proficient.
+
+MATT: You hear the sword go: "It's been so long."
+
+LIAM: I'm going to Bless Grog right now. It's all
+over you, buddy.
+
+MATT: Make a charisma saving throw.
+
+LIAM: Plus two from me, plus 1d4 from Bless. Plus
+two, plus 1d4.
+
+TRAVIS: Yeah, but minus two for my fucking curse.
+
+LAURA: So it's balanced.
+
+TRAVIS: 12.
+
+MATT: 12? Okay.
+
+TRAVIS: It's great.
+
+MATT: Oh man.
+
+LAURA: Oh no! Did we just lose Grog?
+
+MATT: We'll say, for the purposes of this, that
+the attunement is successful.
+
+TALIESIN: That is the most frightening thing--
+
+MARISHA: Does it have to be, though?
+
+SAM: He's getting dice. A lot of dice.
+
+MATT: All right.
+
+SAM: A lot of dice.
+
+MATT: You suffer 38 points of psychic damage. Your
+vision goes cloudy. You guys watch as his skin
+
+color goes from his general stone gray to a more
+pale white. You watch as his physical body becomes
+
+more gaunt. The jowls sink in slightly, and his
+eyes turn a little red around the iris. Your
+
+vision goes a bit dark, and the sword goes:
+"Blood. I need blood. Give me blood. I'm so
+
+"hungry." You find yourself standing up with the
+blade out in front of you.
+
+TRAVIS: Guys, I don't feel so great.
+
+MATT: Make two attacks against Vax.
+
+TRAVIS: That's who I was going to attack.
+
+SAM: Vax or Vex?
+
+MATT: Vax. He's the closest one.
+
+TRAVIS: I didn't say reckless. Would he make them
+reckless?
+
+MATT: Not at the moment, no. He's not familiar
+with your capabilities yet.
+
+TRAVIS: 21.
+
+LIAM: Yes.
+
+MATT: It's a longsword, so roll 1d8.
+
+TRAVIS: 1d8. Not raging.
+
+LIAM: Wait, I'll use my last luck of the day to
+make him reroll that.
+
+TRAVIS: The damage or to hit?
+
+LIAM: To hit.
+
+TRAVIS: It's worse. 18.
+
+LIAM: Doesn't hit.
+
+MATT: Second strike.
+
+TRAVIS: That's way worse. That's a 16.
+
+MATT: You dodge both blows as Grog goes and swings
+at you twice with the longsword.
+
+LIAM: I disengage and jump back 15 feet.
+
+LAURA: Grog! What are you doing?
+
+TALIESIN: Give him some distance.
+
+TRAVIS: I'm going to be totally full front
+here. The sword needs blood.
+
+LIAM: We can get that for you, just not from
+inside us.
+
+TRAVIS: I feel like it's trying to take it from
+me.
+
+MATT: Who's closer to Grog right now, between the
+two of you?
+
+TRAVIS: You jumped in front of him?
+
+MATT: Two attacks on Vex, please.
+
+LAURA: (shouting) Wait, Kas! Is this Kas? Are you
+Kas? Kas, this is counterproductive. This is
+
+counterproductive! We're all going after Vecna!
+This is so stupid! You are ruining your chance of
+
+killing Vecna by attacking us.
+
+MATT: What was it?
+
+TRAVIS: 27.
+
+MATT: Roll 1d8. Add your strength modifier.
+
+TRAVIS: Ten.
+
+MATT: So you take ten points of slashing damage.
+As the blade arcs across the front of your sister,
+
+you see a spray of blood. Make a second attack.
+
+TRAVIS: That hits.
+
+MATT: Roll another d8.
+
+TRAVIS: Oh, that's only a nine.
+
+MATT: Nine damage. As she reels back from the
+first strike, the second one cuts across the
+
+shoulder and clavicle area, down the arm. As
+another spray of blood hits, you pull back and
+
+watch as the blade is now currently drenched in
+Vex's blood.
+
+TRAVIS: It's actually ten because I had to reroll
+ones and twos.
+
+LAURA: You're a fucking dick.
+
+MATT: There you go. As the second attack comes to
+a halt, you guys are watching him carve into Vex.
+
+The blood on the edge of the blade seeps into it,
+and your tunnel vision subsides, and you take a
+
+breath. You hear this audible (sigh) from the
+blade, as you have control of yourself once more.
+
+TRAVIS: Déja vu.
+
+LAURA: Your sword is a dick. Tell him he's a
+dick.
+
+TRAVIS: Now, listen. This is an ally. You're all
+right, yeah? You're okay.
+
+LAURA: I punch Grog across face.
+
+MATT: Okay, make an attack. Add your strength
+modifier.
+
+LAURA: With my strength modifier? 14.
+
+MATT: So she (crack) hits you in the jaw.
+
+TRAVIS: Is it minus?
+
+LAURA: It's minus.
+
+MATT: It goes, (quiet punch).
+
+LAURA: Act like it hurt, you fuck!
+
+TRAVIS: (deadpan) Ow.
+
+(laughter)
+
+LIAM: Why are you not attacking us anymore?
+
+(shouting)
+
+TRAVIS: What?! This is the biggest card ever!
+
+LIAM: That's a novel!
+
+TALIESIN: That's a fucking dice tray. That's not a
+card!
+
+MARISHA: That is the biggest blackest sword!
+
+(laughter)
+
+LAURA: Oh, the sword is a dick! That's funny.
+
+MATT: It all came full circle. It's the episode
+title there. The sword is a dick.
+
+SAM: Swords and dicks.
+
+TRAVIS: Oh shit.
+
+LAURA: Good? Bad?
+
+TRAVIS: Good. Totally good. As with all good
+things, comes with a bit of risk.
+
+TALIESIN: What are we if not risk-conscious?
+
+TRAVIS: Yeah, all the time. Even Pike would say
+this is worth it.
+
+LAURA: Pike, do you think it's worth it?
+
+ASHLEY: Desperate times come for desperate
+measures. Call for desperate measures, rather.
+
+Here's the thing: if it comes down to it, it gets
+bad, I can pull you out of there, hopefully. It's
+
+not off to a good start. You slashed up Vex.
+
+LIAM: Big man, why did you stop attacking after
+you cut my sister?
+
+TRAVIS: I got the feeling it needs to be fed blood
+often.
+
+MARISHA: Look, it doesn't have any blood on it
+anymore. It sucked it all in.
+
+TRAVIS: Funny thing, that's what Craven Edge used
+to do, as well. Oh, what do I call you?
+
+MATT: There's a long pause before it thinks. "I've
+not taken a name but the one that's been given.
+
+"But in honor of my last master, just call me
+Kas."
+
+TRAVIS: Vox Machina, meet Kas. Kas, try not to
+hurt them.
+
+MATT: "I make no promises."
+
+TRAVIS: He makes no promises. He's very
+forthcoming. This is really nice compared to the
+
+last guy.
+
+MARISHA: Hi, Kas!
+
+TRAVIS: He said hi. He's like: I like your
+freckles, Keyleth.
+
+MARISHA: Aw, thanks, Kas.
+
+MATT: "Take me to the lich."
+
+TRAVIS: Okay, can I put you back in your
+scabbard?
+
+MATT: "Are you taking the scabbard to the Undying
+King's innards?"
+
+TRAVIS: Oh yeah. We're going to rock that body
+real hard.
+
+MATT: "Very well."
+
+TRAVIS: Holy shit. I mean, there's motivated
+people in the world, and then there's this totally
+
+rocking motherfucker. He's of a single purpose.
+It's incredible.
+
+SAM: Just wants to kill Vecna?
+
+TRAVIS: Just wants to fuck him up, Swiss cheese
+style. And his whole family.
+
+SAM: What else is he into?
+
+LAURA: He's into slicing us up.
+
+LIAM: Blood. He wants blood?
+
+TRAVIS: It's good that you have me here, Vax. My
+experience with these sort of weapons. They are
+
+fueled by various-- I need a big word-- various
+fuels, and I feel like he needs blood to be good.
+
+LIAM: Could you do me a favor, then? Do you think,
+instead of attacking my twin sister next time--
+
+and I take Whisper and I go-- can I feed him for
+you?
+
+TRAVIS: Yeah.
+
+MATT: You take 1d4 points of damage.
+
+TRAVIS: That was my plan, but we could do it right
+now. Just to be careful. You want to drip some on
+
+the blade and see if he likes the flavor?
+
+LIAM: I've already started. (dripping)
+
+MATT: It seeps into the dark, almost pitch-black
+metal. You hear the inhale of the blade as it
+
+takes in the blood and seems to devour it.
+
+TRAVIS: Guess he digs the other white meat.
+
+MARISHA: Does he ever get full?
+
+TRAVIS: No, I've asked that before, man. You don't
+want to go that way.
+
+LAURA: It went bad before.
+
+TRAVIS: Yeah. It went all anime.
+
+LIAM: Goddamn it, Travis. Then you and me have an
+agreement here, rather than wait until he comes
+
+knocking. In the meantime, could I feed him once
+an hour or so?
+
+TRAVIS: Yeah. In fact, any time I take him out of
+the scabbard, why don't you hang real close. I
+
+might have to plunge him into your thigh or
+something.
+
+LIAM: That seems extreme.
+
+TRAVIS: I don't know how hungry he is.
+
+MATT: Just a note, this conversation is strange,
+since you're staring at Grog and his eyes are
+
+burning a little red. The visual change is still
+that way.
+
+LAURA: Are you always like that now?
+
+TRAVIS: Do I need some eye drops?
+
+LAURA: Grog, you need to eat something. You look
+really gaunt.
+
+TALIESIN: Let's get him a steak or something.
+
+SAM: You look like a methhead.
+
+MATT: He's still muscular. All the skin is
+pulled taut against the bone.
+
+LAURA: I'm really glad that we're here in the
+Feywild, and it's great.
+
+LIAM: Vasselheim is getting fucked royally now, or
+soon.
+
+LAURA: What are we doing?
+
+SAM: I want to see one of those before-and-after
+meth photos of Grog.
+
+(laughter)
+
+MARISHA: This is Grog. This is Grog on Sword of
+Kas.
+
+TALIESIN: Sword of Kas, not even once.
+
+(laughter)
+
+LIAM: The straightest edge.
+
+MARISHA: Just say no.
+
+LAURA: (singing) D.A.R.E to keep a Grog off Kas!
+
+TALIESIN: Wow, way to bring that back.
+
+MATT: So what's the plan?
+
+SAM: What is the plan? We're in the Feywild, where
+there's werewolves and pixies.
+
+TALIESIN: And your father.
+
+LAURA: No, not anymore.
+
+MARISHA: I've been thinking about this, just a
+little. The Feywild, as you know, when we've left
+
+before and when we go back, sometimes time gets a
+little wibbly-wobbly.
+
+SAM: I don't know that. I aged but didn't know
+why.
+
+MATT: That's true, you didn't.
+
+LAURA: Time gets a little wonky here.
+
+MARISHA: There were some things going on with you
+at the time.
+
+TALIESIN: Can we pinpoint when we get back?
+
+LAURA: Is there a way to control it?
+
+MARISHA: No.
+
+TALIESIN: I was about to say, you've been thinking
+about it, and the answer is no.
+
+MARISHA: We can't, but do you remember
+our friend Garmelie-slash-Artagan?
+
+SAM: He was not our friend. He was an asshole.
+
+LAURA: No, he was great!
+
+MARISHA: He was cool.
+
+SAM: Wasn't he the guy who sketched us and was
+creepy?
+
+LAURA: Yeah, he was funny, and he also helped us,
+and he also enjoyed us because we were weird.
+
+LIAM: Basically, it also describes you, so I feel
+like you should be understanding.
+
+SAM: Fair point. I lost my house today, all right? 
+So go easy.
+
+LAURA: You can get it later, right?
+
+SAM: It's insured.
+
+LAURA: Okay.
+
+TALIESIN: We can also maybe have a second to
+breathe and have a second to maybe identify that
+
+stone we took.
+
+SAM: We took a stone?
+
+TRAVIS: Yeah, we got this blue crystal.
+
+LAURA: Maybe Artagan can identify it.
+
+TRAVIS: I take out the blue crystal. Is it still
+pulsing?
+
+SAM: Wait, why are we finding this Artagan
+fellow?
+
+MARISHA: Well, he's an archfey. He told us he was
+an archfey. They more or less control this realm,
+
+or at least have strong dominance over it. He
+might be able to help us make sure that we're
+
+going back in minutes as opposed to years.
+
+LAURA: You think he could do that?
+
+SAM: He can control the land? The powers of the
+land?
+
+LAURA: I don't know if he's going to be able to
+control time, though.
+
+TALIESIN: It's entirely possible that we could
+return to where we were with only a few minutes
+
+having passed.
+
+LAURA: It's also possible that we'll return and
+years have gone by and Vecna is already a god.
+
+MARISHA: We have to talk to Artagan.
+
+TALIESIN: Plead our case.
+
+MARISHA: I bet he can help us. I don't know,
+though.
+
+TALIESIN: I don't think it's in anybody's interest
+to have Vecna controlling any of the planes.
+
+LAURA: Oh, that's true. Maybe he'll want to help
+if he can?
+
+TALIESIN: Yes. Perhaps.
+
+LIAM: It's too much of a risk to go back normally
+anyway. We might as well find him.
+
+MARISHA: If he can help us, might still be able to
+take a rest.
+
+TALIESIN: Sleep. And return minutes later.
+
+LAURA: (gasps) I'm going to cry. That would be so
+wonderful.
+
+MARISHA: (whimpering) I need to sleep so bad. I'm
+so tired.
+
+TALIESIN: You definitely have been sleep cranky.
+
+LAURA: (stuttering) It was a thing. I'm so sorry
+that Vecna found us. The ethereal thing was a
+
+backfire.
+
+LIAM: A series of bad decisions.
+
+MARISHA: (whimpering) I felt so alone. Let's not
+split the party, you guys.
+
+TALIESIN: No, never again.
+
+LAURA: How do we get a hold of--
+
+SAM: Garmelie?
+
+ASHLEY: I could send a message.
+
+LAURA: To Garmelie?
+
+LIAM: How do you mean?
+
+ASHLEY: Well, I could use Sending.
+
+TRAVIS: Oh yeah!
+
+ASHLEY: Yeah. And we could write a little
+something and say hello.
+
+SAM: You don't say it, you have to write it down?
+
+ASHLEY: Well, I have it. Let's look at this.
+
+TRAVIS: Yeah, you want to? And spray it with
+perfume?
+
+ASHLEY: Yeah, put a kiss on it.
+
+LIAM: He also might like a naughty doodle.
+
+LAURA: Yeah, draw a little naughty doodle, Pike.
+
+ASHLEY: Do a naughty doodle? Okay.
+
+MATT: Sure, I'll allow it.
+
+SAM: Ashley, will you draw something and show it
+to us on the camera?
+
+ASHLEY: Okay. I can't draw, but all right.
+
+(laughter)
+
+MATT: I'm so excited.
+
+TALIESIN: This made everything worthwhile, right
+here.
+
+LIAM: The New York Yankees? That's terrible.
+
+(laughter)
+
+ASHLEY: Oh my gosh. This is already going bad.
+
+LAURA: Is it boobies? Is it penis?
+
+SAM: I think it's a vag.
+
+TALIESIN: Travis, are you going to be reading that
+weapon for the next week, aren't you?
+
+LAURA: It's a novel.
+
+SAM: Is this thing going to kill you? Can you read
+it?
+
+TALIESIN: Not all of it. That's the rest of the
+show if he reads it.
+
+MARISHA: Can it actually kill Vecna, even though
+Vecna said it won't do us any good?
+
+TRAVIS: It's going to put me a lot closer to doing
+that.
+
+LAURA: To killing Vecna?
+
+MARISHA: Because Vecna was all like, "Oh, you
+can't beat me!"
+
+TRAVIS: The only weapon that does as much shit as
+this does, the closest thing to it is your staff.
+
+Your Vestige. This thing is bonkers.
+
+LAURA: Let me see it!
+
+ASHLEY: Okay.
+
+LAURA: Okay, what did you draw? What did you draw,
+Pike?
+
+ASHLEY: I can't draw, and if only one of the
+amazing artists were here. So okay, it's a penis.
+
+(laughter)
+
+SAM and TALIESIN: "Cum see us--"
+
+MATT and ASHLEY: "--4 a good time."
+
+TALIESIN: "Time" circled.
+
+MATT: "This is Vox Machina, by the way."
+
+(laughter and applause)
+
+LAURA: He's a happy penis! Oh, it's so great!
+
+MARISHA: It looks like a condomed penis.
+
+MATT: It's not too bad. As you suddenly hear a
+voice behind you, Vex, and you turn to look and
+
+Artagan is right there behind you.
+
+SAM: He came that fast?!
+
+MARISHA: Don't tell people that, Artagan.
+
+MATT: "I'll keep it a secret best I can. Best I
+can." He stands there before you, his yellowish-green
+
+attire with the high collar and his wild, orangish
+hair framing his face like a lion's mane. His
+
+pale, elfin, fey complexion. Smiles as he puts the
+hands together. "Well. Show me a good time."
+
+(nervous laughter)
+
+LAURA: Okay.
+
+SAM: I unzip my pants.
+
+(laughter)
+
+MATT: He doesn't flinch.
+
+LAURA: I shimmy.
+
+LIAM: Give me 12 minutes and I'll have 
+this armor off.
+
+TALIESIN: I am legit out of sheer panic going to
+take off all of my clothes and dive straight into
+
+that lake. That little pond? I'm washing. I have
+had a nervous breakdown. I am like, yeah, no,
+
+we're naked into the water.
+
+MATT: "Well, that is considered good manners,
+definitely."
+
+LIAM: 11 minutes from now, I'm going to be joining
+you, Percival.
+
+TALIESIN: I'm in there, yelling into the water
+right now because it's been too much.
+
+MATT: "How have you been? What's going on?"
+
+(yelling and laughter)
+
+LAURA: It's been a little crazy, actually. We were
+hoping that maybe we could seek your aid? Please?
+
+MATT: "Define the request, please."
+
+LAURA: Okay, so you know how time is weird when we
+go back to the other plane of existence?
+
+MATT: "Weird? Time is fun when you go back."
+
+LAURA: Exactly. It's so much fun. We're in dire
+straits over there. The world is about to be taken
+
+over by an asshole that wants to be a god, and
+we're trying to kill him, and we're here now, and
+
+we're hoping that we can hang out here and rest
+and go back and only a few seconds have passed?
+
+Maybe a minute or two?
+
+SAM: Is that something you can control?
+
+MATT: (chuckles) "Are you telling me that you
+would stumble into this space unannounced, summon
+
+"me here under the pretense of a good time, and
+then request me to bend the very essence of time
+
+"passage between my plane and yours?"
+
+MARISHA: We can show you a good time first.
+
+LAURA: We definitely do want to show you a good
+time about it.
+
+LIAM: And what is your idea of a good time?
+Unbutton, unbutton.
+
+TRAVIS: And we certainly don't expect that to be
+accomplished without something given in return. Of
+
+course.
+
+MATT: "Now we're talking. I could help."
+
+LAURA: You can do that?
+
+MATT: "More or less."
+
+SAM: And what would you request?
+
+MATT: "Well... You all dress very differently than
+the last time we met. You're doing well for
+
+"yourselves, then?"
+
+LIAM: It's been a hard day.
+
+LAURA: We have a bakery.
+
+MATT: "That's quaint."
+
+MARISHA: In comparison to the world events--
+
+SAM: I'm pretending to be a mage right now, so.
+
+TRAVIS: We fought of a bunch of ancient dragons.
+We've established order back in our realm.
+
+LIAM: I'm unkillable for a while.
+
+MATT: "That's fun."
+
+LIAM: (high-pitched) Well.
+
+SAM: I'm a crime lord. I can get you really
+good discount furniture.
+
+TALIESIN: Coming back sopping wet and naked I'll
+say: And we've got this weird thing that we're not
+
+entirely sure about.
+
+LAURA: We found this ball of light. Crystal.
+
+MATT: "Tell you what. I'll help you under two
+conditions. One: should you go back and defeat
+
+"this wannabe god thing you speak of and all is
+well and you're heroes and you have all of this
+
+"influence and money and everything's grand, we can
+discuss maybe creating a doorway for me that
+
+"allows passage. I'll come visit and see what
+strangeness your world seems to have whenever I'd like."
+
+MARISHA: I don't know if you'd like it.
+
+MATT: "Oh, I'm sure I can figure out a way."
+
+LIAM: It's real dicey at the moment.
+
+MATT: "But I'm sure if you succeed, that won't be
+a problem, and if you fail, well, then I guess the
+
+"deal's off, anyway."
+
+TRAVIS: Very true.
+
+LAURA: Good point.
+
+MATT: "Second: I wish to strangle you until
+death."
+
+(laughter)
+
+SAM: He's into autoerotic asphyxiation?
+
+TRAVIS: (laughing) Amazing! Oh my god!
+
+LIAM: Wait, Grog. I'm sorry. Come again?
+
+MATT: "I wish to put my hands on your throat until
+you expire. If you say you're unkillable, well,
+
+"that's a new experience entirely."
+
+LIAM: Okay. Okay. Okay.
+
+LAURA: Will you come back? Have we tested this?
+
+TRAVIS: Vex, be quiet.
+
+LIAM: I have one further request on our end. Can
+you send us backward in time?
+
+MATT: "I'm afraid it doesn't work that way, but I
+could give the mere passage of an hour."
+
+SAM: Mere passage of an hour? That's good, yeah.
+
+MATT: "Day for an hour. I think it's a fair trade,
+yes?"
+
+MARISHA: Can you give us a full day in order to
+make sure that he does come back?
+
+MATT: "Sure. Day for an hour. 24 hours are yours
+to do as you like."
+
+MARISHA: You would come back in 24 hours, right?
+
+SAM: Can I ask one question first? Will you be
+pleasuring yourself during this?
+
+MATT: He actually laughs at this and goes, "I
+think the process will be enjoyable enough."
+
+SAM: Oh. I respect you so much.
+
+TALIESIN: Since we're making a deal, I want to
+make sure of a few things, because I love making
+
+deals. First of all, as perhaps a token of
+friendship, do you have any idea what this is? I
+
+am still apologetically naked and wet.
+
+MATT: "It's a pulse stone."
+
+ALL: A what?
+
+MATT: "A pulse stone."
+
+LAURA and SAM: What is that?
+
+MATT: "It's meant to distract undead.
+
+SAM: How do you activate it?
+
+MATT: "It just does."
+
+TALIESIN: Thank you. Second question is: when we
+do return in an hour, where are we going to
+
+reappear?
+
+MATT: "That's up to you. I'm just altering the
+time flow. Do you not have a means of returning?
+
+"You found your way here."
+
+SAM: The place that we're meaning to return to is
+moving. Could you send us to a moving place?
+
+LAURA: It's Keyleth that's sending us back, and
+she can.
+
+SAM: Can you send us back? We have to send
+ourselves back?
+
+MATT: "I'm concentrating on the passage of time.
+That's a large enough endeavor in itself."
+
+MARISHA: I can get us back to Thar Amphala on the
+Material Plane and specify that, but it doesn't
+
+specify where we're going to land in Thar
+Amphala.
+
+TALIESIN: This is great.
+
+MARISHA: I got a question, Artagan. Do you know
+if--
+
+LAURA: Is is Artagan or Artagan?
+
+MATT: "Take your preference. I'm just happy to
+have friends."
+
+SAM: Garmelie?
+
+MATT: "If you must." And he winks, and for a
+second you see his form shimmer and you see the
+
+small satyr image for a moment before it restores
+to his grand visage.
+
+TALIESIN: Another strange question: have you ever
+had access to our world before?
+
+MATT: "A long time ago."
+
+TALIESIN: Have I read about this cat?
+
+MATT: Make an intelligence check. Just the
+intelligence modifier.
+
+SAM: I don't remember being in the Feywild at all,
+or meeting him.
+
+LAURA: You don't?
+
+SAM: Right?
+
+MATT: Well, it was restored via spell.
+
+SAM: Oh, that's right. But does that restore
+memories?
+
+MATT: As part of the actual effect, yeah.
+
+TALIESIN: Nope.
+
+MATT: You have no idea who he is.
+
+TALIESIN: Nope, no idea. None, nope. I have no
+idea.
+
+LAURA: You've had access, but you were blocked?
+
+MATT: "Things rearrange every eon or so, and the
+ley lines that guide the paths shift, and I
+
+"haven't been able to get back since."
+
+TRAVIS: That seems most unfortunate.
+
+LAURA: You're not going to become addicted to
+strangling people because you've tried it on him.
+
+MATT: "I don't know. I haven't tried it."
+
+TALIESIN: How long does he have to be dead in your
+hands before you decide that it's worked?
+
+LIAM: Can I tell if he's lying?
+
+MATT: Sure, make a deception check. Sorry, an
+insight check.
+
+LIAM: 18.
+
+MATT: Lying about which one?
+
+LIAM: Never strangled someone before.
+
+MATT: You have no idea. He's slippery. He's
+mercurial.
+
+TALIESIN: This is the problem with fey. They don't
+tend to lie, they tend to tell just most of the truth.
+
+LIAM: All right. With a couple of provisions here,
+all right? One: you cannot say shit while you're
+
+doing this.
+
+LAURA: He's not allowed to talk?
+
+LIAM: That is correct.
+
+MATT: "Fair enough. I think it would spoil the
+moment, anyway."
+
+LIAM: Two. And this includes the rest of you lot:
+everybody leaves, except for Scanlan and Grog, and
+
+they stay.
+
+MARISHA: What?
+
+TALIESIN: No, I'm all right with that.
+
+LAURA: I don't want to see it.
+
+TRAVIS: I think that's a fair request.
+
+SAM: Can I pleasure myself?
+
+TALIESIN: I whap Scanlan on the head.
+
+LIAM: I don't know how to feel about this!
+
+LAURA: Let him do it. You'll come back, right?
+
+LIAM: Oh, Vax is okay. That was Liam just now.
+
+(laughter)
+
+MARISHA: This is so weird. Okay, wait. Keyleth
+pulls Vax aside.
+
+LAURA: Gross, stop!
+
+TRAVIS: It's like a dog, you got to pull him off
+your calf!
+
+MARISHA: Are you sure about this? Are you okay
+with this?
+
+LIAM: I'll see you soon.
+
+MARISHA: We can ask if he wants something else!
+
+LIAM: Ask him. I don't think he does.
+
+MARISHA: And you'll be back, yeah?
+
+LIAM: Probably.
+
+MARISHA: In 24 hours or so?
+
+LIAM: I'll be back.
+
+ASHLEY: Wait, but how do we know for sure?
+
+SAM: Yeah?
+
+LIAM: Guys, go. Go on.
+
+SAM: We have no choice, Pikey.
+
+TALIESIN: This is what's happening.
+
+TRAVIS: We got an eye. We'll keep the rule of
+law.
+
+SAM: Do you want to stay, too, Pikey?
+
+LIAM: Percy?
+
+ASHLEY: I'm not going to stay if he doesn't want
+me to stay.
+
+LIAM: Take Keyleth out of here, please.
+
+TALIESIN: Absolutely.
+
+MARISHA: Wait, no! Wait! I try to give him a kiss
+before we leave, before getting dragged out.
+
+TRAVIS: Vax, I want you to know I've never been
+more proud of you than I am right now.
+
+LIAM: I want you to laugh your fucking ass off,
+all right?
+
+TRAVIS: I might. I'm just saying, you're about to
+buy the ticket and take the ride of a literal
+
+fucking lifetime.
+
+MARISHA: This is fucking weird.
+
+TRAVIS: You're not here anymore.
+
+MARISHA: I'm saying as myself: this is fucking
+weird.
+
+SAM: This is weird. This is like a weird snuff
+film.
+
+MATT: I don't know where this came from?
+
+TRAVIS: How do you feel? Are you nervous?
+
+MARISHA: What?
+
+LIAM: You keep an eye, have him drag me somewhere
+safe, and keep an eye on me.
+
+SAM: Sure.
+
+TRAVIS: Can I put my hand on his chest? Is the
+heart still beating?
+
+MATT: Yeah, slow.
+
+TRAVIS: Is it beating any faster? Because he's
+nervous.
+
+MATT: A hint.
+
+TRAVIS: Still pretty chill.
+
+TALIESIN: Do you still have advantage on death
+saving throws because of that thing that we did a
+
+while back? Or is that long gone? Never mind.
+Carry on.
+
+TRAVIS: Do you want us to hold anything? Do you
+want to wear your clothes?
+
+LIAM: Let's stop talking, folks. Could you look
+after Keyleth, please?
+
+LAURA: Of course, darling.
+
+LIAM: See you tomorrow.
+
+LAURA: See you in a bit.
+
+ASHLEY: Don't you do anything else! You just
+strangle him until he dies, and then you leave him
+
+alone.
+
+(laughter)
+
+MATT: "I wouldn't dream of trying, little one.
+Don't worry."
+
+TALIESIN: Well, this may be the weirdest thing.
+This is not the worst thing.
+
+LAURA: Artagan, this is weird as fuck.
+
+MATT: "Welcome to my world."
+
+LAURA: All right. I slowly walk away.
+
+MATT: Okay. Pike, have you left as well?
+
+ASHLEY: Yes. I'm going to honor your wishes, Vax.
+I'm going to go swim.
+
+LAURA: Yeah, I'm going to swim.
+
+TALIESIN: Everyone's backing off.
+
+LAURA: We're swimming naked while my brother is
+dying. No big.
+
+MARISHA: Oh my god.
+
+LIAM: Hey, Grog. All he gets to is strangle me to
+death. That's it.
+
+TRAVIS: All right. What about after you're dead?
+
+LIAM: No.
+
+TRAVIS: No touch at all, no pickle?
+
+LIAM: Neither Artagan or Scanlan are able to do
+anything to me once I'm out.
+
+TRAVIS: Oh! Oh, okay. Yeah. Right.
+
+LIAM: And then make sure he doesn't lose me in the
+woods or something, okay?
+
+SAM: You'll be fine. This will be harrowing for
+you, but you'll be fine. We'll bring you back.
+
+LIAM: It's been so much fun until now.
+
+SAM: This is a sacrifice.
+
+TRAVIS: Yeah, everything in your life has been
+leading up to this point. This is the pinnacle.
+
+This is great!
+
+LIAM: Don't speak.
+
+TRAVIS: Fair enough.
+
+LIAM: I walk up to Artagan. All right, fucknut,
+let's do this.
+
+MATT: "You believe this? You really believe you're
+going to come back if you die?"
+
+LIAM: (clicks tongue)
+
+MATT: "Fair play. To the immortals." And he takes
+your throat and begins to squeeze, his eyes locked
+
+in, and he keeps watching you.
+
+LAURA and MARISHA: This is so dark.
+
+TRAVIS: I step up behind Vax in case he has an
+involuntary reaction to reach up to his arms. Just
+
+to keep his arms down.
+
+MATT: He locks in.
+
+LIAM: No fear, remember.
+
+MATT: Yeah. Without making any other noise,
+continues to apply pressure. Eventually, your
+
+vision begins to go dark.
+
+LAURA: I'm so glad we can't see this.
+
+TALIESIN: Yeah, no. Underwater.
+
+MARISHA: I'd be freaking out.
+
+SAM: I look away.
+
+TRAVIS: I don't.
+
+ASHLEY: I'm peeking out of the pond.
+
+TALIESIN: I grab her and drag her right back to
+the pond.
+
+MATT: This is so weird.
+
+TRAVIS: This is your head, man.
+
+MATT: I know!
+
+LIAM: You could have asked for a magic wand or a
+unicorn, a pony.
+
+MATT: It was a fascination with something
+different and new and you said "cannot die," and
+
+that immediately piqued his interest. Even the
+nicest of fey are weird and have their dark
+
+sides.
+
+LIAM: Preach, David Bowie.
+
+MATT: Yeah. You watch over the next minute or so
+as he strangles the life out of Vax.
+
+LAURA: Oh my god!
+
+TRAVIS: Are you hungry right now?
+
+(laughter)
+
+MATT: This is so fucked up!
+
+TALIESIN: This is quality internet.
+
+MATT: I know. Limp in his grasp, Garmelie
+eventually pulls one hand back. Still holds him
+
+now; his feet are dangling, and goes like:
+"Satisfying, but not what I thought it would be."
+
+At which point, you watch as the body and flesh of
+Vax begins to burn to ashes out of the armor, and
+
+the armor falls to the ground in pieces.
+
+TRAVIS: Oh god. Okay.
+
+MARISHA: Well, last time he got disintegrated, so
+we didn't really see him evaporate. But that makes
+
+sense.
+
+TRAVIS: I'm going to look at Scanlan. Were you
+expecting this at all?
+
+SAM: No, not at all. What the fuck is this?
+
+TRAVIS: I'm going to grab the armor, if you don't
+mind.
+
+MATT: "Of course. It's yours."
+
+TRAVIS: Oh, thank you.
+
+SAM: I'll scoop up everything.
+
+TRAVIS: Let's go away from the group, into the
+trees. Hopefully, that won't kill us. And we lay
+
+it down.
+
+SAM: I'll make a little circle of rocks.
+
+MARISHA: Oh, stop it! I kick the rocks out of
+formation.
+
+TRAVIS: You're not there!
+
+MARISHA: Oh, I thought he dragged it outside.
+
+TALIESIN: They're in the woods. We're in the
+pond.
+
+TRAVIS: I wanted to shave half of his head because
+he shaved my beard that one time, but there's
+
+really nothing left of him right now.
+
+SAM: I don't think that that would be a good time
+to do this.
+
+MATT: As you guys are swimming, the water breaks
+and you see the still dry hair as it emerges from
+
+the pool of Garmelie, though he is now undressed
+in the water, as well. "Ah! So that's one deal
+
+"done. Where do you wish to rest?"
+
+LAURA: Oh. Is it safe to rest?
+
+MATT: "While I'm here, yes."
+
+LAURA: Okay. (whimpers) Should we wait? We need to
+wait 24 hours to bring him back. It takes 24 hours?
+
+LIAM: Nobody knows that.
+
+SAM: I don't know that.
+
+MARISHA: Somewhere in that time? How long did it
+take last time? It wasn't a full 24 hours, but it
+
+was the next day.
+
+LAURA: It was that night.
+
+MARISHA: I don't want to leave.
+
+TALIESIN: Might be a dawn thing. We moved and he
+appeared.
+
+TRAVIS: That's the thing about dawn. It takes a
+while out here, doesn't it?
+
+TALIESIN: Dawn doesn't really exist out here. It's
+just a rest.
+
+LIAM: It's like a Vegas casino: it's always the
+same twilight.
+
+LAURA: All right, well. Okay.
+
+TALIESIN: Is there somewhere else that we could go
+to recuperate?
+
+TRAVIS: Wasn't expecting the ashes part.
+
+LAURA: Yeah, this is crazy.
+
+TRAVIS: I expected the crash test dummy. Weekend
+at Bernie's. I had a whole fucking theme park
+
+lined up.
+
+(laughter)
+
+ASHLEY: Is it bad if we set up camp right here?
+
+LAURA: Yeah, let's set up camp here. We know this
+area.
+
+MATT: "Of course! Please." And he points over and
+you look back to where you were on the edge of the
+
+pool, and you can see there's a bunch of stumps
+that weren't there before that seem to have
+
+elongated into chairs and couches and bits of
+furniture.
+
+LAURA: Oh shit. Nice.
+
+MATT: "Thank you."
+
+LAURA: (sighs)
+
+SAM: Are we going to rest here?
+
+LAURA: Yeah, but we need to do a feast before we
+go back. Well, the thing is, it uses a spell, so
+
+it has to be within the 24 hours.
+
+TALIESIN: That will be the last thing we do
+before we go to sleep.
+
+LAURA: Okay, but I want Vax to have the feast, as
+well, so--
+
+MARISHA: Can we save him leftovers?
+
+SAM: Do we have to wait a whole day before he
+comes back?
+
+TRAVIS: We don't know.
+
+LAURA: We don't know how long it takes. We can try
+to wait and see how long it takes and then rest?
+
+MARISHA: Maybe.
+
+TALIESIN: We have a little time.
+
+LAURA: Let's give it some time.
+
+MARISHA: Besides, Garmelie gave us his word.
+
+TALIESIN: One day.
+
+MATT: "One day."
+
+MARISHA: So we might as well wait a few hours, at
+least, right?
+
+SAM: Anything else we can accomplish here?
+
+MATT: "We can play."
+
+LAURA: This feels weird to play.
+
+MATT: "Oh, do about yourselves. You seem disturbed
+by my presence."
+
+TRAVIS: I do have a question.
+
+MATT: "Yes?"
+
+TRAVIS: Are you familiar with the werewolves that
+roam these lands?
+
+MATT: "I am familiar with the werewolves that now
+roam these lands, yes."
+
+TRAVIS: Right. Are they around this part?
+
+MATT: "No, not at the moment."
+
+LAURA: You can sense them?
+
+MATT: "I have an idea where they might be. I know
+when they're not near me."
+
+TRAVIS: That's all. I'm just saying. Just
+curious.
+
+LAURA: Hey, Artagan. Does killing a wannabe god
+sound fun to you?
+
+MATT: "Sounds interesting."
+
+LAURA: It would be much more fulfilling than
+strangling a person that didn't fight back, right?
+
+MATT: "I don't know."
+
+LAURA: Would you want to come through with us?
+
+MARISHA: Give a little tour of our land that you
+so desperately want access to.
+
+TALIESIN: There's currently a giant city walking
+its way towards another giant city.
+
+TRAVIS: Some sweet action with some stuff maybe
+you haven't seen before.
+
+TALIESIN: A skeletonized dragon. A gold dragon.
+
+MARISHA: Undead dwarves.
+
+TALIESIN: Cannibal undead dwarves.
+
+TRAVIS: One-eyed prick named Vecna.
+
+MATT: "I mean, that'd be great but I can't."
+
+LAURA: Oh. You have to have a specific doorway.
+
+MATT: "Once you have the door, I'd be happy to
+join you."
+
+LAURA: Okay. And that's a time-consuming sort of
+thing?
+
+MATT: "Depends how long you can build a
+doorway, I suppose."
+
+MARISHA: Sounds like a time-consuming thing.
+
+MATT: "Most likely. No offense to any of you if
+you're carpenters."
+
+TALIESIN: No, we've had an enormous amount of
+trouble with doors in our time.
+
+(laughter)
+
+TALIESIN: Very tricky.
+
+MATT: "Well, take your time! Rest. Food is
+prepared. You can go amongst yourselves. I'll be
+
+"here, splashing away." And he splashes into the
+water.
+
+TRAVIS: That guy knows how to relax.
+
+MARISHA: Is that how he lives all the time?
+
+TRAVIS: Think so. Yeah, probably nude.
+Probably put clothes on to be nice around us.
+
+LAURA: Sylas is alive.
+
+TRAVIS: What did you say?
+
+SAM: Sylas. She said Sylas is alive.
+
+LAURA: Sylas is back.
+
+TRAVIS: Briarwood?
+
+LAURA: Yeah, didn't you see him right before we
+left? He was right in front of Delilah.
+
+TALIESIN: I'm watching to see if anyone eats the
+food.
+
+TRAVIS: No. I was eating all the food in the
+mansion.
+
+MATT: Plenty of food on these small stools here
+and there.
+
+MARISHA: Remember what?
+
+SAM: I don't know what I was going to say.
+
+TRAVIS: Didn't you evaporate him with a Sunbeam or
+something? And then we like killed him in a
+
+coffin?
+
+LAURA: We killed him.
+
+MARISHA: Sylas? Yeah.
+
+LAURA: Wasn't it Pike who killed Sylas or was it
+you? It was you. Oh, that's right, and you said
+
+"eat a bag of dicks."
+
+MARISHA: That was the bag of holy dicks moment.
+Bag of holy dicks.
+
+TALIESIN: It's been a long time.
+
+MARISHA: Yeah, I shot the beam off of Pike's
+shield. It was actually pretty dope.
+
+LAURA: Great, so he's back.
+
+ASHLEY: I'm going to go over by Vax's armor and
+stuff. Just sit there and flop it around.
+
+MATT: Okay.
+
+SAM: Armor fluffer?
+
+MATT: Is there anything you guys wish to
+accomplish in this time, or do you want to take
+
+time to wait to see if your friend returns?
+
+LAURA: What can we accomplish? What can we do?
+There's got to be something we can do.
+
+SAM: I need to accomplish something.
+
+LAURA: What do you need to do?
+
+SAM: I don't know. I have a spell, and I can use
+it before we rest, but I don't know what to use it on.
+
+LAURA: What is it?
+
+SAM: Well, I can do a few different things before
+we sleep. We can go out into the woods and find an
+
+animal, a big animal. I could turn it into
+something, like a flying thing that we could give
+
+to Grog so he could fly. Fly with that sword.
+
+LAURA: Like a mount sort of situation?
+
+SAM: Like a wyvern.
+
+LAURA: You can turn an animal into a wyvern?
+
+SAM: Sure.
+
+LAURA: Any animal?
+
+SAM: A big animal.
+
+LAURA: Bigger than Trinket?
+
+SAM: I would love to turn Trinket into a wyvern.
+
+(laughter)
+
+LAURA: Is it permanent?
+
+SAM: Yes.
+
+LAURA: Oh, never mind, then.
+
+TRAVIS: Is it a big spell for you?
+
+SAM: Yeah.
+
+LAURA: Trinket? Would you want to be turned into a
+wyvern?
+
+SAM: Forever.
+
+MATT: (questioning bear noise)
+
+LAURA: Hold on, let me see if I've got Speak With
+Animals. I don't think I have it. It's 1st-level,
+
+I can still do it! Trinket?
+
+MATT: "Yes?"
+
+LAURA: Would you want to be turned into a wyvern
+forever? (whispering) Say no.
+
+MATT: "What's a wyvern?"
+
+LAURA: It's like a lizard that's really big that's
+got wings. Not so much? Okay. Just checking. I
+
+just wanted to make sure. It's your choice,
+darling.
+
+SAM: Did he say yes?
+
+LAURA: No, he said no.
+
+SAM: I knew that. I can speak with animals, too.
+
+(laughter)
+
+LAURA: You haven't been saying shitty things to my
+bear, have you?
+
+SAM: All year.
+
+(laughter)
+
+LAURA: Trinket, don't ever listen to him. He's
+horrible.
+
+MATT: (spits)
+
+(laughter)
+
+SAM: Or--
+
+TRAVIS: Or?
+
+SAM: Or I could do other things.
+
+LAURA: Like what?!
+
+SAM: I could do other things. I could make another
+compatriot for us to have in battle.
+
+LAURA: Like another Artagan?
+
+SAM: Like another Scanlan. Or another Pike.
+
+LAURA: Would they be fully capable to cast all
+your spells?
+
+SAM: Yes.
+
+LAURA: Oh shit!
+
+LIAM: Spells.
+
+SAM: Or I could do other things.
+
+TRAVIS: Actually, that last one is pretty dope.
+
+LIAM: Yeah, two Scanlans.
+
+TRAVIS: Get all your turns, all your everything?
+Two times whoever you make?
+
+SAM: I don't know. Never done this before.
+
+LAURA: Oh my god, what kind of spell is this?
+
+SAM: It's a crazy spell.
+
+TRAVIS: Do that one. Fuck the flying thing.
+
+SAM: But if you could fly--
+
+TRAVIS: Yeah, I know he hovers and flies, but.
+
+SAM: Yeah. You could bring that sword to his
+neck.
+
+LIAM: Could you give Grog wings?
+
+SAM: It's a real thing. Magic would not stop it
+from flying. It would be a real thing.
+
+LAURA: A real thing that could be killed right out
+from under him, though.
+
+SAM: Sure, but it couldn't be dispelled with
+magic.
+
+TALIESIN: Could be disintegrated, though.
+
+LAURA: And then Grog would fall.
+
+LIAM: Right.
+
+TRAVIS: Can you cast Fly on somebody?
+
+SAM: No. I can turn you into an eagle.
+
+LAURA: Not with that sword.
+
+TRAVIS: No. The option of having a second caster
+like you is way bigger than making me fly.
+
+SAM: Another Scanlan who could easily be
+destroyed.
+
+LAURA: Well, but so could one of us.
+
+SAM: Well, it'll be a magic thing that could be
+dispelled.
+
+TRAVIS: If they know it's magic.
+
+MARISHA: But you just said the other thing
+couldn't be destroyed.
+
+SAM: That thing couldn't. That would be a
+different spell altogether.
+
+TRAVIS: I still like that idea better.
+
+SAM: There's other things, too.
+
+LAURA: Like what?!
+
+(laughter)
+
+SAM: I could cast a spell on one of us that if you
+died, it would activate, and it would heal you.
+
+LAURA: Completely?
+
+SAM: No.
+
+LAURA: Oh, Death Ward. Pike can cast that.
+
+MARISHA: Whatever you do, I can get me plus eight
+other people through with Plane Shift. Eight
+
+willing creatures.
+
+SAM: But my Death Ward would last for ten days.
+
+TALIESIN: There are not going to be ten days. We
+don't need a ten-day Death Ward. We need a one-day
+
+Death Ward.
+
+LAURA: Plus, we all have our blessings-- not all
+of us. We have some blessings from gods that will
+
+activate, hopefully, right before.
+
+MARISHA: Can you do a one-day blessing on ten of
+us?
+
+TRAVIS: Can you cast Haste?
+
+SAM: No. I mean, I could, but it seems like a
+shitty use--
+
+TRAVIS: If there's two of you and you could cast
+Haste on me, I'd take that over the flying
+
+creature.
+
+SAM: If there's two of me.
+
+TALIESIN: Well, you with Haste would be
+horrifying.
+
+TRAVIS: It's nasty. It doesn't get me off the
+ground, but at close speed. I'd have a hundred
+
+feet of movement.
+
+LAURA: And another attack.
+
+TRAVIS: Yeah. Plus an action surge.
+
+SAM: I can't cast Haste. I don't know it.
+
+LAURA: You can't? Hey, Pike, do you know Haste?
+
+ASHLEY: No. It's not a cleric spell.
+
+SAM: Who does?
+
+LIAM, LAURA and TALIESIN: None of us have it.
+
+TALIESIN: Just the boots.
+
+LAURA: Okay.
+
+TRAVIS: You've got a decision to make. We've got
+sleep to get.
+
+MATT: You've got time to think. We'll say for the
+purposes of the time you have been waiting. Hours
+
+pass. You're not sure how much time has passed.
+You've plotted, you've thought, you've napped,
+
+you've contemplated this weird bubble of time that
+now exists, this brief respite, but where it leads
+
+you is unique and strange. As you all begin to
+question and wonder, is he going to come back?
+
+Does he come back here? Last time you saw him, he
+arrived with you in the Feywild.
+
+TRAVIS: Oh, and he died in the Material Plane?
+(gulps) Oh shit.
+
+MATT: But you carried the ashes with you then. As
+soon as these doubts begin to emerge, you turn at
+
+the sound of a footfall and around the corner,
+hand on the side of a tree, you see for the second
+
+time in this grove a nude Vax'ildan.
+
+SAM: Oh!
+
+MARISHA and ASHLEY: (sighs of relief)
+
+TRAVIS: (cheers)
+
+MATT: And that's where we'll end tonight's game.
+
+TRAVIS: For the second time: butt-naked ending!
+
+MATT: Because it is past 11. Man, a lot of weird
+shit happened that game!
+
+TRAVIS: Fuck!
+
+MARISHA: I have to go home with you.
+
+MATT: I'm sorry! It made sense for him in the
+moment!
+
+TRAVIS: No, that was--
+
+LAURA: Awesome.
+
+MATT: It was a weird, dark shade of the fey you
+don't see.
+
+TRAVIS: It was the best thing I could have ever
+hoped you said.
+
+LIAM: I didn't expect it.
+
+LAURA: It certainly made us opening a doorway so
+he can get into the real world a little bit more
+
+questionable.
+
+MARISHA: Yeah.
+
+MATT: But that's the fun of it. How much can you
+trust any fey?
+
+TALIESIN: No. They're monstrous. I'm so excited.
+
+MATT: Man, I'm sorry the etherealness went
+bottoms-up.
+
+LIAM: Oh my god.
+
+TALIESIN: No, it was great.
+
+LAURA: We still did it! We still got it!
+
+LIAM: We came close to fucking up that ring
+proximity thing seven times, and then finally we
+
+did fuck it up.
+
+MATT: It was probably an eventuality. (laughs)
+
+SAM: Can the episode title be "Dicks and Dicks"?
+
+(laughter)
+
+MATT: I'll see what I can do.
+
+TALIESIN and MARISHA: Dungeons and Dicks.
+
+MATT: But anyway, thank you guys. We're going to
+get some rest. Thank you guys for going with us
+
+through this very interesting episode.
+
+LAURA: Ashley, your drawing was amazing.
+
+TRAVIS: Ashley!
+
+LIAM: Post that shit!
+
+MATT: Yeah. We'll return next week, and I think
+we'll have a special guest next week.
+
+SAM: What? Is that true?
+
+MATT: Yeah.
+
+TRAVIS: Thank you, Marvel Puzzle Quest.
+
+ALL: Thank you, Marvel Puzzle Quest.
+
+SAM: Show them support, show them love, guys. They
+really appreciate it. Tweet at them, follow them
+
+on Facebook, add them as a LinkedIn friend. Sext
+them.
+
+LIAM: Check their Myspace.
+
+MARISHA: Sext them? Yeah, send them a bunch of
+porn links.
+
+LAURA: No, don't do that. Please don't do that.
+
+MARISHA: That was a joke!
+
+(laughter)
+
+MATT: Anyway, rest well, see you guys in a week,
+and is it Thursday yet? Good night.
+
+[music]

@@ -1,0 +1,7532 @@
+MATT: Hello, everyone, and welcome to tonight's
+episode of Critical Role, where a bunch of us
+
+nerdy-ass voice actors sit around and play
+Dungeons and Dragons. I think we're recording,
+
+because my camera light's not on, but
+nevertheless, welcome. (laughs)
+
+TRAVIS: We're totally recording.
+
+MATT: I'm pretty sure we are. Anyway guys,
+welcome, we have a fantastic guest who will be
+
+joining us later this evening, but before we get
+to that we have announcements to go over real
+
+fast. First and foremost, tonight's episode is
+sponsored by a new sponsor, a fantastic group
+
+called Quidd! If you want to talk about that
+first?
+
+SAM: Hi, guys. Vacation Sam here. Quidd is our
+sponsor tonight, a fantastic new sticker app for
+
+your phone. You can check it out at bitly, that's
+bit.ly/crquidd. I didn't know much about the
+
+company, but Quidd sounded vaguely British, so
+little-known fact about me, I have access to the
+
+BBC archives at home, so I did some snooping and
+sure enough, I found a World War II newsreel
+
+transcript that talked about Quidd, so I thought I
+would do a dramatic reading of it for you right
+
+now.
+
+LIAM: Here we go.
+
+SAM: News from the front! This is Nigel J.
+Creamhutch reporting from BBC London. March 23,
+
+1944 may be a turning point in WWII as PM
+Churchill announces a new weapon in the fight
+
+against those devilish Nazis. They're calling it
+Quidd, a new app where you can collect stickers,
+
+cards and Funko figures on your telephone device.
+Our lads on the frontlines are already using it!
+
+We spoke with Lieutenant Neville Bingham of the
+Royal Navy.
+
+Right, yeah, Quidd's this free app available on
+the Apple App Store and Google Play, and it's
+
+helping us drive Hitler back to Berlin.
+
+But it's not just our Tommies. The Reds have
+discovered Quidd as well! We spoke with tank
+
+commander Ivan Bashenko.
+
+With Quidd, Russian army is strongest in world.
+Morale better now with thousands of stickers to
+
+collect that can be used like emojis in messages
+to your friends. Stalingrad will not fall with
+
+these cute stickers!
+
+Why, they're even using Quidd across the pond! We
+spoke with American sergeant John Smith, an
+
+American Doughboy.
+
+I'm John, an American. We American GIs love to
+collect stickers from brands like Rick and Morty,
+
+Bob's Burgers, Family Guy, Breaking Bad, Star
+Trek, and newly announced Game of Thrones. Take
+
+that, Emperor Hirohito!
+
+Well, there you have it, ladies and gents. Your
+British Armed Forces and our allies will defeat
+
+the Nazis and win the Second Great War if you go
+to bit.ly/crquidd and check out Quidd. Good night,
+
+good luck, and god save the queen, pip pip!
+
+(cheering)
+
+TRAVIS: I'm so glad that's available on the BBC.
+
+SAM: Yeah, it was a weird transcript. I would have
+shown the newsreel, but it was just a transcript.
+
+MATT: Fair enough. Well, thank you for the update
+on that, and thank you, Quidd for sponsoring
+
+tonight's episode. Really appreciate it.
+
+LIAM: Did they win the war?
+
+SAM: Find out next time!
+
+(laughter)
+
+MATT: All righty, let's see. Do you have any merch
+updates at all, Laura?
+
+LAURA: There's stuff in the store!
+
+MATT: There you go. Perfect. Good, I like it,
+thank you. The Green Ronin Campaign Guide.
+
+Pre-orders go up on Monday, guys!
+
+ALL: What!
+
+LAURA: Oh my god.
+
+MATT: Yes, and if you get the book and the pdf, I
+think the pdf is available immediately, so some of
+
+you will have access to actually read the book on
+Monday.
+
+LAURA: Are you so nervous, Matt?
+
+MATT: I'm so nervous. (laughs nervously)
+
+TALIESIN: People can actually, in real time, call
+us when we're wrong on our own stuff.
+
+TRAVIS: What do you mean, finally? They do that
+every week.
+
+MARISHA: Finally? Although you are Taliesin
+Jaffe.
+
+TALIESIN: This is a level of pain I've only
+dreamed of; I'm very excited.
+
+LIAM: Hey. We're so proud of you.
+
+TRAVIS: Yeah, nice job with the words and stuff.
+
+SAM: Hold on though, we haven't read it yet. What
+if it's terribly written, by a child?
+
+LAURA: We'll find out he used crayon. It's all
+written in marker.
+
+MATT: Probably. Do you know how hard it is to get
+crayon printed these days?
+
+MARISHA: Only if the writers' room dropped the
+ball.
+
+MATT: Well, I hope you guys enjoy it, so look
+forward to that. The podcast is now episodes 11
+
+through 20, right? Up on the Apple Store. So you
+can go ahead and download those, which are
+
+awesome.
+
+MARISHA: Yep, Apple and Google Play.
+
+MATT: Yes. And those are the ones. Of course we'll
+have Talks Machina next Tuesday at 7:00pm about
+
+this episode tonight, here on Twitch and Alpha,
+7:00pm Pacific, with our fantastic host Brian
+
+Foster, so you can check that out. Wednesday Club
+next week for you?
+
+TALIESIN: Wednesday Club, we're talking about
+Comic Con, because Comic Con is coming up, and
+
+we're going to try and give you a first-timer's
+guide to Comic Con: If you've never been to one,
+
+what to expect, what to do for fun, and all sorts
+of things that you could see or do in San Diego.
+
+Other than us. Thank you, I was very proud of last
+night.
+
+MATT: We're not having a show next week, we're
+going to be at Comic Con. Yeah, we have a week
+
+off. So we'll miss you guys next week, but we do
+have our Critical Role panel on Saturday at Comic
+
+Con, it's at 10:30am in Room 6...
+
+TRAVIS: BC... E.
+
+MATT: It's a nice big room. You guys should come,
+we're going to have silly questions, Q and A,
+
+conversations, stories and a lot of funness and
+some cool surprises!
+
+SAM and TALIESIN: Prizes?
+
+MATT: Surprises!
+
+MARISHA: Oh yeah, we have some announcements.
+
+MATT: So hopefully you guys can make it at San
+Diego Comic Con. If you're going to be there we'd
+
+love to see you. And last but not least, Sagas of
+Sundry: Dread. The third episode went up today.
+
+MATT and MARISHA: (perfect unison) Shit's getting
+real.
+
+MATT: I'm going to marry you.
+
+(laughter)
+
+MATT: What's that? Oh that's right, and at GenCon
+next month we have our live show, we mentioned it
+
+last week. Tickets are still on sale for the
+general admission. We're looking forward to having
+
+you guys there, it's Friday evening.
+
+TRAVIS: Yeah, it's Friday evening, 7:30. In fact,
+we got an even bigger theatre this year. The last
+
+theatre had 1,500 seats, we're like, oh, we'll
+never get that many people, and it went (explosion
+
+sound). It filled up, so we got a 2,500 seat
+theatre. It's massive, it's a huge party, if you
+
+didn't join us last year, you want to come to this
+mayhem. It's so much fun. You don't need passes to
+
+GenCon, by the way, you don't have to have a badge
+or anything for that, it's a standalone thing.
+
+There are definitely tickets still available, it's
+going to be super fun.
+
+SAM: I feel like with that many people we should
+have beach balls in the audience, and they can do
+
+the wave.
+
+MATT: Inflatable d20s to throw out there...
+
+MARISHA: (gasps) You can get them. They're on
+ThinkGeek I think.
+
+MATT: This is a terrible idea.
+
+TRAVIS: It's a great idea!
+
+MATT: Anyway, without further ado, I think that
+concludes our announcements, and as such, let us
+
+dive into tonight's episode of Critical Role.
+
+[dramatic music]
+
+MATT: Hello, everyone, and welcome back. So where
+we left off last time. Vox Machina, having finally
+
+encountered the Undying King, returned in physical
+form in the Shadowfell, did battle and fled, quite
+
+unprepared for that venture, and gathered some
+tidbits of information about what Vecna's plans
+
+may be. Upon returning and discovering that your
+disintegrated Vax has returned through some deal
+
+he made with his patron the Raven Queen after
+disintegrating, you decided to go ahead and try
+
+and gather more information about this and beseech
+some of the higher powers within Exandria. Pike
+
+talked to Sarenrae and was given the invitation to
+come visit her in Elysium on the Island of
+
+Renewal, and upon gathering your materials and
+causing a mess in Vasselheim, you got together and
+
+went to meet this fantastic Everlight. On her
+island, you spoke with her. She gathered some
+
+information from you, as Vecna seemed to be
+blocking at least the influence and vision from a
+
+lot of the deities, and then gave her blessing
+unto Pike, transferring you over to one of the
+
+other gods that lives among the Blessed Fields of
+Elysium: Pelor, the Dawnfather.
+
+You then walked through the orchards that led to
+the Fortress of the Sun where he resides, spoke
+
+with some of the guardians there, and were led
+into the center of the citadel, where you met, in
+
+the central throne room under the Zenith Tower,
+Pelor himself. Upon exchanging information, you
+
+spoke of your need to gather the favor of certain
+gods in the battles to come, and were given a
+
+challenge. To step up to plate: Vex'ahlia. You
+accepted the challenge and racing to the top of
+
+the tower, the zenith, before the fires could be
+extinguished in the brazier that awaited you, you
+
+threw yourself into the fire, and upon the party
+speaking on what it was that made Vex'ahlia such
+
+an important member of not just your team, but
+your family, and gave you strength, she was imbued
+
+with a blessing of the Dawnfather himself. After
+which, we left off as you exited the front of the
+
+Fortress of the Sun, stepped into the central
+glade that marks the center of the
+
+seemingly endless orchards that surround this
+region, and Vox Machina, what would you like to
+
+do?
+
+TRAVIS: Eat all of the fruit.
+
+LAURA: No.
+
+TRAVIS: It was really good. It was just fruit, by
+the way. Like I said.
+
+SAM: We're still in heaven right now?
+
+LAURA: We're still in Elysium.
+
+TALIESIN: It's not quite heaven.
+
+TRAVIS: Are there any other gods here that we
+should curry favor with? For? Of?
+
+LAURA: Are there any more gods here? Not that we
+know of.
+
+SAM: We forgot to ask.
+
+TRAVIS: Did we?
+
+LAURA: Yeah. I don't think Ioun is here.
+
+MATT: You're looking at the series of the Sun Tree
+cousins, one of which you've met, scattered
+
+amongst this glade surrounding the central
+citadel.
+
+MARISHA: What a douche.
+
+SAM: No other people? Guards? Nothing.
+
+MATT: You have the guards behind you, the large
+planetar and deva entities that stand there,
+
+armored in their golden plate, after ushering you
+out, are standing guard.
+
+LAURA: Maybe we can ask them.
+
+SAM: Sure. I'll go up to one and say, hello there,
+big fellow.
+
+MATT: Standing a full ten feet taller than you,
+practically, the wings slightly bent, the large
+
+planar entity kneels down. "Hello."
+
+SAM: Hello. Vacation Scanlan here. Couple
+questions. By the way, was he one of the ones who
+
+fought in there?
+
+MATT: Make a perception check.
+
+SAM: Oh. Do they all look alike? 17 plus one.
+
+MATT: Hard to tell. You didn't pay a lot of
+attention.
+
+SAM: Okay. Hey, just wondering, a few questions.
+A: How does one get out of here? Is there a door
+
+to another plane?
+
+MATT: "I imagine the same way you came in."
+
+SAM: A god brought us here. All right, cool.
+Number two: Are there any other like your
+
+Dawnfather around here? Any other gods in the
+area?
+
+MATT: "Across Elysium, there are two deities that
+call it home: the Dawnfather and the Everlight."
+
+SAM: So we covered our bases. Out of curiosity:
+What are you called?
+
+MATT: He looks very closely, and you get sense
+that part of its nature is scanning through you;
+
+it's getting a sense and a read of you as an
+individual, and it says, "No one you need to worry
+
+"about." Stands up and then takes two steps back
+(heavy footfalls) into place and looks straight
+
+ahead.
+
+MARISHA: Scanlan, you should remember that line,
+that's a good one.
+
+SAM: Yeah. I already forgot it. I'm too
+intimidated. Was it no one or something? I don't
+
+know. Well, good speaking to you.
+
+MATT: Still looks out. Doesn't respond.
+
+SAM: Well, how do we get out of here? Can she take
+us home?
+
+MARISHA: Yeah.
+
+LIAM: She does on the daily.
+
+SAM: I know, but I don't know. They talked about
+some sort of a gate that keeps the gods out and
+
+the bad gods in.
+
+MATT: To remind you of what happened last time.
+There was talking about possibly... or at least
+
+there was the Trammel, the Prime Trammels that
+were used previously to seal the Chained Oblivion,
+
+Tharizdun, and that the orchestrator, the designer
+of those was Ioun, the Knowing Goddess. Ioun,
+
+however, has sealed herself away, being a wounded
+god, long recovering, and the only information
+
+that Pelor has of where she hid herself, the key,
+essentially, is not an object but a person. You're
+
+seeking an individual, of which you were given a
+solar light map of a single small home in a forest
+
+ravine not far from a place that you've noticed
+was near the Pools of Wittebak, which is in the
+
+Cliffkeep Mountains.
+
+SAM: Yeah, but there was also a mention of some
+Divine Gate that keeps people from--
+
+MATT: Well, the Divine Gate is a known existing
+entity. It's essentially a large gate that
+
+prevents the gods from returning to the Prime
+Material Plane.
+
+LIAM: It's like a metaphysical screen door that
+keeps flies out.
+
+LAURA: So the gods can't get in and out.
+
+SAM: Sure, sure.
+
+MARISHA: Yeah, the Prime Trammel. Which we now
+have to get--
+
+LAURA: We have to get near the the Cliffkeep
+Range, near the Pools of Wittebak, is where we
+
+need to go.
+
+MARISHA: And the Cliffkeep is not too far from
+Whitestone?
+
+MATT: Cliffkeep Mountains go across a lot of the
+northern side of Tal'Dorei, from what you're
+
+familiar with. Like, we're talking Kraghammer to
+Gatshadow to the Jorenn Village. There's a lot of
+
+things. It's like a big horizontal mountain range
+that caps the top part of the continent.
+
+MARISHA: Do I recognize the city that I can get us
+to that's close?
+
+MATT: Fort Daxio or Kraghammer.
+
+SAM: Haven't been to Kraghammer for a while,
+although Daxio might be worth a check.
+
+TALIESIN: What's closest to the pools?
+
+MATT: Probably Terrah or the Pools of Wittebak.
+Those are the two that are closest.
+
+LAURA: What is Terrah?
+
+MARISHA: My home.
+
+MATT: Terrah's not your home.
+
+MARISHA: Sorry. Sorry, Terrah is the Earth
+Ashari.
+
+SAM: My other home, summer home.
+
+MATT: The home away from home.
+
+LIAM: Can you also remind me where my Vecdar made
+me feel Vecna-- where on the Prime Material
+
+Plane?
+
+MATT: Yes. Oh, where?
+
+LIAM: Yeah, we talked about it, but I can't
+remember.
+
+MATT: You did, yes. It seemed to be hundreds of
+miles northwest of Vasselheim. You didn't sense
+
+any movement, but you knew the general direction
+and distance.
+
+LIAM: And that was yesterday.
+
+MATT: Correct.
+
+LAURA: Teacher?
+
+MATT: Yes, Laura?
+
+LAURA: I was excited the last game and somehow
+have misplaced my Pelor champion piece of paper.
+
+LIAM: Oh, she doesn't get to have it now. That's
+how that works.
+
+LAURA: I don't know how it happened! It's not with
+my stuffs.
+
+MATT: That's okay, I remember what it does, and if
+you decide to use it--
+
+LAURA: You'll tell me? Okay.
+
+MATT: I won't tell you. You tell me you want to
+use it.
+
+LAURA: Oh shit, okay. I'm sorry. I had it, and
+it's not here.
+
+TALIESIN: It's weird how he's so nice and yet it
+still feels like you are in so much trouble.
+
+LAURA: I'm in a lot of trouble, you guys.
+
+LIAM: He's calm, but indifferent. Like the
+Dawnfather.
+
+MATT: All right, so what would you like to do?
+
+TRAVIS: Yeah, what would we like to do?
+
+MARISHA: Should we go to Terrah? Check in with
+them, I guess, while we're there?
+
+TALIESIN: Seems prudent.
+
+MARISHA: And talk to Pa'tice.
+
+TRAVIS: Yeah.
+
+MARISHA: All right. We ready to go?
+
+TALIESIN: I'm very ready to go. This is lovely and
+everything, but I've had my fill.
+
+MARISHA: I will burn my 8th-level spell slot to
+Plane Shift us to Terrah.
+
+MATT: To Terrah, all righty.
+
+MARISHA: Mind the gap.
+
+TALIESIN: What gap?
+
+MARISHA: Don't worry about it.
+
+TRAVIS: No effects from eating that fruit, right?
+
+MATT: No, you didn't sense any effects from that
+fruit, at the moment.
+
+TRAVIS: Didn't remove a curse or anything?
+
+MATT: No, you didn't. Nothing really caught you up
+to speed, in that.
+
+LAURA: Are we by those fruit trees again?
+
+MATT: There are no fruit-bearing trees directly
+near you. The Sun Trees are around you. Further in
+
+they do, yes. All righty. Bringing up my notes on
+Terrah, since that's where you're going.
+
+MARISHA: Yeah, I should probably--
+
+LAURA: I'm so confused about the order of things.
+If we go to Ioun, and we don't have everything we
+
+need for this Prime Trammel, are we fucked? I know
+we need godly power in order to imbue them, right?
+
+Or something?
+
+LIAM: Either here or soon we need to sit and work
+this out.
+
+SAM: What do we need to bring into the trammel?
+
+LAURA: Well, Pelor gave me this. Snap, snap, snap,
+zip. This. It's a stone and it's supposed to be
+
+strong enough to--
+
+LIAM: Power the trammel?
+
+LAURA: Part of it? Not all of it.
+
+MARISHA: We need to collect more, though, right? We
+have to get like eight or something.
+
+SAM: Wait, it said that?
+
+MATT: You weren't given any indication as to how
+many you needed.
+
+LAURA: But it did seem like this is not enough.
+
+MARISHA: Oh no, wait, Ioun was healing for eight
+centuries. That's where I got that number. Sorry.
+
+TRAVIS: I could do it, too. Five. Five stones of
+power.
+
+MATT: All right, so as you complete your spell,
+Keyleth, you step through the base of the nearest
+
+tree, possibly the same one you spoke with earlier
+if you want to be a dick about it.
+
+MARISHA: Oh yeah! Let's walk through that asshole.
+That sounds worse for us. But fuck it.
+
+MATT: All right, you aggressively stampede through
+the center of this one tree and emerge on the
+
+other side from one of the surrounding trees on
+the Terrah village. There are a number of these
+
+pseudo-petrified or dried-out large-trunk trees
+that seem to have slowly died off from the heavy
+
+tectonic shifts and small quakes that happen in
+this area, that have made a lot of the land unable
+
+to support large forms of plant life, or at least the
+trees that used to exist here. So you step out and
+
+emerge from the exterior of the village as it
+domes down into this small crater that you recall
+
+seeing before, where most of the village inhabits the
+central portion, and the village is there before
+
+you.
+
+MARISHA: What were the shard things called again?
+
+MATT: The shard things?
+
+MARISHA: The things we need to collect?
+
+MATT: There wasn't really a name for them more
+than they're small pieces of essence of the
+
+deity.
+
+MARISHA: So we need pieces of god.
+
+LIAM: Does the little seed of light given to my
+sister look anything like the little seed that
+
+Scanlan and Vax saw from riding the shadow
+creature in the sky?
+
+MATT: No. In a sense that it's a small source
+of power of some kind, but what you saw there was
+
+maybe about that large on the platform. What she
+has is bead size.
+
+LAURA: Is it this size? Or this size?
+
+MATT: Comparable to each. So you stand outside of
+Terrah. What are you doing?
+
+SAM: What time of day is it? How tired are we?
+
+MATT: Based on when you left, it would still be
+probably-- well, you were over in Vasselheim, which
+
+means it's getting dark, actually. I'd say with
+the way the sun has passed through the sky now,
+
+you've just gotten past dusk. There's still
+light in the sky, but it's going from oranges to
+
+purples to dark blues on the horizon, and you can
+see hints of firelight, torchlight and candlelight
+
+from within the actual city below.
+
+SAM: Well, what are we going to need on this trip?
+Maybe we should get whatever supplies we need. Is
+
+it far? Are we going to become gas?
+
+TRAVIS: Are we going underground?
+
+MARISHA: Oh, to Terrah?
+
+SAM: No, we'e in Terrah. But the next day, we're
+going to the--
+
+TALIESIN: To the pools.
+
+MARISHA: Do we want to stay the night here, then? I
+can't mist us right now. I'm tapped out. Camp
+
+here.
+
+LAURA: Vax? Can you sense Vecna? Is he still in
+the same place?
+
+LIAM: I can sense him?
+
+MATT: You can sense him. He is, from your current
+location, thousands of miles from you.
+
+LAURA: Oh, hard to tell, then?
+
+LIAM: He's still really shitty, though.
+
+MATT: Yeah, very heavy west-northwest direction
+from you, currently.
+
+SAM: Well, sleep? Do we need to get any intel on
+where these pools are? Do we need anything?
+
+LAURA: We should maybe talk to the people of
+Terrah? It's not that late.
+
+MARISHA: Yeah, let's go. They have a spare room
+for us.
+
+TRAVIS: Are you the leader of all the people?
+
+MARISHA: I'm the leader of the Air Ashari and the
+Voice of the Tempest.
+
+TRAVIS: Is that a yes or a no? You don't have to
+fucking brag.
+
+MARISHA: No, there's four of us, and I'm
+one of the four.
+
+SAM: Do you know the one who lives here?
+
+MARISHA: I do.
+
+SAM: Then let's go see him or her. Or they.
+
+MARISHA: No, we can just go, like I was saying
+five minutes ago. Let's just go.
+
+MATT: All right. So as you walk down into the
+village, a number of the guardians step out
+
+quickly, seeing an approaching party, however,
+recognizing Keyleth and her station immediately,
+
+turn into an escort that leads you to the center
+portion of the village.
+
+MARISHA: I request Pa'tice.
+
+MATT: Quickly enough, they go and retrieve
+Pa'tice. You see the elderly form of the leader
+
+you've met before step out, the graying hair, the
+weathered dark skin tones, the long greens and
+
+brown leathers that drape off, showing hints of
+the knees and lower feet, the large walking staff
+
+that he carries at his side as he approaches and
+the headdress that seems to be a combination of
+
+thick twines and shale shards that have been woven
+in, steps forward. "Keyleth. An unexpected visit,
+
+"most definitely."
+
+MARISHA: Kaitiaki.
+
+MATT: "Kaitiaki."
+
+MARISHA: Pa'tice, I am so sorry for the late
+intrusion. We've just gotten back from the plane
+
+of Elysium, so we're a little tired. Yeah, we're
+fighting a god right now, well, more of like a
+
+demi-god, so have you heard of Vecna? Sorry, I'm
+probably getting ahead of myself. Do you have any
+
+food? Let's talk over dinner.
+
+MATT: "We have food, yes. You are guests of
+Terrah. Please, we will provide whatever you
+
+"require. Come, provide them a meal!" And he puts
+his hand out and they run off quickly.
+
+TALIESIN: I like that people just feed us. We show up,
+and there's food.
+
+SAM: You've been used to that your whole life.
+
+TALIESIN: Not at home.
+
+SAM: I have to sing for dinner. You just say--
+
+TALIESIN: Have you ever tried not singing for
+dinner?
+
+SAM: Maybe I'll get more food.
+
+TALIESIN: You might!
+
+LIAM: You did have one year-ish where you were on
+the skids. You did your Prince and the Pauper bit
+
+for a little bit.
+
+TALIESIN: It's a big vague, but yes. I was on a
+boat for quite a while.
+
+TRAVIS: Oh my god, can we eat food?
+
+(laughter)
+
+MATT: And quick as that, you guys make your way
+down. It's a modest meal, but it's a meal
+
+nonetheless. Mostly hunted creatures of the local
+mountainside, some dried beets and root.
+
+MARISHA: We always try to source locally.
+
+TALIESIN: Charmingly provincial.
+
+MATT: (laughs)
+
+LAURA: Keyleth, perhaps you should let your people
+know that the world is in danger.
+
+MARISHA: So the world's in danger, as she said--
+
+SAM: The waiter is like, what?
+
+LIAM: Runs out the door.
+
+MARISHA: Aw shit! I just induced panic.
+
+MATT: Pa'tice, who's sat down with you, says
+quickly, "We have been made aware via the other
+
+"Ashari that there is some danger possibly coming.
+We are awaiting word of what to do other than keep
+
+"ourselves in a defensive position. We have to
+guard the rift, of course. But should there be a
+
+"call to action, we'll do what we can. I'm
+unfamiliar with this Vecna, but whatever you plan,
+
+"please be careful."
+
+MARISHA: (sighs) Okay. More than anything, I think
+I would want you all to be relief for the
+
+surrounding area and surrounding villages if
+anything disastrous were to happen. I know you
+
+have to guard the rift and that is insanely
+important and especially right now with someone
+
+like Vecna who could potentially abuse that. But
+if anything were to happen, I don't know if you
+
+could house extra people during a disaster.
+
+MATT: "We are quite good at assembling makeshift
+and temporary lodging. The rock is our friend, if
+
+"you will."
+
+MARISHA: Yeah, that's more, I think, what we would
+need.
+
+MATT: "Of course, of course! Not a worry."
+
+MARISHA: Currently, Vecna is just north of Vasselheim,
+close to Pyrah.
+
+MATT: "Have you asked Pyrah for aid, as well?"
+
+MARISHA: They've also been put on alert, but we
+have not personally been there yet since this has
+
+happened.
+
+MATT: "Well. Good. They're closer. But we're happy
+to help if we can."
+
+MARISHA: Yeah. Thank you.
+
+LAURA: Things are happening very quickly. We just
+happened here first.
+
+MATT: "We're happy to help. Where are you off
+to?"
+
+SAM: The Pools of Wittebak.
+
+MATT: "What brings you towards the Pools of
+Wittebak?"
+
+SAM: You know this place?
+
+MATT: "It is a series of poisoned wells and
+hulking, stupid giants."
+
+SAM: Hulking, stupid giants?
+
+LAURA: Giants? At the pools?
+
+MATT: "Yes."
+
+LAURA: I thought it was something about gnomes
+there.
+
+MATT: "It was once."
+
+SAM: They grew.
+
+(laughter)
+
+LAURA: Is that something you can do, Scanlan?
+
+SAM: I don't know. (laughs)
+
+MATT: "They're geothermic large puddles across the
+mountainside. Various minerals being lifted up
+
+"from the deep waters beneath the mountain. Heated,
+bubbling, boiling, steaming. But the giants moved
+
+"in hundreds of years ago, stomped around, and
+ended up filling the entire subterranean gnomish
+
+"city of Wittebak with fumes and poison. Killed
+most of them, and the rest fled to Kraghammer."
+
+LIAM: Do you all ever broach the area or do you
+just stay clear of it?
+
+MATT: "Best to avoid, we have our own business to
+deal with. And it's 100 miles from here. It's not
+
+"much of an issue."
+
+TALIESIN: And the pools are naturally poisonous?
+
+MATT: "Well, some are toxic, some are not, but
+since the giants moved in and ruptured some of the
+
+"natural formations, some of them have grown toxic
+or acidic, yes."
+
+MARISHA: Do you know if people still try to live
+there? We're looking for someone.
+
+MATT: "If they are, they're foolish."
+
+MARISHA: Okay.
+
+TALIESIN: That's our kind of people.
+
+LAURA: Maybe the person we're looking for is a
+giant.
+
+MARISHA: Maybe.
+
+SAM: Do you know what type of giant? We've seen a
+few types of giants. Do you know their make and
+
+model?
+
+MATT: "The dumbest. Hill giants."
+
+LAURA: Hill giants.
+
+TRAVIS: Yeah.
+
+MATT: "Easy to outsmart, difficult to outrun.
+They'll eat anything, even small little gnomes."
+
+LAURA: Seems like they ate a lot of them.
+
+SAM: (laughing) I guess so.
+
+LAURA: Pasty, I have a question. Do you know
+anything about Ioun?
+
+MATT: "I know of the name."
+
+LAURA: But not much.
+
+MATT: "We're not the most devoted people."
+
+LAURA: I know.
+
+MARISHA: I saw that.
+
+(laughter)
+
+MATT: "I can't imagine I'd have any information
+you wouldn't."
+
+LAURA: Okay. Just checking.
+
+MATT: "My apologies."
+
+LAURA: This food is really good.
+
+MATT: "Yes! Enjoy your meal!" And he gets up and
+walks away.
+
+TALIESIN: He was so officious.
+
+LAURA: I thought we were walking into a fucking
+lake with gnomes living there. I didn't realize we
+
+were going to fight giants.
+
+TRAVIS: This got so much better all of a sudden.
+
+TALIESIN: If it were easy, it really wouldn't be
+us, would it?
+
+MARISHA: So the question is, is there actually
+someone of some minor intelligence living there
+
+that is this magical key, or did that person get
+eaten by a giant?
+
+TALIESIN: I cannot believe I'm about to say this.
+I'm inclined to believe the god. They're in the
+
+position where trying to trick us out of leaving
+is not necessary. They could've just told us to
+
+leave and be done with it. That information just
+wouldn't suit them, I don't think.
+
+MARISHA: I'm not saying it's bad information, I'm
+just wondering who the key is.
+
+LAURA: It's possible the key is now inside of a
+giant's stomach. In which case, it still would
+
+be inside of someone. Just a different someone.
+
+MARISHA: Yeah. Maybe they're still living inside.
+Maybe it's like a Moby Dick situation.
+
+MATT: You do recall the map that was shown to you
+by the Dawnfather Pelor. It was adjacent to the
+
+pools, not actually in the Pools of Wittebak. It
+was within a forest, and was a home.
+
+LAURA: Oh! I remember it now! It was a home
+inside. Oh, I drew a little map of it. Yep, that's
+
+it. Yes, it's adjacent to the pools, but there's a
+home in a forest. Did you like it? That's what my
+
+map was.
+
+MARISHA: Can we theoretically just mist over
+everywhere?
+
+LAURA: I mean and look out for a home in the
+forest? We'll have to fly pretty low. I'm assuming
+
+the home is going to be covered by treetop.
+
+TRAVIS: We never travel traditionally anymore. I'm
+just saying, I miss the romantic aspects of
+
+traveling the countryside. It's like fast forward,
+immediate gratification, fucking you know.
+
+SAM: The Dawnfather said we must hurry or else the
+world will end.
+
+LAURA: It's very far. We could Misty Step to the
+forest and then walk in the forest?
+
+TRAVIS: Why are you fucking talking to me like I'm
+a child?
+
+LAURA: No reason, darling.
+
+TRAVIS: Okay. That would-- okay.
+
+(laughter)
+
+LIAM: Once this is all done, Grog, you and I will
+go on a long trek together.
+
+TRAVIS: Yeah? Yeah. I dig that.
+
+LAURA: Don't be dark and creepy and make it sound
+like you're being nice. I know you're being dark
+
+and creepy right now.
+
+TRAVIS: Oh, hey. Don't get after my camping
+partner like that, all right? Shit. Chill.
+
+LIAM: Can't predict this one.
+
+TRAVIS: No marshmallows for this witch.
+
+MARISHA: It is a little weird to be making
+promises, though.
+
+TALIESIN: Well, on that chipper little side note, I
+think we should turn in for the evening.
+
+SAM: Yes, do we have lodging?
+
+MATT: Lodging is provided for you. They have a
+number of various guest tents and small buildings
+
+that provide you with space. Not the highest of
+quality of places you've slept in, probably, and
+
+if you wanted to provide your mansion instead,
+you're welcome to, but ample food, quiet sleep.
+
+It's a comfortable evening's rest. You all find
+yourselves through the evening. As you sleep, and
+
+having this being the first time many of you
+have slept in Terrah, it takes you a while. There is
+
+just a general low hum or vibration to the
+ground that you sleep on. You get the sense it's
+
+probably proximity to the Rift, but there is this
+slow, perpetual (rumbling). It's like a weird, low
+
+rumble. Like a heavy bass sound that never seems
+to dissipate that you hadn't noticed until you
+
+were trying to quietly sleep. But it's not
+off-putting and within ten or 15 minutes, it
+
+actually almost helps to lull you to rest. You all
+come to in the morning, gather your supplies, and
+
+are preparing for the next leg of your journey.
+What do you wish to do?
+
+TRAVIS: Could I attune, either before I go to
+sleep or when I wake up, to the Dwarven Thrower
+
+instead of the Bloodaxe?
+
+MATT: You may. All right. Any other attunements,
+anyone wishes to--
+
+LIAM: I'll set the Deathwalker's Ward to acid.
+
+MATT: All right, to acid. Boom.
+
+LAURA: Before everyone else gets up, can I go find
+where Vax is sleeping?
+
+MATT: You may.
+
+LAURA: This is a tent. What do I do? Do I knock?
+Do I shake it? I'm not sure. Scratch?
+
+MATT: They're lodging made from large pieces of
+shale and rock, jammed into a somewhat triangular
+
+pattern to form an earth yurt, if you will.
+
+LAURA: Oi. Vax. Are you naked?
+
+LIAM: Yes.
+
+LAURA: Put some clothes on, then. Jesus. Keyleth,
+sorry.
+
+MARISHA: Keyleth opens the shamble door first with
+a little earth movement. I'm dressed. Yeah. I'm
+
+not like that.
+
+LAURA: You don't sleep naked?
+
+MARISHA: I'm going to go get coffee.
+
+LAURA: Okay.
+
+MATT: (laughs) Keyleth darts off in the distance
+and the two of you are left within the tent.
+
+LAURA: Are you decent?
+
+LIAM: Yes.
+
+LAURA: I'm coming in.
+
+LIAM: I'm still naked.
+
+LAURA: Ugh, come on! So fucking weird. (groans) I
+turn my back to him.
+
+LIAM: I start putting on the rest of my armor.
+
+MATT: Okay. (laughs)
+
+LAURA: Can I ask you a question? Well, I'm going
+to.
+
+LIAM: Of course you can.
+
+LAURA: I look down at my feet. Why didn't you ever
+try to take these back?
+
+LIAM: Well, they're going to be yours, anyway.
+
+LAURA: Oh, Jesus. You know, the only reason I
+do things is that I take great joy in irritating
+
+you. If you don't show irritation, it makes it not
+worth it. (sighs) Can I turn around now? I'm
+
+turning around.
+
+LIAM: I am covered.
+
+LAURA: Good. Why are you so calm? You're so calm
+and confident now. It's weird.
+
+LIAM: I mean, I'm on bonus time.
+
+LAURA: Is he still cold?
+
+MATT: His skin is colder than a warm body, yes.
+
+LIAM: But I'm not Bobby Drake, right?
+
+LAURA: What's his heartbeat like?
+
+MATT: (very slow heartbeat)
+
+LAURA: (groans) Jeez!
+
+TALIESIN: Wow, way to hang onto that one, Matt.
+
+LIAM: But look. (slashing noise) I mean, look.
+
+LAURA: Is there blood?
+
+MATT: Yeah, he bleeds, and it's a pretty open
+wound. You watch as the wound slowly seals itself
+
+up.
+
+LAURA: (gasping) No fucking way!
+
+LIAM: Oh, I didn't know it did that.
+
+(laughter)
+
+LAURA: That's really cool.
+
+LIAM: Thank you!
+
+LAURA: Wow.
+
+LIAM: I don't know, this is the dumbest
+conversation. This is bonus time. I shouldn't be
+
+here. It was the long sleep or come back and
+help.
+
+LAURA: So she gave you the option and then you
+came back and now you're what? Super? Super
+
+half-elf?
+
+LIAM: Well, I'm just following through on a
+promise made.
+
+LAURA: And we defeat Vecna and you're done, you're
+gone. That's it? Instant? Is it like we kill him
+
+and you're gone that second or is it like we kill
+him and you're here for another week or until
+
+the Raven Queen realizes that you're still here?
+
+LIAM: There isn't really a handbook.
+
+LAURA: She didn't tell you?
+
+LIAM: When Vecna is destroyed, she will call me
+back to where I would be right now. I expect
+
+everyone-- Keyleth and I have barely spoken-- I
+expect everyone to be sad, but I wish you wouldn't
+
+be so sad, not exorbitantly so, because I--
+
+LAURA: Exorbitant? That's a good word.
+
+LIAM: I read. Not as much as some, but I read.
+This is the path that I have chosen for myself and
+
+I did it based out of desperation, at first. But
+everyone dies.
+
+LAURA: I know.
+
+LIAM: And I think our group has become a little
+spoiled. We're not your ordinary group of idiots. We
+
+have blessings.
+
+LAURA: We're blessed idiots.
+
+LIAM: Blessed idiots, yes, and I know that we've
+gotten used to feeling like we can overcome losing
+
+anyone, but your average farmer or seamstress
+doesn't come back. And everybody dies, and all
+
+that matters is what you do with what you have,
+and I have done a lot, and I've taken great pride
+
+watching all that you have done. And I have good
+friends and I have fallen in love. More than most,
+
+I've had.
+
+LAURA: Yeah. After you die, do you stand by her
+side?
+
+LIAM: That I don't really know. I imagine she'll
+keep me close.
+
+LAURA: Do you like her now?
+
+LIAM: Yes.
+
+LAURA: That's good.
+
+LIAM: She's necessary and she's of use, and I like
+that.
+
+LAURA: She brought you back to us for a while. I
+like her, too. Anyway, do you want the fucking
+
+boots back? Fuck! Yeah, sure, yes, fine, that's
+fine. I wanted to give them back, so there you go.
+
+I'm glad you asked for them back.
+
+LIAM: I don't have a lot of time. They really are
+my favorite thing.
+
+LAURA: I know.
+
+LIAM: Physical thing.
+
+LAURA: Just make sure you write it down
+somewhere that after you go back to the Raven
+
+Queen that your sister is your favorite in the
+universe.
+
+LIAM: Dear, every stitch on my body is yours when
+I am gone.
+
+LAURA: I don't want every stitch. None of it's
+worth you leaving.
+
+LIAM: I slide my feet into the shoes and I wiggle my
+toes around. Oh, I'm sorry. I also have a
+
+confession to make.
+
+LAURA: What?
+
+LIAM: I don't exactly have your shoes anymore.
+
+LAURA: What?!
+
+LIAM: I think that I left them in the Feywild.
+
+LAURA: The Feywild?
+
+LIAM: Yeah, I think I dropped them into a bog. They
+didn't fit me.
+
+LAURA: You are a motherfucker. You couldn't have
+just put them in the Bag of Holding?
+
+LIAM: I'm still me.
+
+LAURA: Great, wonderful. I like being barefoot.
+
+LIAM: You have very cute, small feet that fit in
+the boots that you gave me that did not fit my feet.
+
+LAURA: That's great.
+
+LIAM: There's probably shoes here.
+
+LAURA: Probably. All right.
+
+LIAM: I pull out her shoes and I put them down.
+
+LAURA: Well, at least there's that!
+
+MATT: Got your shoes back. Keyleth returns with
+some coffee. The rest of you come to
+
+consciousness, and the morning sun is now blaring
+down over the Cliffkeep. It's a strangely clear
+
+sky for the north. While a lot of it is relatively
+cold usually, you're used to seeing the snow-
+
+capped mountaintops-- oh, you found it! There you
+go.
+
+TALIESIN: It was with you the whole time.
+
+LIAM: Must have been inside your shoes.
+
+LAURA: Oh my gosh! I put it in the safe place and
+I didn't realize it!
+
+TRAVIS: Thank you, chat.
+
+LAURA: Did they really know where I put it?
+
+TRAVIS: Yeah, they know where your shit is.
+
+SAM: The chat knew where you put your stuff?
+
+TRAVIS: "It's in the page in front of your blue
+divider."
+
+SAM: No way!
+
+LAURA: Wow, thank you. Thank you, guys!
+
+LIAM: How many fingers am I holding up?
+
+MATT: So bringing it back in, guys.
+
+SAM: Yes, we have a guest.
+
+MATT: Yes. At some point. So what do you guys want
+to do?
+
+SAM: Set off! For the Pools of Hatabah!
+
+(laughter)
+
+TALIESIN: For the forest near the Pools of--
+
+SAM: The adjacent to the Pools of Hatafah.
+
+TRAVIS: We didn't want to bring any extra muscle
+with us, do we, from these peeps? Oh wait, we're
+
+misting a long ways away. Never mind. Sorry.
+Forget it.
+
+LIAM: Grog, you are our extra muscle.
+
+TRAVIS: See! High five! Up top.
+
+LIAM: I'm not dead.
+
+TRAVIS: His hand's cold.
+
+MATT: So you're traversing via your Wind Walk?
+
+MARISHA: I guess. Are we wind walking there?
+
+LAURA: (mispronouncing) Wind.
+
+MARISHA: (mispronouncing) Wind walk? Wind
+walking.
+
+LIAM: (mispronouncing) Wil Wheaton!
+
+SAM: Hey, before we leave, real quick: Kiki.
+
+MARISHA: Yes.
+
+SAM: Can you send messages or anything?
+
+MARISHA: No, man. We have been through this with
+our entire group so many times.
+
+SAM: It's just you're so powerful.
+
+MARISHA: Thank you.
+
+SAM: Let's go.
+
+MARISHA: What do you need?
+
+SAM: I would send a letter, but it'll take
+weeks. So forget it. We'll be somewhere close to
+
+somewhere with magic soon.
+
+MARISHA: We can leave it in the hands of the
+Ashari, see if they can find somebody.
+
+SAM: You trust these folks?
+
+MARISHA: Yeah. They're all right.
+
+TALIESIN and MARISHA: They're not the worst.
+
+SAM: All right, I'll scribble a little note and
+say-- well, no, there's no way they can get it to--
+
+it's too far! It's too far!
+
+TALIESIN: I was really excited to see your face
+when you handed it to them and they're like, what
+
+are we supposed to do with this?
+
+SAM: Here, I'll show you, Grog.
+
+TRAVIS: Write it out, bitch!
+
+SAM: I write, a sphincter says what.
+
+TRAVIS: A. As. Good message. That's a big word at
+the front.
+
+LAURA: You could have gotten the last one,
+though.
+
+TRAVIS: What!
+
+SAM: Yes!
+
+MATT: Pike taps you on the shoulder and is like,
+"I'll teach you that later."
+
+TALIESIN: Thank you for the Ashley Johnson
+simulator. That was weirdly comforting.
+
+MATT: Curse you, Blindspot!
+
+TRAVIS: Yeah! Are we misting?
+
+SAM: Yeah, let's do it.
+
+LAURA: Should we eat a feast first, or should we
+save that?
+
+TALIESIN: Let's save that.
+
+LAURA: Okay. I don't know what we're going to
+find!
+
+MATT: That's up to you guys. So preparations being
+done, you gather your materials, Keyleth completes
+
+the Wind Walk spell and you all feel yourselves
+grow slightly lighter on your toes. You
+
+concentrate. Over the minute transformation, you
+turn into your mist forms and take off in what
+
+direction?
+
+MARISHA: Towards the Falafel Pools!
+
+SAM: We wrote it down.
+
+TALIESIN: Falafel pool is actually really tasty.
+
+TRAVIS: Pools of Wittebak.
+
+LAURA: Yeah! Towards the mountains!
+
+SAM: He said "which direction?" He did not say
+"Where are you going?" He said "which direction?"
+
+LAURA: We got to look at our map.
+
+MARISHA: We have it on the map!
+
+LAURA: We have a map!
+
+MATT: Okay! Well, you have Terrah locked down. The
+Pools of Wittebak would not be on your specific map
+
+that you acquired earlier. You can ask around
+within Terrah within a brief time and figure it
+
+out. Somewhere between 100 and 120 miles, and he
+points in a specific direction. You mark the sun's
+
+traveling and where certain landmarks are.
+
+MARISHA: I quickly do the math of how fast I can
+travel and be like okay, it shouldn't take long.
+
+MATT: It's an eastward direction from where you
+are.
+
+TALIESIN: You did actually, legitimately point
+east, too, which makes that even better.
+
+MATT: That's weird.
+
+TALIESIN: Yeah, that is weird.
+
+MATT: I'm putting points in my nature skill. Or
+survival, I guess. Anyway, too many editions in my
+
+head. (laughs) As you all take off into the
+morning sky, you begin to rocket over, and you're
+
+hitting jets of wind that are beginning to find
+their way over the mountain ranges, and you get
+
+blown a little off-course, but you maintain
+concentration as best you can in that direction.
+
+Who is leading this venture?
+
+SAM: I've been there. No, I knew of it, right?
+
+MATT: You knew of it, yeah.
+
+SAM: But I don't know exactly where.
+
+LAURA: After listening to everybody, I'll lead the
+way. That way, I can keep an eye out for the
+
+forest next, too, and the house and all the
+things we're looking for. I got a good look at the
+
+map that Pelor held up in front of us, as well.
+
+MATT: Right. Okay, cool. I need you to go ahead
+and make a survival check. Actually, for this, I'm
+
+gonna say-- yeah, because it would be tracking in
+the wilderness. So survival.
+
+LAURA: Survival? Great. Any advantage on that?
+
+SAM: Wilderness is your favored terrain.
+
+MATT: It's mountains, technically.
+
+LAURA: That's also my favored.
+
+MATT: Then yeah, roll again.
+
+TRAVIS: Because that was a one.
+
+LAURA: Oh! So much better. 28.
+
+MATT: Okay, that'll do it. Your speed is
+tremendous when in this form, so what would have
+
+been an extended trek on foot over a series of
+days, it takes you mere hours to eventually get to
+
+a point where you crest one heavy peak. On the
+opposite side, you can see down the cliffside, the
+
+edge reaches a slight precipice, and there you can
+see what looks to be for a mile or so a cluster of
+
+dozens and dozens of pools of water of different
+sizes, all jammed together in a geothermic
+
+cluster, where you can see bright greens that move
+to a deep orange-maroon at the edges from the
+
+various mineral deposits that have collected over
+hundreds and hundreds of years. You can see large
+
+columns of smoke and steam of different chemical
+colors rising out of various large pools, and at a
+
+glance down, you can see a number of shapes: a
+number of hulking, humanoid shapes; somewhere in
+
+the neighborhood of 40 to 50 or so scattered at
+different pools, moving in small clusters or
+
+gangs. Some of them are jumping in, cannonballing
+and swimming through the actual pools. Some of
+
+them are lounging around and lying. Some of them
+appear to be returning, dragging things from the
+
+nearby forest on the eastern side of the bank.
+
+MARISHA: This is a vacation spot. What's that
+water park nearby?
+
+LAURA: Wet 'N' Wild?
+
+MATT: Essentially, for a few hundred years, you
+get the sense that the Pools of Wittebak have been
+
+a hill giant water park. You can see these large
+mounds of mud and scrap wood and things that have
+
+been built into these large hill giant domiciles
+onto the side of the mountain not far from the
+
+pools. It's become a definite hill giant wandering
+zone. So do you guys continue over the pools, down
+
+towards the nearby forest ridge?
+
+LAURA: Yeah, past the pools.
+
+MATT: All righty. You come to the forest ridge,
+and you can see it's not thick forest. The ravine
+
+comes down off the precipice where the pools are.
+You get a few hundred-- I'd say, actually more
+
+than that. A thousand or more feet away from that
+precipice before plants even begin to grow. It
+
+looks like whatever toxic chemicals have burbled
+up in some of these pools have made a lot of the
+
+ground there unable to give any forest life or
+sustain any large trees. As soon as the forest
+
+begins, it's a dense little pocket, maybe a mile
+and a half, two miles across. That's what you've
+
+got. What do you guys want to do?
+
+LAURA: Oh man. I should try to track any
+footprints in there and see if there's something
+
+around the edges, maybe, that lead back to-- shit,
+I don't fucking know. It's only a couple of
+
+miles.
+
+MATT: If you guys begin to do a loop-over, who's
+doing a quick pass over the patch of forest? All
+
+right, make a perception check.
+
+LAURA: It's the forest. Do I get advantage on that
+one? Perception? What is that, 21? 21.
+
+TALIESIN: 12.
+
+MATT: Okay. Glancing over, you don't see any major
+glades or clearings. There doesn't appear to be
+
+any sign of bastions of civilization or any sort
+of logging going on. There's no areas where trees
+
+have been cut or cleared. It's a featureless
+forest top, from what you can see.
+
+LAURA: Can we fly down lower to where we're in
+between the trees?
+
+MATT: You can go down into the forest, if you'd
+like. All right, who's going into the forest,
+
+then?
+
+MARISHA: I'll go.
+
+LAURA: I'll go. All of us?
+
+MATT: So with Pike following suit, you guys all
+swoop down through the boughs of the trees and
+
+into the center of the forest itself. Within
+there, it's not a super thick canopy; it's not as
+
+heavy as the Feywild or some of the recent forests
+that cluster around Vasselheim. There are breaks
+
+in the canopy where you can see the sunbeams come
+through from the morning sun that's rising up
+
+higher and higher in the sky as you've traveled. The
+mist has burned away in this area, so it's a nice,
+
+warm forest. Glancing about, there is a lot of
+life in here. You can see signs of squirrels. You
+
+rush by what was a family of wolverine-like
+creatures that are rustling by. As soon as the
+
+wind scoots in and your mist forms come rocketing
+past, they all scatter and run off into the
+
+shadows. There's a lot of forest ground here to
+cover. For you to really super track with
+
+advantage, you'd have to go into human form. I'd
+give you a regular roll if you want to try and
+
+track in your mist form.
+
+LAURA: Not so much tracking right now, just a
+loose passover as we're going, looking for any
+
+kind of hunting traps or trails, signs of life of
+things that have been traversed a lot.
+
+MATT: I'd say make an investigation check.
+
+LAURA: 27.
+
+MATT: 27. Begin coasting through tree after tree
+through small, tiny bits of clearing that
+
+immediately come into large clusters of trunks and
+knotted branches that all merge and cluster at
+
+different intersections. After about 20 or so
+minutes of this, trying to do a large spiral
+
+around the forest inward, out of the corner of
+your eye, Vex'ahlia, you glance over and see a
+
+quick glimpse of something that appears to be more
+structured. You look back and rush over and there
+
+you see amongst the trees what appears to be a
+humble-looking two-story home. You see a small
+
+balcony built on the second floor that goes over
+one of the larger rooms in the bottom floor. It's
+
+not huge, by any means, and is hidden by a lot of
+the local brush and trees there. Can't get a lot
+
+more detail at this distance, though.
+
+LAURA: Okay. We land. I land.
+
+MARISHA: I follow.
+
+LAURA: And behind a tree, I'm going to take form.
+
+MATT: You take your form? Okay. So all of you land
+and follow Vex?
+
+SAM: Yeah!
+
+MATT: You all take a minute to go back to your
+physical forms. You glance over, and there it is,
+
+standing before you. It's very shaded in this part
+of the forest. You can see a little bit of what
+
+looks to be interior light, very faint.
+
+TRAVIS: Like a normal person-sized dwelling?
+
+MATT: Make a perception check.
+
+TRAVIS: Natural 20!
+
+LAURA: Yay!
+
+MATT: It would be a little small for you, Grog.
+But you could walk in it. Proportionally, it looks
+
+maybe like it was built for a little bit of a
+smaller person.
+
+TRAVIS: Okay.
+
+LIAM: I want to start eyeballing the ground of the
+house for any kinds of traps set out. Is that
+
+investigation, yeah?
+
+MATT: That is investigation.
+
+LIAM: 18.
+
+MATT: 18. Okay. So you guys begin to slowly--
+
+TRAVIS: Wait. Before we do, there are no random
+nudist giants that have run over in this area,
+
+right? There's nobody sees us over here taking
+off?
+
+TALIESIN: You're worried about giants streaking?
+
+TRAVIS: Not particularly.
+
+TALIESIN: That was very specific.
+
+TRAVIS: Well, yeah, have you ever seen a giant
+naked? You'll never forget it.
+
+TALIESIN: I might. I don't know.
+
+SAM: Are you suggesting we set up a perimeter?
+
+TRAVIS: Yeah! I mean, it's a tiny house, I don't
+really want to go in there. I like having exits I
+
+fit through.
+
+LAURA: I don't want whoever it is to think that we
+threaten them in any way. But then, if they
+
+threaten us, I wouldn't want them to attack us,
+either.
+
+TRAVIS: Yeah, I'll just knock the house down from
+the outside.
+
+TALIESIN: Let's keep this structure standing for
+now.
+
+TRAVIS: I'll stay outside.
+
+SAM: Are we knocking properly or are we just going
+to Invisibility in and see who's in there?
+
+LAURA: I feel like maybe knock properly.
+
+TALIESIN: If you think long and hard about it,
+it's not like manners have failed us very often.
+
+LAURA: Yeah. But do keep an eye out for traps or
+anything weird on the way up.
+
+MARISHA: I think we've failed at manners often.
+
+TALIESIN: We fail at manners more often. We'll see
+how this goes. We'll try being nice.
+
+TRAVIS: I'll stay out here.
+
+SAM: I'll go knock on the door. It seems like a
+smallish door, right?
+
+LAURA: Yeah, I'll go with you.
+
+MATT: Okay, so what's the marching order?
+
+SAM: I'll go first.
+
+LIAM: Nothing perked up my spidey-sense?
+
+MATT: From this current glance, no. You guys are
+behind a tree at a distance.
+
+TRAVIS: No nude giants, right?
+
+MATT: Currently, no, but you're keeping an eye
+out.
+
+LAURA: I'm walking with a smile, looking very
+friendly.
+
+MATT: Who's leading the charge?
+
+SAM: I'll go knock.
+
+LAURA: I'll walk behind Scanlan.
+
+MATT: We have Scanlan and Vex'ahlia.
+
+LIAM: I'm going to go, as well, and continue to
+eyeball for traps.
+
+TALIESIN: I'll be hanging back a bit, as well.
+
+MARISHA: I'll be comfortably back, as well.
+
+SAM: Before we knock, what were we told was in
+this thing?
+
+TRAVIS: The key.
+
+SAM: The key. Inside a person, inside a house.
+
+LAURA: It's possible the person is the key; we're
+not sure.
+
+MATT: Is Trinket within your necklace for this?
+
+LAURA: No, he's out.
+
+MATT: Okay, Trinket is out alongside you. Grog?
+
+LAURA: He's a very friendly bear, look at him!
+
+TRAVIS: I'm outside the house.
+
+LAURA: Trinket, smile! Be friendly!
+
+MATT: As you get across this small walkway towards
+the front, as you're walking with a big smile,
+
+Vex'ahlia, something catches your eye on the
+ground right before her and you watch as she steps
+
+forward. You reach out and grab her wrist and hold
+her back before she steps down.
+
+LAURA: What is it?
+
+MATT: There is a large, rusted, iron bear trap
+that is open that you almost stepped right into.
+
+TRAVIS: That would be have been donesies.
+
+LAURA: I was being friendly, and it almost crushed
+me. Trinket, be careful, this thing was made for
+
+you.
+
+MATT: Trinket walks up to it.
+
+LAURA: No, no, be careful! Spit on it!
+
+MATT: (growling)
+
+LAURA: Can he spit? Can Trinket spit?
+
+MATT: (bear spitting) It's not very-- it's more of
+a power drool, if you will.
+
+LIAM: Is it easy enough to walk around?
+
+MATT: You can walk around that one, and you begin
+to see what looks to be seven other ones that are
+
+clustered around.
+
+TALIESIN: This is probably a giant-infested
+forest.
+
+MARISHA: Yes, that's exactly why. Bear traps are the
+biggest thing you can get for a giant.
+
+SAM: Can we evade them and get into--
+
+MATT: You begin to walk around. Yeah, you would,
+actually. As you step around one, you can see, at
+
+the front door, there is a welcome mat that says
+"welcome." As you're approaching it, you can see
+
+the welcome mat, there's just something a little
+off about it. Like, it's raised higher than the
+
+ground should be.
+
+TRAVIS: Willkommen.
+
+MARISHA: Trapped?
+
+LIAM: Well, I could attempt to dicker with it, but
+we could just knock the door over it if we really
+
+are going on manners.
+
+TALIESIN: Double-check to make sure the door isn't
+a problem, either. I'd imagine if the welcome mat
+
+is.
+
+LIAM: The door's going to blow up if we knock on
+it? I mean, we don't have much luck with doors.
+
+LAURA: Can I grab a stick and lift the edge of the
+mat up?
+
+LIAM: Do you want to do that?
+
+MATT: Are you stopping her from doing that?
+
+LIAM: Yes, I am! Let me take a look at it, please!
+I've already detected it. I will attempt to disarm
+
+it with thieves' tools, correct?
+
+MATT: Yes.
+
+LIAM: That's fine. That is a 29.
+
+MATT: You walk over. You look and you watch.
+There's a small cord that is hidden amongst the
+
+brush that runs from underneath the mat through a
+small ring that goes up from the house, then up a
+
+branch or vine, so it's hidden amongst them. You
+look straight up about 40 feet, you see a nice,
+
+solid, thick trunk that is just (creaking).
+
+TRAVIS: That's some Predator shit!
+
+MATT: Right above the door.
+
+TALIESIN: I feel like there's a complicated story
+that goes along with all of this. I'm really
+
+excited by it.
+
+MARISHA: Is this going to be an Uncharted kind of
+adventure?
+
+TALIESIN: We have found the cabin of Macaulay
+Culkin!
+
+MATT: So knowing this, you walk over and grab the
+cord. Looking to see where the leverage is, you
+
+motion to Grog to come over and hold it. You find
+another piece of heavy stone that is by the wall
+
+to the side. With Grog's help, you snip it, bring
+it over, and tie it onto the edge of this piece of
+
+the stonework, like a small pole that was placed
+at the base of the house. It holds the weight of
+
+this suspended trunk and it no longer triggers
+based on the step.
+
+LIAM: Percy, I'm sorry, I know you like a good
+Rube Goldberg.
+
+TALIESIN: I was really excited by this thing. It's
+a shame to dismantle it.
+
+LAURA: It's still there. Maybe when we leave, we
+can crash it down.
+
+LIAM: Does the door look hinky at all?
+
+MATT: Make an investigation check.
+
+MARISHA: You did say kinky, right?
+
+LIAM: I said hinky. 18.
+
+MATT: 18. It does not appear to be trapped, per
+se. It does appear to be locked.
+
+LIAM: Yeah, well, I don't want to pick it.
+
+LAURA: I want to use a stick, and oh! Here,
+Scanlan, you were going to knock.
+
+SAM: (chuckles) What is this stick?
+
+LAURA: So that you don't have to touch the door in
+case it's magic.
+
+MATT: Which as a note, the door, at full height, is
+about at the shoulders of most of you. You
+
+recognize this. This is definitely a homestead
+built on the scale for probably halfling or gnome.
+
+It's still pretty big for a gnomish home, meaning
+it's a little more spacious headroom, you'd
+
+probably be able to stand in comfortably, except
+for you, Grog, you're probably a little hunched.
+
+LIAM: So it's like an ostentatious gnome door.
+Little more than is needed.
+
+SAM: Like me. I'll just rap on the door with my
+knuckles.
+
+MATT: Okay. There is an awkward pause.
+
+SAM: Hello? Bidet?
+
+MATT: Darin, if you want to go ahead onto the
+stage, please.
+
+(cheering)
+
+LAURA: I'm glad he didn't murder us with his bear
+traps.
+
+SAM: You need this? Oh, you need this. Oh! I've
+been goosed.
+
+LIAM: Hey, chaotic evil necromancer gnome.
+
+MATT: You weren't supposed to tell them.
+
+DARIN: I didn't.
+
+MATT: So you hear amongst your business for the
+day, out of nowhere (knocking) on the door.
+
+SAM: Kaitiaki!
+
+DARIN: I open it.
+
+MATT: Okay, you hear (clicking) what sounds like
+six or seven different locks unlock on the door,
+
+as it slowly swings open, and before them what do
+they see?
+
+DARIN: A very small, elderly gnome, bald on top,
+with a long white beard, and a bit of a distant
+
+look in his eyes, and he looks at you and says,
+are you real?
+
+LAURA: I think so.
+
+DARIN: You're real? Prove it! Say that you're real
+to my invisible frog companion.
+
+SAM: I will step forward and say, hello, there.
+(whispers) I'm real.
+
+DARIN: Yes, you're real. There is no invisible
+frog companion. The voices in my head would not
+
+have spoken to that. (stuttering) They know a
+little bit better than that, but that doesn't
+
+matter, I haven't had people here in over 35
+years. (laughs) But you're here! And you're real!
+
+Go away.
+
+(laughter)
+
+DARIN: Demistrik, show them out.
+
+MATT: You watch as two tiny red claws come around
+the corner as these tiny, impish wings unfurl. You
+
+watch as a tiny imp releases from the edge of the
+doorframe. (wings beating) "Get out!"
+
+(door slamming) and slams the door.
+
+DARIN: And show yourself out, Demistrik. I don't
+need you here, 19 years of you is more than
+
+enough.
+
+MATT: You hear muffling argument through the door
+as the voice goes, "I'll stay where I damn please.
+
+"You gave me permission to stay. If anyone is going
+to leave, you're going to leave!"
+
+DARIN: I think you should go to Kraghammer and
+become a circus performer with a little tin cup
+
+and a little hat and say, "Oh dear, I am
+Demistrik, the magical imp." That's where you
+
+belong, I tell you right now.
+
+MATT: "Sounds like a lot more fun than having to
+deal with you on a daily basis, you son of a--"
+
+DARIN: (offended cry) Language, imp!
+
+MATT: The door creaks open once more. "Sorry."
+(door closing)
+
+DARIN: The door creaks open again. I'm sorry, as
+well. (whispering) For him, he's awful.
+
+LIAM: I stick my foot in!
+
+DARIN: No!
+
+(laughter)
+
+LIAM: I'm really very sorry to bother you, although
+I'm delighted to make your acquaintance. I'm
+
+having a very hard time not just smiling like an
+idiot. Could we trouble you just for a few
+
+moments? We mean no harm at all. We do need to
+talk to you. We've come a very long way... as
+
+farts. That's got to count for something.
+
+LAURA: (sing-songy) We could give you some
+interesting conversation. 35 years is a very long
+
+time.
+
+LIAM: We've done a lot, we've seen a lot, we could
+tell you all about it.
+
+SAM: I play an old, traditional gnome song to
+soften him a bit.
+
+MATT: Make a performance check.
+
+LAURA: What is an old gnome song?
+
+SAM: I don't know.
+
+(laughter)
+
+SAM: 24.
+
+MATT: It's been a long time since you've heard
+music, let alone one that scratches an old memory
+
+of childhood. It's nice.
+
+TALIESIN: It's more or less whatever strikes your
+fancy, to be fair.
+
+ALL: (humming Going to the Chapel)
+
+MATT: You see the imp in the back going, "Ugh!
+Stop that racket!"
+
+DARIN: You don't even appreciate music. What would
+an imp song sound like? You can't say one, can
+
+you? Because you don't have music where you're
+from.
+
+MATT: "I can, but it'll cause your ears to
+bleed! It sounds like this." (screeching)
+
+DARIN: I find that very entertaining.
+
+MATT: "You're such a liar!" The imp (poof)
+vanishes before you.
+
+DARIN: He's gone. Don't worry about him. He gets a
+little bit... testy, if you will.
+
+SAM: May we speak? May we have a moment of your
+time?
+
+DARIN: Oh, well... Very well. You can come in if
+you like. Oh! Be careful, there's illusions and
+
+thingamabobbers.
+
+LIAM: (stammers) Sorry, that's infectious. We have
+a really big guy. Are you all right with him
+
+coming in? Grog, are you all right with coming
+in?
+
+TRAVIS: How the fuck do I get in that damn door?
+
+LIAM: Have you not crawled on all fours before?
+
+TALIESIN: You should try it if you haven't; it's
+quite delightful.
+
+TRAVIS: Are you lying?
+
+TALIESIN: No. For once, no, I'm not.
+
+TRAVIS: Can I do an insight check on Percy?
+
+MATT: Sure.
+
+TRAVIS: 19.
+
+TALIESIN: I have never actually been quite so
+honest in my entire life. I think you'll find it
+
+very therapeutic.
+
+TRAVIS: I roll in on all fours.
+
+TALIESIN: How does it feel?
+
+TRAVIS: I'm waiting for it to kick in.
+
+TALIESIN: Crawl forward, back a bit, stretch,
+downward dog, stretch.
+
+MATT: You watch as this large, gray-skinned
+mountain of a man crawls his way in. You could
+
+duck-walk through if you really wanted to. This is
+worse than Gandalf in Bag End. All fours is
+
+probably the most comfortable means of transport
+through the house. But you walk in and
+
+immediately, you watch as your new gnomish friend
+is going around and quickly disabling small
+
+things, putting small keys and tying off strings
+and wires you saw that were set up around portions
+
+of the room.
+
+TALIESIN: I am going to try and map this in my
+head, the crazy stuff I'm seeing right now.
+
+MATT: This place is a hoarder's den. You see
+shelves and shelves of books and papers and
+
+scrolls and stacks of them. You see on bits of
+furniture and chairs more stacks of books and
+
+sacks and satchels and quills and inkwells. Some
+spilled and left and dried long ago. This place is
+
+very lived-in, very chaotic, and very unique.
+
+LIAM: The first thing that I do as we come in is I
+scan the room, or rooms, for more Macaulay Culkin
+
+shenanigans.
+
+MATT: Make an investigation check.
+
+TALIESIN: Maculkins. I think we can just call them
+Maculkins now.
+
+LIAM: That is a 21.
+
+MATT: Okay. You do see there's one portion of the
+floor that he keeps avoiding, instinctually, that
+
+catches your attention. You're like, "why does he
+keep walking around that?"
+
+MARISHA: What's your name, friend?
+
+DARIN: Oh, well, that was taken from me a very
+long time ago. I only have what they call me. You
+
+know, names are an odd thing, aren't they?
+Sometimes a name can stick to you like blood on a
+
+knife or your fingers on a wallet that might not
+be your property, and then who you were is not who
+
+you are and yet... here we are.
+
+MARISHA: That oddly made way too much sense.
+
+SAM: What do they call you?
+
+DARIN: They call me Sprigg. There's more. They
+call me Sprigg the Obnoxious.
+
+SAM: Sprigg the Obnoxious?
+
+DARIN: Yes. It's not my given name; it was a name
+that was given to me when it was given to me.
+
+LIAM: Did you used to be obnoxious? Because I'm
+not picking that up.
+
+DARIN: Oh. We're rarely who we used to be.
+
+TALIESIN: Is there mercury in those pools?
+
+(laughter)
+
+DARIN: Who? Is that a friend of yours?
+
+TALIESIN: I sometimes will talk to the fourth
+wall. It's a thing; ignore it.
+
+DARIN: It's a domicile. There has to be four
+walls. If there weren't, it would be a yurt. I
+
+don't live in a yurt, dear boy.
+
+MARISHA: I sometimes live in a yurt. They're quite
+nice.
+
+DARIN: I have nothing against yurts. (laughs) Like
+a stick that you would put in a yurt so it
+
+wouldn't fall over. I would want it to fall over,
+therefore, I have nothing against yurts.
+
+(wheezing laughter) Demistrik!
+
+MATT: The imp just appears across
+the room and just goes, "Good one. That was-- I am
+
+"so sorry."
+
+LAURA: Pike? Do you think maybe a Greater
+Restoration is in order?
+
+MATT: Pike goes, "Why?"
+
+LAURA: No reason.
+
+MATT: "Could I just touch your hand for a second?
+Is that okay?"
+
+DARIN: (stuttering) Why?
+
+MATT: "Just to see if we can help your day."
+
+DARIN: Do you not think that I'm real?
+
+MATT: "Probably not."
+
+DARIN: I assure you, I'm real. I'm here. My
+companions are long gone. They were like you, like
+
+you, like you, and you, and you, and I'm all that
+is left. You are looking into a mirror of your
+
+future.
+
+SAM: I'm going to look like you, or you're going
+to look like me?
+
+MARISHA: No, I know what he means. Who were your
+companions?
+
+DARIN: Memories. They're all memories now. I don't
+even remember their names. I remember some of
+
+them, but we were heroes and now I am here.
+
+MARISHA: Oh no.
+
+LIAM: Were there no other gnome folk in your
+party?
+
+DARIN: No, there was one like you, there was a big
+one, a mighty one. There was one like you, brave
+
+and kind.
+
+LAURA: That's like me! That's exactly like me.
+
+DARIN: There was one like you. Smart, yet sad. And
+you, as well. Yeah, and I was you.
+
+MATT: Pike goes, "Please?" She grabs your hand and
+concentrates for a second, you watch as the holy
+
+symbol flares for a moment and the warmth passes
+through her arms into your hand. And it feels
+
+nice. It's like holding a freshly heated cup of
+tea. And as the spell completes and she pulls
+
+back. "That's all. Thank you."
+
+DARIN: Thank you, very kind of you. Don't ever do
+that again.
+
+MATT: "Right, okay. Okay."
+
+SAM: Your companions. Not to bring up sad times.
+How long ago did they go away? Perish?
+
+DARIN: 37 years.
+
+SAM: And how, was it in a fight?
+
+DARIN: Oh, yes.
+
+SAM: Against a powerful entity?
+
+DARIN: Oh no. Against ignorance, against bravery
+that should never have been. And that's why I'm
+
+here and they're not, because I ran, you see. I'm
+your future. You'll all be gone. You and you and
+
+you and you and you, and you'll be left.
+
+LIAM: While listening to all that, Vax slid
+his hand into Keyleth's and quietly listened to
+
+the whole thing.
+
+DARIN: Oh, well. Perhaps we should talk of other
+things. Should we?
+
+SAM: Yes. Yes, we want this to be a positive visit
+for you, so is there anything we can tell you from
+
+the world outside that you might be curious
+about?
+
+DARIN: The world outside? Who needs the world
+outside? I have everything here, and what I need,
+
+dear boy, I have taken from Kraghammer. All these
+books over there, you see, those are mine. They
+
+should have been mine to begin with, and I took
+them, and now they are mine. (wheezing laughter)
+
+TALIESIN: I'm going to peruse some of these
+titles, quietly.
+
+SAM: The books, you mean?
+
+DARIN: Yes. You'd like to look at the books, would
+you?
+
+TALIESIN: I find it's the easiest way to learn
+quite a bit about a person.
+
+DARIN: Oh, you're very welcome to look at anything
+you like. What will you give me, dear boy? I
+
+require something. And yet, what do I need, living
+here? Not much. Intelligence, no. Secrets, no.
+
+Love, no. Sadness, bravery, power. What do you
+have that you would give me?
+
+TRAVIS: I reach in the Bag of Holding. I take out
+Percy's glasses. Would you care for a pair of
+
+these testicl-- spectacles?
+
+DARIN: I seek power, dear boy, not silliness. If I
+wanted silliness, I would talk to a Sun Tree. No
+
+one ever should talk to a Sun Tree, they should
+only listen to a Sun Tree. And so I shall say
+
+again, if you would like to peruse my book and
+perhaps find what you are looking for, what will
+
+you give me that would bring power and redemption
+into my life?
+
+SAM: What do you have, Grog?
+
+LAURA: (whispering) Give him some ale.
+
+TRAVIS: But that's not fucking power.
+
+LAURA: You don't know. Bet it's been a while since
+he's had some of that.
+
+DARIN: It seems you have powerful items.
+
+TRAVIS: I do. I have these Bracers of Defense.
+
+DARIN: Ah, but that is strength. I require power.
+
+TRAVIS: (softly) Shit. Fuck.
+
+TALIESIN: Well, I reach into my bag and start
+cleaning a small green shard of residuum,
+
+polishing it.
+
+DARIN: Demistrik! If you excuse me for a just--
+while you look, I'll just talk to my imp. You'll
+
+pardon us. (whispering) A word, Demistrik?
+
+MATT: "Ugh. Just one moment. What?"
+
+DARIN: The big one worries me. I think we should
+have a code in case we have to jump him.
+
+MATT: "What code would you wish?"
+
+DARIN: Goliath grab! But we need to remember that.
+We need to remember that.
+
+MATT: "Goliath grab. Good luck!"
+
+DARIN: We need some sort of mnemonic device to
+remember goliath grab. G, goodness gracious, grab
+
+that goliath. O?
+
+MATT: "O? Huh. I'll tell you what, I've got your
+back."
+
+DARIN: I don't feel that at all. You're right in
+front of me. How could you have my back? (wheezing chuckle)
+
+I got you. (laughing) Go away. So what do
+you have for me? You've had ample time to look in
+
+your Bag of Holding to produce something very--
+
+TRAVIS: Powerful. Well, I do have one thing that
+seems to be pretty powerful.
+
+MARISHA: Oh no, Grog.
+
+TRAVIS: I pull out of the Bag of Holding a small
+leather case. I open the flap. I don't know if you
+
+have any interest in this, but my experience with
+these items has been very extreme. Would you care
+
+to take a card?
+
+DARIN: Would you care to give them to me?
+
+SAM: All or just one?
+
+TRAVIS: No, you can pick a card.
+
+MATT: Make an arcana check. Roll a d20 and add
+your arcana skill modifier to it.
+
+TALIESIN: You are a madman.
+
+DARIN: 15.
+
+MATT: 15. You don't recognize what he's holding in
+his hands, but you immediately see the leather
+
+casing around it, and your essence being able to
+read certain elements of magic-- It does appear to
+
+be a powerful enchantment, whatever he has
+procured from the bag.
+
+DARIN: Indeed. Perhaps one card for one book?
+
+TRAVIS: Yeah, sure. I mean, Percy, do you have a
+book out of all of these that you want to read?
+
+DARIN: What are you looking for? What do you seek?
+What knowledge? I've got it all here.
+
+SAM: We seek a key.
+
+LAURA: To find a very ancient goddess--
+
+DARIN: Oh, don't say Ioun.
+
+TALIESIN: We're not going to say Ioun.
+
+DARIN: You just did!
+
+LIAM: Is there another name that you would like us
+to use? Like a nickname instead of Ioun?
+
+DARIN: The Broken Goddess. I know more than Ioun,
+please! Ioun. Gods, what do they know? We know
+
+more than they, for we exist! We live! We
+adventure! They merely observe. Am I right?
+
+SAM: You have a point. They don't do much for us
+in the day-to-day.
+
+TALIESIN: Are you saying you know more than Ioun?
+
+DARIN: Of course I know more than Ioun.
+
+TALIESIN: Can you prove that you know more than
+Ioun?
+
+DARIN: Yes.
+
+TALIESIN: So if I ask you a question that is
+almost impossible to answer, you could answer it
+
+before Ioun could answer it?
+
+DARIN: Could Ioun create a rock so heavy that even
+she couldn't lift it?
+
+TALIESIN: Oh, please. I'm far too clever to ask
+such a simple question. That's easy. I would have
+
+to ask something that was very difficult to
+answer.
+
+DARIN: I will give you your answer if you give me
+a card.
+
+LIAM: You know, I was just saying what a good idea
+I thought it was, but I thought you were talking
+
+about the entire deck, Grog. I think the entire
+deck is a fairer thing than to have him pull a
+
+card, because that seems unpredictable to me.
+
+TRAVIS: Yeah, that sounds perfect to me.
+
+LIAM: We're all in a small, enclosed space
+together, Grog, and I like this fellow.
+
+LAURA: Sprigg, it is quite powerful, yes, but also
+maybe slightly dangerous.
+
+TALIESIN: A bit dangerous, to be fair.
+
+DARIN: I'm here alone. Well, there's... oh, yes.
+Go peddle your papers somewhere where they'd like
+
+papers peddled!
+
+LAURA: You're not alone at the moment.
+
+DARIN: That's true!
+
+LAURA: This is very true. And I'd rather not put
+my life in the hands of you, not knowing you very
+
+well.
+
+DARIN: Some did. I'm here.
+
+LAURA: Yes.
+
+DARIN: They are not.
+
+LAURA: So something bad could happen, and you'd
+run away, and we'd be stuck here?
+
+DARIN: No. 37 years. I ran away. I've been here
+deciding how to live again, how not to run away.
+
+That's what all this is about, isn't it? You can't
+just hide from the world. I've done it! Done it
+
+for a long, long time. Maybe you being here means
+that I should hide no longer. Or maybe I just have
+
+an invisible frog friend. Maybe I have nothing
+here, and nothing here.
+
+TALIESIN: Whoever has devised these contraptions
+and created this safety for you is a genius. I'm
+
+not saying you're necessarily--
+
+DARIN: It was both of us.
+
+TALIESIN: I somehow don't think so.
+
+DARIN: What?
+
+MATT: "It was all me."
+
+TALIESIN: I've had my own demons to contend with
+in my life, to make me doubt my own intelligence.
+
+I get the sense that your compatriot-- I hate to
+call it friend, here--
+
+DARIN: I hate to call it friend, and yet I do.
+Isn't that right, friend?
+
+MATT: "Unfortunately."
+
+TALIESIN: What are you doing here?
+
+DARIN: You can tell them.
+
+MATT: "No!"
+
+DARIN: Just tell him.
+
+MATT: "No! Why, because he asked me?"
+
+DARIN: Yes! Be polite. They're guests in our home.
+
+MATT: "Oh, it's not our home."
+
+DARIN: 19 years you've been here, ever since your
+master died trying to enter and got tricked into
+
+one of my traps, and now you're here-- does that
+answer your question?-- now, why don't you tell
+
+him what I just said?
+
+MATT: "My master died trying to get in here on
+one of the traps, and now I call this my home."
+
+DARIN: Beautifully said. Bravo. You should be a
+little performer in Kraghammer. You know what the
+
+reviews would be? Not very good! Shameful
+behavior. Abysmal behavior from the Abyss itself!
+
+TALIESIN: We don't have much. Many of the things
+that we carry are very dangerous. Obviously, you
+
+have a great deal of genius here. I'm going to
+show him the elemental shard. I don't know if this
+
+would interest you, but I consider it to be of
+great value.
+
+MATT: So you're showing him the residuum piece?
+
+TALIESIN: The last piece of residuum I have.
+
+MATT: All right. So this is a sliver of what looks
+like green glass. It's finely polished, about that
+
+thick, that long. You've read about this. You've
+read that condensed residuum is very susceptible
+
+to enchantment and/or the focusing of short-term
+magic spells. It's expensive, it's lauded, it's
+
+hard to find.
+
+DARIN: I will use that Ring of Telekinesis to lift
+it up and take a better look at it.
+
+MATT: You watch as it darts out of your hand and
+wisps up, maybe two feet ahead of him, and slowly
+
+rotates above him as he inspects it.
+
+TALIESIN: Impressive, but not as impressive as the
+giant log.
+
+DARIN: Oh, yes. But is there power in this, dear
+boy? Or are there only secrets? For you are
+
+secrets. He is power.
+
+TALIESIN: I may be secrets, and that is of me, but
+I believe there is power in its secret. People
+
+died for that. Many people.
+
+DARIN: People die every day. Except me. That's my
+punishment, child. I live on. I live on with my
+
+shame and my intelligence and you.
+
+LAURA: Because of Ioun?
+
+MARISHA: What's your relationship to her?
+
+DARIN: What is anyone's relationship to a god?
+
+MARISHA: Good question.
+
+LAURA: Some of us are champions. Some of them
+don't like them. Some of them worship them but
+
+don't really get respect. What's yours?
+
+DARIN: All of that and more.
+
+LAURA: So you're a champion? Are you a champion of
+Ioun?
+
+MARISHA: You're a champion of Ioun. Of course he's
+a champion of Ioun.
+
+DARIN: I wouldn't say that.
+
+TALIESIN: But we might, wouldn't we?
+
+DARIN: Champion of Ioun?
+
+MATT: (demonic cackling)
+
+DARIN: Are you going to start calling me Ioun's
+Champion?
+
+MATT: "Only if it bothers you, Ioun's Champion!"
+
+DARIN: I like it. Drat, eh? Drat. You tell them
+what you know of Ioun.
+
+MATT: "She's a heinous bitch who got what's coming
+to her 800 years ago."
+
+MARISHA: What?
+
+DARIN: It's a bit common, but that is his belief.
+What is yours? What is your thought about Ioun?
+
+SAM: We know that she possesses knowledge that
+could help us in our quest to save the world, and
+
+therefore, no matter what her personality is, she
+is valuable to us.
+
+DARIN: And yet, is there value in saving the
+world? Or should you just let it all go away?
+
+LAURA: No, no, I think we should save it.
+
+SAM: Yeah, we're pro-world here.
+
+DARIN: Are you? That is interesting.
+
+LIAM: Sprigg, you're seeking power.
+
+DARIN: I seek redemption. There is great power in
+redemption.
+
+LIAM: We offer you redemption. Collaborating with
+us grants you the power to fell a would-be god.
+
+DARIN: Excuse me. For one second. Can I speak to
+you for just a second?
+
+MATT: (flapping wings) "What?"
+
+DARIN: He's tricky. I think we should get a
+mnemonic device on what we need to do if he
+
+becomes too tricky. We should say, elf boy grab!
+E! For egads! There's an elf, we should grab him.
+
+L! Let's grab that elf boy.
+
+MATT: "Right, all right." You guys can hear all of
+this.
+
+DARIN: F. Forsooth, I shall grab this elf boy!
+
+LIAM: I'm not an elf. Not an elf.
+
+MARISHA: Why do people like calling you elf boy
+and elf girl?
+
+LIAM: We have vaguely pointed ears. Not even
+fully pointed ears. My mother was not an elf.
+
+DARIN: Just a second. He's not an elf!
+
+MATT: "We'll stick with the device. I've got your
+back."
+
+DARIN: I still don't feel it.
+
+MATT: "You will."
+
+DARIN: All right. Hello!
+
+SAM: Hi. Hi, mirror man. Listen.
+
+DARIN: All right.
+
+SAM: Let's cut to the chase here. We need
+information from you.
+
+DARIN: Indeed.
+
+SAM: You need something from us. Grog, give him a
+card.
+
+MARISHA: Wait.
+
+SAM: We're dancing around this! We need this man!
+
+LAURA: He took the stone! Are you taking the
+stone?
+
+SAM: Are you going to take the stone as a source
+of power? He said it's too mysterious.
+
+LIAM: I thought we were talking about redemption.
+
+DARIN: If you'll allow me. You've been very
+quiet.
+
+MARISHA: Yes, I'm a little freaked out right now.
+You're my worst fear incarnate. Sorry, that seemed
+
+very rude. My worst nightmare incarnate.
+
+DARIN: That didn't make it any better, dear
+child!
+
+MATT: (cackling)
+
+DARIN: (shushing) Go ahead. Why am I your worst
+fear in a carnation?
+
+MARISHA: I've seen you in my dreams.
+
+DARIN: Hear that?
+
+MATT: "Go get her, tiger."
+
+LAURA: Trinket starts chasing the imp around the
+room.
+
+MATT: "No!" Up into the corner, (hissing). Turns
+invisible.
+
+DARIN: Oh, I guess you found that unbearable!
+
+SAM: That was a good pun.
+
+MATT: You hear the tiniest little demonic fart by
+your ear.
+
+LIAM: I'm also gently steering Trinket away from
+the floorboard in the middle of the room as he
+
+walked by.
+
+MARISHA: Somehow everything you have said since
+the minute we've walked into this building has
+
+made 100% sense, and I think that's what scares me
+the most, is I understand everything you've said.
+
+DARIN: It should scare you the most. I was one of
+you. I did what you did. 37 years ago, I did it.
+
+And we fought, and we fought, and they were right
+here. They were right here!
+
+SAM: Who is they?
+
+DARIN: My companions.
+
+SAM: And who were you fighting against? You, we?
+
+TRAVIS: Vecna.
+
+DARIN: No.
+
+SAM: Gods?
+
+DARIN: It was silly. It was hobgoblins. It should
+never have happened. It was a simple fight, and
+
+they died, and I ran, and I can't even remember
+their names.
+
+LIAM: Sprigg.
+
+DARIN: Yes?
+
+LIAM: Would you like to be needed again? Maybe
+it's time to stop running.
+
+DARIN: What would I do?
+
+MARISHA: We can grant you power in items, but I
+don't want to speak for all of us, but I think all
+
+of us can speak a little bit to the fact that
+items don't grant you as much inner power as you
+
+expect them to.
+
+LAURA: Unless they're boots. And then they're
+amazing.
+
+MARISHA: Unless they're very highly argued and
+debated-upon boots, in which case I still think
+
+the argument--
+
+DARIN: Are we about to have a debate about boots?
+I'm against them! Your turn.
+
+LAURA: I am for them, usually.
+
+DARIN: Continue, Councilor, but watch yourself.
+
+LAURA: Have you any idea where the key to Ioun
+is?
+
+DARIN: In the boots? We're talking about boots,
+are we?
+
+LAURA: Yes. Boots that hold a key to Ioun's
+location. Specifically.
+
+DARIN: I think the key might be here, but I don't
+really know.
+
+LIAM: Sprigg, the world is on the brink right now.
+It's worse than hobgoblins. We've come here in
+
+great need, and the world is in great need, and
+the power that I offer you is making a
+
+difference.
+
+DARIN: Then make me believe in Ioun. We'll make a
+difference together.
+
+LIAM: Make you believe?
+
+MARISHA: Of course he believes. Believing is not
+the question.
+
+DARIN: Books everywhere, you see. That's something
+you can hold. That's something you can learn.
+
+MARISHA: That's something that's tangible. Ioun is
+distant.
+
+LAURA: But she could be tangible if you'd help us
+find her.
+
+MARISHA: What if we have found her? What if Sprigg
+is right? What if all of the information that Ioun
+
+knows is here in Sprigg?
+
+TALIESIN: I really want to look at these. I want
+to look at these books really quickly. I'm having
+
+a moment. I just want to start looking at these
+titles. What are these books?
+
+MATT: You go over and start walking towards the
+edge of the nearest bookcase, and all of you at
+
+once-- everyone but Sprigg, actually-- suddenly
+hear a voice come through, filling your mind,
+
+filling your consciousness, filling your ears.
+Sourceless, delivered to your consciousness
+
+directly. "Thank you for showing me where he is."
+And that's where we're going to take a break.
+
+LIAM: Fuck!
+
+MARISHA: How? We don't have the eye! What a cock!
+
+TALIESIN: Oh my god, he's been in the troll dick
+all along.
+
+MARISHA: It's always been the troll dick.
+
+MATT: All right, we'll be in just a minute. We'll
+be back here in a few minutes, guys. For the
+
+Twitch giveaway, we have this awesome Peruvian
+walnut dice tray, leather interior. It's very
+
+nice. It's the same type that I have, actually,
+back here, which is nice. Giving it away for
+
+somebody in the Twitch chat, so run on over, and
+the code for the evening is Sprigg. S-P-R-I...
+
+DARIN: G-G.
+
+MATT: G-G. Double G.
+
+DARIN: S-P-R-I-G-G spells Sprigg, ladies and
+gentlemen, if you want to win that valuable
+
+prize.
+
+MATT: So pay attention in the chat. When it's time
+to, go ahead and enter Sprigg into the chat, and
+
+one lucky winner will be announced when we get
+back here. See you guys in a few minutes!
+
+[break]
+
+MATT: Hello, everyone, and welcome back. All
+right, so first and foremost, we have our winner
+
+for the dice tray from Wyrmwood. That is our
+friend k0sn1ght, spelled in the way that you spell your
+
+XBox Live name: k0sn1ght. Congratulations, you are
+the winner. Go ahead and contact Danoba and get
+
+your information and we'll get that shipped out to
+you. Bringing us back in.
+
+TALIESIN: That was fast.
+
+MATT: Last we left off, you all, almost all of
+you, heard a singular familiar voice. The low,
+
+gravelly undead voice of The Whispered One fills
+your minds, saying, "Thank you for showing me
+
+"where he is." In that moment where you all pause
+in place, you hear a series of simultaneous sounds
+
+(arrows firing) as a number of heavy crossbow
+bolts from nearby windows all fire simultaneously
+
+at Sprigg.
+
+MARISHA: Do I have time for a reaction?
+
+MATT: No, you do not. This is a surprise round.
+
+LIAM: This is the sound of bolts, no.
+
+TRAVIS: It's all right, he can't die. It's cool.
+We're all right.
+
+MATT: So that first one is a 24. What's your armor
+class?
+
+DARIN: My armor class is 19.
+
+MATT: Okay! So you take 23 points of piercing
+damage.
+
+DARIN: Okay. Oh, there we go.
+
+MATT: That's 17. That misses you. It strikes your
+shoulder and glances off. One bolt sinks into your
+
+chest and you look down and you see it's this big,
+long heavy metal bolt and it's jutting out from
+
+the side of where your shoulder and pec is.
+Another one rushes by and glances off your other
+
+shoulder. The third one--
+
+DARIN: Well, this is different.
+
+MATT: That hits. That's a 25. That's 23 points of
+piercing damage.
+
+TALIESIN: Oh no.
+
+MATT: That one actually misses; a six and a one.
+It slams into one of the nearby books right behind
+
+you, barely moving past your cheek. Fifth one,
+that is a 19 exactly, so you take 24 points of
+
+damage.
+
+LAURA: How many fucking bolts are there?
+
+MARISHA: 24?
+
+MATT: They're all sneak attack. And that is 20.
+
+DARIN: Another one?
+
+MATT: Another one.
+
+DARIN: Okay.
+
+MATT: That one's going to be 26 points of piercing
+damage.
+
+DARIN: I'm gone.
+
+MATT: You guys watch as all these bolts (arrows
+firing and impacting) into Sprigg's body and
+
+Sprigg falls back, unconscious on the side of the
+room. I'm going to bring out a map now.
+
+DARIN: Fly, you fools!
+
+MARISHA: (yelling) No, Sprigg!
+
+SAM: Darin, it was really great having you on.
+Thanks so much.
+
+LAURA: Whoa, cool!
+
+SAM: Whoa, this is a cute house!
+
+LAURA: Oh, I can't see inside of it.
+
+MATT: Moving the top floor off.
+
+LIAM: There's crates of apples!
+
+SAM: There's a sack of something in the corner! Oh
+my god, how are we all going to fit in there?
+
+MATT: Sprigg is currently unconscious on the
+ground there. Percival was there talking. Trinket
+
+is off to the side.
+
+LAURA: Trinket! Where's the imp?
+
+MATT: The imp is not currently visible. Pike would
+be over on the side here. Keyleth, Vax, where
+
+would you guys see yourselves right now? Actually,
+tell me where you would be. I think that's what
+
+I'm trying to ask.
+
+LIAM: I would be right next to Keyleth because I
+was holding her hand.
+
+MATT: As I chuck you onto the ground.
+
+LIAM: It's all right. It's fine.
+
+MATT: Yeah, comes back in a day later. All right,
+cool. So you're there holding that. Scanlan, where
+
+would you be?
+
+SAM: Near Sprigg-ish.
+
+MATT: All right, so I'll put you right there next
+to the scroll in the ground.
+
+LIAM: And Matt? Could you touch on the map where
+the bad man touched you? No, where the bad
+
+floorboard is?
+
+MATT: Yes, actually, I can do that.
+
+LIAM: None of you know this.
+
+MATT: None of you know this, except for you, which
+is actually why I'm not going to show you. You
+
+know how to avoid it, but nobody else knows where
+it is.
+
+LAURA: Where is the front door?
+
+MATT: The front door is right there.
+
+LIAM: There, over by Grog on your right.
+
+SAM: These trees need to move.
+
+LAURA: I know, these trees are a pain in our
+butts. Oh no.
+
+SAM: There's cloaked men everywhere
+
+MATT: You watch as one that was up in the stairs
+vanishes up top.
+
+TRAVIS: Oh, he actually made it upstairs?
+
+MATT: He fired, and then ducked up there. I need
+everyone to roll initiative.
+
+SAM: Initiative?
+
+MATT: Yes. Including you, even though you're on
+the ground.
+
+MARISHA: Don't. Fuck. Me. Gil. It's fine. Gil did
+all right.
+
+SAM: I don't trust Gil. I never roll on his dice.
+
+LIAM: Rarely. I have, but I got my Matt Colville
+meteorite.
+
+MATT: 25 to 20?
+
+TALIESIN: 23.
+
+LIAM: 20.
+
+TRAVIS: 22.
+
+MATT: Oh wow, so we have Percy, we have Grog, and
+Vax. Okay, 20 to 15?
+
+SAM: 19.
+
+LAURA: Should somebody roll for Pike?
+
+MATT: Yes, actually. Okay, yeah.
+
+DARIN: Also a 19.
+
+MATT: Okay.
+
+TALIESIN: You've got a very low initiative bonus.
+
+MATT: All righty, anybody else?
+
+LAURA: 13.
+
+MARISHA: 12. I don't know why I did deuces. 12.
+
+TALIESIN: Peace out.
+
+SAM: NKOTB.
+
+MARISHA: 12 initiative, Wu Tang out.
+
+TALIESIN: That's our next shirt.
+
+SAM: Quidd, everyone. Quidd.
+
+LAURA: Quidd.
+
+LIAM: Quid pro quo.
+
+MATT: All right, so top of the combat round. The
+surprise round is done, you watch Sprigg fall to
+
+the ground, bolts sticking out of the side of the
+neck, the shoulder, and the body. Unconscious, now
+
+beginning to pool blood underneath where he's
+bleeding out, and you glance around and you see a
+
+series of shaded figures in the windows that all
+dart out of the way.
+
+MARISHA: Cowards.
+
+LAURA: Dicks.
+
+SAM: Oh, they left. The fight's over, everyone.
+
+MATT: Percy, you're up first.
+
+TALIESIN: Wow, this is a lot that happened. I'm
+going to click my boots, and I'm going to run up
+
+the wall and run upstairs.
+
+MATT: Which, for the purposes of this, I will
+place the upstairs over here. So as you dart up,
+
+Percival, you run up the stairway there where the
+one guy you saw was standing.
+
+TALIESIN: Is he right there?
+
+MATT: Yeah, he ducked out of the way, and there's
+also one figure that you recognize from the
+
+Shadowfell earlier. You see one of the ghastly
+creatures that was darting through the ruins
+
+leaping from from rooftop to rooftop. Its skin is
+grayish and long, its limbs lanky, its fingers
+
+curled into claws, and this long tongue dangling
+from his jaws, it's getting ready to run down the
+
+stairs as you charge him, and it goes (growls).
+
+TALIESIN: Manners! Action Surge!
+
+MARISHA: Yay, Manners!
+
+MATT: Okay then.
+
+MARISHA: We're bad at manners, until now!
+
+MATT: All righty, so what's the saving throw on
+that one?
+
+TALIESIN: It's a DC 20 strength. Oh, I'm sorry,
+no. Never mind. It's an attack roll.
+
+MATT: Okay, so you have to roll first to see if
+you hit it.
+
+TALIESIN: 18.
+
+MATT: 18? Yeah, that definitely hits. It hits, and
+you watch as you pull the sphere out and chuck it in
+
+the direction of the creature. Pulls its claws back,
+slams into its chest, and then unravels.
+
+It falls to the ground, prone, unable
+to move, right there in the middle of the floor.
+
+TALIESIN: Just making sure that I can do this.
+
+MATT: Was that your action, there, doing that?
+
+TALIESIN: That was my action surge. I can only do
+one round. Just seeing if I have anything at a bonus that
+
+I can do.
+
+MATT: You spent your action--?
+
+TALIESIN: My action, I activated my boots. My
+action surge activating that. Do I have anything I
+
+can do with a bonus action?
+
+MATT: Not really.
+
+TALIESIN: I'm going to turn to the other guy and
+pull the ripcord on the glove angrily. (revving)
+
+MATT: You load up Diplomacy. Good. That's your
+turn, Percy. Grog, you're up.
+
+TRAVIS: Me? Oh? Can I go into a rage?
+
+MATT: Yes, you may.
+
+TRAVIS: And he fell where?
+
+MATT: He fell right there, on the ground,
+currently bleeding out.
+
+TRAVIS: Can I run over to Sprigg and shove a--
+should I shove a health potion in his throat?
+
+LAURA: Well, we've got healers.
+
+TRAVIS: Right. I'll run upstairs to see where Percy
+went.
+
+MATT: You rage-run just past Percival and you see
+there's one creature bound on the ground and
+
+there's another guy who's there with his crossbow,
+he's trying to reload, who sees Percival and is
+
+getting ready to pull it up as you leap in front.
+
+TALIESIN: Smash him!
+
+TRAVIS: Do you mind?
+
+TALIESIN: Please!
+
+TRAVIS: Yeah. (rage noises)
+
+MATT: Go for it. Roll for a double attack.
+
+TRAVIS: Reckless! Not Great Weapon Master.
+Two-handed with the Dwarven Thrower. That's a lot.
+
+30, minus-- oh, there is no minus. 32.
+
+MATT: 32 hits. Second attack?
+
+TRAVIS: 31.
+
+MATT: Hits. Go ahead and roll damage for both.
+
+TRAVIS: So they're not giants. So I just roll a
+d10. That's a ten. Rage damage. 25.
+
+MATT: 25 damage on the first hit?
+
+TRAVIS: On the first one. Second one.
+
+LAURA: 24.
+
+TRAVIS: Yeah.
+
+MATT: Nice. With your hammer, two hands, whack
+right across the side of its head. You see the jaw
+
+unhinge from the side. As he pulls back, it's
+hanging loosely there, and the second hit you
+
+clock right in the side of the temple, and it
+nearly goes unconscious, and picks itself up
+
+again, gets its crossbow ready. It's still
+holding. It's not down yet, but it's hurt badly.
+
+You can see now, up close, you can see these
+figures, they're dressed in very, very tight black
+
+leathers, cloaks enshrouding their body, the hood
+is still up, but you've knocked it back. There you
+
+see a human male in his late 40s, early 50s, the
+head shaved completely bald, a tattoo of black
+
+tendrils around the left eye, and the left eye is
+missing from the socket.
+
+TRAVIS: Black tendrils? Okay, cool. That's my
+turn.
+
+MATT: That's your turn. All right. Grog's done.
+Vax, you're up.
+
+LIAM: Okay, let's talk this out. Click the Boots
+of Haste. I think, with 120 feet of movement, I
+
+can blur up the stairs to where Percy is in
+probably 50 or 60 feet. And then finish that
+
+movement and go past the guy, out the window, with
+all of my movement in 120 feet or less. Okay, so
+
+I'm doing that.
+
+MATT: There's also a window here, a window here,
+and a window here. Just so you guys know, and a
+
+window here, if you wanted.
+
+LIAM: Definitely understand. Blur up the stairs,
+shoot past Percy, shoot past that guy, out the
+
+window.
+
+MATT: You're on the balcony now, looking right about
+here.
+
+LIAM: Do I already see those guys?
+
+MATT: Make a perception check.
+
+LIAM: 19 plus 14 is a hell of a lot.
+
+MATT: 19 plus 14? Yeah, you do see them. And you
+glance down, you can see they're hiding amongst
+
+bushes, and they're specifically stealthed. But
+you're keen of eye enough to see where they're
+
+placed.
+
+LIAM: I stealth, hide. Bonus action to hide. I'm
+going to use Luck. That's better. 27.
+
+MATT: 27. Okay. You're not sure if they see you or
+not.
+
+LIAM: All right, then from this spot, if they're
+in range, I'm going to throw Whisper at one of
+
+them.
+
+MATT: Right now, you are currently up here. So you
+glance off and you can barely see one that's over
+
+the edge of the roof right there. That's the only
+one you can see.
+
+LIAM: But I can see them and I can ignore
+three-quarters cover because of Sharpshooter.
+
+MATT: So you barely see the edge of one there.
+Sharpshooter. I'd say yeah, you can. You can hit
+
+both, if you want.
+
+LIAM: So the one that I can see, hidden, I will try
+to throw Whisper. I'm going to hopefully sneak
+
+attack him and bamf there. That is a 28.
+
+MATT: 28. He does not see you. So you have
+advantage on that if you want to roll again.
+
+LIAM: Right. Natural 20.
+
+TALIESIN: Turn him into paste.
+
+LIAM: Okay. (counting)
+
+SAM: Did Pike roll?
+
+MATT: Pike did.
+
+LAURA: What did she get?
+
+MATT: 11. Typical Pike.
+
+MARISHA: She's after me.
+
+LAURA: Well, no, but Sprigg is right after Scanlan.
+He's before we are. So I'd rather get him up
+
+before.
+
+LIAM: So that one is 60 on that guy.
+
+MATT: 60 points of damage?
+
+LIAM: Yes, and I bamf there.
+
+MATT: As you chuck the dagger, like right towards
+where the center of the shoulderblades connect in
+
+the back he (groans) and you watch as the crossbow
+that he had drops to the ground and he crumples
+
+over on top of it, but he slowly starts getting to
+his feet out of the bushes. He looks really hurt,
+
+but he's still standing. And you appear right next
+to him there.
+
+LIAM: So I did movement, I hid for my bonus, I
+have action-action as a paladin. And action.
+
+MATT: You have attack-attack as a paladin.
+
+LIAM: Attack-attack as a paladin. And then my
+bonus action. That was the first of attack-attack,
+
+so now I'll just do a regular attack, which is a
+20--
+
+LAURA: (sarcastically) I'm so glad he got those
+boots back, I'm just so glad.
+
+LIAM: 30.
+
+MATT: 30 hits.
+
+LIAM: That is a ten and I'm going to pump him full
+of poison. He has to make a DC check on 15.
+
+MATT: That is a seven. No. Four plus three.
+
+LIAM: So he also gets, that was ten plus 14 total.
+20 total, between the dagger and the poison.
+
+MATT: So the second dagger, you shiv him in the
+side and he (groans) goes to spin with the heavy
+
+crossbow and try and pull away, and as soon as the poison
+through him he goes, (gurgles) and you can see
+
+blood vomit down the front of his chest, his eyes
+roll back and he twinges and falls to the ground.
+
+LIAM: And there's another guy there who can see
+me, right?
+
+MATT: Yeah, and he's hidden, but he's like
+(scared, heavy breathing).
+
+LIAM: Whisper.
+
+MATT: Okay, he's trying to see that you're not
+being seen.
+
+LIAM: That is 31. Yeah, okay. So that is two plus
+eight is ten, plus psychic damage. 18. I'm going
+
+to bamf there with Whisper.
+
+MATT: Okay. All righty. You hit him and you stand
+there. You're right in front of him now. All
+
+righty. That ends your go. As you appear over on
+the other side, you realize that over in the
+
+clearing there, there is another one of the robed
+figures, this one clutching a long, black, smooth
+
+staff that crooks over in the front that looks
+like a hand holding an eye.
+
+MARISHA: What? Where? Who?
+
+There were more of them!
+
+LIAM: But you guys don't know that yet.
+
+MATT: You guys don't know that yet, just him.
+Ending your turn, Vax. That guy on the ground is
+
+going to try and break free. That is a 17. DC 20?
+
+TALIESIN: DC 20.
+
+MATT: It struggles on the ground and can't seem to
+break free of the current magic manacles that hold
+
+it in place.
+
+TALIESIN: Yeah, he's stuck. I love that we have
+floors!
+
+MATT: Another one of these darts through the
+window, leaps across the way, right in front of
+
+Sprigg, and you being right there, Scanlan, goes,
+(angry hissing) and lashes out at you.
+
+MARISHA: He's going for Sprigg!
+
+TALIESIN: He's going for Scanlan.
+
+MARISHA: But because Scanlan's over Sprigg!
+
+TALIESIN: Oh, that's fair.
+
+MATT: Makes two claw strikes at you. First one is
+16 to hit.
+
+SAM: Yes.
+
+MATT: All right. You suffer eight points of
+slashing damage, and I need you make a
+
+constitution saving throw.
+
+SAM: Oh boy. Not great. 16.
+
+MATT: 16, okay.
+
+SAM: Is it magical?
+
+MATT: No, it is not magical, but you feel this
+pulse of some sort of necrotic disease hit your
+
+system, and you just manage to shrug it off.
+
+(relieved cheering)
+
+MATT: The other claw comes towards you.
+That's a natural 20.
+
+SAM: Natural 20 to hit, sure.
+
+MATT: That is 30 points of slashing damage on the
+second hit. Make another saving throw, please.
+
+SAM: That's 17.
+
+MATT: 17. The second strike hits you and you feel
+as the side of your torso gets torn out of the
+
+side, the blood splatters onto Sprigg, who's already
+bloodied and now there's gnome blood on gnome
+
+blood. As you reach for your side, however, it
+does not take effect; you manage to shrug off.
+
+TRAVIS: Those are constitution saving throws?
+
+MATT: Yeah. That ends the shadow ghast's turn.
+Sprigg, I need you to make a death saving throw,
+
+please. Roll a d20.
+
+LIAM and MARISHA: Come on, Sprigg!
+
+DARIN: 14.
+
+MATT: Okay, so you're okay for now. You're
+stabilizing. You're not bleeding out, yet. Mark a
+
+success on your death saving throws there.
+Scanlan, what are you doing?
+
+SAM: I am going to, bonus action-- down here,
+success, one.
+
+MATT: Actually, before he even does that, what are
+you doing on your turn?
+
+SAM: I'm going to heal him first.
+
+MATT: That roll wouldn't matter because he may heal
+you before you come up. Don't worry about it.
+
+SAM: I'll bonus action Healing Word him,
+2nd-level. I will sing to him. I'll do a little
+
+line dance right in front of him and I'll say:
+(singing) I'll heal your heart, your achy breaky
+
+heart. I just don't think you'll understand. That
+if I heal your heart, your achy breaky heart, you
+
+got to wake up and kill a man!
+
+ALL: Ooh!
+
+DARIN: (singing) If only you had used Mage Hand!
+
+SAM: Nice!
+
+MATT: So how much does he heal?
+
+SAM: Seven plus six. 13.
+
+MATT: You heal 13 hit points. That roll doesn't
+matter. You hear this echoing song in the back of
+
+your head. The second song today you've heard from
+your childhood. You come to consciousness. You
+
+wake up and look around you and you can see him
+singing to you as this giant horrible necrotic
+
+creature is looming right in front of you. You
+have metal bolts sticking out of your chest and an
+
+old sensation you haven't felt in a long time
+courses through your body, which is the need to
+
+survive.
+
+SAM: It's my turn still.
+
+MATT: It's both of your turns at the same time.
+
+SAM: I will hold my turn.
+
+MATT: What are you going to do?
+
+SAM: Dimension Door, but I'm holding until either
+Pike or Keyleth heals him more. And I will also
+
+say to him, old man, do you have some fight left
+in you?
+
+DARIN: I hope so.
+
+SAM: Hold that thought for one second.
+
+DARIN: Holding.
+
+MATT: So what are you doing?
+
+DARIN: There's a bookcase, is there not?
+
+MATT: There's bookcases here, bookcase there.
+There's books strewn and clustered in these
+
+corners.
+
+DARIN: I'd like to, if I could, use the Ring of
+Telekinesis to pull a bookcase down upon an
+
+attacker.
+
+MATT: Okay. Currently there's a bunch of books up
+here on a shelf, you can pull them down on him if
+
+you'd like.
+
+DARIN: I would like to do that.
+
+MATT: So from the ground, you yank a bunch of
+heavy tomes off of this large shelf that goes
+
+flying towards this creature. I'm going to make
+this a dexterity saving throw for it.
+
+MARISHA: The pen is mightier than the bookcase
+security!
+
+MATT: What's the DC on the telekinesis ring?
+
+DARIN: Where was it? Ring of Telekinesis.
+
+MATT: I'll pull it up here real fast. Looking up
+magical items really fast. I have it here. Oh,
+
+it's for the spell Telekinesis? That's right.
+What's your spell DC?
+
+DARIN: 17.
+
+MATT: 17. No, that's a failure. So for this, go
+ahead and roll 3d6.
+
+SAM: He failed, or the guy failed?
+
+MATT: The guy failed. He didn't dodge out of the
+way. He's like, (confused snarling, book impacts)
+
+and gets pummeled from behind by a bunch of tomes,
+books, and random glass baubles that were on the
+
+shelf that shatter against the back of its head.
+
+DARIN: We have a six, we have a five, and we have
+a two. 13.
+
+MATT: Then add your intelligence modifier.
+
+DARIN: My intelligence modifier is a four.
+
+MATT: 17, nice! 17 points of damage to that one.
+As you slam it in the back of the head (impacts)
+
+and it doubles over and (snarling), its long
+tongue slashing around. You're still on the ground,
+
+and it's over you. Is there anything else you want
+to do on your turn?
+
+DARIN: Demistrik?!
+
+MATT: You hear nothing.
+
+TALIESIN: Not cool.
+
+DARIN: Can I cast something?
+
+MATT: That is an action to do that, so if you have
+a bonus action spell, you could do that.
+
+DARIN: I believe I do. Tasha's Hideous Laughter?
+
+MATT: I believe that's an action to cast,
+unfortunately.
+
+DARIN: I don't think we have any bonus actions.
+Oh, are there any healing potions that I can use
+
+my Telekinesis to get a healing potion to me?
+
+MATT: You can do that next round. The attack was
+your one action. You can stand on your feet, if
+
+you'd like to.
+
+DARIN: No, I'm gonna stay right here.
+
+MATT: Got it. That ends your turn. Now, these guys
+go again.
+
+LAURA: That's good, they're at disadvantage, now,
+to hit you. They are! Because you're prone.
+
+MATT: This guy's going to move in. This guy is
+still standing and is going to drop the crossbow
+
+and pull out his shortsword. Is going to go ahead
+and attack you, Grog, first. That is 13?
+
+TRAVIS: Misses.
+
+MATT: And a 27.
+
+TRAVIS: That does hit.
+
+MATT: You take five plus four, that's nine points
+of slashing damage, reduced to five, yeah. Round
+
+down, so it's four. Struck twice, missed both. Both of
+these guys are going to fire at-- one of them's
+
+going to fire at Sprigg on this end because it's
+their goal, here. With disadvantage, that is a 16?
+
+What's your AC again?
+
+DARIN: My AC is 19.
+
+MATT: 19, yeah. It darts over you. It misses, it
+hits the side of the wall. The other guy's going
+
+to strike again with disadvantage. That's a 14.
+And you see the other guy pulling back with a
+
+crossbow and fire. You roll out of the way and it
+(arrow vibrating) into the wooden flooring right
+
+next to you.
+
+DARIN: Are there any traps that they hit?
+
+MATT: No. That one is going to attack you, Vax,
+because you're right there in front of it. That's
+
+going to be a 13. Does not hit. Second strike,
+another 13. Both of its shortsword attacks, you
+
+duck out of the way and dodge, moving around very
+quickly. All righty. Those two right there, one of
+
+them is going to, because it saw that you got up,
+Scanlan, they're going to fire two bolts directly
+
+at you. That is a 16 to hit?
+
+SAM: That hits.
+
+MATT: Okay, and the second one is a 24.
+
+SAM: Everything hits.
+
+MATT: You are currently in base-to-base with one
+of their companions, so they both get sneak attack
+
+on you. 19 points of piercing damage from the
+first hit. 24 points of piercing damage from the
+
+second hit. And then they both duck around the
+side here.
+
+SAM: What was the second one? 24.
+
+MATT: They both, we'll say, they vanish from
+sight. You're not quite sure where they are right
+
+now. Those two also duck out of sight, not quite
+sure where they are, either. That ends their go.
+
+Now, the guy in the back right there, who noticed
+Vax show up, is going to, after you slaughter one
+
+of the guys, and stab the other one, is going to
+angrily go ahead and use Blight on you. Can you
+
+go ahead an make a constitution saving throw,
+please?
+
+LIAM: Natural 20. You fucking dick, necro guy!
+
+MATT: All righty. That does half the damage.
+
+LIAM: It's still a lot.
+
+TALIESIN: I feel like a natural 20 should
+auto-fail this.
+
+LAURA: I know, right?
+
+MATT: 21 points of necrotic damage to you.
+
+LIAM: All righty.
+
+MATT: And is going to-- four, five, six. All
+righty. That ends his turn. Vex, you're up.
+
+LAURA: I'm going to run over to the window that
+those guys disappeared from.
+
+MATT: Over this way or this way?
+
+LAURA: Right there, yeah. Can I see that
+motherfucker? Did I see him run past the window?
+
+MATT: You know what? Yes, because he was not
+stealthing. You watch as he darts by, and you
+
+would have a shot, yeah.
+
+LAURA: All right, then I'm going to shoot at him.
+I'm going to Hunter's Mark him!
+
+MATT: All righty, look at that!
+
+LAURA: Trinket doesn't have enough movement to get
+over by him, does he?
+
+MATT: No, but Trinket can attack whatever's in
+your area, too.
+
+LAURA: I'm going to attack him with my Bramble
+Shot. With the Blazing Bowstring. Ooh, yeah.
+
+That's a 31.
+
+MATT: 31? That hits!
+
+LAURA: Yes! Okay! Do I get sneak attack on him? I
+don't, do I?
+
+MATT: No.
+
+LAURA: Damn! At least I got Hunter's Mark. Okay.
+
+LIAM: Hey Matt, I realized. I never shot out the
+wings, so I shouldn't have had as much movement as
+
+I did, so I think we should take the damage back
+from my last attack.
+
+MATT: (counting). 50 to get up to the top there,
+so at your double speed, you'd be at 60, threw the
+
+dagger and threw the dagger. You're fine. It still
+works out.
+
+LAURA: Okay, 28 plus my 4d8 piercing damage.
+That's balls.
+
+MATT: You're on deck, Keyleth, just so you know.
+
+LAURA: Seven, nine, plus nine is 37. 37 points of
+damage.
+
+MATT: The first arrow hits him in the stomach,
+doubles forward and pulls back. Now, glancing
+
+over, saw you rush up and couldn't get out in time
+and now is going to try and back up as you're
+
+taking the second shot.
+
+LAURA: Does he roll a DC of over 17? A strength
+save?
+
+MATT: Rolls a natural 17. Literally. Strength
+save? Minus one strength modifier.
+
+(cheering)
+
+MATT: Oh, silly necromancer. You and your
+strength of nine. All right, so he is currently
+
+entangled in the brambles as the vines wrap
+around and pull him in, almost near the tree. You
+
+see the staff is pulled close to his chest.
+
+LAURA: Nice. Then I am going to shoot him. Oh,
+wait! I didn't add my Blazing Bowstring damage.
+
+Eight more for the Blazing Bowstring. And then I'm
+going to shoot him again. I'm just asking: do you
+
+get sneak attack damage if they're restrained?
+
+MATT: You do, yeah. You can do that. You have
+advantage on the attack, remember, because he's
+
+restrained.
+
+LAURA: That's okay. Eight plus 14 is what? 32?
+
+MATT: Yeah, that hits.
+
+LAURA: Oh gosh! Okay! Ten, 11, 12, 13, plus sneak
+attack. 13. What's that? Ten. So 23. And then
+
+Hunter's Mark. Plus one. 24.
+
+MATT: 24. Nice. The second arrow hits right in the
+throat, and you can see it doesn't hit anything
+
+vital, but you can see blood's starting to pour
+out. It's one of those things that if he were to
+
+pull it out, it would probably be very bad. But
+he's leaving it in right now. He's looking pretty
+
+rough.
+
+TRAVIS: The necromancer is?
+
+MATT: Yeah. All righty. That ends your turn?
+Keyleth, your turn.
+
+LAURA: I'm going to step away from the window.
+
+MATT: Okay. Step away from the window.
+
+LAURA: No, against the wall.
+
+MATT: Against the wall there? You push the table
+back a bit; book almost falls off the top. What's
+
+Trinket doing?
+
+LAURA: Trinket is going to run over to Sprigg and
+Scanlan.
+
+MATT: Up to Scanlan, or the guy who's there?
+
+LAURA: Just to the guy.
+
+MATT: Okay.
+
+LAURA: Just try to growl at him and scare him
+because he can't attack him.
+
+TALIESIN: He's technically now engaged with the
+bear, so if he walks away, the bear gets an attack
+
+of opportunity.
+
+MATT: That's true. That ends your turn. Trinket
+goes (roars) right in front of the creature.
+
+Keyleth, what are you doing?
+
+MARISHA: Okay. In my weird, emotional panic,
+Keyleth is going to turn and look around and she
+
+sees Vex firing a bow and Sprigg down on the
+floor, and she's upset, and she's just going to
+
+scream at the top of her lungs and do a Fire Storm
+around the building. Just (screams) and then I'm
+
+going to go (boof) where I think people might be
+in my rage.
+
+MATT: Okay! So around the building where?
+
+MARISHA: Around the building. Sorry, Vax. I don't
+really know you're there, but around here and around
+
+here, and I'm sure I see Vex shooting at things,
+right? I'm going to try and go around.
+
+MATT: So you have right here.
+
+MARISHA: Here, around, and that way.
+
+MATT: All right. Okay, because you didn't see Vax
+outside.
+
+MARISHA: No. He's getting hit.
+
+MATT: You saw Vax run upstairs.
+
+MARISHA: I just know there were people shooting through
+this window and through this window, so I'm doing
+
+a perimeter around.
+
+MATT: How many squares is it? Ten,
+right?
+
+MARISHA: Ten ten-by-tens.
+
+MATT: These two here get caught in it, as well as
+Vax and that guy there.
+
+LAURA: What about the magician guy?
+
+MATT: If she's doing a perimeter? No.
+
+LAURA: Did you know that I was shooting at somebody?
+
+MATT: She doesn't see the magician. Doesn't know
+where it is. "The Magician." The Prestige!
+
+LIAM: I have evasion.
+
+MATT: Which means it's either half or nothing.
+
+LIAM: Right. At advantage because of the boots.
+What do I have to match?
+
+MATT: Her DC, which is 21, right?
+
+MARISHA: 21.
+
+MATT: Dexterity saving throw.
+
+LIAM: Oh yeah, way higher than that. We're good.
+
+MATT: Yeah, you take no damage. You duck out of
+the Fire Storm just in time for it to
+
+(raging fire).
+
+MARISHA: I need two more d10s.
+
+LIAM: Yeah, dexterity save, man. Area effect.
+
+TALIESIN: Smoky d10 and spiky d10. And you get
+rerolls!
+
+MARISHA: I reroll ones. None of these are ones,
+unfortunately. (counting)
+
+DARIN: I just noticed the little lanterns glowing.
+Bravo!
+
+MATT: Oh! Bravo to Dwarven Forge, man.
+
+SAM: Well, it's your house.
+
+MATT: True. Good torches you have in there.
+
+TRAVIS: Way to be energy-conscious with those
+LEDs!
+
+MARISHA: 39 fire damage.
+
+MATT: 39 damage. This guy incinerates. He screams
+and burns. He manages to dodge partway out, but
+
+even the partial damage burns him and he
+(screams). You see him run off into the forest ten
+
+or so steps, on fire, like a stun man shot in a
+movie before he (impact) on the ground and
+
+smolders there in the distance. Those guys take
+it. What was the amount again?
+
+MARISHA: 39, and they're on fire.
+
+TALIESIN: It's hard to stealth when you're on
+fire.
+
+MATT: They're both on fire.
+
+MARISHA: So that was my action. I'm going to do
+that out of my staff as I slam it down. I'm going
+
+to look at Sprigg and say: gods damn it, Sprigg!
+And I'm going to use that as my Healing Word, and
+
+I'm going to cast Healing Word at second level. Which
+is 2d4. 11 points to you. And then I'm going to
+
+use my free action that I have to turn into a fire
+elemental.
+
+MATT: Your free action?
+
+MARISHA: Changing into something's not a bonus,
+it's a free action to change into my beast shape.
+
+Circle of the Moon, bitch!
+
+SAM: Did you just call your fiancé--
+
+TRAVIS: -- a bitch?
+
+MARISHA: No! Combat wild shape.
+
+MATT: Combat Wild Shape makes it a bonus action, as
+opposed to an action. That's the difference.
+
+LIAM: I would like to retract my "bitch," please.
+
+MARISHA: All right, so I'm just Keyleth.
+
+MATT: Does that end your turn? All right, so as
+Keyleth's turn ends, it comes to Pike's. The
+
+entire exterior perimeter of this part of the
+house is on fire. Flames are now starting to
+
+catch. It is dry wood; the entire building is made
+from wood of the forest, so your home is now in
+
+flames.
+
+MARISHA: Wait, hang on. No, I'm doing the
+perimeter. I did think about this, which is why I
+
+didn't attack the guy in the house.
+
+TRAVIS: If you napalm the forest, the trees will
+probably catch fire.
+
+LIAM: It's a quick jump, though.
+
+MATT: In order to do the perimeter, it's not a
+blazing inferno, but it's starting to catch.
+
+Flames are starting to lick up the sides.
+
+LIAM: End it quick, we can save it.
+
+MATT: Fire Storm's a dangerous spell.
+
+LAURA: Let's try to save those books before they
+all burn.
+
+SAM: He's an old guy. We were either going to kill
+him or burn his house down.
+
+MATT: It's Vox Machina's MO, man!
+
+SAM: It was always going to end this way.
+
+TALIESIN: Things you own end up owning you.
+
+DARIN: So glad I wore a jacket.
+
+MATT: Pike is going to rush forward and is also
+going to attempt to Healing Word you at level two.
+
+It's a heal fountain on you. That is six plus
+five. That's 11 hit points you heal.
+
+SAM: As soon as she does that, I grab him and we
+Dimension Door out the house.
+
+MATT: Where do you Dimension Door?
+
+SAM: To the only place I know: front of the house.
+Outside the front door. Not right outside, but
+
+towards the edge of the map there.
+
+MATT: Over here?
+
+SAM: Yeah, anywhere around there, on approach to
+the house.
+
+TRAVIS: Or do you want to be more over yonder?
+
+SAM: Where's the front door to the house?
+
+MARISHA: Right there.
+
+SAM: So I'd be 20 feet, the way we approached to
+the house. So where you got it, if that's the way
+
+we approached.
+
+MATT: You guys approached this direction. So
+you're there. Make a perception check, Scanlan.
+
+SAM: Okay. Ten.
+
+MATT: Okay. You don't see the two hidden fellows
+over here. You see something large and hulking
+
+moving through the forest this direction, at a quick
+glance.
+
+SAM: Is it naked?
+
+MATT: No.
+
+TALIESIN: Then we're going to be okay.
+
+MATT: You guys have pulled out of that house.
+You're still on the ground and all of a sudden
+
+your body physically shifts, and you're looking up at
+the trees. You glance around and you can see the
+
+back of your house, you can hear the frantic fray
+going on. You see the necromancer who's currently
+
+covered in brambles and held in place. You see a
+couple of guys on fire, on the side screaming on
+
+the side of the house, and your house starting to
+catch fire. That's okay. Pike, on her turn, is
+
+going to--
+
+MARISHA: Keyleth has anger issues. It's fine.
+
+MATT: Because it's a single target...
+
+SAM: It's the "This is fine" meme, except it's
+just Keyleth.
+
+MATT: She's going to cast a level five Guiding Bolt
+because that's what Pike does. So ranged spell
+
+attack against that guy. 11 plus-- yeah, that
+hits. That's a 21. So that is 8d6 radiant damage.
+
+Nice. 19.
+
+LAURA: Is she doing it to the magician?
+
+MATT: No, this guy right there, in the room.
+
+SAM: He's an illusionist, Laura.
+
+TRAVIS: Is she doing it against Copperfield? Is
+David Blaine with them?
+
+MATT: So after she heals Sprigg, and Sprigg
+vanishes, she grabs her holy symbol and goes,
+
+"Chill out!" and shoots this giant flashing beam
+of divine energy that slams into it. You watch as
+
+a lot of its flesh burns away from the impact.
+It's still standing, but it's a shining beacon.
+
+The next attack against it has advantage. And then
+Pike's going to back up with you, Vex, towards the
+
+back where the bookcase is and goes, "You smell
+something?" You now hear, simultaneously,
+
+(slow thudding) and watch as the side wall and the back
+wall explode inward, as splinters of wood and
+
+stone (crashing) comes from this wall here--
+
+LAURA: Oh no, all of his stuff!
+
+MARISHA: So I didn't destroy your house first.
+
+LIAM: Flames! Flames, less of a thing.
+
+TALIESIN: On the side of the house.
+
+LIAM: Flames on the side of the house!
+
+MATT: Two familiar hulking entities come
+barrelling into the chamber. Remember those giant
+
+things you saw walking through the Shadowfell that
+you barely avoided with the mask?
+
+MARISHA: The censer?
+
+MATT: Who has the censer? Not on you right now.
+You don't carry a fucking giant smoking censer
+
+with you!
+
+LAURA: Oh, really? I didn't realize it was that
+big.
+
+TALIESIN: I think at that point, I think we put it
+in the Bag of Holding.
+
+SAM: But you did make a bunch of those herbs.
+
+MARISHA: I do have the herbs.
+
+SAM: And there's a shit-ton of shit on fire right
+now.
+
+MATT: They burst through. (roaring) This big yell
+echoes through their metal masks. It sounds like
+
+this horrible-- imagine a giant vocal scream that's
+peaking on the audio level against a tinny
+
+metallic speaker.
+
+LIAM: (Bane voice) Your punishment will be more
+severe!
+
+MATT: Essentially. This one's going to go after
+Keyleth. This one's going to make two swipes at
+
+Trinket because Trinket's right there. As they
+barrel through, part of the roof breaks. Guys up
+
+top, Percy and Grog, you feel the ground buckle a
+little bit below you and you drop about two or
+
+three inches as the building is starting to lose
+its physical frame.
+
+TALIESIN: Oh god, Grog, what did Keyleth do?
+
+TRAVIS: Thanks, Keyleth. You beat me by one
+second!
+
+TALIESIN: I'm well aware. It was totally worth
+it.
+
+MARISHA: #thanksKeyleth.
+
+MATT: That's one's going to go ahead and do two
+slam attacks against Keyleth.
+
+MARISHA: Yeah, I've earned it. Come on!
+
+MATT: That's 23 to hit.
+
+MARISHA: Yeah, that hits.
+
+MATT: And that's a 29 to hit.
+
+MARISHA: Yeah.
+
+MATT: That's 20 points of bludgeoning damage from
+the first hit. And the second one is 30 points of
+
+bludgeoning damage. (two slams) And it slams you.
+The second fist actually pins you up against the
+
+wall there, and you feel ribs crack inside your
+chest and now-- they're both down low in this
+
+hulking mass. They're almost wider than they are
+any other dimension with how they're crouched down
+
+and the thickness of their body. They're taking up
+almost the entirety of the room right now.
+
+MARISHA: You said 30 points, right?
+
+MATT: Yes, for the second one.
+
+MARISHA: So I'm at 83 points.
+
+MATT: Correct. The other one's going to slam twice
+into Trinket. Giant fists. That's going to be a
+
+28.
+
+LAURA: 28 hits.
+
+MATT: And a 22.
+
+LAURA: 22 hits.
+
+MATT: That is five plus six. 11 points of
+bludgeoning damage to Trinket.
+
+LAURA: Halved.
+
+MATT: Halved, correct. And 22 points of
+bludgeoning damage, halved.
+
+LAURA: Okay, so 11 plus six is 27 points.
+
+MATT: That ends their go. We're at the top of the
+round. Percy, you're upstairs.
+
+TALIESIN: Okay, this all happened. That's awkward.
+That's okay, I know where I am. I'm going to run
+
+out onto the balcony really quick.
+
+MARISHA: There's room over here.
+
+TRAVIS: That guy's still up there with us, right?
+
+TALIESIN: Yeah. I figure you're going to handle
+him. Grog, take care of these two. What do I see
+
+outside on the balcony?
+
+MATT: You see, currently down below-- make a
+perception check. Actually, you wouldn't even see
+
+them from your perspective.
+
+TALIESIN: I just rolled a natural 20.
+
+MATT: Right, it's blocking your vision from this
+side. You do see Scanlan, you see Sprigg who is
+
+currently conscious, you see this necromancer who
+is currently held with brambles, and you see two
+
+streaking flames and hear screams on this side of the
+building.
+
+TALIESIN: Weird question, really quickly. Where is
+that giant log trap?
+
+MATT: Right there.
+
+TALIESIN: How much swing does it have? Is it
+locked all the way over here, or is it hung back
+
+there?
+
+MATT: It looks more like a drop.
+
+TALIESIN: Oh, so it's a drop on the door. Good to
+know. In the meantime, I'm going to run on the
+
+exterior of the wall, like right over here, if
+that makes sense. That's going to be my movement.
+
+I'm going to take some fun, happy pot shots at
+these bastards.
+
+LAURA: At the necromancer?
+
+TALIESIN: At the necromancer! Let's start with
+that bound necromancer. He's fun.
+
+LIAM: With the Vecna eye.
+
+TALIESIN: With the Vecna eye. He's bound, so I
+have advantage to hit him?
+
+MATT: Yes, you do.
+
+TALIESIN: All right, I'm going to use my Animus
+gun so I still have a hand open, and I'm also
+
+going to burn a point of grit so that I can get
+him to drop his staff. Here we go with advantage.
+
+Oh darn, it was so close. 28.
+
+MATT: That hits.
+
+TALIESIN: That's-- ooh! Fancy. 18 points of
+damage, four points of psychic damage, and he has
+
+to make a strength saving throw or drops his
+items.
+
+MATT: Oh, don't worry, he drops the staff, because
+there's not much left of his head. When you hit
+
+the arm, the staff's clutching, but you slam it
+and it hits the side of the head and causes the
+
+right side of the face to explode against the
+tree, the brambles still clutching as it falls
+
+limp to the ground, and they crush the body into a
+small rock of flesh.
+
+TALIESIN: That'll do.
+
+MARISHA: You get a grit point back, right?
+
+LAURA: You get a grit point back, you get a grit
+point back!
+
+MATT: You just barely see them; they have
+three-quarters cover. But you have sharpshooter.
+
+TALIESIN: Three-quarters cover, what does that
+mean in this crazy world? I'm going to burn a grit
+
+for advantage and shoot one of them.
+
+MATT: The one right furthest on the side there?
+
+TALIESIN: Yeah. I'll start there. Let's give it a
+shot. I love advantage; it's so wonderful. 32. I
+
+really should have done extra damage. So that's
+1d10 plus six. That hits, obviously. 32 to hit?
+
+MATT: Yeah, that hits. Goodbye, necromancer.
+
+TALIESIN: 17 points of damage plus two points of
+psychic damage.
+
+MATT: How much was that, sorry?
+
+TALIESIN: 17 points of damage plus two points of
+psychic damage.
+
+MATT: Okay. All right, he's still standing.
+(bullet impact, yelps) He starts looking up to see
+
+where the shot came from as the giant bullet wound
+through the torso and out the back of the shoulder
+
+was clean through. You hear him breathing, gasping
+for breath. (gasping)
+
+TALIESIN: I'm going to take another shot at him.
+I'm going to make this a sharpshooter shot, and
+
+again with advantage because that's fun. Here we
+go. Damn! Almost a crit. That's 29. That hits.
+
+MATT: That hits, yeah. Go ahead and roll damage.
+
+TALIESIN: 14 points of damage-- I'm sorry, 24
+points of damage plus two points of psychic
+
+damage.
+
+MATT: He falls to the ground, face first. The
+second shot hits him in the chest. He just goes
+
+down, crumples. His body begins to smolder.
+
+TALIESIN: I use my bonus action to reload and
+stare at the nice person below me.
+
+MATT: That ends Percival's turn. Grog, you're up.
+You hear, downstairs, the (heavy thudding).
+
+There's the guy in front of you who's like, (angry
+breathing). What are you going to do?
+
+TRAVIS: Can I smash my Titanstone Knuckles
+together and cast Enlarge on myself?
+
+MATT: You can! And your head goes into the roof!
+(thudding)
+
+MARISHA: We're real sorry about your house.
+
+DARIN: It wasn't a house. It was a prison.
+
+LAURA: Well, then you're welcome.
+
+TRAVIS: I'm hoping the floor gives.
+
+MATT: The floor gives out. As your head (crashing)
+into the ceiling (creaking, crashing) it falls out
+
+from under you. You come falling down on top of
+this guy. Rubble falls around. Keyleth, I need you
+
+to make a dexterity saving throw. I need Trinket
+to make a dexterity saving throw. The other shadow
+
+ghast fails.
+
+MARISHA: Nine.
+
+LAURA: 14.
+
+MATT: Trinket, you, and the shadow ghast all take
+22 points of bludgeoning damage as the roof caves
+
+in over on top. Large part of the upper floor now
+falls and this guy stumbles and is now prone
+
+there. He also takes damage. You take 22
+points of bludgeoning damage from falling through
+
+the wreckage. Trinket's is halved, yes.
+
+MARISHA: Ugh, debris, ugh!
+
+MATT: That kills him. The shadow ghast right
+here.
+
+TRAVIS: Because he had barely any left.
+
+MATT: Yeah. He's like, "Huh?" (crashing) Gets
+rained on with rubble, broken, splintered wood and
+
+stone.
+
+TRAVIS: The guy in Manners, he fell too, right?
+
+MATT: His part of the ceiling didn't fully
+collapse. He's just out of the way. He's dangling
+
+off the edge right now, as he shakes, it's making
+its way towards the hole. The whole ceiling didn't
+
+collapse, just the area right below.
+
+TRAVIS: Beautiful. Can I take Tweedledee to my
+right and make two reckless attacks against him?
+
+They're not giants, right?
+
+MATT: No, they're not giants. They're considered
+undead.
+
+TRAVIS: They're considered undead. 30 to hit. And
+the second one.
+
+MATT: Big targets.
+
+TRAVIS: 29.
+
+MATT: Hits.
+
+TRAVIS: So ten. 24 points. Plus the Enlarge-- 25.
+
+MATT: 25 with the first hit. (whack)
+
+TRAVIS: 22 with the second one.
+
+MATT: 22 damage on the second hit. (whacks) You're
+hitting him. Laying on its back, it has these
+
+metal spikes jamming out of its flesh. You can see
+portions of other creatures that it had slain that
+
+have been jammed on these spikes and rotted away
+on its armor. So as you're hitting it, you're
+
+knocking away parts of partially decomposed
+creatures that previously fell in battle to one of
+
+these creatures. As you're slamming into it, you
+can see it's just rippling, partially decayed
+
+muscle that seems to be unnaturally strengthened
+by whatever necrotic energy keeps it stitched
+
+together and alive. It's a thick sack of hit
+points.
+
+TRAVIS: Wow. Cool. Good to know.
+
+MATT: Is that your turn; are you doing anything
+else?
+
+TRAVIS: That's interesting. I'm going to go into a
+frenzied rage as my bonus action.
+
+MATT: Okay, and that's the end of your turn? Okay.
+End of Grog's turn. Vax, you're up. You heard all
+
+this go on and now the whole building is starting
+to catch fire.
+
+LIAM: I'm going to bolt to that window.
+
+MATT: Right there?
+
+LIAM: No, other way. So I have a view of Keyleth,
+the creature, and Grog. I'm going to throw
+
+Whisper-- I've got sharpshooter-- at that thing,
+and bamf there.
+
+MATT: I will say, at proximity to the flames that
+are starting to catch, you do take three
+
+points of fire damage.
+
+LIAM: Fine.
+
+MATT: You threw the dagger at the big guy?
+
+LIAM: Whisper goes to the window at that guy
+there.
+
+MATT: Go ahead and roll an attack.
+
+LIAM: And it's flanking, right? Because of where
+Grog is, or Keyleth?
+
+MATT: It's not flanking, but you get to add
+sneak attack modifier.
+
+LIAM: Okay. Yeah, that's fine. That's 32.
+
+MATT: Yeah, that hits. So you appear next to it.
+
+LIAM: Three plus psychic damage is four plus this
+junk. (counting) 33, doubled to 66 plus psychic
+
+damage is 74. Bamf there.
+
+MATT: And you appear next to it. As the dagger
+sinks into its torso, you watch as its chest
+
+muscles and the iron cage-like armor around it
+seems to swallow the dagger. As it goes inside,
+
+you watch as some of the muscles all of a sudden
+(squelch) fall off of its body, like whatever
+
+energy's holding it together is untethered and
+this weird, fleshy, stitched-together creature is
+
+starting to fall apart. It's looking pretty hurt.
+
+LIAM: Okay, so here's what I wanted to do. So
+movement-- and I have action-action, action,
+
+action-- action-action, action, bonus action.
+
+TRAVIS, LAURA, and MARISHA: (repeating) Action,
+action--
+
+LIAM: Guys, it's the rules in the book! You can
+bust my balls all you want--
+
+MATT: Well, that's your first attack, so you have
+your second attack.
+
+LIAM: So action-action for my regular attack,
+right?
+
+MATT: Attack-attack!
+
+LIAM: It's just semantics. Attack-attack, hasted
+action, bonus action. So that was the first of my
+
+attack-attacks. And here's the second one.
+
+MATT: Okay.
+
+LIAM: 30.
+
+MATT: Well, we have dagger, dagger, dagger. Now we
+have attack, attack, attack, attack, attack,
+
+attack as our next t-shirt.
+
+(laughter)
+
+LIAM: I'm dumping a level two Smite into this,
+against an undead. That's seven, 10, 11. Ooh, it's
+
+cocked. 17 for that hit.
+
+MATT: 17 with the additional--?
+
+LIAM: With attack-attack.
+
+MATT: Right. Well, but you said you dumped Divine
+Smite into that?
+
+LIAM: Into that one.
+
+MATT: You did the additional damage for it being
+undead? Okay, so that was how much total?
+
+LIAM: Whatever I just said. It was like 16.
+
+TRAVIS: 17.
+
+MATT: 17. 17 will do it, actually. So as you rush
+in with the second dagger, you jam up into the
+
+same space where it's falling apart, and you hear
+this dull (shockwave sound) on the inside as the
+
+divine energy radiates from the strike and its
+body (slurping) sloughs off of the bones and
+
+around your arm. It slowly falls around your arm
+like old gelatin and (slurping) slips into the
+
+ground, covering the floor around you.
+
+LIAM: Okay, I'm going to do the old crouch. Not
+that she needs it, but crouch in front of Keyleth.
+
+And then I have my hasted action for an attack and
+bonus action for an attack into the other one.
+
+29, and the second one is higher than 29. I'm
+going to dump Smite into it. Three-- you're making
+
+me mess up the math, Laura!
+
+LAURA: Psychic damage.
+
+LIAM: (laughing) I can't keep track of the math!
+
+MATT: (singing) Epic-level DND!
+
+LIAM: 25 on that towards that guy, with Smite
+added. And then the last dagger, with Smite, at
+
+level one, is two plus is 10, 14, 19.
+
+MATT: 19, okay.
+
+LIAM: I dumped a ton of Smite into that.
+
+MATT: You didn't add your modifier to the third
+strike, right?
+
+LIAM: I don't know, so why don't you just minus
+six? 19, so we'll call it 13. Some people might
+
+have been catcalling me while I was trying to do
+math.
+
+MATT: That's okay. No worries. You hit with the
+two final strikes. They blast into it. You watch
+
+as some of the armor gets thrown off its body. It
+takes a little hit, but the other creature looks
+
+like it's largely all right. That finishes Vax's
+turn.
+
+LIAM: Let me enjoy my last two months of life!
+
+MATT: Shadow ghast. What's the DC on the sphere
+again?
+
+SAM: 20.
+
+MATT: Is it 20? 19. He can't escape from this
+freaking sphere. The shadow ghast is up on the
+
+second floor going (growling). Manners, man. All
+right. Scanlan and Sprigg, what do you guys want
+
+to do?
+
+DARIN: I have a question. The gentleman who had an
+arrow in his throat: he's gone, right? He's been
+
+blown apart.
+
+MATT: Yeah. Actually, make a perception check.
+
+DARIN: Okay. That's a d20, isn't it?
+
+MATT: Yep, d20 and then add your perception
+modifier.
+
+DARIN: Got it. That's a 17.
+
+MATT: A 17, okay. You glance over and you see two
+guys who are hiding amongst the bushes on the side
+
+there.
+
+DARIN: Now, it's too far away to cast a spell.
+
+MATT: No, depending on the spell's range,
+depending on what you want to do.
+
+DARIN: Tasha's Hideous Laughter.
+
+MATT: That we can do.
+
+MARISHA: That's such a good spell.
+
+MATT: It's a fun one. So bringing up Tasha's here,
+looking at the range. There we go. It's a 30-feet
+
+range, so you want to get up and get a little
+closer, probably.
+
+DARIN: I will do that, if I could.
+
+MATT: All right, so that's half your movement, and
+you can move two more spaces. You can hit one guy.
+
+So one guy of these two you can select.
+
+DARIN: The first one.
+
+MATT: That one there? All righty.
+
+DARIN: Yes. I think his name is Dave? Roll a
+perception?
+
+MATT: Make a saving throw, a wisdom save. That is
+a ten! Your spell DC is a 17. You watch as the
+
+guy there who has his crossbow out and sees you
+get up, spins around, has this giant, heavy
+
+crossbow, the bolt very recognizable because you
+still have three of them in your body. Aims it
+
+towards you and then suddenly (maniacal laughter)
+and drops the crossbow to the ground and doubles
+
+over laughing, falling to the ground and is now
+kicking and laughing like a hyena right now,
+
+unable to do anything.
+
+DARIN: Knock knock!
+
+MATT: (maniacal laughter)
+
+DARIN: Right!
+
+(laughter)
+
+MATT: All right, is that your turn?
+
+DARIN: Yes, it is.
+
+MATT: All right.
+
+SAM: There's another guy over there? Have I seen
+him yet?
+
+MATT: You haven't, actually. You do see this guy's
+on fire right now, who is still around.
+
+SAM: Oh, I see somebody.
+
+MATT: Yeah, and you can see that hulking figure
+come running through, and you hear the (explosion)
+
+through the back of the building.
+
+SAM: For the beginning of the round, I'll say,
+guys, I think large giants are coming. Be aware.
+
+LAURA and TRAVIS: (screaming)
+
+SAM: What? I can't hear you! Speak clearly!
+
+LIAM: Threepio! Where could he be?!
+
+SAM: Okay. Shit. I'll approach the guy I can see
+burning, on fire. That's where the front door is,
+
+right? Is he in front of the front door?
+
+MATT: The log is right up in this area.
+
+SAM: Oh yeah. That. So I'll take out my Wand of
+Magic Missiles, and I will just take down
+
+the rope.
+
+MATT: Okay. You watch as three missiles fire out
+of the wand and slam into the bits of rope up top.
+
+As they explode, it's enough of an impact to cause
+it, as opposed to fall straight down, just spin
+
+and fall. I'm going to go ahead and roll a dice to
+see which direction it's going to land from its
+
+front point. So we'll say inward would be one,
+two, three, four, five, six. That's a six. So it
+
+plummets down, hits the ceiling, scrapes off and
+slams down onto him. He's going to try and make a
+
+dexterity saving throw. That is a seven plus four,
+nope. That's an 11. Go ahead and roll 4d8 please.
+
+LAURA: 4d8?
+
+DARIN: Is this Dr. Comedy, who's writhing in
+laughter?
+
+MATT: I think so. Oh. No, sorry, he's over here.
+This guy's on fire from her earlier.
+
+SAM: Oh, that's a five. 16.
+
+MATT: 16 points of damage to him.
+
+SAM: That's not a lot.
+
+LAURA: You only got 16 on 4d8?
+
+MATT: It's not enough to kill him, but it slams on
+him and then falls over. You see as both of his
+
+flaming hands on the ground going, (groans). He's
+currently restrained underneath it right there,
+
+and on fire.
+
+DARIN: Knock knock.
+
+(laughter)
+
+MATT: All right, you going to stay where you are?
+
+SAM: No. I'm going to move towards any entrance or
+window I see. I can't really see over there.
+
+MATT: There's a window here, window here. This one
+has flames in front of it. This one's available.
+
+SAM: I'll go towards that [no audio] other one.
+
+MATT: Okay. Four, five. That's as far as you can
+move there. You see the guy on the ground who's
+
+laughing in front of you.
+
+SAM: Yeah, no thanks to him. And for a bonus, I
+guess I will inspire Darin De Paul, or rather,
+
+Sprigg.
+
+LIAM: Why not both?
+
+SAM: I will sing to him, (singing) You had a bad
+day, you gettin' knocked down. I sing you a song
+
+just to turn it around! You say you don't know,
+but please don't die. I'll sing you this song and
+
+maybe you'll go for a ride. You had a bad day.
+(speaking) I don't know how that song goes.
+
+MATT: All righty, so you get an inspiration die.
+You get a d12 that you can use on any sort of
+
+skill. You don't have to use it right now, but
+whenever you use a skill check or an ability check
+
+you can add that to it if you want to. There you
+go.
+
+DARIN: Thank you. You know, I had a bad day.
+
+SAM: (singing) You had a bad day.
+
+(groaning and laughing)
+
+MATT: All right, so now it's the assassin's turn.
+Keyleth, how much fire damage does it do when
+
+they're on fire? Is it d10?
+
+MARISHA: (stuttering) Oh jeez. Fire Storm. Yeah,
+no. d10.
+
+MATT: Thought so. All right, he takes eight fire
+damage.
+
+TALIESIN: Yay! Under a log.
+
+MATT: Under a log. He's going to try and break
+free from restraint. Nope, that is a 14. He cannot
+
+move that giant tree that's currently crushing him
+on the ground. He tries to reach out for his
+
+crossbow and aim it out towards Sprigg with one
+hand because it's still loaded. But he has super
+
+disadvantage on this strike.
+
+SAM: Super disadvantage. Is that in the book?
+
+MATT: It is now.
+
+LAURA: That's in the new campaign guide. Super
+disadvantage. Only when you're stuck under a tree
+
+on fire.
+
+MATT: Sure, I'll do all three. All right. Eight, 12,
+12. I made him roll super disadvantage. What does
+
+this remind me of? Like a terrible old sci-fi
+movie where the bad guy's on the ground with the
+
+gun trying to aim it at the hero with his final
+shot and the hero just walks up and steps on the
+
+gun. You (whoosh) sidestep the bolt as it fires.
+Nothing on you.
+
+DARIN: Of course.
+
+MATT: The crossbow drops, (grunting).
+
+DARIN: Knock knock.
+
+MATT: (crying) On fire. All righty, that ends his
+turn.
+
+DARIN: (whispering) Comedy comes in threes.
+
+MATT: This guy back here is going to go ahead and
+since you're the one who has his friend writhing
+
+on the ground, is going to go ahead and try to
+shoot you with his crossbow. You do see him,
+
+although he's unaware of that, so he thinks it's a
+sneak attack shot. That is a 14.
+
+TALIESIN: You got to get better cultists, man.
+
+MATT: I know, seriously. They come in large
+numbers, so yeah. This one just (impact sound)
+
+hits the tree to your left. His aim's off.
+
+TRAVIS: He's missing an eye. His depth perception
+sucks.
+
+MATT: Exactly. And he goes ahead and darts behind
+this building there, vanishing.
+
+SAM: Did I see the bolt or any indication that he
+exists?
+
+MATT: You do. He reveals himself when he fires. So
+you watched him come out of the bushes and
+
+(whoosh) fire and then duck around the side of the
+building. The guy on the ground is going to try
+
+and save against your spell. That is a 13 plus
+zero. Nope. He's still laughing. He's just on the
+
+ground, (laughing). Tears in his eyes now.
+
+TALIESIN: I love that spell.
+
+MATT: That's the end of the assassins' turn.
+Necro's dead. Vex, you're up.
+
+LAURA: I'm going to Hunter's Mark the big undead
+monster in the room. And then I'm going to shoot
+
+him! With the Blazing Bowstring!
+
+TALIESIN: Be careful. You might catch the building
+on fire.
+
+LAURA: Oh, but I'm going to use the sharpshooter
+thing.
+
+MATT: Take minus five and do additional damage?
+Okay.
+
+LAURA: Which I don't know if I should have done
+that on this particular one. It was 17 to hit.
+
+MATT: 17 is exactly his armor class.
+
+LIAM: Yas, Pelor queen!
+
+(laughter)
+
+LAURA: Five plus eight is 13. Plus sneak attack,
+because he's got Trinket next to him. 13, 18, 23,
+
+sorry! 23 and then lightning damage. 24. 25, 26.
+And then Blazing Bowstring. God dang! 27.
+
+MATT: Okay, 27. So that's your first strike.
+(arrow shot) First one just (impact sound) hits in
+
+the side and you see the bolt of energy arc out
+and the flames burn up the arrow. By the way, the
+
+wall behind you is starting to get really warm.
+
+LAURA: I'm going to move forward. I'm going to
+actually move toward the corner where Keyleth is.
+
+MATT: There's a guy on the ground there.
+
+LAURA: Oh, there is?
+
+MATT: Yeah. So you've got to step over him.
+
+LAURA: I'm going to step on him.
+
+MATT: As you move past, he does get a swing with
+his shortsword at you. Oh, wow. That's a 25.
+
+LAURA: Oh, wow. He hits me. Probably because I
+stepped on him.
+
+MATT: I think so. So you take nine points of
+slashing damage. Just like, (pain sound) as you're
+
+walking past.
+
+LAURA: (pain sound) Fuck. Ah, shit. Okay, I'm
+going to hit the big hulking thing again.
+
+MATT: I realized he had disadvantage, but I rolled
+another 18, so it's fine.
+
+LAURA: Oh, okay, well, yeah. I'm going to do the
+same thing with the big hulking guy.
+
+MATT: Okay.
+
+LAURA: 25 to hit.
+
+MATT: 25 hits.
+
+LAURA: Oh, I didn't add plus ten to the previous
+one!
+
+MATT: Because of the sharpshooter, all right. 39
+last time. So go ahead and take a swing at it.
+
+LAURA: Thanks! 14.
+
+MATT: You're up next, Keyleth.
+
+LAURA: 14 plus six is 20.
+
+SAM: Figure out how you're going to ruin Darin's
+life more.
+
+MARISHA: I know. That's my one goal in life. I'm a
+big old homewrecker.
+
+LAURA: I think that's just 32 because I don't get
+sneak attack again.
+
+MATT: All right. So the second arrow slams into
+him. It's still holding firm. It's taking the hits
+
+and you see parts of its body are starting to
+spill black liquid out of the wounds and (growls)
+
+its red eyes still beaming out from behind the
+metal mask in front of its face. Its arm swings
+
+back and tears some of the ceiling beams out with
+it. It's looking pretty rickety right now. So that
+
+ends your turn?
+
+LAURA: I guess so.
+
+MARISHA: Is it in a fireproof safe? No? Okay!
+
+MATT: Keyleth, you're up.
+
+MARISHA: All right. So I have this big asshole in
+front of me, yeah? The house is catching on fire,
+
+right? Yeah. Nope, she'd still be really upset and
+really angry. So continuing what I was saying
+
+before, she's gonna rage a little bit more and go
+into her fire elemental self.
+
+MATT: Okay.
+
+MARISHA: Unable to contain her frustration--
+
+TALIESIN: This is a good plan.
+
+MATT: You technically entered the space of the guy
+who's on the ground, becoming a fire elemental,
+
+which lights him on fire. (screams)
+
+MARISHA: Even more upset. I'm gonna move right in
+the space of this guy.
+
+MATT: (whoosh) So occupying his space from this
+side, we'll say. She can catch you guys on fire.
+
+LAURA: But she doesn't have to.
+
+MATT: I'll double-check that real fast.
+
+MARISHA: I mean, I'm magical.
+
+TALIESIN: Sparkle fire.
+
+MARISHA: I sparkle fire.
+
+LIAM: Also, we can take it.
+
+TALIESIN: Yeah, it's fire.
+
+MATT: You know what? It can move through a space
+as narrow as one inch wide, so I'll say yes, you
+
+can maneuver through. Only if you want to, can you
+set things on fire.
+
+MARISHA: I'm going to go into this guy's space,
+engulf in flames, and do my multi-attack, two slam
+
+touch attacks.
+
+MATT: Go for it. He is now in flames.
+
+MARISHA: That's cocked. Ooh, that's good, that's
+good. 21.
+
+MATT: 21, yeah.
+
+MARISHA: And 16.
+
+MATT: 16 just misses.
+
+MARISHA: Fucking balls. Okay. No, plus six to 11.
+That's 17.
+
+MATT: That hits. That's what you needed.
+
+MARISHA: So both of those hit. 2d6 plus three.
+First one is eight. Plus ten. 18 fire damage.
+
+MATT: He's looking pretty hurt. As you slam him
+with both of your flaming hands and claw across
+
+his body, where the flame hits, you see it
+(hissing) singes through the flesh and drags
+
+charred remains of where the muscle once was where you
+dragged your claws through. The body's starting to
+
+shake as it's holding its form together.
+
+MARISHA: That's all I've got, I think. That's it.
+
+SAM: No. You have action, action, action, action,
+action.
+
+(laughter)
+
+MARISHA and TALIESIN: Bonus action.
+
+LAURA: Hasted action.
+
+LIAM: Send all your complaints to Mike Mearls and
+Chris Perkins at Wizards of the Coast.
+
+SAM: Matt, not to be a dick, but has anyone
+stepped on the trap on the floor?
+
+MATT: Actually, you know what, Vax would have
+avoided it. Because Vax is in the spot where it
+
+was, but Vax knew where it was, so Vax would have
+probably gone over it.
+
+SAM: So cool. You're doing the little splits over
+it.
+
+LIAM: Splitsing. Van Damme-ing it.
+
+MATT: Wait, you wouldn't have, because when you
+threw the dagger--
+
+LIAM: Let's do it.
+
+MATT: It's not a big deal. Thank you for pointing
+that out.
+
+SAM: But your boots are gone.
+
+LIAM: She stole them again? How did you do it?
+
+MATT: You guys glance upward as you hear a (deep
+swoosh) and up above you in the hole in the
+
+ceiling where there once was nothing but air, you
+see hovering above you a giant beholder just
+
+appear. (guttural moan) All of its eyestalks
+curling around it.
+
+MARISHA: What do you mean, it's not a big deal?
+That's the part that I'm confused about!
+
+MATT: Thank you for that. So that finishes your
+turn, Keyleth. Pike's turn. Pike sees this--
+
+LIAM: If we're retconning that in, I'm retconning
+(blows raspberry) when I see it.
+
+DARIN: Don't get Gargamel angry.
+
+MARISHA: Does that mean that Keyleth would have
+seen the beholder beforehand? You know what, don't
+
+worry about it.
+
+MATT: No. You were so angry-- it's in the hole
+above. You don't quite see where that hole was at
+
+the moment, you backed away.
+
+MARISHA: Man, so much blind rage.
+
+MATT: So much blind rage. Look guys, that's what
+we're doing. So anyway, Pike does actually make an
+
+insight check, and says, "It's not real. Don't
+worry about it!"
+
+LAURA: Thanks, Pike.
+
+MATT: Fixed.
+
+(laughter)
+
+LAURA: It's not a big deal, you guys.
+
+MATT: Pike, however, is going to go ahead and make
+another Guiding Bolt at the large guy there.
+
+That's going to be a 20. That hits. That's going
+to be 4d6. 14 points of radiant damage, which will
+
+do it. So you watch as Pike blasts it in the face
+with the Guiding Bolt. As it hits, the mask gets
+
+thrown off, and where the head was beneath it, you
+see this empty black void with two red burning
+
+coals for eyes that blink out as soon as the mask
+is removed, and the whole body crumples to the
+
+ground and turns into a horrible, thick,
+black-purple ichor.
+
+LAURA: I'm going to have nightmares about that.
+
+SAM: For sure.
+
+MATT: The beholder is still upstairs, staying in
+place going (hoarse screaming).
+
+(laughter)
+
+MATT: Yeah, it's that kind of thing.
+
+TALIESIN: Brilliant.
+
+MATT: That ends Pike's turn. They're both dead.
+That brings us back. Percival, it's your turn.
+
+There's the one guy on the ground there. One's
+laughing. We'll say for the purposes of this, for
+
+the time, most everything there is not much of a
+threat at this point. So systematically, the guy
+
+on the ground who's hidden by the tree, you can
+just--
+
+TALIESIN: I'm ignoring him. I'm not even gonna
+deal. I'm just hopping in the window. I'm going to
+
+grab my little guy there. I'm going to bring him
+out to the balcony, and I'm going to
+
+unceremoniously toss him out of the house.
+
+SAM: Defenestrated!
+
+MATT: You throw him (thud). He lands.
+
+TALIESIN: And then I'm going to jump and I'm going
+to crawl down the rest of my way and join him
+
+outside the house. And try and jump around the
+fire, dragging him away from the fire.
+
+MATT: Make an athletics check. Sorry, acrobatics
+check.
+
+TALIESIN: Acrobatics? Bless you for an acrobatics
+check. I'm rerolling that.
+
+MATT: No, it's not a saving throw. You can't do
+that.
+
+TALIESIN: It's not a saving throw. Oh well, that's
+fine. That's a 16.
+
+MATT: I'll say for the purposes of this--
+
+TALIESIN: I had the Spider Climb boots.
+
+MATT: Right, I know. But Spider Climb boots only
+helps you if you keep on the surface. So as you
+
+leap, you manage to land on your feet, but the
+flames do catch you a bit, so you take six points
+
+of fire damage as you start to burn. For the
+purposes of time on this one, the guy who's
+
+currently under the log just burns to death there
+under the log. Pinned, he's trying to reach for
+
+his crossbow, but he's only fired the one bolt
+that was loaded in it. The guy on the ground is
+
+still laughing as you approach him.
+
+DARIN: Are there any rocks about?
+
+MATT: Yeah, there's quite a few heavier rocks on
+the ground.
+
+DARIN: Well, I look at him, and I say, "It was a
+prison, but it was my prison." And I use the
+
+Telekinesis ring to lift a rock and drop it on his
+head.
+
+MATT: (splat) A horrible sickening crack sound. It
+slams into the head. You lift it up. The laughing
+
+has stopped, but he's still moving and you can see
+the face is broken. The nose is smashed to the
+
+side and it's just blood. He's starting to try and
+get back up.
+
+DARIN: Well, tell them that Ethred Brokenbranch
+sends his regards.
+
+MATT: Do you let him get up?
+
+DARIN: Yes.
+
+MATT: He gets up. (grunting)
+
+SAM: I'll Lightning Bolt him as he runs away.
+
+MATT: Okay, we'll say for the purposes of this, he
+runs off in the distance (footsteps, yelp) and
+
+falls to the ground, no longer moving.
+
+TRAVIS: Can I kill the guy on the floor? Can he be
+mine, please? Can I please smash him? The guy
+
+that's lying on the floor in the house, please?
+
+TALIESIN: Just sit on him.
+
+TRAVIS: I haven't Gallaghered anybody in a while.
+
+MATT: He's on the ground on fire now, going
+(frantic gasps) patting out the fire.
+
+LAURA: Oh, Grog, put him out!
+
+MATT: He spends his action putting the fire out
+now, and is like, (frantic gasps).
+
+MARISHA: Keyleth takes a few steps back and
+motions as a fire elemental...
+
+TRAVIS: I skip on in and (gibberish yell).
+
+MATT: He's like, (scream, impact). Just smashed on
+the ground. Red watermelon.
+
+LAURA: Fire's out, I'm assuming.
+
+MARISHA: I drop my fire form, turn, see my anger,
+destruction, get immediately guilty, and then do a
+
+Tidal Wave to quell the flames.
+
+MATT: The building is standing, mostly. The whole
+front of it is blackened. The flames are gone.
+
+Most of the interior is destroyed. You have two
+giant holes in the back. Most of the upper ceiling
+
+is ruined. The house is in shambles.
+
+LAURA: What about the books?
+
+MATT: A lot of them have been destroyed. Some of
+the ones on the back wall have been burned. Some
+
+of them have been burned by people in flames or
+made of flame or general black ichor that spilled
+
+out. The house is pretty wrecked.
+
+LAURA: Can I go over to them and see if I can find
+some books I think Percy would like?
+
+MATT: Make an investigation check.
+
+SAM: I'm running over to see that staff with an
+eye in it.
+
+LAURA: 27.
+
+MATT: 27? Okay. You start glancing through. You
+find some history books. You find some that relate
+
+to local history. You see some books that relate
+to various types of creatures; some animals and
+
+beasts. Many that are encyclopedias of various
+rivers and it's scattered everywhere. It's just
+
+universal knowledge of pretty much anything he can
+get his hands on. So some of it seems less useful
+
+than others but you hand-pick a few out that you
+think Percy would like.
+
+TRAVIS: I don't mean to ask the obvious question,
+but how did he know we were here?
+
+TALIESIN: No, that's not an obvious question. I
+have no idea.
+
+MARISHA: They have multiple eyes.
+
+LAURA: But how? Was he watching us? Is he scrying
+on us?
+
+TALIESIN: Must have.
+
+LAURA: Oh, he's fucking scrying on us.
+
+TALIESIN: Maybe he can feel you the way you can
+feel him.
+
+MATT: You get the sense that's not how this
+works.
+
+TALIESIN: Yeah. I don't know.
+
+MARISHA: He had another eye, right?
+
+SAM: Does that thing have an eye in it?
+
+MATT: The staff you see? It's a carved eye. It's
+made of wood and paint. It's ornamental. It's
+
+mainly used as a focus, technically acts as a
+plus-one staff.
+
+TRAVIS: Sprigg. You said this place was a prison.
+Did you mean that?
+
+DARIN: Of course I meant it, boy. I've been there
+for years.
+
+TRAVIS: Could you leave? If you wanted.
+
+DARIN: Of course I can. The prison was more up
+here than in there.
+
+TRAVIS: Oh. Sorry about the prison, then.
+
+DARIN: Why would you be sorry? I asked you for
+power and redemption. Don't you feel you gave me
+
+that? We lived, child. We all lived.
+
+TRAVIS: Yep. Yes. That is indeed what I was hoping
+for.
+
+LAURA: I lean out the window. Hey, Sprigg!
+
+DARIN: Hello!
+
+LAURA: Hi.
+
+DARIN: Hi! How are you? I have some arrows in me
+at the moment. You like arrows, don't you?
+
+LAURA: I do. Come in here, I'll take them off your
+hands.
+
+DARIN: Okay. Question: if you do that, I'd
+probably die again.
+
+LAURA: I'll cure you, darling. Don't worry.
+
+DARIN: She called me darling.
+
+SAM: She's the cutest.
+
+DARIN: (growls) I go in.
+
+(laughter)
+
+MATT: You walk into your destroyed abode, managing
+to sidestep all the bear traps along the way.
+
+You've walked the path many times and you know it
+and I'm actually surprised none of you walked into
+
+any of them. You knew where most of them were, but
+none of you wandered out far enough into the open
+
+to do that. They're all inside. You can see your
+giant friend, of course, that you were talking to
+
+as you walked in is twice the size he was earlier.
+Previously where you had to hunch, you're now
+
+having to almost belly crawl inside the house.
+
+TRAVIS: But why? There's no separation between the
+first and the second floor.
+
+MATT: So if you stand in that space, you're fine.
+
+TRAVIS: I'm in my space.
+
+TALIESIN: I'm going to prop our idiot up in the
+window so I can go in and keep an eye on him even
+
+while I'm inside.
+
+SAM: We have a prisoner?
+
+TALIESIN: Yeah. I kept one.
+
+LAURA: But he's one of those creepy ghouls that
+probably doesn't speak.
+
+MATT: And in the last minute or so has not been
+able to break free but is still trying.
+
+TALIESIN: He automatically fails until 24 hours
+has elapsed.
+
+MATT: After the first failed save?
+
+TALIESIN: Any further attempts by the creature
+automatically fail until 24 hours have elapsed. He
+
+ain't going nowhere. It's mean, man.
+
+LAURA: Me and Pike can heal him as I take the
+arrows out.
+
+MATT: Okay.
+
+DARIN: At last you've seen the point of me, eh?
+
+LAURA: (sarcastic laugh) Sprigg, anything valuable
+in here that you want to save before we get you
+
+out of here?
+
+DARIN: Would like my organs! Oh, I would like to
+save those.
+
+LAURA: Yes.
+
+DARIN: All right. No. There's nothing.
+
+LAURA: No keys to Ioun? You know where she is?
+
+DARIN: I might. I hope I do. I hope that I can
+give you the answers you seek.
+
+LAURA: I hope so, too. I cast Cure Wounds.
+
+MATT: Pike casts Cure Wounds on you, as well, and
+you heal 18.
+
+DARIN: Do I know her name yet?
+
+MATT: No, you do not.
+
+DARIN: Cleric.
+
+MATT: "Pike."
+
+DARIN: Yes. Ethred. Or Sprigg. Whichever you like.
+You can call me Sprigg. Can you help me pray to
+
+Ioun? We need answers, and I think together we
+might find them.
+
+MATT: "I can certainly try. Do you have any items
+of her iconography?"
+
+DARIN: Do I?
+
+MATT: Yeah, actually. You just reach over and find
+one of the undamaged books.
+
+LAURA: You healed 19, by the way.
+
+DARIN: Thank you. Use this and you talk to her
+where I can't. At least, not yet.
+
+MATT: "I don't know if I can talk to her. I'm
+not... But I can help you pray. I don't know if
+
+"it'll be enough."
+
+DARIN: Let's give it a go. There's a first time
+for everything.
+
+MATT: "Grog!"
+
+TRAVIS: Yeah?
+
+MATT: "Can you help me clear some of the floor,
+please?"
+
+TRAVIS: Not a problem! (grunting) Keyleth, catch!
+
+MARISHA: Ah! Ow!
+
+(laughter)
+
+SAM: Floorboards! In her face!
+
+TRAVIS: I thought you were on fire. I'm really
+sorry.
+
+MATT: Pike takes you over to the center of the
+room and tells you. "Kneel with me. Now take this
+
+"book and close your eyes and... apologize."
+
+DARIN: For what?
+
+MATT: "For everything you said about Ioun."
+
+DARIN: (grumbles) All right. Well, look the other
+way. Find some things that are of value.
+
+TRAVIS: (whistles)
+
+LAURA: Trinket sits down next to him and stares,
+but I'll turn around.
+
+DARIN: All right. I don't know if you're
+listening, Ioun. It's been many years since I've
+
+actually spoken to a god. I'd like to express my
+deepest sorrow. You see, this home... didn't mean
+
+as much to me as life. And I think these people
+gave that to me. If you could give us... If you
+
+could give me anything, any little hint, it would
+be greatly appreciated and I would be a warrior in
+
+your name forevermore. Please. Was that okay,
+bear?
+
+MATT: (huffs, licking) Licks the side of your
+face.
+
+DARIN: No, I'm not crying. You're crying, bear.
+
+MATT: You sit there in silence with your eyes
+closed, concentrating, holding the book before
+
+you. Doesn't seem to be an answer. Just silence in
+the darkness. Nothing. Everyone wants to
+
+look at him-- still turned away?
+
+MARISHA: Keyleth is definitely staring, but
+pretending not to stare.
+
+TALIESIN: I'm watching through the book.
+
+LAURA: I'm leaning against the wall and staring at
+him now.
+
+MATT: Nothing. Nothing responds. As you have your
+eyes closed, you hear this soft chuckle in the far
+
+corner of the room. (cackles) "Really? Praying,
+are you?"
+
+DARIN: Yes. Can you help?
+
+MATT: "Do I look the kind of guy that would
+help?"
+
+DARIN: Yes. I've known you for 19 years and I
+think anybody's capable of anything, so why don't
+
+you do something unexpected?
+
+MATT: "I think you're right. It's no longer your
+prison. It's not mine, either."
+
+DARIN: That's true.
+
+MATT: (flapping) Flies out the window.
+
+TALIESIN: Oh shit.
+
+DARIN: Kraghammer has another performer, and not a
+very good one.
+
+MATT: While you've been talking, by the way, and
+the silence has been sad. Taking in the slight
+
+emotional cut that not getting a response and
+putting yourself on that limb means nothing. The
+
+rest of you notice his torso is glowing bright
+blue.
+
+MARISHA: What? Is it really?
+
+MATT: Yeah.
+
+TRAVIS: Your stomach is glowing.
+
+DARIN: Growing? What? I didn't eat anything. How
+could my stomach be growing?
+
+SAM: You're blue balling.
+
+DARIN: What?
+
+SAM: (whispering) Look down.
+
+MATT: Pike looks at you and takes your hands and
+opens your arms and motions to your chest. And the
+
+book in your hand, you pull aside. You glance down
+and you can see, there's this soft, bluish glow
+
+that's emanating from your torso. Strange.
+
+DARIN: You see? I didn't have to believe in Ioun.
+I've found my religion. (chuckling) I'm Bluish!
+
+(laughter)
+
+TRAVIS: Aw, man!
+
+DARIN: It didn't happen!
+
+MATT: No, it did. That's canon.
+
+DARIN: Wait a second, gentlemen. We'll restart for
+just a second. It'll be fine. That little imp is
+
+gone. So apparently, the key... is me.
+
+LAURA: Is you? It is you.
+
+SAM: Is in you or is you?
+
+MARISHA: It is him. I've known it from the minute
+that I laid eyes upon him. It's him.
+
+TRAVIS: You did? You knew that the moment you saw
+him?
+
+MARISHA: No, I mean I had a hunch, I had a
+feeling, deep down inside. I can't say it. If I
+
+say it out loud and then if it's not true then I'm
+an asshole.
+
+LIAM: To be fair, we've only been here 12
+minutes.
+
+DARIN: Yes. House gone. The imp gone. Burny,
+burny. Sad, sad. Pray, nothing happened. Now I'm
+
+blue. That's a day for you, isn't it?
+
+LAURA: So do you glow brighter the closer we get?
+What's the deal here?
+
+DARIN: I've never glowed before, child.
+
+LAURA: I think it's glown.
+
+DARIN: I've never glowned.
+
+SAM: If you're the key, where's the lock? Where do
+we take you?
+
+DARIN: Well, I have been gone for many, many years,
+so English may have changed. To be fair. To be
+
+fair. I don't know. This is all new to me. I would
+have thought it would be in one of those tomes.
+
+TALIESIN: I'm going to pick up the book that he
+was holding when he was praying. I'm going to just
+
+try and read it.
+
+MATT: Okay. You glance through it. The book is a
+simple book, talking about the construction of
+
+barricades and it looks like it was less 
+the contents of the book and more just the image
+
+of the book itself.
+
+TALIESIN: I'm going to hand him the book again and
+see if maybe there's focus to be found. Maybe this
+
+is--
+
+MATT: Okay. Make a perception check.
+
+TALIESIN: Oh, lord. Ooh. Let's call that a 28.
+
+MATT: When you took the book from him and handed
+him another book, there was a very faint vibration
+
+to his body as you pulled it from him and gave it
+back to him. Which you haven't noticed, but
+
+there's a physical vibration to him.
+
+TALIESIN: If it's all-- with your permission, I'm
+going to take his hands.
+
+MATT: Okay. You feel them, and you feel this very
+faint vibration to his body.
+
+MARISHA: Percy.
+
+TALIESIN: Yes.
+
+MARISHA: Continue holding his hands. I pull out
+the Tome of Quick Movement. Hold. Hold while I
+
+find the paper. Hold.
+
+LAURA: What if he's a tuning fork?
+
+MARISHA: (shushes)
+
+DARIN: That's very rude.
+
+MARISHA: Where is it? I have a lot of things.
+
+SAM: Divining.
+
+DARIN: Oh yes. A divining rod. A rod to the
+divine. Perhaps I am a divining rod.
+
+LAURA: That's what I mean.
+
+DARIN: Well said, child!
+
+MARISHA: I pull out the fork we that we got to get
+to Elysium. Is it similar?
+
+MATT: When you pull out the fork and you hold it,
+you recall that whenever you cast the spell Plane
+
+Shift, there was a faint vibration to the specific
+fork when you cast the spell.
+
+SAM and TALIESIN: He's the tuning fork.
+
+MARISHA: Oh no.
+
+LAURA: What, no? This is good!
+
+MARISHA: No, it is good. It's good, it's just...
+Oh, Sprigg. No, it's fine. It's good. I don't
+
+know. Everything in my life seems to have this
+impermanence factor about it. So I hope he's not
+
+something that can be used and discarded.
+
+DARIN: I haven't been used in 37 years.
+
+MARISHA: Sprigg.
+
+DARIN: It's all right. At least I wasn't discarded
+all that time.
+
+MARISHA: I'm sure it's fine, I just--
+
+DARIN: Look. Look at me. Just remember. Whatever
+happens, remember me. That's all that's
+
+important.
+
+LIAM: That's good advice.
+
+DARIN: That's all that we have. My friends are
+gone and I don't even remember their names. I
+
+don't remember Thetapax or Zephyr or... the guy
+with the nose. He was my favorite.
+
+(coughs and sniffles) Dusty in here, isn't it?
+
+MARISHA: Oh, Sprigg.
+
+DARIN: (sniffles and coughs) I remember. (softer)
+I remember. See? It's all up here. So whatever
+
+happens, keep me there. All right?
+
+MARISHA: I guess I have to start getting used to
+losing things.
+
+DARIN: Yes. Or you can be hidden away in a prison
+for 37 years. And that's not life, child. That's
+
+hiding. Don't hide.
+
+MARISHA: I've already built my own prison. They
+don't know. I'm already there.
+
+DARIN: You can break out. You can. It's hard. But
+you can do it. Just take the first step. And then
+
+you take another one. And then you take another
+one.
+
+MARISHA: And I grab his hand, and with that, I
+cast Plane Shift to wherever he is leading to go.
+
+MATT: All right. The rest of you gathered hands
+for this?
+
+LAURA: I guess so.
+
+MATT: All right.
+
+LAURA: Is there enough of us? Trinket, in the
+necklace. Quick!
+
+MATT: Trinket. (roars) Into the necklace.
+
+DARIN: Wait. My invisible frog companion.
+
+SAM: Is he real?
+
+DARIN: Yes.
+
+(laughter)
+
+MATT: There is a sudden (sucking noise). A
+shuddering of power energy around you as you feel
+
+the vibration out of Sprigg's hand emanate
+throughout the entire loop you guys have created
+
+throughout your grasp. The familiar bright light
+flashes before you, and you feel your body being
+
+pulled through, at incredible speeds, through
+darkness. There. The familiar racing of the divine
+
+gate. (fast travel noise) As you pass through one
+of its many portholes. Then, adrift. By now
+
+you've-- the times you've passed through the gate,
+you've passed through it a handful of times since
+
+now. Adrift. Still holding hands, but the circle's
+beginning to turn into an oval. You can all glance
+
+around and see each other. Did you miss your
+destination? Did you overshoot? What's next?
+
+(whoosh) Another white flash. And suddenly you're
+at a destination. You glance around and you're
+
+standing within a small chamber. It resembles a
+decadent bathhouse but with no water nor occupants.
+
+It's empty. There are marble pillars stretching to
+a domed ceiling about 60 feet above you all.
+
+Silk-draped cloths drift and hang at odd angles
+throughout the ceiling. Glowing points of magical
+
+light latched within iron cages dangle at the
+edges of these pillars about 15 feet up that give
+
+the faint glow to an otherwise darkened room.
+There are walls on each side of this chamber,
+
+about 30 or 40 feet from you, and one arched
+hallway across from you that leads to the only
+
+other chamber you've seen.
+
+MARISHA: I immediately turn and look to see if
+Sprigg is still holding my hand.
+
+MATT: Sprigg is still holding your hand.
+
+LAURA: See? All that fucking shit was for nothing!
+He's still alive!
+
+SAM: Are you the same Sprigg as before?
+
+DARIN: I hope so. Let's ask my invisible frog
+companion. Well, I guess we'd better go find what we
+
+are looking for.
+
+MARISHA: Okay. Glad you're with us, Sprigg.
+
+DARIN: It's good to be alive.
+
+MARISHA: Yes, it is.
+
+DARIN: Remember that.
+
+MARISHA: Okay. I will.
+
+MATT: As you guys walk forward towards the
+singular hallway, you go through the domed arch,
+
+and the hallway extends on. Featureless, smooth
+grey marble. Like a solid punch that seemed to
+
+have carved out whatever this material was. It
+extends for 100 feet. 150 feet. And even though
+
+there's very very faint light, and many of you can
+see through darkvision, there is a darkness about
+
+60 feet from you that seems to consume what you
+can see. You can only see so far beyond that
+
+radius, and you're not quite sure where that
+oppressive shadow is coming from. The air is
+
+chilled, but not uncomfortably so. You can hear
+the distant sound of pinched winds whining through
+
+small spaces. A familiar sound from the many times
+you've spent underground, through caverns that had
+
+some openings that allowed air to streak through
+to the surface.
+
+A few steps more and suddenly the hallway opens
+into a second chamber. Into a library, if you could
+
+even call it that. Bookshelves that stretch upward
+for seemingly hundreds of feet, before flickering
+
+lights fell from your vision. You do not see where
+they stop. These columns of just tomes and cases
+
+and scrolls and parchments stacking as in tablets
+and any form of recorded information seem to just
+
+be infinite in front of you, to two sides of this
+road and upward. They seem to stretch in almost
+
+every direction, the walls to the side of you. You
+see columns ahead of you, and they tend to wind
+
+and curl like a labyrinth made of bookcases, to no
+end. It's very Escher-esque in how the further up
+
+you look, they tend to curve and shift and bend
+around each other.
+
+Your eyes, now attuned to the realms beyond
+mortality, you catch glimpses of shifting wind
+
+gathering books and turning pages. Spirits of the
+library, though sparse as they may be from this
+
+entry point, organizing. Reading and learning from
+whatever words are within. You begin to almost get
+
+vertigo, trying to contemplate the strange and
+overwhelming construction of such a wondrous
+
+place. An endless sea of stories. Spectral
+custodians keeping the tales of each other and the
+
+history of Exandria past, present, and binding the
+pages to tell what will eventually be the present,
+
+currently the future.
+
+TALIESIN: I've dreamed of this place.
+
+LIAM: Inside Matt's brain?
+
+TALIESIN: This is immortality. This is everything.
+(sighs, chuckles) I may never leave. I glide over
+
+to Vex and hold her close. This is stunning. My
+god, I think they may have actually forgotten all
+
+the idiot things I said yesterday.
+
+LAURA: Feels pretty good, doesn't it?
+
+TALIESIN: I think they've completely forgotten.
+I'm sorry. May have panicked.
+
+LAURA: I give him a kiss.
+
+TALIESIN: I'll be right back. I'm going to run
+towards one of those stacks, like a child.
+
+MATT: Okay. You begin to take the first--
+
+TALIESIN: I'm doing a title run. I want to figure
+out the organizational system before I touch a
+
+book.
+
+MATT: There are no words on any of the spines.
+
+TALIESIN: I pick one.
+
+MATT: Okay. You pick.
+
+TALIESIN: All right. I pick it up. I look around
+to see if anybody has a problem. And I turn to the
+
+title page.
+
+MATT: It's ironic you do this, because the book is
+in Celestial.
+
+TALIESIN: I read Celestial.
+
+MATT: You do. It's ironic that you did that.
+(chuckles) Glancing through, it appears to be
+
+describing a birth. Describing a tunnel, then a
+light, then a cry.
+
+TALIESIN: I skip to the end. Last page.
+
+MATT: It seems to be an older man, surrounded by
+his family--
+
+TALIESIN: I've got it. I put it down. I pick up
+another one.
+
+MATT: You glance through this book.
+
+TALIESIN: First page.
+
+MATT: Begins very similarly to the last one.
+
+TALIESIN: Last page.
+
+MATT: This one actually ends with what appears to
+be a horseback riding accident.
+
+MARISHA: Oh god, they're souls.
+
+TALIESIN: 115 pages in.
+
+MATT: 115 pages in you get to a page that seems to
+talk about the sorrow of a lost romance, and
+
+trying to deal, coping at a young adult age.
+
+TALIESIN: I put it back and I turn. They're made
+of people.
+
+LAURA: Wait, what? It's skin books?
+
+TALIESIN: It's people! And I'm going to find the
+most interesting spine and I'm going to turn to
+
+the first. Birth. Death.
+
+LAURA: I can't read that, dear.
+
+TALIESIN: Birth! Death! Sex. Birth, death, some
+disappointment. I am just gone. I'm running back
+
+and forth, finding whatever interesting spine I
+can. Are they all in Celestial?
+
+MATT: They are currently. All the ones you've
+picked up are in Celestial.
+
+TALIESIN: Oh my god. Okay. This is great. All
+right. I'm eventually probably going to pass out
+
+from mild hyperventilation and have to sit down.
+
+LAURA: We should maybe find Ioun, don't you
+think?
+
+TALIESIN: If we must, yes. Just as an experiment,
+I'm going to think about Vesper and try and touch
+
+a book. I don't expect this to work, but I'm going
+to close my eyes and think about, and pick it up
+
+and flip through it.
+
+MATT: Make a religion check.
+
+TALIESIN: Nope.
+
+MATT: You grab a tome and pull it forth, and as
+you read through the story, it's an unfamiliar
+
+one.
+
+TALIESIN: There's a system. I will discover the
+system. I'm going to keep running around like a
+
+kid.
+
+MATT: What are the rest of you guys doing while
+Percival is running around like a kid?
+
+TRAVIS: I'm not interested in the fucking books.
+
+MARISHA: Distracted by Percy, Keyleth just scans.
+Does anything in Primordial stick out?
+
+MATT: Make a perception check.
+
+MARISHA: That's good. 29.
+
+MATT: Glancing about, none of the spines have
+anything written on them, so you have to start
+
+pulling a few books out and opening them.
+
+MARISHA: I hold my hand over and pull.
+
+MATT: You open it up. It's not in a language you
+understand.
+
+MARISHA: I put it back and get frustrated.
+
+TALIESIN: I've stopped. I'm good.
+
+LIAM: Watched her the whole time and quietly walk
+up behind and give her a hug from behind and don't
+
+say anything.
+
+SAM: Are there any doors leading forward or back?
+
+MATT: It's a labyrinth of bookshelves. There's a
+path forward between, two or three ahead of you,
+
+but then it comes to an end where it splits off in
+two directions. Like I said, they travel up
+
+infinitely, so you're not quite sure which way
+leads where.
+
+LAURA: Is Sprigg still glowing?
+
+MATT: Sprigg is, actually-- There's a very faint
+blue glow in him that never really faded since
+
+your arrival.
+
+LAURA: I wonder if we could follow the glow.
+Warmer?
+
+MARISHA: Hey, Sprigg. Stand over there!
+
+DARIN: All right. I run to where she's pointing.
+Is there any change in the glow?
+
+MATT: No noticeable change.
+
+MARISHA: Damn. Sprigg, stand over there!
+
+DARIN: I just was shot with a bunch of arrows, so
+give me a second. I run over there, stop halfway
+
+and go, ow, and then I continue. When I get there,
+any change in the glow?
+
+MATT: Make a perception check.
+
+DARIN: Oh, it's a one.
+
+MATT: No discernible difference.
+
+SAM: You're inspired, if you want to use
+inspiration.
+
+MATT: It's a natural one. It's an auto-fail.
+
+TALIESIN: Is there a card catalog?
+
+SAM: Is there a central area info desk?
+
+MATT: You can make an investigation check to begin
+to wander around and try to find your way.
+
+SAM: Oh, that's a natural 20.
+
+MATT: Scanlan seems to walk with purpose into one
+of the random rows.
+
+SAM: I'm clutching my Ioun stone.
+
+MATT: Okay. All right. Anyone else do anything?
+
+TALIESIN: He seems to have purpose. I'm giddily
+following behind.
+
+MATT: Okay, Percy's following Scanlan.
+
+LAURA: I'm going to walk with Percy. Oh, and
+Trinket's out.
+
+MATT: Okay. Trinket (bear grunt) looks confused
+and starts looking up.
+
+LAURA: I know. I know, dear.
+
+MATT: Falls onto his back.
+
+SAM: Are Vex and Percy walking with me?
+
+MATT: Yes, they are.
+
+SAM: I'm going to whip out my flute and I start
+going, (wedding march).
+
+TALIESIN: Oh. He may have heard.
+
+LAURA: He heard?
+
+TALIESIN: I thought you were going to die! I may
+have panicked.
+
+LAURA: Wait.
+
+TALIESIN: We were asked to plead for your life,
+and I may have panicked.
+
+LAURA: Who did you tell? Percival, who did you
+tell?
+
+SAM: Look at your shirt.
+
+LAURA: What? (screams) No!
+
+TALIESIN: I panicked!
+
+LAURA: Percy!
+
+TALIESIN: I panicked! There was a giant glowing
+sun, and I may have panicked. Well, I was a bit
+
+vague, but I was--
+
+LAURA: A bit vague? Scanlan, what did he say?
+
+SAM: Well.
+
+TALIESIN: Oh no.
+
+SAM: First comes love. Then comes marriage.
+
+TALIESIN: I may have hinted that we might have
+eloped. May have hinted.
+
+SAM: Wait, you're married?
+
+TALIESIN: I may have hinted.
+
+SAM: Wait, no, you said you were betrothed to be
+married? Wait, you're married? Oh, wow, you just
+
+spilled it!
+
+TALIESIN: Silence! Cone of Silence!
+
+SAM: They're married!
+
+MATT: You try and yell, and it's making no sound.
+It is just absolute quiet. What are the rest of
+
+you guys doing?
+
+DARIN: I run in the corner and see if I glow
+again.
+
+LIAM: Keyleth and Vax heard the (wedding march),
+so we had a very different silent scene over in
+
+our spot.
+
+MARISHA: Yeah, Keyleth was quietly sobbing in
+Vax's arms and then heard (wedding march) and went
+
+(angry roar).
+
+LAURA: Why is that bad? Why was that angry?
+
+LIAM: Because we don't get that.
+
+LAURA: Oh.
+
+MATT: Grog?
+
+SAM: So you're going to ruin everyone else's joy.
+You're one of those couples.
+
+LIAM: Thank you, vacation Scanlan.
+
+MARISHA: Worst double date sangria partners ever.
+
+TALIESIN: He's back, ladies and gentlemen. He's
+back and taking no prisoners.
+
+SAM: Are you guys going on vacation? We got a
+divorce.
+
+LIAM: It's the Debbie Downer SNL sketch.
+
+MATT: Grog, what are you doing?
+
+TRAVIS: I'm as uncomfortable as I can possibly be.
+This is the worst-case scenario of my entire life.
+
+I'm not moving and hoping this is all over soon.
+
+TALIESIN: I love that.
+
+TRAVIS: It's just endless books, beyond what you
+can see! Are there chairs?
+
+LAURA: I feel like Pike would've comforted him.
+
+MATT: Yeah, Pike comes over.
+
+TRAVIS: There are chairs?
+
+MATT: No, there aren't. She goes, "Do you want to
+go with everyone else, Grog?"
+
+TRAVIS: I don't know. Do you?
+
+MATT: "It's okay, yeah! They're walking."
+
+TRAVIS: I want to leave. Fast.
+
+MATT: "The faster we follow them, then the faster
+we can go."
+
+TRAVIS: Okay. Let's go.
+
+MATT: "I bet you could read some of these books."
+
+TRAVIS: I bet not. These are really tall books.
+
+MATT: "Come on." She grabs your hand and begins
+tugging you behind her. What are you guys doing?
+
+MARISHA: Me and him?
+
+MATT: Yeah.
+
+LIAM: Leaning into each other.
+
+MATT: Okay. So you guys stay there.
+
+DARIN: I'm trying to see if I'm glowing anywhere.
+
+MATT: You run around for a good minute and a half
+and you're not seeing any sort of change.
+
+DARIN: Nothing?
+
+MATT: No.
+
+DARIN: Can I go forward into the bookcases and
+look right and left to see where they lead?
+
+MATT: Okay, yeah. You turn around the corner and
+see them disappear around the edge.
+
+DARIN: I'll continue.
+
+MATT: Okay. So you follow them. As you guys are
+having this silent argument, Sprigg catches up to
+
+you, but you hear nothing, Sprigg, as they're all
+going...
+
+TALIESIN: I just turned it off. I got everyone to
+agree.
+
+MATT: Okay.
+
+LAURA: Hi. How's it going?
+
+DARIN: Glowing. You are, too! What's going on with
+that? Yeah, you seem to be blushing.
+
+LAURA: It's so hot in here. It's very hot in
+here.
+
+MATT: Pike and Grog catch up around the corner.
+
+TRAVIS: What did you find? The way out? Exit?
+
+SAM: Seems like it could be this way. We'll have
+to band together and go forward.
+
+TRAVIS: Really?
+
+SAM: Yes.
+
+TALIESIN: Where did you get the sunglasses from?
+
+SAM: It's glowing in here.
+
+MATT: The Ioun stone actually is giving a faint
+glow similar to the glow that you see emanating
+
+from Sprigg's torso.
+
+SAM: Is it glowing any more than--
+
+MATT: Make a perception check.
+
+SAM: Oh, okay. That's an eight. Maybe 11, I don't
+know. Do I add Jack of All Trades?
+
+MATT: You do, yeah. If you're not--
+
+SAM: I really want to know. I will inspire myself,
+and I'll add a d12. That makes it 16.
+
+MATT: Okay. You start getting the sense, the
+further you walk, both your stone and Sprigg are
+
+beginning to emanate a slightly stronger glow, and
+so you guys begin to realize that this could be
+
+used as a path to something. You're not quite
+sure.
+
+SAM: Let's keep going.
+
+MATT: Okay. So everyone's going behind.
+
+LIAM: Imagination clarification, because a Silence
+effect went off there. Did Vax and Keyleth hear,
+
+"You're married?" Or was that all covered by
+Silence?
+
+MATT: No, he crushed that in Silence.
+
+LIAM: So we heard the song, but that's it. Good to
+know.
+
+MATT: Everyone else has gone ahead and vanished
+into the library. You guys are staying?
+
+LIAM: Noticing that we're totally alone, silently
+tug Keyleth down after them.
+
+TALIESIN: I felt that honesty was important at
+that moment.
+
+LAURA: No, it very much is. I'm very glad. I'm
+just surprised he didn't say anything. I spoke
+
+with him.
+
+SAM: He was acting nobly. I won't tell anyone if
+you don't want me to.
+
+TALIESIN: We had to tell them eventually.
+
+MATT: As you're following the stone, you hear some
+footfalls as Vax and Keyleth catch up to you
+
+guys.
+
+MARISHA: We already know. It's fine.
+
+LIAM: You're engaged. You don't have to--
+
+TALIESIN: Well.
+
+LAURA: I'm sorry I didn't tell you about that.
+Engagement. But you know.
+
+MARISHA: You fucking liars. You fucking liars!
+Just tell us! We know!
+
+LAURA: We got married.
+
+TALIESIN: We may have gotten married.
+
+MARISHA: Yeah. (sarcastically) Oh, surprise!
+
+TALIESIN: It was going to be--
+
+LAURA: (weakly) Celebration!
+
+TALIESIN: We didn't want to make it a thing. We
+wanted it to just be--
+
+SAM: I think it's great.
+
+LAURA: Thank you, Scanlan.
+
+SAM: It's wonderful when two people can fall in
+love and have each other forever and ever. That's
+
+nice. No, I mean it! You guys are great. You're
+super cute together. You'll make Whitestone--
+
+You'll be celebrities there.
+
+TRAVIS: Do we have to get you gifts?
+
+SAM: No, they eloped, so we're clear.
+
+TALIESIN: Very specifically, no. This place.
+
+MARISHA: Yeah, it's amazing. And Keyleth lights up
+her flame hands as she walks off in a fury.
+
+TALIESIN: Do you not know what this place means?
+Am I the only one who understands what this place
+
+means?
+
+TRAVIS: I would love to know.
+
+TALIESIN: It all matters!
+
+LAURA: None of us have forgotten.
+
+TALIESIN: No, I mean, really! It all matters! So much, and
+it's not going to go away! Nothing goes away!
+
+MARISHA: No, it only gets filed away in some
+library where no one else can experience it except
+
+for, what, one, maybe two people ever.
+
+TALIESIN: One and two people are all that it takes
+to experience something!
+
+MATT: An echoing voice billows out from the right
+side of your troupe. A creaky, warm, matronly voice
+
+that surrounds and almost welcomes you with the
+intonation of a grandmother. It says, "Nothing is
+
+"forever, Percival." You glance off to the right,
+and you can see there's a break in the bookcase.
+
+To your right, you see the shelves have stopped
+ahead in this direction to reveal a circular
+
+common area within the library, where the ground
+domes downward into an 80-foot-wide concave pit of
+
+cushions and tables, all standing at odd angles
+alongside this pit, but never sliding. Gravity
+
+seems to shift depending on where the dome stands.
+These tables hold teacups and writing implements
+
+and various other décor, and things that involve
+binding and writing. None of them slipping, all of
+
+them affixed to the table as the dome slowly comes
+to a central rest. Long, spiraling streams of
+
+silver, blue, and gray silk descend from the
+supposed ceiling that is beyond your sight, and
+
+they come down like drifting silks that push past
+as you enter the area.
+
+Sitting 40 feet from you in the center of the
+dome, no larger than a normal person, is an older
+
+woman with long, wavy silver hair. Her olive skin is
+somewhat weathered and wrinkled around her almond
+
+eyes, but the warmth of her smile, and her vibrant
+purple irises put you at ease immediately. Her
+
+blue and white robes tumble out from her form in
+tendrils of parchment that snake through the
+
+pillows like roots. She smiles as you turn and see
+her. "I felt that you would find me."
+
+And that's where we'll end tonight's session.
+
+SAM: Wow, Matt. Wow, Darin!
+
+LIAM: Can everybody watching still at home give a
+round of applause for Darin?
+
+MATT: Seriously. If you're available, you may want
+to, if you can, come and join us for the first
+
+half maybe. Not next week, but the week after
+Comic Con, if you're interested. Because I want to
+
+roleplay out you meeting Ioun.
+
+DARIN: It would be an honor. You know how
+important this is to me.
+
+MATT: Great. I'll look forward to having you back
+in a couple weeks, then.
+
+DARIN: And I will see you next weekend, as well!
+
+MATT: Yes, indeed. Oh, Comic Con. Guys, thank you
+so much. Great game, well done. Breaking stuff,
+
+apparently. Once again, we have no episode next
+week because we'll be at Comic Con, but we have
+
+our panel on Saturday for Critical Role. Love you
+guys, hope you have a wonderful night, and is it
+
+Thursday yet? Good night!
+
+[music]

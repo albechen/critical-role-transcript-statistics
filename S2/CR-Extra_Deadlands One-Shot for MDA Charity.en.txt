@@ -1,0 +1,6515 @@
+ALISON: All right, we are back! I'm Alison
+Haislip. You are watching the live stream for Geek
+
+& Sundry and Smart Girls for MDA. With me are the
+people who need no introduction, I think, to
+
+anyone in chat, but I'm here with Critical Role.
+
+(cheering)
+
+ALISON: They are going to critically roll very
+shortly, but first we have to take care of some
+
+business. As you know, in our last segment, we hit
+$30,000. $33,000! LootCrate matched the last
+
+thousand, so that got us up to $34,000. I think we
+are now over $35,000, so thank you, everyone at home.
+
+TRAVIS: That's incredible.
+
+ALISON: But the biggest surprise that I had to
+tell everyone is that you guys throughout this
+
+whole stream have been buying shirts, much like
+this one, the Critical Role shirt with MDA on the
+
+back of it. You guys have raised over $7,000 with
+the shirts. We are adding that to the ticker right
+
+now. And on top of that, Geek & Sundry and Smart
+Girls have decided to donate to get us up to $50,000.
+
+(cheering)
+
+ALISON: Critical Role, you are starting off the
+counter at $50,000. We now want to get up to 60
+
+grand before this thing ends. This stream is going
+until about ten o'clock tonight. Yes, we know
+
+that's over 24 hours. It's like a 27-hour
+livestream. But check in the link. You can still
+
+buy t-shirts like this. The link's in chat. You
+can still buy shirts like this and many other
+
+ones. You can find out how to donate there as
+well. I'm going to stop talking because I know so
+
+many people here have been waiting for you guys.
+Thanks for sticking with me. I am signing off, and
+
+I'm leaving you in the capable hands of Critical
+Role. Donate, donate, donate!
+
+MATT: You guys have been amazing. This is amazing.
+We'll be playing this for the next three hours.
+
+Come hang with us. Let me meet you over at my
+table.
+
+TRAVIS: He's got to run into the other studio.
+He's got to take the elevator down to Studio-- oh, hey!
+
+LIAM: How did you get there so fast?
+
+MATT: Magic. Dungeon master magic. Although,
+however, I'm not a dungeon master today. Today, I
+
+am a marshal.
+
+LAURA: (drawling) Well, all right.
+
+MATT: Because we're playing Deadlands Reloaded.
+For those of you who aren't familiar, Deadlands is
+
+one of my favorite settings, called the Weird
+West. And we're playing Deadlands Reloaded, which
+
+brings it over into the Savage Worlds system,
+which I've had to learn over the past few days. So
+
+bear with us. It's going to be a rusty run for a
+lot of us, learning and picking up things. We'll
+
+probably going to get a shit-ton of things wrong,
+and that's okay, because we're going to have fun
+
+while doing it. Anyway. We're playing Deadlands.
+And to give you guys the idea behind the world
+
+that we're playing in, this takes place in the
+19th century. Around 1864, an event called the
+
+Reckoning transpired. What had happened is, as the
+people of America began to push further west,
+
+pushing a lot of the Native Americans out of their
+land, and a bunch of terrible things happened to
+
+their people and their tribes, a number of
+disgruntled shamans and members of those tribes
+
+came together and essentially did a giant shamanic
+ritual to tear a hole between this world and this
+
+extraplanar world of dark magic, introducing
+entities called Reckoners that want to pass into
+
+this world, and can they only do so by elevating
+fear into this world. It also introduced magic. It
+
+introduced a bunch of really weird, creepy things
+into the old west, causing the Civil War to run
+
+longer than it did in history, as well as a bunch
+of other ridiculous circumstances. Nevertheless.
+
+That is the setting that this game will take place
+in. Before we get started, I want to go over a few
+
+rules for you guys so you know what this charity
+stream is all about. We have some cool things
+
+called fate chips, which I'll get into here in a
+minute. The fate chips, players and myself can use
+
+to alter the circumstances in the game. A black
+fate chip-- sorry for those of you who know the
+
+rules, I didn't have any white chips, but they
+work the same as white chips-- the black fate
+
+chips can be spent by players to re-roll a single
+trait or skill roll they're attempting to do. It's
+
+a one-time reroll. The red chips can be used to
+instead add a d6 to whatever trait or skill roll
+
+they just made, but in using that red chip, I get
+to pick one to add to my pool over here as the
+
+marshal. A blue chip, which is probably the
+strongest of them all, allows them to add that
+
+same d6 to a trait or skill roll, but I don't get
+to pick a chip out of there. That's pretty cool
+
+for them. However, some of my more powerful
+creatures or individuals in the game may have
+
+their own set of fate chips. And if you donate,
+looking at the list, you can go ahead and provide
+
+additional fate chips to the players or me.
+
+TRAVIS: Don't buy him shit.
+
+(laughter)
+
+LAURA: Or do. Donate. Buy him whatever you want.
+
+MATT: Stack the deck however you feel it needs to
+be stacked. Trust me on this one.
+
+LIAM: Do we start out with one of each? Is that
+correct?
+
+MATT: You start with three of each. We're going to
+get to that here in a moment.
+
+LIAM: They're also delicious.
+
+TRAVIS: Don't jump the... (dramatic pause) gun,
+Liam.
+
+(groans, laughs)
+
+TRAVIS: Man. En fuego.
+
+(donation music)
+
+MATT: So. As it stands, if people want to donate
+and affect the game, you can donate a hundred
+
+bucks to give one of the players a black fate
+chip. You can donate $150 to donate a red fate
+
+chip to a player of your choice, $200 to give a
+blue fate chip to the player of your choice, or
+
+$200 to give me a fate chip of my choice, to use
+against the players.
+
+LAURA: Why do you get to--
+
+MATT: Because I'm the marshal! I make the rules!
+
+MARISHA: Is there ever going to be a situation
+where you're like, "You know what, a black chip
+
+will suffice. This'll be fine."
+
+MATT: Possibly. Sometimes the rolls can be better
+than additional ones. We'll see.
+
+LIAM: Matt, I would like to point out that the
+chat has typed the words "high noon" about 72,000
+
+times in almost five minutes.
+
+MATT: I can only assume so.
+
+LAURA: If you donate $500, Matt will say "high
+noon" whenever you want. (laughs) I'm sorry.
+
+MATT: What have you done? What have you done,
+Laura? In our final tier for this donating section
+
+of this wonderful drive is if you donate $500 or
+more, you get to add a single-sentence element to
+
+the story currently. And the moment it comes into
+play, it will be incorporated to and adjust the
+
+current moment of the story's narrative, based on
+your suggestion there. Try and be somewhat
+
+respectful with that. We've had some crazy things
+happen in the past that completely derailed the
+
+game and that was fine for our Extra Life game,
+which was crazy to begin with. This one-- if it's
+
+a little crazy, I may tweak it a little bit to fit
+into the narrative because I have to try and fit
+
+it somehow, but I'm going to try to facilitate to
+the best of my ability everything you guys suggest.
+
+LIAM: Please don't break the universe.
+
+MATT: Yeah. No Deck of Many Things in this,
+please. That is the tier system we have in here
+
+for this. To begin this circumstance--
+
+LAURA: I'm so nervous!
+
+MATT: Well, actually, before we do this, Laura?
+Let's go ahead and introduce everybody's
+
+characters, if you don't mind.
+
+LIAM: They are so layered, and have so much
+depth.
+
+MARISHA: And we didn't all come up with them last
+night.
+
+MATT: Marisha, why don't you begin?
+
+MARISHA: Okay. I tell them-- okay, yeah. We never
+did this in Critical Role. I am Sudis. Sudis
+
+Alifehr. I am a gypsy traveling vagabond who is
+quite good at telling your fortune. Whatever the
+
+cost, whatever the price, I can give you a little
+bit of wisdom that might guide you on your way.
+
+TRAVIS: Oh, snap. Okay. Wait, what was your name
+again?
+
+MARISHA: Sudis. Sudis Alifehr. I've got lots of
+braids all through my hair, and probably like in
+
+my mid-30s, and I also have a peg leg. Also, by
+the way? Peg leg.
+
+LIAM: Where do your ancestors hail from?
+
+MARISHA: Romania. But it's also 1875, so who the
+fuck knows what was going on then--
+
+MATT: She's a mutt. She's an Eastern European
+mutt. Grew up in the Bronx. It's awkward. Liam!
+
+Who are you?
+
+LIAM: Hi. My my name is Reverend Forrest Alton.
+
+MARISHA: Hi, Reverend!
+
+LIAM: I am from upstate New York, near the
+Canadian border.
+
+(laughter)
+
+LIAM: I don't know what's funny about this. I am a
+chaplain in the Union army. The troops usually
+
+want me around near the medical tent, because I
+think with my spiritual guidance they find peace
+
+and quicker healing, and I've seen some terrible
+things in the war, and really want the war to end.
+
+I don't want mankind to give in to its greater
+demons. But somehow I've ended up in the Dakotas, and
+
+I can't wait to find out how.
+
+MATT: All right. Laura. Who are you playing?
+
+LAURA: Oh, hi there. My name's Juniper Langley,
+but if you call me that I just might shoot you in
+
+the mouth. Everyone knows me calls me Stinky
+Jules. That on account of the fact that I don't
+
+like to bathe. My mother was an escort, but I
+always preferred shooting men to fucking them, so
+
+I decided to pick up a gun and fight my way
+through life.
+
+LIAM: We're going to be the best of friends.
+
+LAURA: You've got a pretty mouth, Rev.
+
+LIAM: I don't know how to respond to that.
+
+TRAVIS: Oh. I don't even want to go anymore.
+
+(laughter)
+
+MATT: Travis. Who are you playing?
+
+TRAVIS: Yes, my name is Sydney Hopkins
+Trivelpiece. I have come from afar to chronicle
+
+the adventures of the Wild West while you seek
+your fortune in your misdeeds. I am afraid I'm not
+
+well-adapted to this climate, but I am quite
+interested in your journeys for gold or glory.
+
+Reverend, you look quite the outstanding
+gentleman. I don't drink, but a good, clean glass
+
+of water does sound lovely. You smell terrible,
+and I'm not quite sure how I feel about you, but
+
+if you know of anything going on that would make a
+good story for me, that could really help my career.
+
+LIAM: Question, because I have trouble scrubbing
+Grog and you out of my mind, are you like a buck twenty?
+
+TRAVIS: I'm very light. I don't eat very much. If
+I'm in the sun too long, terrible things happen.
+
+(laughter)
+
+MATT: All righty. As a heads-up to all of you guys
+watching, by the way, if your children are in the
+
+room and you don't want them hearing a lot of
+curse words, there's going to be a lot of swearing
+
+during this game. Just a heads-up.
+
+LAURA: Potentially. I could watch my mouth. Sorry
+about that cussing earlier.
+
+TRAVIS: Taint-sniffer.
+
+MATT: All right, so. Let's go ahead and divvy up
+some of these fate chips. I need each of you guys
+
+to go ahead and pull three at random out of this.
+
+TRAVIS: Just three.
+
+LAURA: Oh wait, so we don't get to choose? All
+right. I might get all blue.
+
+MATT: Two reds and a black.
+
+LAURA: Where's the bowl?!
+
+MATT: Bowl's here.
+
+LAURA: I don't care! Aw. Two blacks and a red.
+
+LIAM: Guide my hand.
+
+LAURA: Are there not as many blue ones as there
+are--
+
+MATT: Correct.
+
+LAURA: Oh, well, that makes sense.
+
+MARISHA: What just happened?
+
+LIAM: Oh, one of each! Praise Jesus!
+
+TRAVIS: Yeah, thank the Lord.
+
+(laughter)
+
+TRAVIS: Man of God. You're like Russell Crowe in
+Quick and the Dead, aren't you?
+
+MARISHA: Two reds and one blue.
+
+LIAM: I am the straight man, is what I am.
+
+TRAVIS: You are!
+
+MATT: Now, I'm going to go ahead and pull a few
+here for myself.
+
+LIAM: Three blues, one two three.
+
+LAURA: Do we get to know what you got? Damn it!
+
+TRAVIS: Really? Show us one.
+
+MATT: Also, as a fun little quick here to start us
+off, so Laura's character took one of the edges
+
+called Veteran of the Weird West. Which gave her
+some great opportunities, she's a more seasoned
+
+character than the rest of them, she's seen more
+about the world, but in doing so, some strange,
+
+interesting circumstance in her background is
+going to come into play, so I've shuffled these
+
+cards, and I want you, Laura, to randomly select
+one of them, if you don't mind. Take your pick.
+
+LAURA: Where's that deck?!
+
+TRAVIS: Where's that what?
+
+LAURA: That deck. (laughs) Shut up.
+
+TRAVIS: Said it twice, didn't get it.
+
+MATT: Three of hearts, so looking at the table,
+here.
+
+LAURA: Oh no, what'd I get?
+
+TRAVIS: Each card has a thing?
+
+MARISHA: Do we get to know?
+
+MATT: Sure, because why not? You chose the Hunted
+card.
+
+LAURA: Oh, shit.
+
+MATT: Something or someone that you didn't finish
+the job on is currently trying to find you. We'll
+
+see how that works out in the long run.
+
+LIAM: Wow.
+
+MATT: (cackles)
+
+MARISHA: I'm just saying that, you didn't need to,
+I could've told you that. Just saying.
+
+MATT: All right, so.
+
+MARISHA: I know your gun looks cleaner than your
+face.
+
+LAURA: That's right. I like to take good care of
+my weapons.
+
+TRAVIS: You're very intimidating.
+
+MATT: This conversation all takes place in a
+carriage, as the four of you are currently riding
+
+to your destination for your different purposes
+and different reasons, which you may discuss at
+
+your own leisure, or not, or make up at your own
+leisure, or not. The four of you have been
+
+traveling for days in this hot, humid, muggy
+carriage, to your final destination of Deadwood,
+
+South Dakota.
+
+LIAM: (singing) Sweet little light of mine, I'm
+going to let it shine.
+
+MATT: Founded in the Deadwood Gulch at the
+discovery of gold by an expedition by Custer in
+
+1874, they had to abandon the government's
+incursion to seize these gold veins when the
+
+effects of the Reckoning, and the ensuing quakes,
+began to swell in the western regions of the
+
+United States. But word of the rich veins still
+found their way to the public ears here and there,
+
+and folks seeking quick money and an escape from
+the mounting chaos of the still-dragging civil war
+
+swarmed into the gulch to raise up this lawless
+city of gold, sin, and vice. Managing to be far
+
+enough away from politics, rumors still find their
+way to this rugged town of strange goings-on in
+
+the world, tales of slain Yankee and Southern
+soldiers rising from the muck post-battle, of
+
+shadows moving in the night to steal children. Of
+mystics, calling spirits to do their bidding. Even
+
+so, the people of Deadwood are toughened already
+by harsh, untrusting reality, and such folk tales
+
+have no place in a man's world. The sun has just
+set as the denizens of Deadwood scatter to the
+
+bars to get shitfaced.
+
+(loud bang off-screen)
+
+MATT: Everybody down! All right. That totally
+distracted me. You all sit, after arriving,
+
+exhausted and tired from your journey, within the
+city of Deadwood, finding yourself at the
+
+immediate display of the first place that comes to
+your eyes, and seeking rest and an escape from the
+
+worries of the world, you all step into and relax
+in the Bella Union Saloon.
+
+MARISHA: Ooh, the Bella Union!
+
+MATT: Already got one?
+
+OFF-SCREEN: Oh, several.
+
+MATT: Oh no.
+
+(laughter)
+
+MATT: It's already started. How do I read the long
+ones?
+
+LAURA: Oh, jeez.
+
+MATT: Pardon me a second. We've already got some
+amazing donations, I have to read them all. There
+
+we go. "All players start the scenario--" Uh-oh.
+
+LIAM: Oh, we're making rules for us?
+
+MATT: Apparently. You guys spend the evening
+resting within the Bella Union. After drinks and
+
+relaxation, the next morning's sun rises, and you
+all realize you've all woken within the same bed
+
+as the others. Not necessarily recalling what the
+evening before entailed, but.
+
+LAURA: That was fun.
+
+MARISHA: Get off me.
+
+LIAM: I don't even drink. How did that happen?
+
+TRAVIS: Nothing, nothing.
+
+LAURA: Sydney--
+
+MATT: It's at this time you all realize you've
+slept in rather late in the day, as it's now
+
+apparently-- (McCree voice) It's high noon.
+
+TRAVIS: Son of a bitch! How long would it take?
+
+LIAM: Hey, Marshal? I don't know the rules really
+at all in this game, but I think I read somewhere
+
+that if I sin, I get negatives? So I don't know
+that I've sinned, but I might have sinned. I don't know.
+
+LAURA: I think you sinned.
+
+MARISHA: Wait, can I do an onus check on him to
+figure out what we did?
+
+MATT: Hold on, I'm trying to keep up here, guys!
+
+(laughter)
+
+MATT: Mark down you each have a joker card now.
+That can be used instead of a poker chip.
+
+LAURA: What's a joker card?
+
+LIAM: We've got to establish the rules before we
+blow them up, folks.
+
+MATT: I know, it's all good, it's all good.
+
+TRAVIS: Somebody throw me a pen back there.
+
+MATT: We'll begin the game here in a moment, once
+I get through these. You guys-- oh, and I also
+
+receive two random joker cards. So I have two
+jokers. So. Those joker cards can be used in place
+
+of a poker chip. We'll say the black on that one.
+
+LAURA: A black poker chip?
+
+MATT: All right, let me reset here and make sure I
+get to the other ones.
+
+(laughter)
+
+MATT: Oh, and Travis, you go ahead and get a black
+chip.
+
+TRAVIS: Yes!
+
+LAURA: Oh, damn it!
+
+MATT: All awkwardly waking up at (McCree voice)
+high noon (normal) you awkwardly gather your
+
+things, finding yourself, the music in the
+distance as the Bella Union is beginning to come
+
+to life again. You can hear a piano playing and
+some laughter, you hear some loud carousing on the
+
+other side of your door to the inn, the second
+floor of which you now currently are awakening.
+
+TRAVIS: I do hate to trouble you. Does anyone see
+the chamberpot in the room? I am afraid I have a
+
+rather-- need.
+
+LAURA: Lean your shit out the window.
+
+TRAVIS: Out the window?
+
+LAURA: Yeah, that's what they do here.
+
+TRAVIS: Right. Okay.
+
+LAURA: I'm going to go get some whisky.
+
+MARISHA: This is a good place to actually make
+good money off of fortune telling. I'm going to go
+
+downstairs.
+
+TRAVIS: Reverend?
+
+LIAM: Yes?
+
+TRAVIS: Do you remember what happened last night?
+
+LIAM: I don't. I remember someone pouring
+something into my glass, I assumed it was
+
+lemonade. I need to take a walk and do a little
+thinking. See you later?
+
+MATT: As you guys step out at your own individual
+pace, you pass by a gentleman who's on the
+
+second-floor balcony staring down into the main
+thoroughfare of the Bella Union--
+
+DONATION PROMPT: All right!
+
+MATT: --a dark maroon coat and pants, short,
+grey-ish hair, an intense dark mustache, and a
+
+very, very angular face. He looks angrily down
+amongst the people. And you can see at the tables,
+
+the gambling tables are alight this early in the
+day, and there appears to be a very intense game
+
+of cards going on, and people are gathering
+around, looking to see what the next stage is
+
+going to be during this game. You guys go down to
+find yourselves a drink?
+
+LAURA: Shit, I want to watch the game.
+
+MATT: Drinks first, or game first?
+
+LAURA: Drink, and then watch the game, because I
+really want to see the game. Fast, fast. Give me
+
+some whiskey.
+
+MATT: All right. You guys each throw a dollar
+down. You go ahead and get yourself a very fine
+
+pouring of some whisky.
+
+TRAVIS: A sarsaparilla for me, if you don't mind.
+
+MATT: The guy at the bar hands the drinks over and
+goes, "Yeah, you would want a sarsaparilla,
+
+"wouldn't you? Tell you what. It's on the house."
+
+TRAVIS: That's very kind of you! There is chivalry
+alive in the west!
+
+LIAM: Could I have a black coffee, please?
+
+MATT: "Black coffee? That can be provided."
+
+MARISHA: Jules, did you spike our drinks last
+night? Was that you?
+
+LAURA: I don't know what you're talking about.
+
+MARISHA: Never mind.
+
+MATT: You drink your fine, fine alcohol, which
+enables you to have a black chip.
+
+LAURA: Oh, shit! I can't catch!
+
+MATT: So. As you guys begin to gather around this
+poker game, you look down and you can see folks
+
+are tense and looking over. They're starting to
+cheer. Some folks are making their own side bets
+
+off the circumstance. The visible layer of tobacco
+smoke is beginning to cloud the upper atmosphere
+
+of the Bella Union. It's very palpable at this
+point. Looking in, you can see four men at a table
+
+that are all very intent, and one gentleman who's
+very well dressed, similar in fashion to you. A
+
+very nice light gray suit, a very well-trimmed
+goatee, balding on top, with very short-cut hair
+
+on the sides, and a little pair of spectacles at
+the end of his nose. He's looking at his cards
+
+with a big smile. Everyone starts putting the last
+of their bets into the center.
+
+LAURA: What's the other guy look like?
+
+MATT: There are two other gentlemen you can see,
+that both look greasy, like they haven't really
+
+slept in a long while, covered in dirt and crud,
+but they seem to have a large cache of chips at
+
+their side. Probably some of the various claim
+workers out here outside of the town. And you see
+
+one of the gentlemen is wearing a top hat, similar
+to the one that you're wearing, with a fine, long
+
+mustache, handlebar out, a portly, older
+gentleman, looking at his hand. "Oh, hell. I'm
+
+"going in."
+
+LAURA: He's bluffing. That one's bluffing.
+
+DONATION PROMPT: All right!
+
+MATT: One of them goes "all right!" and pushes
+in.
+
+(laughter)
+
+TRAVIS: Two of them are in? Two of the three?
+
+MATT: The inspiration of seeing all this energy,
+you being away, inspires you to go ahead. Have
+
+yourself another black chip. You guys watch as
+suddenly they all throw their cards down. Full house.
+
+Pair of queens. Got a bunch of different cards,
+and all of a sudden it comes to the well-dressed
+
+character, who looks a little nervous now, and
+goes, "Hmm. Straight flush." And everyone goes--
+
+big upset. Loud uproar. You can see now as the guy
+with the long mustache goes, "Oh, hell." Throws
+
+his cards down and gets up from the table angrily
+and turns around to walk away. The two other
+
+gentlemen at the table glance out the side of
+their eye as one of the guys you see at the edge
+
+of this table game, an older, hunched-over
+gentleman with glasses at the end of his nose and
+
+a smearing of black powder across his face goes,
+"I love poker! It's the most crazy game ever!"
+
+(laughter)
+
+MATT: "Do that?! It makes no sense!" At which
+point, one of the guys at the table goes, "You're
+
+"right, it doesn't make sense. This guy's a
+cheater! We have a goddamn fucking cheater here!"
+
+LAURA: That's right! He's a fucking cheater, I can
+tell!
+
+TRAVIS: I don't think so. I believe he had what
+they call the nuts.
+
+MATT: "Thank you very much. That man knows what
+he's talking about. I'm not cheating! You've seen
+
+"me play cards in front of you! This has been an
+amazing game."
+
+LAURA: Look up his sleeves! That one's cheating.
+
+MATT: At which point you can see one of the guys
+who lost in the game immediately goes for a
+
+swinging punch towards the guy holding the-- who
+won the actual last pot. And with that, whack!
+
+Cracks it right across his face.
+
+DONATION PROMPT: All right!
+
+MATT: "All right!" he says as he punches him down.
+Suddenly a giant brawl begins to emerge in the
+
+center of this room. You can see people throwing
+hooks left and right. The guy who currently won
+
+the game is trying to grab the chips he has off to
+the side as you can see the two guys at the front
+
+of the guard of the Bella Union rushing in and
+trying to hold folks down.
+
+MARISHA: While the brawl breaks out, Sudis starts
+trying to palm a few coins.
+
+LAURA: I jump in the fight.
+
+MARISHA: Oh, no! Oh, no, don't hurt me! Grabbing
+all the coins I can. I'm innocent, oh!
+
+LAURA: Yeah, I punched him.
+
+MATT: Seeing this chaos...
+
+LAURA: Oh, shit!
+
+MATT: That was a good catch. Meant to be. All this
+is breaking down. You can see punches going left
+
+and right. People falling down. The guy who had
+his chips in his arm gets socked again and lobs
+
+them into the table. Folks start scrambling for
+them.
+
+MARISHA: Oh, no! Let me help you pick up your
+chips!
+
+MATT: Go ahead and make an agility trait check, if
+you don't mind.
+
+MARISHA: Okay, so I roll a d6. I roll 2d6, is that
+what I do? And take the higher? I rolled five both times.
+
+MATT: Five both times? All right. You manage to
+pocket what would be about $200 worth of poker
+
+chips from the ground. You start getting in the
+fray there. All right, Stinky Jules. Who are you
+
+going for? You can see a bunch of different
+people.
+
+LAURA: I'm going for the one that was cheating!
+
+MATT: The one that was cheating? All right.
+
+DONATION PROMPT: All right!
+
+MATT: All right! (laughs) This black chip goes to
+the new thief. That's the chip you find.
+
+LAURA: Whoa, she got two of them?
+
+MATT: That one is off the table. All right, so the
+guy's: "Please, I'm just trying-- I won it fair
+
+"and square!" Go ahead and make a fighting roll.
+
+LAURA: Okay. What is that?
+
+MATT: Whatever your fighting dice is, plus-- Your
+fighting skill. Roll 2d6 and take the higher of
+
+the two.
+
+LAURA: Oh, shit. Two. Fuck.
+
+MATT: Two? You swing towards him and he dodges out
+of the way. "Oh, dear!" Grabs what he can of the
+
+poker chips and darts out of the saloon.
+
+MARISHA: Can I try and trip him?
+
+MATT: Sure! As you're grabbing things?
+
+MARISHA: I want to reach out and grab his leg, see
+if I can trip him while I'm picking up--
+
+MATT: Go ahead and make a strength check.
+
+MARISHA: Four. Four again. I don't know! Doubles,
+doubles.
+
+MATT: A four? You reach out and you grab towards
+his leg, and he trips over as you yank out the
+
+ankle from underneath him. He goes spilling. All
+the chips go scattering onto the front of the
+
+Bella Union. And you can see, while the guards are
+currently inside dealing with this fight that's
+
+broken out, there's nobody outside to guard it. A
+couple people on the street look over and, "Is he
+
+"all right? Sir, are you all right?" They start
+coming towards him to his aid. He turns around and
+
+looks at you and goes, "Why would you do that?"
+
+MARISHA: Well-- ow! You stepped on my finger! Ow!
+
+TRAVIS: I would like to rush over to him and offer
+him asylum in our room. Sir, you are impeccably
+
+dressed. Please, follow me to my room upstairs.
+Quickly!
+
+MATT: "Thank you. Help me gather these things,
+please, before they take my hard-earned winnings!"
+
+You guys begin gathering up into the hats, getting
+all the poker chips into the various hats. The
+
+guys who were now brawling have been calmed down
+at this point. You can see now the guards have
+
+their pistols out. One of them fires twice into
+the ceiling of the Bella Union, sending dust and
+
+little bits of plaster debris to fall. All the
+fight ends as one of the guys is now shouting,
+
+"Everyone! Calm your shit. And you're all kicked
+out for now while we assess what the hell just
+
+"went down." You see the man who was looking over
+the top of the balcony now has risen up over the
+
+edge and goes, "Thank you, my good man. All of
+you, understand we only want civilized folks here
+
+"at the Bella Union. The man won fair and square.
+Give him his earnings. And if I see any of you try
+
+"and throw a punch in here again, you're banned from
+gambling in my establishment."
+
+MARISHA: What is 'civilized'?
+
+TRAVIS: It means orderly. The opposite of chaos.
+
+MATT: As you begin walking upstairs, both of you
+carrying your hats and his nose in the air a bit,
+
+walking with you, giving you a smile, and,
+"Thanks, brother. I appreciate the assist."
+
+TRAVIS: Not to worry.
+
+MATT: As you pop upstairs, you, keeping watch,
+feel a strange sensation touching your left
+
+shoulder. You glance over and see a wild monkey. A
+small monkey that curls up next to you.
+
+(chittering)
+
+MARISHA: Can I do a notice check to see if it's a
+real monkey or where the fuck the monkey came from?
+
+MATT: Go ahead and make a notice check, yes.
+
+DONATION PROMPT: All right!
+
+MARISHA: All right, I will!
+
+LAURA: Whose shoulder is it on? Is it on his or on
+hers?
+
+MATT: It's her shoulder. All right. It is indeed a
+real monkey. It is a straight-up real monkey.
+
+MARISHA: Wait. If I roll a six, do I roll again?
+On all checks?
+
+MATT: On all checks. If you roll a maximum of the
+die, you roll again and you add it to.
+
+MARISHA: Nine.
+
+MATT: There's your black chip, by the way. Oh,
+man. You guys are going to be fine in combat when
+
+we get to that. So. You at this point look over
+and see the monkey. This is a live monkey, and as
+
+you look in, it reaches in and grabs the edge of
+your earlobe and whispers into your ear, "Do not
+
+"worry. I've got your back."
+
+MARISHA: (yelps)
+
+(laughter)
+
+MATT: You guys look over. There's no monkey.
+
+MARISHA: I take him and I try and spike him on the
+ground.
+
+LAURA: Hey, Sue? What's your problem?
+
+LIAM: You've had enough. Let's put this aside.
+
+MARISHA: Is he still there?
+
+MATT: As you throw the monkey to the ground, he
+goes-- (angry noise) Climbs back up onto your
+
+shoulder and says, "Why would you do that to me?
+I'm here to guide you!"
+
+LAURA: I think that shit I gave her last night is
+fucking her up.
+
+MARISHA: Monkey. You see?
+
+LAURA: That's a shoulder, hon.
+
+LIAM: You want to maybe get some fresh air?
+
+MARISHA: I pet the monkey a bit.
+
+TRAVIS: Oh dear. I'm afraid she's lost her beans.
+
+MATT: As you're walking, you pass by the guy who
+had the nice top hat and the mustache who's
+
+sitting there, and he has an apron on and he looks
+like, sleeves rolled up, a working fellow in the
+
+camp in his later forties, and you hear him mutter
+to himself, as I get a red chip, "That fella damn
+
+"well cleared out the Gem last week and looks like
+he's taking this place for all it's worth. Last
+
+"time I go gambling in a while."
+
+LAURA: So he was cheating. We weren't just saying
+that so we could punch him?
+
+MATT: "I'm only assuming he's cheating. He came
+into this town no more than a couple weeks back,
+
+"and damn well took all the Gem was worth before
+coming here a week later."
+
+LAURA: Was he wearing all them fancy clothes when
+he got to town?
+
+MATT: "He was."
+
+TRAVIS: Sir, do you happen to know his name?
+
+MATT: You're walking up the stairs away from this.
+You're actually helping this gentleman up to put
+
+stuff in the room. He goes, "I don't know his full
+name, rightly so, but from what I've heard, he
+
+refers to himself as Simon. Yeah."
+
+LAURA: Sounds like a shit.
+
+MATT: "Doesn't he? Sounds like a northern chap.
+I've got to go, well, see what else I can sell to
+
+"make up for this debt from today. Excuse me."
+Turns around and says, "By the way, if any of you
+
+"guys want to come by my place, we also have poker
+there. Not quite as upper-class as this, but we
+
+"have fine drinks, cheaper than you'd find at this
+place."
+
+LAURA: Where's your place?
+
+MATT: "Oh, it's down past the main thoroughfare to
+the left. It's by the alley side there." And he
+
+adjusts his hat.
+
+LAURA: You got a picture on the outside of that
+place there? What's it look like?
+
+MATT: "The Number Ten Saloon is what you're
+looking for. Nice fine sign, yes. Recommend it.
+
+"Any time." And he turns around and starts to
+leave.
+
+LIAM: You seem troubled. Are you carrying a heavy
+load?
+
+MARISHA: No, he's not very heavy at all, actually.
+He's only like five pounds or so. (sighs)
+
+LIAM: I've seen many soldiers shell-shocked in
+war--
+
+MARISHA: I wander off and I start speaking off in
+my own language towards the sky.
+
+DONATION PROMPT: All right!
+
+MARISHA: All right.
+
+(laughter)
+
+LIAM: I give her her space. I'm a little nervous.
+
+MARISHA: What do I call you?
+
+MATT: "Call me Manatou."
+
+MARISHA: Manatou. Okay. Okay, Manatou. All right.
+
+MATT: Curls back up into your hair and seemingly
+becomes weightless for a moment.
+
+LIAM: Into her hair?
+
+MATT: You don't sense him there. It's like he
+vanished.
+
+LIAM: He was behind your ear the whole time.
+
+(laughter)
+
+MATT: Stacking the deck over here for me, guys.
+
+LAURA: Oh, shit, really?
+
+LIAM: You fuckers.
+
+LAURA: Why, why? Be nice to him so he'll help us.
+
+MATT: You make your way up to the room and the
+gentleman goes, "I greatly appreciate this. Thank
+
+"you so much for your aid. If I could have my
+chips, please."
+
+TRAVIS: Oh, yes, of course. Hold out your hat and
+I'll transfer them. That looks about it. There you go.
+
+MATT: He's going to go ahead and look keenly into
+your hat. I'm going to use a chip for that.
+
+TRAVIS: Do I roll something?
+
+MATT: Yeah, go ahead and roll-- do you have a
+stealth skill? I think you roll a straight agility
+
+check. Just go agility. See how quickly you can
+maneuver this.
+
+LIAM: He does have a copy of "You're Never Weird
+On The Internet".
+
+TRAVIS: That's a six, and a two, so eight.
+
+MATT: Okay.
+
+DONATION PROMPT: All right!
+
+LAURA: All right, he got all his--
+
+MATT: "I greatly appreciate your help. Everything
+appears to be good here. And what is your name?"
+
+TRAVIS: Oh, I am Sydney Hopkins Trivelpiece, at
+your service. Lovely meeting you.
+
+MATT: Shakes your hand. It's a limp shake.
+
+TRAVIS: You seem to be very good at this game.
+
+MATT: "Well, I'm also new here. I can see by your
+appearance that you also are new. Your clothes are
+
+"far too clean to have been here."
+
+TRAVIS: Yes, it's very difficult in this climate.
+
+MATT: "Yes, it's dusty, even for winter out here.
+Yes, well, Simon Tyrell."
+
+TRAVIS: Simon. Absolute pleasure. Sir, how did you
+get to be so good at that game? What is it you do here?
+
+MATT: "Here, I'm finding my way. I'm a retired
+business manager from Boston, but I came a long
+
+"way at the behest of my cousin and I heard that
+there was quite a booming gold trade in this city,
+
+"so I came to, after building my luck up and
+getting a small cache of money, realizing that I
+
+"had a knack at this game called poker, and
+apparently poker here can be very high-stakes,
+
+"and, well, so far so good."
+
+TRAVIS: Wonderful, you seem to be quite successful
+at-- poker, you say? Goodness. If I may say, if
+
+you find anyone having particular luck in that
+gold boom, would you mind sending word my way? I
+
+write to a very famous publication. I could put
+you among the stars.
+
+MATT: "Happily, happily. Good to hear from that.
+We shall be in touch. Where are you-- are you
+
+"staying here in this--"
+
+TRAVIS: Yes, this room, with a few traveling
+compatriots of mine. Watch out for some. Others
+
+are smelly. Some are trustworthy and others are
+quite strange.
+
+MATT: "Right. Okay. I appreciate that. We'll be in
+touch." And he goes to put his hat on. (chuckles)
+
+"Close." Leaves the room, closes the door behind
+him. You have got $60 worth of chips that you
+
+managed to pull out of that, and a red chip to
+Laura.
+
+LAURA: Yes! (growls) Thanks, friends.
+
+MATT: So. You guys regather yourselves. You've had
+a bit of chaos in your--
+
+DONATION PROMPT: All right!
+
+LAURA: All right! This is a good day.
+
+MARISHA: We're going to go places, Manatou, me and
+you, bud. Me and you.
+
+TRAVIS: I come down as well after he leaves.
+
+LIAM: I've been making my way through the bar and
+I'm sure there's some bloodied eyes and some teeth
+
+knocked out, so I'll administer what limited first
+aid I know.
+
+MATT: Okay. Go ahead and make a medicine check.
+Healing, this would be healing.
+
+LIAM: Okay. Okay.
+
+MATT: d8 and a d6, take the higher of the two.
+
+LIAM: Okay, now. Two fives!
+
+MATT: The first guy you walk up to is one of the
+guys in the bar fight. You can see his eye's
+
+fairly swollen, looks like he has a cut lip and
+one of his arms is-- he's massaging a heavy,
+
+swollen bruise on the side. As you approach him,
+he's sitting at a table. What do you do?
+
+DONATION PROMPT: All right!
+
+LIAM: I say, all right. I have some bandages here.
+No sudden movements, I just want to help you out.
+
+Trouble leads to trouble, friend.
+
+MATT: "Look, I don't mean any disrespect, here,
+I'm just weird with medical stuff. I prefer to be
+
+"holistic. Heal on my own."
+
+LAURA: I'm with you, son.
+
+MATT: "That's right."
+
+LIAM: Well, it's funny. If you want to forego the
+physical, I do have a little know-how with the
+
+spiritual. Would you prefer we take it in that
+direction?
+
+MATT: "That's even stranger. I'm not going to
+lie--" And he leans in to you and goes, "Sorry, I
+
+"noticed you carousing with that there foreigner,
+and I saw her speaking to the spirits and mumbling
+
+"to herself, and--" You don't actually hear, you're just
+out of earshot of this, unless you want to make a
+
+notice check to overhear. Make a notice check,
+actually.
+
+MARISHA: Sure, yeah, notice check.
+
+MATT: Black chip for Laura. They're loading you
+up.
+
+LAURA: Oh shit, I can't catch for shit.
+
+MARISHA: Nine.
+
+MATT: You overhear this even from a distance with
+your keen ears. He says, "I have friends that come from
+
+"eastern Europe, distant family member, we'll say.
+There's something about her accent that's wrong."
+
+MARISHA: That's probably true. That's accurate.
+
+LIAM: I'm no man or woman's judge. I don't know
+her. I'm happy to help you. You seem like you need
+
+succor and aid, and I will give that to you. I
+wouldn't be too quick to judge her.
+
+MARISHA: Can I size him up from a distance? Get a
+bead on him?
+
+MATT: Make another notice check, and you, make a
+persuasion check.
+
+LIAM: That's-- the fuck is that?
+
+MARISHA: Five.
+
+LAURA: Hey, Rev! I could use some succor and aid.
+
+LIAM: Six.
+
+MATT: Okay, he goes, "All right. Go ahead and see
+what you can tend to." As you start tending to
+
+him, he starts whispering to you to the side. You
+try and size him up. He looks like a brutish guy
+
+who probably works in the mine quite a lot and has
+made a lot of gold on the side that he probably
+
+lost a bulk of in recent days. He's very
+noticeably frustrated by the circumstance.
+
+LIAM: Rub my hands together and lay them on the
+arm and say, "Our Father, who art in heaven--"
+
+MATT: "Oh, this religion shit."
+
+LIAM: And however this game works, because I don't
+know, I would like to heal him using--
+
+MATT: Okay, make a faith check.
+
+LIAM: Faith check, yeah.
+
+MATT: You add a d12.
+
+LIAM: Oh my god, I never use 12s when we play
+D&D.
+
+I think it's not that one. It's this big
+round one, yeah. I'd like to use a chip. This is a
+
+trait check, right?
+
+MATT: Yeah, if you'd like to use a black chip. Go
+ahead, toss it to me. Thank you.
+
+LIAM: What do I roll? Both again?
+
+MATT: Just reroll the 12, yeah.
+
+LIAM: Ten.
+
+MATT: Okay. That's with a raise, too. As you touch
+your hands, "I understand... What the
+
+"fuck is going on?" You can see as this light
+envelops him. People in the room glance over with
+
+a strange look in their eyes.
+
+LIAM: I know. I questioned it at first as well.
+But the Lord provides.
+
+MATT: You see tears well up in his face. He's
+like, "I believe--"
+
+LIAM: You can give in and no man will judge you.
+
+MATT: "I'm sorry. It's just really scary these days.
+There's a lot going on. I've got to get out of
+
+"here. I don't want them to see me cry." And he
+stands up and stomps out of the Bella Union.
+
+DONATION PROMPT: All right!
+
+LIAM: Be with God, all right?
+
+(laughter)
+
+LIAM: Thus spaketh the Lord.
+
+MARISHA: Can I sit down in the corner and pull out
+my tarot cards? Kind of shuffle them.
+
+MATT: Sure. You--
+
+MARISHA: Fortunes! Come and get your fortunes
+told.
+
+MATT: Make a general persuasion check for the room
+if you could. You find your way back down. The
+
+gentleman you guys saw who went upstairs, at this
+point, has now exited from the upstairs room, down
+
+the stairs. He gives a smile to the room and then
+leaves out the front of the Bella Union as well.
+
+You follow suit, only but a few paces behind.
+
+MARISHA: Four.
+
+MATT: You see at the far end of the room, a--
+
+DONATION PROMPT: All right!
+
+MATT: --rough-looking gentlemen that goes, "All
+right! I got-- I'll go ahead and get myself a--"
+
+(laughter)
+
+LAURA: I just like the challenge of it.
+
+MATT: Blue chip to everybody but me.
+
+(cheering)
+
+MARISHA: We love you, whoever you are. Oh jeez.
+
+LAURA: Someday.
+
+TRAVIS: You beautiful people.
+
+MATT: The man walks over and says, "I don't really
+believe in all this mumbo jumbo, but you look like
+
+"a nice enough lady. Here." He passes you a dollar.
+It's one little crinkled-up piece of paper.
+
+DONATION PROMPT: All right!
+
+MARISHA: All right. Can I do a notice check on
+him? Can I get a profile on him?
+
+MATT: Travis.
+
+TRAVIS: Yes. (chip dropping on floor) Shit.
+
+MATT: Blue. (laughter) It's going to be rerolls
+forever.
+
+MARISHA: Three. Not good at all.
+
+MATT: You take your time putting the cards out in
+front, and eventually you see his eyes start
+
+wandering. He starts looking around. Loses
+attention. He goes, "You know what? Keep the
+
+"dollar. I learned my lesson." He stands up and
+walks away.
+
+LAURA: Wait, wait, wait!
+
+MARISHA: It's fine. I made the dollar.
+
+LAURA: You make money off of cards, and it's not
+gambling?
+
+MARISHA: How else am I supposed to make a living?
+Yeah.
+
+MATT: It's at this point, as you guys are talking
+about this, a gentleman who's been standing in the
+
+far back with a long-brimmed, dark hat, a very
+well-kept mustache and goatee, a long, dark coat
+
+that ends about waist-height, walks over. You hear
+the jangling of his spurs as he approaches.
+
+MARISHA: I mean, these cards. They're still gambling,
+really. Cards are cards.
+
+LAURA: Shh. It's a fancy guy.
+
+MATT: "Good day, ma'am. I don't mean the bother you
+much, but I couldn't help but notice you have a
+
+"mind for the mystic."
+
+MARISHA: Of course, I do. I can't help but notice
+that you have a mind for darkness, it seems.
+
+LAURA: If you want her to read your fortune, I can
+do that too. I'm real good at it! I charge less
+
+than she does, but I do it even better!
+
+MARISHA: We're friends. We're not competing. Very
+well. Please, sit down.
+
+MATT: "Let me introduce myself."
+
+LAURA: All right, sure.
+
+MATT: "My name is Sheriff Bullock.
+
+LAURA: Sheriff?
+
+MARISHA: Ooh. I'm so excited.
+
+MATT: "There's been some strange things going on
+in the town here and not a lot of people are
+
+"willing to offer help. The one priest we had that
+was doing the best in this town has been ailing
+
+"recently. I figure, maybe we can find folks with
+other specializations."
+
+TRAVIS: That's you.
+
+LIAM: What is his name?
+
+MATT: "What, the ailing fellow?"
+
+LIAM: Yes.
+
+MATT: "Well, you think you can be of aid to him?"
+
+LIAM: I definitely think I could provide aid to
+him.
+
+MATT: "All right."
+
+LIAM: Is he poorly?
+
+MATT: "He's been poorly for some time. A madness
+is taking to him. You know, his eyes are starting
+
+"to wander--"
+
+TRAVIS: Madness!
+
+MARISHA: What kind of madness do you speak of?
+
+MATT: "Dementia. But that's not why I came here,
+though. But we'll talk. All right, let me say that
+
+"there's been a series of mysterious deaths at the
+time."
+
+DONATION PROMPT: All right!
+
+MATT: "Excuse me, sir. We're talking."
+
+(laughter)
+
+MATT: Nearby table, guy who seems to have won kind of
+shrinks down. "Sorry."
+
+DONATION PROMPT: All right!
+
+MATT: "Thank you. I appreciate your
+understanding."
+
+LIAM: Not that sorry.
+
+(laughter)
+
+MATT: "But once every few weeks, we found bodies
+turn up in the outskirts of town. Three folk,
+
+"normal denizens here of Deadwood torn asunder,
+ripped to shreds by some sort of creature. The
+
+"docs had a few looks and sees no more than I do
+about the logistics of it, but yeah, one of my--
+
+"my wife who had just come to town with my son was
+one of these victims."
+
+LIAM: Are we talking about an animal here,
+Sheriff?
+
+MATT: "Well, you'd have to talk to doc to get the real
+report, but I say it's an animal. Many folks here
+
+"think it's some sort of a bear."
+
+LAURA: So what you're need is some kind of, like,
+guns or something for hire?
+
+MATT: "Maybe."
+
+LAURA: All right.
+
+TRAVIS: Your wife or your son was a victim?
+
+MATT: "My wife."
+
+TRAVIS: I'm so sorry to hear that.
+
+MATT: "I'm watching my son, still. It happens.
+Terribly. But that's something I've got to deal
+
+"with, not you. Anyway, (sighs) if you could be of
+some help, maybe look around, see if your mystic
+
+"knowledge could make out something we couldn't."
+
+DONATION PROMPT: All right!
+
+MATT: "Sir, if you don't, I will take you down to
+jail."
+
+LIAM: It's really getting to be a little rude.
+Really.
+
+MARISHA: It's very loud in here. You are looking for
+mystic properties. Are you looking for a peek into
+
+your future, perhaps?
+
+MATT: "No, I don't necessarily believe in that
+stuff. It kind of worries me, honestly."
+
+MARISHA: You don't have to believe. That's
+what I always say.
+
+MATT: There is a loud, calamitous crash sound as
+the door that was partially closed at this point
+
+smashes in front of you. Wood splinters go
+streaming outward and you see what appears to be a
+
+small fluff, a spherical bear form, roll in
+and stop. Bright-eyed. A little bear cub.
+
+"Hold it! Kill it!" You see the guards
+start pulling their guns out and start aiming it
+
+down at the bear cub.
+
+MARISHA: No!
+
+LIAM: Wait. It's a baby! Wait! We'll return it to
+the wild.
+
+MATT: The Sheriff who's had his hand on the side
+of his holster goes, "This is a wild animal."
+
+LAURA: Is this that damn creature that's been
+tearing people up?
+
+MARISHA: This is not the creature. It's too
+small!
+
+LIAM: It doesn't look like it can tear up a sack
+of flour!
+
+TRAVIS: It's a bit small...
+
+LAURA: Maybe its mama is looking for him, tearing
+people up to get to him. That's my--
+
+LIAM: I'm going to crouch down and hold my hands
+out.
+
+LAURA: --investigational deduction.
+
+MATT: You can go ahead and make a smarts check.
+
+DONATION PROMPT: All right!
+
+(laughter)
+
+LAURA: That's right.
+
+LIAM: Is that for her?
+
+MATT: For you.
+
+LIAM: For me.
+
+LAURA: I got a three there.
+
+MATT: Do you want to reroll?
+
+LAURA: Smarts. No.
+
+(laughter)
+
+MATT: This is a small bear. That's about as far as
+you can get on that one.
+
+LAURA: Hmm, it's a small bear.
+
+MATT: You go ahead and reach down for the bear.
+The bear comes forward and sniffs you.
+
+LIAM: Come here, nugget.
+
+MATT: A small voice at the side of your ear goes,
+"Your destination is elsewhere, Reverend." You
+
+turn around; there's nothing there.
+
+TRAVIS: Second thoughts?
+
+MATT: Kind of rub your ear.
+
+MARISHA: What's wrong? This thing-- I don't know,
+you frightened? Please.
+
+MATT: The bear-- for you, Laura.
+
+LAURA: (gasps) I caught it!
+
+MATT: The bear sees you and goes, (bear cub
+sounds) and passes around you and goes straight
+
+over towards Stinky Jules and just starts rubbing
+on your knee.
+
+LAURA: Oh shit. What the fuck is this thing
+doing?!
+
+MARISHA: He likes you! Oh, you've made a friend!
+
+LAURA: All right, all right.
+
+MATT: It starts licking your hand, you're like
+ugh. Bears.
+
+LAURA: I guess I pet it. I mean, if it wants to be
+with me, I ain't going to stop it, you know, but--
+
+LIAM: But bears?
+
+LAURA: I can't give you anything but
+scraps, so you better get used to that.
+
+TRAVIS: That's quite the responsibility, I hope
+you know.
+
+LAURA: You and me, kid.
+
+MATT: A voice creeps in once again into your ear,
+Reverend, but it's softer. It goes, "You're on the
+
+"right path. Follow the leads. It will lead you to
+your salvation."
+
+LIAM: Follow the leads?
+
+MATT: "Follow the leads." And you reach over
+again. There's no source of the voice. You've been
+
+a man of faith for a long time, but nothing's ever
+spoken to you before.
+
+MARISHA: Do I notice if this is similar to my
+talking monkey?
+
+MATT: No, he's just looks like he's trying to feel
+his ear.
+
+MARISHA: Okay.
+
+MATT: So.
+
+LAURA: Do I get to keep the bear, though?
+
+MATT: I don't know. How good are you with an
+animal? The Sheriff goes, "I mean, respectfully,
+
+"there's a lot of weird shit going down in this
+town right now. And a lot of it has happened in
+
+"the past five minutes since I walked in to talk to
+you."
+
+DONATION PROMPT: All right!
+
+MATT: "Sir! I warned you!" And the Sheriff goes
+over and grabs the guy at the side table who's
+
+been far too excited and screaming outward. He
+says, "Sheriff, what are you doing?" He's like,
+
+"I'm taking you down to go ahead and
+clean up you-- I can smell the alcohol on your
+
+"breath!" And he drags him out and you see as
+Sheriff Bullock drags this poor card player out
+
+into the street past you guys.
+
+TRAVIS: Sheriff Bullock! Was there a particular
+area that these attacks were taking place?
+
+MATT: "Go talk to the doc! He's your best bet."
+
+TRAVIS: The doc, yes.
+
+MATT: He drags him out.
+
+TRAVIS: Perhaps we should go find this doc?
+
+MARISHA: All right.
+
+LIAM: Sheriff, can you point me towards your
+reverend, your ailing reverend? What's his name again?
+
+MATT: Trying to look it up right now, actually. I
+didn't have his name written down. We're going to
+
+find it real fast here, thanks to IMDB.
+
+LAURA: (gasps) Oh, he's a real guy!
+
+MATT: "That'd be Reverend H. W. Smith. And the
+doc's taking care of him right now, so that'd be
+
+"your best bet."
+
+LIAM: Oh, one-stop shopping, everybody.
+
+MATT: "Indeed. I'm going to take this guy--" And
+the guy's still fighting him on the ground, going,
+
+"Sheriff, put me down! Put me down!" We hit 60k,
+guys!
+
+(cheering)
+
+LAURA: Already? What the?
+
+MARISHA and LAURA: All right!
+
+MATT: Let me go ahead and say as part of that,
+just to kind of pause here while you guys are
+
+deciding your next path, we're going to go ahead
+and put up-- we're going to have the community decide
+
+on an NPC name that's going to find its way into a future
+game of Critical Role.
+
+TRAVIS: (gasps) Shut the fuck up. Are you
+serious?
+
+MATT: So we're going to go with that one. If we
+manage to hit 65k before this game's done, we'll
+
+also have a boss creature of some kind that I'll
+design with you guys in the near future as well.
+
+LIAM: Abjurist Pissbucket Shitwalla.
+
+LAURA: (laughs)
+
+MARISHA: Shitwalla?
+
+TRAVIS: We're going to need help!
+
+MATT: So let's get keep that in mind. All right,
+so Bullock drags the guy off in the distance. You
+
+all leave the Bella Union. Now it's mid-afternoon.
+It's hot, even though it's winter time--
+
+LAURA: It feels so good out here!
+
+TRAVIS: Could we find our way quickly, please?
+
+MATT: --you have carts going by, the ground is
+muddy itself from a recent rainfall. What do you
+
+guys want to do?
+
+TRAVIS: Is there any horse shit on the ground?
+
+MATT: There's plenty of horse shit.
+
+TRAVIS: I really would care to stay out of it.
+
+LAURA: But before I go, I want to get some whisky
+in a to-go cup.
+
+MATT: Fair enough. You go ahead and get yourself
+some whisky and your canteen--
+
+LAURA: That's my jug. That's right.
+
+TRAVIS: A red Dixie cup.
+
+LIAM: Is that a native word? Togo?
+
+LAURA: That's right. And I go find the doc.
+
+MATT: Okay. Do you want to make a street smarts
+roll? Go for it.
+
+LAURA: Oh shit.
+
+LIAM: The Sheriff pointed us there, didn't he?
+
+MARISHA: To the doc?
+
+MATT: He said where the doc was and he was going
+to point and he ended up--
+
+TRAVIS: Is it street wise or smarts?
+
+MATT: Street smarts. Sorry.
+
+LAURA: What if we don't have that ability?
+
+TRAVIS: I got it!
+
+LAURA: You have street ones?
+
+TRAVIS: I'm a journalist!
+
+LAURA: Oh, that's true. Reroll that shit! We need
+to find the doc!
+
+TRAVIS: Okay, I'd like to reroll with a black.
+
+MATT: Go for it.
+
+TRAVIS: That's better. Four!
+
+MATT: Four, okay! It takes you about an hour or so
+asking around, but you do manage to lead the group
+
+to the doc's place. As you come up to it, it's a
+really, really simple-looking hovel that's jammed
+
+against a stable, but everyone seems to point to
+say where's the doc, and on the outside you do
+
+see what appears to be a wooden carving of the
+classic medical symbol over the doorway.
+
+TRAVIS: Yeah, Sydney Hopkins Trivelpiece here. I
+was just curious if the the doctor was within?
+
+(nervous laugh)
+
+MATT: You knock on the door?
+
+TRAVIS: Yes.
+
+MATT: A moment passes. All of a sudden, the door
+opens and you see an eye peeking through a pair of
+
+old, dirty glasses, big grey hair and a greyish
+moustache goes, "Who the hell's coming to my door?"
+
+TRAVIS: This one. She was quite rude.
+
+LAURA: Hey there.
+
+MATT: "I'm awfully busy, all right? We got
+something I'm working on--"
+
+LAURA: I know. People getting hit, getting
+attacked right? Shit like that?
+
+MATT: "Yeah, I can't take any more patients for
+now. All I have is work!"
+
+LAURA: We don't got no patients for you. Shit. Pay
+attention!
+
+MARISHA: We were sent here by the sheriff. He told
+us to find you.
+
+LIAM: You have a man of the cloth here as well and
+I've come to help.
+
+In ways that you are not accustomed to.
+
+MATT: "Well, help is always welcome. Come on in,
+come on in." He opens the door. You guys come
+
+inside, and there is a terrible smell. A terrible
+smell-- to you, Liam, right there.
+
+LAURA: I don't smell anything.
+
+MATT: Yeah, you're used to the scent. You come
+inside and a smell of decay and death permeates
+
+the entire place.
+
+LIAM: That's worse than you.
+
+MATT: You can see, across the way, there are two
+tables with two current injured individuals, one
+
+of which seems to be a man who is wrapped up and
+missing an arm and has been wrapped up, and he's
+
+just rolling around in a feverish state. You also
+see a man dressed in long, black robes who is
+
+humming to himself as he's writhing in place. One
+arm is curled up across his torso. To the other
+
+side of the room, as you violently vomit into your
+hat, you see what appear to be a number of tables
+
+that have piles of viscera.
+
+LAURA: Piles of viscera.
+
+MATT: Of what look to be once-human bodies that
+are bloodied and flies are gathering.
+
+LAURA: Gross. That's foul.
+
+MATT: The doctor turns around, now. You can see
+him, sweaty, his long, crimped grey hair there.
+
+"All right. You said you're here to help."
+
+LIAM: Who's who here, doc?
+
+MATT: "This here's Gerald." He points to the guy
+who's having a fever and says, "Had to amputate
+
+"his arm, 'cause the damn fucking fool got it torn
+off in an accident with some machinery."
+
+LAURA: I go over and give him some whisky. The
+feverish fella.
+
+MATT: Okay. He's partially asleep, and as you pull
+out the whisky, he goes, "What-- what--"
+
+LAURA: Have some whisky. Make you feel better.
+
+MATT: "Okay." Puts up his arm and grabs the
+whisky. It spills out a little bit. He's like,
+
+(gulping).
+
+LAURA: All right, that's enough!
+
+MATT: "Thank you."
+
+LIAM: Doc, is this one worse off?
+
+MATT: "He'll be fine, he's just making his way
+through the fevers. I gave him some sedatives. He
+
+"should be okay. More worried about the Reverend.
+Reverend Smith over there appears to have some
+
+"sort of a brain tumor pushing on him. There's not
+much we can do about that right now, unfortunately."
+
+DONATION PROMPT: All right!
+
+MATT: The guy who's now drunk goes, "All right!"
+
+(laughter)
+
+MATT: "That's some good whisky. Thank you." Passes
+out at the table.
+
+LIAM: Let me see him. At the very least, I can
+offer him the word of the Lord.
+
+MATT: You walk over to the Reverend. The
+Reverend's sitting there, muttering to himself,
+
+singing low under his breath. Chip of my choice.
+
+TRAVIS: Oh, snap.
+
+LIAM: Pick the shitty one. I place a hand on his
+head with the thumb right here, right at the
+
+temple. Reverend Smith.
+
+MATT: "Yes, do you speak? The Lord, I can see the
+light. The Lord has brought you to me. That's correct."
+
+LIAM: It's not your time.
+
+MATT: "When it's our time, it's time to go."
+
+MARISHA: Yeah, I don't know. It might be his time.
+Just saying.
+
+LIAM: Give me a minute.
+
+MATT: "I appreciate your solace. You're a kind
+soul, I can see. Thank you." And you can see one
+
+eye's wandering off to the side, and the other
+eye's just staring out before him. He feels your
+
+presence, but he's in a rough place.
+
+LIAM: I pray to the Lord. I will heal this man.
+Miracle.
+
+MATT: You spend two more power points.
+
+LIAM: Okay, how many do I have, total?
+
+MATT: Total is ten.
+
+LIAM: Ten. So I've used four. Oh, I've used four
+already?
+
+MATT: You gained one back. You have three uses.
+
+LIAM: I still have to--
+
+MARISHA: Yeah, you can't take it back now, you'd
+be that dick.
+
+LIAM: No, because my hindrance is heroic. So I
+can't divvy out. Yeah, I've got to, right now.
+
+MATT: You gain one back as an hour has passed. You
+gain one back every hour.
+
+LIAM: So I have seven total, and I'm going now.
+
+MATT: Go ahead and roll your faith check.
+
+LAURA: While he's doing that, can I poke around
+them piles of bodies and see--
+
+TRAVIS: Why would you do that?
+
+LIAM: Ten.
+
+MATT: Go ahead and make an investigation check. A
+ten? Okay.
+
+LAURA: Is that, like, notice?
+
+DONATION PROMPT: All right!
+
+LAURA: Does it take guts to look?
+
+TRAVIS: You can do it, but you've got to roll a
+minus two to it.
+
+LAURA: Oh, what do I roll?
+
+MATT: Roll a d4 minus two. And a d6.
+
+LAURA: Like a d6. I get to roll again, 'cause it's
+six?
+
+MATT: Roll again.
+
+LAURA: Oh, 11, there. While I'm poking through
+them bodies.
+
+MATT: 11 minus two, so it's a nine. All right, so
+we'll get to you in just a moment. You feel-- this
+
+man is seriously ailing, and for a miracle that
+can heal wounds, this is going to take some
+
+serious faith to try and push this through. Even
+with what you have. You don't know if this is even
+
+within your skill set.
+
+LIAM: So Liam is asking-- am I throwing dice? Yes,
+I'm going to pray harder.
+
+MATT: Okay, what are you going to do? Use some of
+these chips, you have a lot of them!
+
+LIAM: Wait, so I could use a chip to go higher
+than I already did?
+
+MATT: You can use a red chip to add a d6.
+
+LIAM: Oh, add a d6. Well, now I can see that I
+don't understand the rules, can I use this now to
+
+add a d6?
+
+TRAVIS: I'm hurting. I'm hurting, y'all.
+
+LIAM: One. Can I use another red chip?
+
+MATT: No, you get the one.
+
+LIAM: One. Just a one. So that gets it to 11.
+
+MATT: 11?
+
+LIAM: All right!
+
+DONATION PROMPT: All right!
+
+LIAM: See? Come on.
+
+MATT: The guy who's in a feverish state is
+half-asleep and just--
+
+(laughter)
+
+MATT: And fine laudanum that the doc gave him to
+calm him down, so he's going to be yell-shouting
+
+"All right!" for a while here. So. As you go ahead
+and complete this miracle with the faith best you
+
+can beyond that, I'll let you use another chip if
+you want to add the number to it.
+
+LIAM: I have to. Come back to me, Reverend, come
+back to me.
+
+MATT: Use another red chip to add another d6.
+
+LIAM: All right! All right!
+
+MATT: All right. So what's it now? 13? I'll let
+you do this for the sake of this. So, as you push
+
+through with the double-raise to your faith check
+on this, you see as this bright, vibrant light
+
+suddenly fills the room from one sunbeam
+coming through the singular glass window striking
+
+you in the shoulder and enveloping the entirety of
+Reverend Smith. All of a sudden, you in the
+
+distance, as you're inspecting the corpses, you
+can't help but glance over your shoulder, and you
+
+watch as this ray of light envelops his body. As
+it does, he lifts gently off the table two, three
+
+inches, and the doc goes, "What the fuck have you
+brought into my place?" And he inspects, and as you
+
+see the Reverend slowly turns over in place, his
+eye corrects itself, a smile comes across him of
+
+serene joy, and he's lowered down onto the table.
+The light subsides, you take your hand away, and
+
+he sits up in place, goes, "My lord. My mind-- my
+thoughts are mine again."
+
+LIAM: Welcome back, Reverend. The Lord will
+abide.
+
+MATT: "The Lord is stronger in you than anyone I've ever
+met."
+
+LIAM: Please, don't thank me.
+
+MATT: He starts crying and gives you a big hug and
+pulls you in. "There's no faith stronger than what
+
+"you've brought this day."
+
+LIAM: Take him by the hands. We all find ourselves
+low and in place of trouble. It's always time to
+
+come back to his faith.
+
+MATT: You've lost interest in this whole
+circumstance about the bodies, and this is for
+
+you, Travis.
+
+LAURA: What? Like a special note just for him?
+
+MATT: I'm not the only one that suffers. So you
+get into this, and keen as you are, you've done
+
+some hunting in your time and you've seen some
+wounds spent to various creatures that have been
+
+mauled by individuals. You find specifically that,
+one, it seems like a bear or at least something of
+
+a bear's size would have to have done this, but it's
+wintertime. Bears usually aren't wandering. And
+
+the wounds here are thorough. Not killed something
+and ate pieces of it. There is no indication that
+
+there has been portions of these bodies eaten, in
+fact. They have just been killed and torn apart.
+
+LAURA: Just for no purpose.
+
+MATT: The doc, at this point, stunned by the whole
+miracle that just transpired before him, walks
+
+over to you and goes, "Here's what gets me. Each
+of these bodies were found on the outskirts of
+
+"town. Not deep in the woods. Some of these folks
+weren't seen leaving."
+
+LAURA: Like somebody wanting us to find them.
+
+MATT: "I think some of these bodies were placed
+after being killed."
+
+TRAVIS: How ghastly!
+
+MATT: "I don't know if these people were outside
+of the town when they were killed, even. So I'm
+
+"confused, just as you are, about this."
+
+LAURA: So you think that whatever did this could
+actually be staying inside of this town?
+
+MATT: "Or at least, whatever did this is working
+with someone within the town."
+
+MARISHA: Have you noticed any suspicious activity
+in the town?
+
+MATT: "Have you been to this town for long? It's
+full of suspicious activity!"
+
+MARISHA: We just arrived this morning. I don't
+know.
+
+MATT: "Fucking damn it. This whole town's full of
+cocksuckers, and I don't know how to separate the
+
+"good from the bad. I wouldn't even believe what
+you're saying if this guy didn't come in here and
+
+"fucking prove that God exists to me as an atheist.
+I'm having a lot going in my head right now."
+
+LIAM: Hallelujah.
+
+MATT: "Halle-fucking-lujah. If you want to help,
+find out what the shit did this! I need a drink."
+
+And he goes over and grabs the bottle of laudanum
+next to the guy.
+
+TRAVIS: Oh, no, no!
+
+MATT: Who he was helping. "Don't you 'no' or shush
+me. I know what I need."
+
+TRAVIS: Okay. Oh, good gracious.
+
+LAURA: Don't be stingy.
+
+MATT: "Fuckin'--" Make a persuasion check.
+
+TRAVIS: Stinky Jules.
+
+LAURA: Hold on, I'm about to drink.
+
+MATT: Two red chips to the Reverend.
+
+LIAM: Man down!
+
+LAURA: Wait, zero, but I'm going to add a red
+chip, so I can get some of that.
+
+MATT: And a black chip to you, Sydney.
+
+LAURA: So five. Yeah, but here's my chip that I
+just used to get that.
+
+MATT: He goes, "One sip. I ain't got a lot of
+this."
+
+LIAM: Wait, can I make a persuasion check on her?
+
+MATT: You may.
+
+LIAM: Yeah, I'd like to. Juniper.
+
+LAURA: Don't you fucking call me Juniper! I don't
+know you.
+
+MATT: Make a persuasion check.
+
+LIAM: Technically, you do know me. Biblically.
+
+LAURA: Oh, that's true. Did you check your junk?
+
+(laughter)
+
+LIAM: You don't want to go down that hole.
+
+LAURA: I think you already went down it, if you
+get my meaning.
+
+LIAM: I'm not good with comedy. This is very
+awkward. I just don't want to see you going over
+
+an edge you can't come back from. What do I roll
+to stop Laura Bailey from having drugs?
+
+MATT: Make a persuasion check.
+
+LIAM: Yeah, okay. Okay, all right, it's not the
+worst.
+
+(laughter)
+
+LIAM: Four, both four, and I will add five, so a
+total of nine.
+
+MATT: Total of nine? I want you to go ahead and--
+I'd say for this, roll a spirit.
+
+LAURA: Spirit? It's going to be hard for me to
+beat, seeing as how I've only got a d6 here. Five.
+
+MATT: Okay. You going to add anything to that?
+
+LAURA: Yeah, all right, I'll add a black chip-- no,
+no, no, I don't want to reroll it, I've got to add
+
+to it, and I'm out of my colors here. All right,
+I'll add a red. What's that? Nine?
+
+LIAM: Yeah, so equal numbers.
+
+MATT: Both of you guys roll a d6.
+
+LIAM: Dance-off.
+
+TRAVIS: Same time, do it same time.
+
+LAURA and LIAM: One, two, three.
+
+LIAM: Six!
+
+LAURA: Damn it!
+
+MATT: Normally, no one could keep you from a sip
+of laudanum, but watching the miracles that
+
+transpire around this bright and bushy-faced
+gentleman, you think maybe you should drink this
+
+when he's not around, and you gently give it back
+to the doctor.
+
+LAURA: Fine. I wasted a chip to talk him into
+giving it to me in the first place.
+
+LIAM: Listen, I'm going to give this to you. It's
+a bar of soap, it's my last one. Use it.
+
+MATT: "I appreciate you all having your
+conversations, but if you could do it outside, I
+
+"got business to tend to."
+
+LAURA: Oh, that tastes like shit! What is this?
+
+LIAM: It doesn't go in your mouth. You know what
+soap is, right?
+
+TRAVIS: Yeah, it's made of lye, it's for cleaning
+yourself with.
+
+MATT: As he starts pushing you guys outside of the
+place, and you get outside, before he closes the
+
+door, he goes, "Just a word, I don't know if this
+will help much, but each of those that were killed
+
+"inside here were plot owners in gold and silver
+veins."
+
+TRAVIS: You don't say.
+
+MATT: "Except for the last two."
+
+LAURA: What were they?
+
+MATT: "Hugh and Kilmer. The ones you were looking
+at. They were under the employ of Al Swearengen in
+
+"the Gem Saloon. Now, get out!" And he slams the
+door behind you.
+
+LIAM: The video game developer?
+
+(laughter)
+
+LAURA: Shit. Sounds like it was rich folks getting
+killed in this town.
+
+TRAVIS: Quite glad to be out of there.
+
+MARISHA: I can think of many reasons to kill rich
+people. Many.
+
+LAURA: Who should we talk to to find out what kind
+of creatures have been living in this city?
+
+MATT: You hear a voice creep in the back of your
+ear, Liam, once again, that says, "The only path
+
+"to goodness is to find who murdered these people.
+Follow the trail. Be a hero."
+
+LIAM: Can I pray for guidance to know if this is a
+devil or an angel talking to me?
+
+MATT: Roll a faith check.
+
+LIAM: I have to. I'll be screwed later, but I have
+to. Shit. Two and two, shit. Shit! Four.
+
+MATT: It's hard to tell. You've had a lot of
+miracle stuff happen recently, so you figure this
+
+is probably an angel sent from God, but it's hard
+to tell.
+
+LIAM: Here are two that I've used.
+
+TRAVIS: Salty Jules, I was wondering, would you
+mind if in my notepad I did a small sketch of your
+
+bear cub? I do fancy him so.
+
+LAURA: Oh, is it still following us?
+
+TRAVIS: Yes, yes. Would you mind if I looked after
+him and maybe did some drawings?
+
+LAURA: Feel free. No one's stopping you.
+
+MARISHA: You want to keep the bear?
+
+TRAVIS: Yes, I would love to look after him, if
+that's all right. I just--
+
+MARISHA: I foresee this bear possibly killing you
+in your future, but you know what, go for it. You
+
+have a good time with him. You have a good time.
+
+LAURA: You've gotta be strong when you're raising
+such a creature, now.
+
+TRAVIS: All right.
+
+LAURA: So make sure you discipline him, but also
+give him lots of love and whisky, but no
+
+chocolate, I hear that's bad for him.
+
+TRAVIS: Whisky, love, whisky, and chocolate.
+
+LAURA: No chocolate.
+
+MATT: The bear, which is nuzzling under your hand,
+Stinky Jules, and is like, just licking.
+
+LAURA: What can I say? He just loves the way I
+smell.
+
+TRAVIS: I hope he'll be as affectionate with me.
+May I?
+
+LAURA: You can try.
+
+TRAVIS: Oh, thank you. And I would like to grab
+the bear and try to cuddle it.
+
+MATT: It begins to growl as soon as you get
+close.
+
+TRAVIS: No, no! Did you give it a name?
+
+LAURA: Trinket.
+
+TRAVIS: Trinket. Oh yes. Like a little cork.
+Hello, Trinket. It is your Uncle Sydney.
+
+MATT: Bites at your hand. What is your parry?
+
+TRAVIS: My parry is six.
+
+MATT: Six. All right. So the bear bites out
+towards your hand, doing seven points of damage.
+
+What's your toughness?
+
+TRAVIS: My toughness is five.
+
+MARISHA: Hang on, wait! I'm going to use my snake
+oil salesman to contest your roll. You can do
+
+that, right? Your roll on the bear, the bear
+attacking him?
+
+MATT: It's not snake oil salesman you're referring
+to.
+
+MARISHA: Oh sorry, my knack of the seventh sun
+ability.
+
+MATT: I didn't use a fate chip. You can negate
+me using one. You can't force me to reroll. When I
+
+use a chip, you can be like, nope.
+
+LAURA: Do you announce when you use a chip?
+
+MATT: Yeah.
+
+LIAM: You don't know the rules you learned
+yesterday?
+
+MATT: So the bear bites down on your hand. You
+pull back. You're considered shaken for the moment.
+
+TRAVIS: I'm quite shaken!
+
+MATT: But the bear's still so fucking cute!
+
+TRAVIS: He's so lovely. Quite a voracious little
+energetic one. I'm still-- my god. Can you see the flesh?
+
+LAURA: I wonder if this little beast can lead us
+to another beast?
+
+MARISHA: Good, good.
+
+LAURA: I mean, it is a baby, I don't know.
+
+TRAVIS: Quite cute.
+
+MATT: Just licks a little bit of blood off of its
+teeth and grins at you.
+
+MARISHA: We could probably use him as bait.
+
+LAURA: That's true, we could. It is so hard to
+fight the motherly instinct. I know I'm not, but
+
+it's real hard to fight it!
+
+MATT: What's the plan now?
+
+TRAVIS: Well, perhaps we should go to this Mr.
+Swearengen's place, see what the people in his
+
+employ were actually up to.
+
+LAURA: That's smart. You're smart!
+
+TRAVIS: Thank you, yes, I do a lot of reading.
+
+LAURA: Well, lead the way, Smarts.
+
+TRAVIS: Yes, of course.
+
+MATT: You actually saw the Gem Saloon. It's not
+too far from the Bella Union.
+
+TRAVIS: This way. Mind the horseshit.
+
+LAURA: I step right through the horseshit.
+
+MATT: She does. Right up to the ankle.
+
+TRAVIS: To each their own.
+
+MATT: You eventually make your way towards the Gem
+Saloon. As you walk up, there is piano being
+
+played, but unlike the Bella Union, it's not quite
+as fanciful and the interior's a little more
+
+dreary. As you step inside, you can see a few
+patrons around, you can see a few of the female
+
+workers of the establishment who are all leaning
+in the back corner in various states of undress,
+
+but all look hot and not really into it at the
+moment.
+
+TRAVIS: Reverend, avert your eyes. Hello!
+
+MATT: As you walk in and say that, you see across
+the way, a man with a big, black beard and long
+
+hair, little bowler cap on with a rifle across his
+shoulder and a white shirt with a single strap
+
+over for his overalls, looks over and starts
+walking towards you with his rifle in his hand.
+
+Just goes, (Clarota voice) "What brings you here
+to the Gem Saloon? Sorry, I got punched in the
+
+"throat and it's healing."
+
+TRAVIS: That sounds awful. We may have someone
+that might be able to help you. My name is Sydney
+
+Hopkins Trivelpiece.
+
+MATT: "What you cocksuckers doing here in the Gem?
+What you looking for?"
+
+LAURA: Them bodies in the doc's place. They came
+from you?
+
+MATT: "They're a couple men we lost, yes, but
+that's not our problem."
+
+LAURA: I mean, but why? They been teared up by a
+beast or something. Figure out what that is? You
+
+seen any beasts around here, outside of this
+little bear?
+
+MATT: "I've seen no fucking beasts. If you're here
+to drink, fucking get in here. Otherwise, I need
+
+"you to step off."
+
+LAURA: All right. I go up to the bar and get some
+drinks going.
+
+TRAVIS: If you don't mind, sir, what is your
+name?
+
+MATT: Looks at you for a second. Make a persuasion
+check.
+
+TRAVIS: Oh, shit.
+
+LAURA: That's good!
+
+TRAVIS: That's not bad. That's balls. I'm going to
+spend a reroll.
+
+LAURA: That's the eight you reroll.
+
+TRAVIS: Oh, I do reroll the eight if I use a black
+chip? Oh, thank god. Hey! Eight!
+
+MATT: Roll again.
+
+TRAVIS: 15!
+
+MATT: Gives you a look-over and his demeanor
+shifts, changes again, and he goes, "Sorry. Just
+
+"doing my job. Name's Dan. Yeah, Doherty." Shakes
+your hand for a second. "So right now you know
+
+"who's boss."
+
+TRAVIS: My writing hand. Dan Doherty.
+
+MATT: "So if you want a drink, over to the bar.
+Otherwise, sit down. Listen to some music. Buy
+
+"yourself some pussy. Doesn't matter to me."
+
+TRAVIS: Oh, pussy, yes.
+
+LIAM: Dan, if you've got means here to boil some
+water and some whisky that you've got, I could
+
+probably help you out with your throat, if you
+like. A little background in medicine. Your choice.
+
+LAURA: I like the way you sound, Dan!
+
+MATT: He gives you a look. "You ain't look like
+you ever suffered more than suckling your mother's
+
+"tit, and I don't trust anyone who don't drink, nor
+anyone who don't have to shave."
+
+DONATION PROMPT: All right!
+
+MATT: "That's what I said." He goes and high-fives
+the guy at the table next to him, this older,
+
+drunk fella who heard the whole conversation and
+is laughing at your rather mousey--
+
+LIAM: Dan, I've seen the brains pour out of a
+man's head on the field of battle on the Eastern
+
+coast. You can have my help if you want, or you
+can suffer.
+
+MATT: "I'll take suffer. I prefer to heal on my
+own. The proper way. None of your fucking
+
+"godmongering types here saying that the word can
+help." And he spins around, keeps an eye over his
+
+shoulder, mistrusting towards you, with the rifle
+still at his side.
+
+LIAM: God bless, Dan.
+
+TRAVIS: I'm sorry, could I ask you all a question?
+I've always been quite curious about the
+
+employment of the American whore. I was wondering
+if you wouldn't mind if I went and interviewed one
+
+for my journal. Perhaps you could do me the
+queries here, and I might leave you for a moment?
+
+MARISHA: Are you asking permission to go speak to
+whore?
+
+TRAVIS: Yes.
+
+MARISHA: If you want to go fuck whore, go fuck
+whore. You don't have to ask permission.
+
+LAURA: There's plenty around.
+
+MARISHA: Don't try and say you're interviewing
+whore when we know what you want.
+
+MATT: The voice returns and goes, "Men and women
+are born every day through a union of others.
+
+"Go. Be merry. Touch. Feel."
+
+TRAVIS: Just curious, Padre. I don't know quite
+what your denomination is--
+
+LIAM: Protestant.
+
+TRAVIS: Oh, Protestant, lovely. So would you care
+to perhaps get an adjoining room? Just because I'm
+
+afraid I'll feel rather exposed upstairs.
+
+LIAM: I'm not really sure what you're asking? Are
+you asking me to babysit while you--
+
+TRAVIS: No, just perhaps join me for a trip down
+the old lane?
+
+LAURA: Was that a blink?
+
+(laughter)
+
+LAURA: Did you just blink at him?
+
+TRAVIS: It was a double-blink.
+
+LAURA: So you want one of them whores?
+
+TRAVIS: To speak to one, yes.
+
+LAURA: I pull up the closest whore to me. Hey.
+Which one of you are the least itchy? (clicks tongue)
+
+MATT: They all look at each other. They're all
+giving you a very, very curious look, and they all
+
+put their hand out like, "Honey. We're all clean.
+The doctor takes care of us. You going to pay or not?"
+
+LAURA: They're all clean. I don't believe a word
+she says, but they're all clean.
+
+MARISHA: It's only matter of time.
+
+TRAVIS: Yes, I would like to acquire one whore,
+please.
+
+MATT: "Ten dollars, take your choice."
+
+TRAVIS: Ten dollars. Is that a going rate in the
+States? Ten dollars it is, yes. Ten dollars.
+
+MATT: She takes you by the hand and starts leading
+you up the stairs.
+
+TRAVIS: Quiet room. Hopefully secluded from the
+others.
+
+LAURA: He wants to interview you!
+
+MATT: He gets closed behind the door. Three of you
+guys, what are you doing?
+
+LAURA: I go and ask one of them whores about the
+guys that are dead. I want to find a whore and ask
+
+her about-- (laughs) Ask her about them bodies I
+found over at Doc's place.
+
+MATT: You find a woman, a brunette, rosy make-up
+cheeks who's sitting at a table, just fanning
+
+herself off in this strangely muggy warm day in
+the middle of the winter.
+
+LAURA: Oh, yeah, it's hot, isn't it?
+
+MATT: "You're telling me. This day's been all
+sorts of muggy. How can I help you?"
+
+LAURA: Hey, I saw them bodies over at Doc's place.
+Tored up.
+
+MATT: "I don't want to talk about that."
+
+LAURA: Wait, wait, don't-- I just, did you know
+those dudes? Those guys?
+
+MATT: "Kilmer was one of the nicer fellas who
+worked here at the Gem. He, well. Sad to hear that
+
+"he met a weird fate."
+
+LAURA: And he actually worked here?
+
+DONATION PROMPT: All right!
+
+LAURA: All right, that's good to know. What about
+that other fella?
+
+MATT: "Hugh worked here as well, but I'm honestly
+kind of glad Hugh got what he had coming."
+
+LAURA: Hugh. He's a fucker, wasn't he? All right,
+when did they go missing?
+
+MATT: "I don't rightfully know. You'd have to ask
+Mr. Schwerenger about that."
+
+LAURA: Where's Mr. Schwerenger?
+
+MATT: She looks up, and you can see at the top of
+the stairs, it curls around and there's an office
+
+with a closed door on the second floor.
+
+LAURA: We allowed to go up there? That looks like
+lock-and-key sort of shit.
+
+MATT: She points over to-- you see Dan at the
+corner with his rifle, keeping a very close look
+
+on you. "You got to talk to him."
+
+LAURA: Talk to Dan? All right. Hey. Thanks for the
+help, there.
+
+MATT: Holds her hand out.
+
+LAURA: Aw, shit. I hand her some money.
+
+MATT: Okay. Takes it.
+
+MARISHA: Sudis actually wanted to go talk to Dan.
+
+MATT: Okay. So as you turn around, Sudis has
+walked up to Dan. As you approach, he has the gun
+
+at his side, and he begins to pull back the
+trigger. "Can I help you?"
+
+MARISHA: How do you say name again?
+
+MATT: "Dan. Dan Doherty. That's far enough. You
+come any closer, I'm going to go ahead and take
+
+"your eye out."
+
+LAURA: Oh, don't mind her. She's just a fortune
+teller.
+
+LIAM: (hiccups)
+
+LAURA: You all right there, Rev?
+
+MATT: He pulls a small black feather out of his
+mouth after the hiccup and is confused by the whole thing.
+
+LIAM: I suppose it is a little funny. (hiccups)
+We're all tested. Each in our own way.
+
+MARISHA: Looking at the aura, the energy
+surrounding you, I don't think you'd pull that
+
+trigger, would you, Dan?
+
+LAURA: I think he'd pull it there, hon.
+
+MATT: Make a notice check.
+
+MARISHA: What do I do? Five.
+
+MATT: Five? He would definitely pull that trigger.
+You get the sense he's pulled a lot of triggers,
+
+and he's aiming right at you. "One more step."
+
+MARISHA: I'm sorry. I just thought you might like
+a little bit of insight into your future. I can
+
+see great potential in you, Dan.
+
+MATT: "I don't want any of this. Too many fucking
+weird things happen in this town. Don't want any
+
+"of your god damn magical bullshit. Get the fuck
+out of the Gem before I shoot your eye out--"
+
+LAURA: Hey, hey! Sue, Sue.
+
+MARISHA: All right. I was going to save your life,
+but have it your way. Oh, and watch your back.
+
+LAURA: She's scary as fuck.
+
+MATT: "Don't trust them gypsy types at all."
+
+LAURA: Hey, Dan.
+
+MATT: "What you want? You might need someone. Go
+on."
+
+LAURA: Your employer up at the top of them stairs.
+How do I get to talk to him?
+
+MATT: "No one talks to Al unless they get
+permission. What you want to talk to him about?"
+
+LAURA: How do I get permission to talk--
+
+MATT: "Tell me what you need for him, I'll talk to
+him, and he'll tell you no."
+
+LAURA: No, I want to help you kill the
+motherfucker that killed your motherfuckers. Now
+
+you seem capable.
+
+MATT: "Is he all right?"
+
+LAURA: He's done some crazy shit today.
+
+MATT: "I can see. You're supposed to cook the bird
+first, asshole!"
+
+LIAM: What?
+
+MATT: "It's the throat thing, I'm sorry."
+
+LIAM: I know, I can-- never mind.
+
+MATT: "Sit the fuck down. You get the fuck out of
+the Gem, or I swear to fucking god, I'm going to shoot."
+
+LIAM: I take a step in front of the gypsy. Dan.
+
+MATT: "You got until three to calm your friends
+the fuck down, or I'm going to go ahead and take
+
+"'em both out."
+
+MARISHA: I'm quite calm. Do I look aroused? I
+don't--
+
+LAURA: Calm down, you guys that are really revved
+up right now.
+
+LIAM: I'd like to reach my hand down to--
+
+LAURA: Down to what?
+
+LIAM: --Stinky Jules' revolver.
+
+LAURA: Hey, get your fucking hand off my gun.
+Don't fucking touch my gun.
+
+MATT: Reach for her revolver?
+
+LIAM: No, not to take it, to cast Smite on it.
+
+TRAVIS: Sometimes reaching's all that needs to be
+done.
+
+LIAM: Give her the ol' reach-around.
+
+LAURA: You're going to reach for my gun when a
+motherfucker's pointing a gun at you?
+
+MATT: So Travis, first off, while we're in this
+moment, as time has passed, I would like for you
+
+to go ahead and roll a spirit check.
+
+TRAVIS: That's a four. Four.
+
+LAURA: Add something to it!
+
+MATT: You got chips, guys, use 'em.
+
+LAURA: I know, we've got so many.
+
+TRAVIS: Shit, still a four.
+
+LAURA: No, you rerolled, yeah.
+
+MATT: Red one would add to it. If you wanted to
+use a red one to add to it, you can.
+
+TRAVIS: Yeah, why not?
+
+MATT: All right. So add a d6 to that one.
+
+TRAVIS: Fucking dick-licking piece of-- five.
+
+MATT: Five. Do you want to use another chip to add
+more to it?
+
+TRAVIS: Yeah, why not?
+
+MATT: On the important rolls.
+
+TRAVIS: What is the deal? There's no--
+
+MATT: So, total of six?
+
+TRAVIS: Yes! I have giblets. This is terrible!
+
+MATT: A respectable five minutes pass before he
+makes his way outside of the room, nice and sweaty.
+
+TRAVIS: With my sleeves rolled up.
+
+MATT: You come down immediately to see what
+appears to be a stand-off, rifle drawn, right at
+
+the Reverend, as you begin to reach towards her
+gun on the side--
+
+LIAM: Okay, I know I'm in front of her. Where's
+Stinky?
+
+MATT: He's up the stairway.
+
+LIAM: He who? She?
+
+MATT: She's maybe four or five feet from you.
+
+LIAM: Do I need to touch the gun to-- oh, okay.
+Then I can't do that at all. She's five feet
+
+behind me.
+
+LAURA: Also, I'd probably murder you for trying to
+touch my weapon.
+
+TRAVIS: She was very forthcoming. Gave me quite a
+bit of difficulty at first, but-- oh, what happened here?
+
+LIAM: I'm backing up, I'm backing up. Relax,
+relax. Hand behind me.
+
+LAURA: Put your hands down.
+
+LIAM: I brush my fingers across her gun and cast
+Smite.
+
+MATT: Okay, against her gun? Spend two points.
+
+LAURA: Would I have noticed that he brushed his
+hand?
+
+MATT: Make a notice check.
+
+LIAM: It's called the dick graze.
+
+LAURA: I don't got a dick.
+
+LIAM: What do I roll for this? Spirit, right?
+Faith.
+
+MARISHA: Just the tip.
+
+LIAM: God damn it.
+
+LAURA: I got a four. Well, I've only got one blue
+chip, and the other one's a reroll, so I can't get
+
+any better.
+
+LIAM: Total of nine.
+
+MATT: All right. So that's with the raise, so you
+go ahead, and there's a dull glow at the side of
+
+her holster as you manage to enchant her weapon
+with Smite.
+
+LAURA: What's that mean?
+
+MATT: You don't know. You do manage to glance to
+the side and notice that he brushed his fingers
+
+past, and there's a slight glow off of your
+holster. "Two!"
+
+MARISHA: Dan. Pull that trigger and it will be the
+last trigger you pull. So says the dark entity
+
+behind your shoulder.
+
+MATT: Make a persuasion check.
+
+TRAVIS: Which way is Dan facing in relation to
+me?
+
+MATT: You're looking down the stairs. You see
+Dan's-- they're both at the side, looking at each
+
+other from your perspective, down below.
+
+MARISHA: I'm going to use a black chip just to see
+if I can do better. Six again. Six.
+
+DONATION PROMPT: All right!
+
+MATT: All right! I'll pick it up later.
+
+(clang)
+
+MATT: Thank you. Oh, it sounds good when you do
+that.
+
+LIAM: You don't want to shoot an unarmed man, do
+you, Dan?
+
+MATT: So he's still-- glances over his shoulder.
+Doesn't see anything. You do hear a door slam in
+
+the distance, and a voice comes blaring out. "Who
+the fuck is causing problems in my saloon?"
+
+LAURA: Al?
+
+MATT: "And who the fuck is calling my name?" At
+this point, Dan puts his gun down. "Sir, I didn't
+
+"mean nothing by it, had these folks come in--" He's
+like, "I will gut you like a god damn fish, Dan."
+
+MARISHA: Sudi starts crying. No-- no English.
+
+MATT: "What do you want, or get the fuck out of my
+place!"
+
+LAURA: We're here to help. Me and these weirdos
+that surround me are here to look for the people
+
+that have been killing your men.
+
+LIAM: You smell like cow plops.
+
+TRAVIS: Mr. Schwerengen, Sydney Hopkins
+Trivelpiece. We're on a mission to find--
+
+MATT: "The more you talk, the less I want to talk
+to any of you. You. Looking to see if you can help
+
+"my men who got killed, right?"
+
+LAURA: That's right.
+
+MATT: "Get on up to my office." He turns around
+and goes back inside. Storms back out again and
+
+goes like, "And Dan? You tell me next time we have
+guests looking for me. Do not point a gun at
+
+"them." Glances over at you and goes, "I don't
+trust her. Go ahead and go that way. The rest of
+
+"them, let them up."
+
+TRAVIS: Stinky Jules, be quick about it.
+
+LAURA: Be quick about what?
+
+TRAVIS: Your meeting.
+
+LAURA: Why?
+
+TRAVIS: No reason. The gentleman in the lobby
+seems very aggressive.
+
+LAURA: Sure.
+
+LIAM: What just happened? Al invited the three of
+us?
+
+MATT: Three of you guys up, and was like, "You can
+stay."
+
+MARISHA: (groans) I go over and I start talking to
+the whores, seeing if they want their fortunes told.
+
+MATT: All right. The three of you guys make your
+way up to the office.
+
+LIAM: (Sudis voice) You're going to fuck a guy...
+
+MARISHA: I see many STDs in your future.
+
+MATT: Desk is up there, there's papers strewn
+across, there's a balcony with a door half-open,
+
+and you see a partially dressed woman currently
+leaving out of the far bedroom, rushes past you
+
+guys. You enter the room. "Would you mind closing
+the door behind you?"
+
+LAURA: Close the door, Rev.
+
+LIAM: (creaking sound)
+
+MATT: "All right. So. To who the fuck do I owe
+this pleasure?"
+
+LAURA: Well, I'm Stinky Jules. Nice to make your
+acquaintance.
+
+TRAVIS: I would ask if I may speak.
+
+MATT: "Oh, be my guest."
+
+TRAVIS: Oh. Lovely. Sydney Hopkins Trivelpiece, at
+your service, from the great country of England,
+
+here to chronicle the glory and power of the Wild
+West. You, sir, your name has quite the renown--
+
+MATT: "Whereabouts in England? I actually had some
+time there myself."
+
+TRAVIS: Yes, well, point of fact, I am from
+Tawnyland, and by route of Shepardshire. But I
+
+took a barge and landed in the beautiful state of
+Mississippi.
+
+MATT: Make a persuasion check.
+
+LIAM: Is he faking it?
+
+LAURA: Is he faking what?
+
+LIAM: Do you think he's from New Jersey?
+
+TRAVIS: Six. Ten.
+
+MATT: "All right, calm down, calm down. Usually
+folks aren't so eager around this place. Jittery.
+
+"All right, so. You say you're here to help with my
+men. All right." (sighs) And he walks out, looks
+
+over the balcony for a second. "Fucking cocksucker cleaned
+out the tables with a grin. You seen this asshole
+
+"walking in town, taking all the money?"
+
+LAURA: Oh. Yes, we did. Well, I tried to punch
+him. I almost punched him. But we did in fact see
+
+him cheating at poker earlier today.
+
+MATT: "Next time he crosses your path, go ahead
+and punch him for me, if you don't mind."
+
+LAURA: I will certainly try to do that again,
+sir.
+
+TRAVIS: That's Simon he's speaking of.
+
+LAURA: Simon.
+
+MATT: "Is that his name? Simon. Good to know.
+Certainly hope he took Cy for all he's worth, too.
+
+"There goes a joyride for the trees alone. You see
+him again, deck him. There's some cash in it for you."
+
+TRAVIS: Understood.
+
+LAURA: What's wrong with you?
+
+TRAVIS: The hand is hurting quite a bit.
+
+MATT: So. He says, "All right, so I've heard some
+terrible fucking news. A new interest is coming to
+
+"town soon. George Hurst. The same rich fucking
+loadrunner's Hurst. Hurst, Hagen, Tevvyson,
+
+"cocksucker's company. Last thing we need in this
+place is another fucking company man without an
+
+"appreciation for allies."
+
+LAURA: Yeah. I don't have any idea what he just
+said.
+
+MATT: "I'll tell you what. You want work? Pay you
+$400 to split, and a free run of the ladies for
+
+"the night, if you bring me anything linking Hurst
+to these rumors of silver going belly-up in this town."
+
+LAURA: What the fuck does this have to do with
+that damn creature killing people? I'm confused.
+
+TRAVIS: Yes, I do believe it was two of your men
+that were torn asunder by this horrible creature.
+
+LAURA: Do you think it was Hurst that killed
+them?
+
+MATT: "Very possible. You find that out, you come
+back with some information about that. Or, if it's
+
+"this fucking bear they keep saying it is, bring
+back the bear's hide. $200 to you to spread as you
+
+"like for the hide of whatever fucking creature
+killed my boys."
+
+TRAVIS: So $400 for the silver and $200 for the
+beast.
+
+MATT: "It's hard to find dependable men these
+days, and some heroics in town can only bring
+
+"spirits up. Higher spirits make for higher-paying
+customers."
+
+TRAVIS: Yes, yes.
+
+LAURA: Sure. Where would we start to look for any
+of the shit you just talked about?
+
+MATT: "If I knew, I'd go looking for it
+my-fucking-self! What am I paying you for?"
+
+TRAVIS: Mr. Schwerengen, I am quite familiar with
+Cy's establishment.
+
+MATT: "Shut the fuck up, please."
+
+TRAVIS: I was just saying, I have information.
+
+LAURA: He has information.
+
+MATT: "Spill it."
+
+TRAVIS: I was just saying, I could lead these
+intrepid band of investigators over to Cy's place and--
+
+LAURA: Cy? Simon?
+
+TRAVIS: Yes, Cy. He runs the-- what is the name of
+the saloon--
+
+MATT: "The Bella Union."
+
+TRAVIS: The Bella Union. Oh, wait, that's where we
+had our...
+
+MATT: "So. Want some cash? Find out who the fuck
+killed my men. See if Hurst is behind any of this."
+
+LAURA: All right. We will do that.
+
+MATT: "Now, get out. Your choice: stairs or the
+balcony."
+
+TRAVIS: Stairs.
+
+MATT: "Good. Wise choice." Slams the door behind
+you guys.
+
+LAURA: Kind of wanted to go out the balcony.
+
+MATT: You, in the meantime, there is a woman who
+has come up to you and said, "Actually, I've always
+
+"wanted my fortune told, if you don't mind."
+
+MARISHA: Absolutely, darling. What's your name?
+
+MATT: "Lisa."
+
+MARISHA: So what does Lisa look like? Can I do a
+notice check on Lisa?
+
+MATT: Yeah. The voice in your head, once again,
+Liam, goes, "Come. Take one. Any of them. It'll
+
+"right your connection with your lord."
+
+MARISHA: Seven. Lisa, Lisa, come here, darling,
+Lisa. Let me get a good look at you.
+
+MATT: She's young, she hasn't been in this
+business long. You can see a bit of fear and worry
+
+in the back of her eyes.
+
+MARISHA: Looks like someone hurt you in your past.
+Da?
+
+MATT: "Get hurt a lot in this line of work."
+
+MARISHA: So are you running or are you chasing
+pain, Lisa?
+
+MATT: "What do you mean?"
+
+MARISHA: Be careful.
+
+MATT: "Careful of what?"
+
+MARISHA: This work you do could very easily
+consume you. But it hasn't yet.
+
+MATT: As you can say that, you can see one of the
+whores nearby trips and knocks her down onto the
+
+table, knocking out her front teeth.
+
+MARISHA: Wait, the woman I was just talking to?
+
+MATT: Yeah. (muffled screams) And just begins running
+off. The other women take her in and then start
+
+picking up her teeth on the table.
+
+TRAVIS: What did you do to her?
+
+MATT: "You get out of this place, you fortune
+teller. You get out of this place."
+
+MARISHA: I did not see that coming.
+
+MATT: You hear (gun cocks) and Dan has his rifle
+up at the back and is like, "I told you to keep out."
+
+LIAM: I swoop and I hook her on the arm and I just
+guide her out the door.
+
+MATT: All right.
+
+MARISHA: Don't worry, we'll meet again, Dan. As
+well as the demon on your shoulder. Bye, demon!
+
+Bye-bye! (blows kisses)
+
+MATT: He looks over his shoulder again, kind of
+nervously.
+
+LIAM: Strong stuff you serve. Strong stuff. Come
+on, out the door you go.
+
+MARISHA: I made like five gold doing that.
+
+TRAVIS: I'll be with you shortly. Mr. Doherty? If
+I may. The whore that I was able to interview
+
+upstairs. What was her name?
+
+MATT: "Which one was it?"
+
+TRAVIS: The red-haired one. Lovely blue eyes.
+
+MATT: "Virginia."
+
+TRAVIS: Virginia, yes. Would you do me a favor and
+follow up with her in a bit. I did do quite a
+
+number on her. I just want to make sure that she's
+all right.
+
+MATT: "I'm sure she is."
+
+TRAVIS: I was quite proud of myself. Anyway. Oh,
+Stinky Jules! Unfortunately, Sue knocked all the
+
+teeth out of the woman she was trying to tell the
+fortune for. Dan, here, was about to put a hole in
+
+her head again, so we're going to--
+
+MARISHA: I did not touch that woman. I was simply
+giving her fortune.
+
+LAURA: How'd she lose her teeth, then?
+
+MARISHA: She just tripped. One of the other women
+pulled her down and she tripped and fell. It had
+
+nothing to do with me.
+
+LAURA: Can't blame her for that! I mean. Lots of
+people are drinking in this bar. Accidents happen.
+
+MARISHA: Not everything is necessarily a pull of
+fate's strings, okay? It's sometimes shit just happens.
+
+TRAVIS: Perhaps we should find our way to this
+spot. Bartender, may I have some whisky? Could you
+
+pour it on this hand? It's throbbing quite badly.
+
+MATT: As you turn at this point, you see Dan still
+has his gun up and says, "Go ahead and find whisky
+
+"elsewhere. You four are fucking not welcome right
+now until you come back with what Al was asking about."
+
+LIAM: Understood, Dan. Thank you for your
+patience.
+
+TRAVIS: Mr. Schwerengen has said--
+
+MATT: "Out."
+
+LAURA: Get the fuck out! Let's go.
+
+MATT: You guys find your way outside of the Gem
+Saloon.
+
+LAURA: Why are you petting air?
+
+MARISHA: Just itch. Bit of itch.
+
+LAURA: It's better if you're itching to actually
+touch your body. I've found it has a better effect.
+
+MATT: The monkey in your ear whispers out. "Follow
+the trail of gold and silver. This is where you
+
+"must go." And curls back up into your hair.
+
+MARISHA: Ah, Manitou.
+
+LIAM: Hockmanitou?
+
+TRAVIS: It's her foreign tongue, I'm sure.
+
+MARISHA: Just thinking out loud.
+
+LIAM: I'm trying to figure it out. I heard you say
+"Da." Are you Russian?
+
+TRAVIS: Stinky Jules, could you pour some whisky
+on my hand? I'm afraid it's infected. I'm feeling
+
+a bit feverish. I feel-- oh, please, careful now.
+
+LAURA: I poke at it.
+
+TRAVIS: (yelps) Oh, it's quite pus-ridden. It
+feels wonderful.
+
+LAURA: I push it out. Okay. Yeah, that looks
+pretty.
+
+TRAVIS: Quite. Careful. Thank you.
+
+LAURA: Sure, take some whisky there.
+
+TRAVIS: Yes, if you don't mind.
+
+MATT: Pour some whisky over the hand. You feel
+inspired. Travis, you get a red chip.
+
+LIAM: I'm going to take-- Come here, Mr. English,
+or wherever you're from.
+
+TRAVIS: Mr. Trivelpiece.
+
+LIAM: Right. Let's take ten minutes to take care
+of this.
+
+TRAVIS: Oh, no, no, that's quite all right.
+
+LIAM: You want the pus?
+
+TRAVIS: I must learn to be as tough as the lands I
+am interviewing.
+
+MATT: Go ahead and make a guts check.
+
+TRAVIS: I don't know where that is.
+
+LIAM: Where'd it go? I don't think you have it.
+
+TRAVIS: Minus two for me, if I don't have it?
+
+LAURA: Just a four minus two.
+
+TRAVIS: I'm going to add a blue chip, because that
+sucked so much. So five.
+
+MATT: Five, okay. You, after saying that, shake it
+off and look down. You can deal with this.
+
+TRAVIS: Yes, it's quite all right.
+
+MATT: No longer shaken by it, you feel like this
+wound will subside in time.
+
+LIAM: I'm going to pull Stinky off into an alley
+for a second. Stinky.
+
+LAURA: You want some more of this action, Rev?
+
+LIAM: You know, I'm not a Sunday school child. I'm
+not a blushing flower. I understand how the world
+
+works. I don't need the money. So you can have my
+share. Helping this town is enough. But I do want
+
+to understand-- I realize you have a higher
+tolerance than I do. What happened last night?
+
+LAURA: Oh, yeah, we had sex. Well, you had a lot
+of sex with the Sue girl, a little bit of sex with
+
+brains over there.
+
+LIAM: Okay. That was very candid.
+
+MATT: The voice in your ear creeps in and goes,
+"It's all true."
+
+LIAM: I know that's a fucking devil.
+
+TRAVIS: He shakes his head no.
+
+LAURA: Is that not all right with you, Rev?
+
+LIAM: People find comfort where they can.
+
+LAURA: You were real, real, real into it, I just
+want to let you know. You were having a lot of
+
+fun. I even, at one point, asked if you wanted to
+stop, because it seemed a little bit obscene even
+
+to me, but you kept on go--
+
+LIAM: Do you have any whisky?
+
+LAURA: I do. Here, have some.
+
+LIAM: Can I have it?
+
+MATT: At this point, the sun has begun to set, and
+you hear in the distance what sounds like a gunshot.
+
+LAURA: Did you really just drink my whisky?
+
+LIAM: No.
+
+LAURA: Yes, you did.
+
+TRAVIS: A gunshot?
+
+MATT: A gunshot in the distance. A second
+gunshot.
+
+LAURA: Shit! I take off running.
+
+MARISHA: Let's follow.
+
+MATT: Okay. You guys go charging off now, on the
+sound of this distant gunshot.
+
+MARISHA: I'm on my peg leg.
+
+TRAVIS: Come on, Trinket.
+
+LIAM: Ever consider marriage?
+
+MATT: You make your way to the outskirts of the
+town, where you see there's now people surrounding
+
+what looks to be an individual who is torn open,
+their stomach pulled out, but they're holding a
+
+gun, and they're on the ground, passing out at
+this point.
+
+LAURA: Oh, shit! I pull out my gun and look around
+for whatever it was that was just attacking him.
+
+TRAVIS: I run down to the poor individual.
+
+MATT: Notice check.
+
+LAURA: Notice, notice. Damn it. I'm going to--
+wait. Damn it! All right, I'm going to spend a blue.
+
+LIAM: Hey, Marshal? You think I got two minutes
+for the bathroom before the shit hits the fan, here?
+
+MATT: Sure, go for it.
+
+LAURA: It's because he just drank all that whisky.
+Going straight through him.
+
+LAURA: Can I-- I only got four.
+
+MATT: You got a four? Looking around the darkness,
+as the shadow's started to take the nearby forest,
+
+you see nothing before you. But you do see some of
+the other folks in town who are starting to bring
+
+out what looks like torchlight and starting to
+make a little posse to go out and seek. You see
+
+the well-dressed gentleman who wandered up
+earlier, Simon. "What's going on? This is-- what?"
+
+MARISHA: Simon, was it?
+
+MATT: "Yes. Hello again."
+
+MARISHA: What brings you out here? You came quite
+fast.
+
+LAURA: Simon! I walk up and I punch him.
+
+(laughter)
+
+MATT: Go ahead and roll fighting.
+
+MARISHA: Yes! Yes!
+
+TRAVIS: And while they're with Simon, I would like
+to be with the guy that's holding the gun and torn open.
+
+MATT: Okay.
+
+LAURA: I got a five.
+
+MATT: You got a five? Okay, go ahead and just roll
+a d4. Or what's your strength?
+
+LAURA: Strength is-- oh, it's just four.
+
+MATT: Yeah, so roll a d4, add one to it.
+
+LAURA: Two.
+
+MATT: All right, so you-- is that your fighting
+roll?
+
+LAURA: Oh, I want to reroll.
+
+MATT: Oh, go ahead and reroll. The fighting is a
+d4?
+
+LAURA: I fought him, I got--
+
+MATT: No, you got the five, yes, so you're going
+to reroll the--
+
+LAURA: The attack. Four! And add one to it, so
+five.
+
+MARISHA: Right before her fist meets his face, I
+go, pain incoming.
+
+MATT: And he goes, "What?" (impact) Her fist comes
+out of the side of your visual perspective. His
+
+hat gets flung off to the side. He hits the
+ground.
+
+MARISHA: See? I can predict future!
+
+MATT: He's now missing a tooth.
+
+LAURA: I pick up the tooth, and I put it in my
+pocket. And I tell everybody, everybody saw that!
+
+If anybody asks, I did in fact punch that man.
+
+MATT: A man rushes out and picks him up and goes,
+"Are you okay?" And helps Simon up off the ground.
+
+You see a man looking with a sad turtle-like
+wrinkled face, a paisley-blue velvet outfit that's
+
+worn, dirty, a hat much like yours, and he
+stammers as he lifts him off the ground. "Why? Why
+
+"have you taken this moment to feel it important to
+impart onto my gentle cousin your fist?"
+
+LAURA: Oh, because I was asked to by Mr.
+Salinger.
+
+MARISHA: Schwerenger.
+
+LAURA: Schewerenger.
+
+MARISHA: There we go.
+
+MATT: "Al? Al told you to? Did you piss off Al?
+That's dangerous."
+
+MARISHA: What they call you, cousin? Or is your
+name Cousin?
+
+MATT: "He is my cousin. I'm E.B. Farnum, the mayor
+of this fair town, and I am also the owner of the
+
+"Grand Central Hotel, if you ever want to come stay
+with us. You're more than welcome. Is she welcome?
+
+"She just punched you." And Simon's still coming to
+his senses and goes, "I-- Why?!"
+
+LAURA: I just walk away from him and start asking
+people if anybody saw who attacked that other feller.
+
+MATT: Okay. Folks are confused at this point, and
+they're pulling out their torches and their guns.
+
+The guy on the ground, by the way, as you're
+searching him, has--
+
+TRAVIS: Is he alive?
+
+MATT: He is expiring rapidly.
+
+TRAVIS: Is he? I bend down and say--
+
+LIAM: Who is he? What's going on?
+
+MARISHA: We've got a guy in the street.
+
+MATT: "It was teeth and fur." And he passes out.
+
+LIAM: I'm walking out to him and laying on hands.
+
+MATT: All right, go ahead and make a faith check.
+Two more points.
+
+LIAM: I know. Okay.
+
+MARISHA: Did you recover any?
+
+LIAM: I don't know.
+
+MARISHA: He recovers every few hours, right?
+
+MATT: One.
+
+LIAM: Okay, I'm going to use-- the reroll is the
+blue?
+
+LAURA: No, the black is the reroll.
+
+MATT: Other ones add d6s. Thank you.
+
+LIAM: 12.
+
+MARISHA: Ooh!
+
+LIAM: Put those innards back in, son.
+
+MATT: As you reach down, your hand touches him. In
+the darkness of the newly formed dusk, you see
+
+warmth begin to emerge from your medic's hands,
+and all the intestines slowly pull back into the
+
+body, the wound closing, leaving the shorn shirt
+of the individual. He comes to consciousness with
+
+a deep breath.
+
+LAURA: That's just fucking crazy.
+
+LIAM: You're okay.
+
+MATT: You can see E.B. Farnum's like, "What is
+going on? Everything's turned upside-down. I don't
+
+"know what's happening."
+
+TRAVIS: Reverend, perhaps you could speak some
+calming words to Mr. Farnum.
+
+MATT: Simon turns to him and they whisper to each
+other.
+
+MARISHA: I'm still standing next to Simon. Do I
+hear what he says?
+
+MATT: Make a notice check.
+
+MARISHA: Ugh, I'm going to spend a reroll. Not
+much better. Three!
+
+MATT: Give this to Laura, please. Three? No, you
+don't hear anything. You hear some whispering, and
+
+you notice that Simon nods and looks about
+shiftily and darts off into the town as E.B. takes his
+
+place with a big smile.
+
+MARISHA: Can I follow Simon? Stealthily, like
+blend in with the crowd behind him?
+
+MATT: Go ahead and make a stealth check.
+
+MARISHA: I'm not trained in this. Ooh, I rolled a
+three, though, which is pretty good. Minus two. So one.
+
+MATT: As you turn around, E.B. goes, "Ma'am, I'm
+sorry to bother you. A lot of things have been
+
+"happening in this town as of late--"
+
+MARISHA: Your palms are very sweaty. Don't touch
+again.
+
+MATT: "Sorry, it's a thing."
+
+MARISHA: You seem nervous. Why nervous?
+
+MATT: "I always seem nervous, but as the mayor of
+this town, I feel--"
+
+MARISHA: Mayor? Who made you mayor?
+
+MATT: "I did. And Mr. Schwerengen. I don't have to
+talk to you! Look, miss. There has been a terrible
+
+"incursion of an evil sort, a blight on our fair
+city, and I think it's important that we as a
+
+"people figure out who is responsible."
+
+LAURA: I agree with that statement.
+
+MARISHA: I know, E.B., I know. And I reach out and
+I touch his face.
+
+MATT: Smacks it away. "Unhand me, gypsy foul
+demon-woman!"
+
+TRAVIS: You know, the Reverend is quite good at
+calming the nerves. He has quite the touch.
+
+MATT: At this point, the man who he's healed
+stands up. Black chip for Laura. And goes, "I
+
+"don't know what to say." You see now, he's an
+older gentleman with a big, thick beard and a
+
+bowler hat and he's shorter, stockier. "You saved
+my life, and I appreciate that."
+
+LIAM: All I ask is that you use your time more
+kindly and more wisely.
+
+LAURA: And tell us who it was that attacked you.
+
+MATT: "Name's Charlie. Charlie Arthur. I was out
+taking a walk in my thinking hour, when I noticed
+
+"something moving on the outskirts of town. I went
+to check it out, like one is wont to do in my
+
+"place here in town. Something with a lot of fur
+and teeth came at me from that way." And he points
+
+out towards the north end of town that leads out
+towards the various mining claims.
+
+LIAM: How big a creature are we talking about,
+Charlie?
+
+MATT: "About the size of a bear, best I could
+tell. But not bear-like. It was more savage, like
+
+"a dog. But this dog was on its hind legs, it
+looked like. Then it wasn't, then it ran like a
+
+"bear. I don't know. I got two shots off, didn't
+seem to stop it, then it tore out the side of my
+
+"stomach and left me for dead."
+
+LAURA: But you're not dead!
+
+TRAVIS: Your wounds seem to have healed
+miraculously.
+
+MATT: "Excuse me while I go get a very firm
+drink."
+
+TRAVIS: Perhaps I can walk you there.
+
+MATT: "You keep strange company, and while I
+appreciate what you've done, that weird shit--
+
+"I've had enough of it for the day."
+
+LAURA: We should go check out that
+bear-walking-dog-bear beastly sort of creature and
+
+kill it.
+
+MATT: You can see E.B. is still looking over your
+shoulder as you're talking with him, and he's
+
+pushed you away. "I'm sorry. I think it is time
+that I returned about my business and left you,
+
+"woman of the arcane dark arts, out of my sight.
+Good day."
+
+MARISHA: Oh, don't worry, E.B., I don't have to be
+in your sights.
+
+LAURA: Again, aim for the actual part that itches.
+It helps, I swear.
+
+LIAM: Charlie. It's a gift from above. Don't waste
+it.
+
+MATT: "Oh. Ugh." And he seems like he's super
+confused and torn by the whole thing that's
+
+happened. He just walks into town. Some of the
+people are out now, forming parties who go out
+
+into the middle of the forest.
+
+TRAVIS: I'll be with you in one moment. I chase
+after Charlie and I put my hand on his shoulder
+
+and I say, dear sir, might I get a quote for my
+book? Or rather, may I give you one?
+
+MATT: "I'm sorry, I don't know what you're talking
+about."
+
+TRAVIS: (deep voice) "Well, some people don't get
+to escape death." And I take my bowie knife out of
+
+my sleeve and I stab him in the heart and turn the
+wound so it opens.
+
+MATT: Okay. Go ahead and make a fighting check.
+
+LIAM: He's a faker, yeah. Big surprise.
+
+TRAVIS: I'm going to reroll the strength check.
+That's an eight. That's a six. That's a 14.
+
+MATT: With two raises, or raising the attack. So
+go ahead and roll damage, plus an additional d6.
+
+TRAVIS: How do I roll damage?
+
+MATT: It's under your bowie knife.
+
+LIAM: Oh man, Jesus is displeased with you. I just
+fucking healed that guy.
+
+MARISHA: I told you, you are only prolonging the
+inevitable. By 30 seconds, yeah. Sometimes people
+
+are just meant to die.
+
+LIAM: Hey, man, Liam's agnostic. I get you.
+
+TRAVIS: Oh, sorry, this guy.
+
+MATT: Yeah, so roll that twice.
+
+TRAVIS: Five.
+
+MATT: Plus two, so seven. Plus your d6.
+
+TRAVIS: Ten.
+
+LAURA: Seven plus four is 11.
+
+TRAVIS: Oh, I'm sorry, 11.
+
+MATT: Do you want to use a red chip to add another
+d6 to that? Just 'cause why not? Add another d6.
+
+TRAVIS: Three. 14.
+
+LIAM: Does he explode into a mist of blood?
+
+MATT: No. As you walk away, arm over him, do you
+keep walking with him? He goes limp in your grasp.
+
+TRAVIS: Oh, no, no, someone come quickly! It seems
+his wounds have been extremely grievous! Oh,
+
+please, somebody help Charlie!
+
+MATT: You guys now see as Charlie has collapsed to
+the ground, now, just a gout of blood out of his
+
+chest where the previous scar wounding was.
+
+TRAVIS: Oh, my dear, oh, I wasn't quite ready for
+this.
+
+MARISHA: Can I do an insight check on Sydney?
+
+MATT: No insight.
+
+TRAVIS: Please, I'm afraid his blood will get in
+the bear wound.
+
+LAURA: All right, let me check it out. Maybe we
+should pour some more whisky on that. Just push on
+
+the wound.
+
+TRAVIS: Don't fucking touch-- yes, yes. The whisky
+alone would be great.
+
+MARISHA: Nine.
+
+MATT: If I could have you go ahead and make a
+persuasion check.
+
+TRAVIS: Okay.
+
+LIAM: While he's doing that, question: he dropped
+his accent for a second 20 minutes ago. But I
+
+don't catch that if the dice don't catch it,
+right?
+
+MATT: Correct.
+
+TRAVIS: I'm going to reroll that. Yes! So that's a
+seven.
+
+MATT: Seven? You going to add anything else to
+that, or no?
+
+TRAVIS: I'm going to add a d6. That is nine. Oh
+wait, no, seven plus three is ten.
+
+MATT: Ten? He looks earnest. It looks like somehow
+the wound has reopened and Syndey is genuinely
+
+fearful of what has just happened.
+
+TRAVIS: I'm really not quite prepared.
+
+MARISHA: I told you he was meant to die.
+
+LIAM: Can't trust the English, if we've learned
+anything.
+
+TRAVIS: I was only trying to escort him back. Oh,
+well. I suppose--
+
+LAURA: Well, shit. We should get that doc out here
+and take care of them wounds again. In the
+
+meantime, maybe we should all go find that bear.
+
+MARISHA: We need to start at some of the mining
+locations. Some of the gold and silver veins.
+
+TRAVIS: The bear is just here.
+
+LAURA: The bear ran out into the woods. It's right
+that way.
+
+MARISHA: I know, but I think we should follow it
+towards one of the mining--
+
+TRAVIS: Is anyone adept at tracking such an
+animal?
+
+LIAM: I pull out the sharpened crucifix I have.
+It's that way, and I just walk off.
+
+MATT: Towards the woods? You guys watch as your
+reverend fellow walks off into the woods.
+
+MARISHA: Well, it's a start.
+
+LAURA: We start following him.
+
+TRAVIS: Yes, of course!
+
+LAURA: I push Sydney in front of me, and I say,
+maybe you should follow behind the reverend there, Sydney.
+
+TRAVIS: Well, of course, it'd be my pleasure! Shall
+we?
+
+MARISHA: I peg leg behind. (stomping)
+
+MATT: You guys begin to make your way up into the
+woods. At this point, I want to mention real fast
+
+we just hit $65k.
+
+(cheering)
+
+MATT: Which is fantastic. That is amazing so we're
+going to have a boss named, created with me and
+
+the community at some point in the near future to
+show up in Critical Role.
+
+LAURA: Oh man!
+
+MATT: If we hit $70k this special one-off, and
+what it's about to unveil as it continues, will be
+
+uploaded to geekandsundry.com by Friday. If we can
+hit $75k, it'll be uploaded by Wednesday. Also,
+
+we're going to be giving out a signed cast
+poster of the purple, no longer available,
+
+showdown poster.
+
+TRAVIS: Those are like in the vault. They're very
+rare.
+
+MATT: So we're going to sign that poster and give
+it away, since that is no longer available, if we
+
+hit $75k. So anyway.
+
+LIAM: Welcome Vox Monica, I am Skizzbucket
+Tatertaint.
+
+(laughter)
+
+LAURA: Why do you keep calling them Vox Monica?
+
+LIAM: Why not?
+
+MATT: Don't give them any ideas.
+
+LIAM: It's going to stick! It's the new hotness.
+Come on!
+
+MATT: So as you guys step into the dark forest,
+the evening air has definitely consumed this area.
+
+You can hear the crickets in the distance
+chirping, and the occasional distant hooting of a
+
+night owl (owl hooting).
+
+MARISHA: What does the moon look like?
+
+MATT: You look up and the moon is a bright vibrant
+circular white. It looks to be--
+
+MARISHA: So it's a full moon?
+
+MATT: --close to full, or full. And that light is
+aiding you to get through some part of the forest
+
+as scattered as it is amongst the trees.
+
+MARISHA: Would I have any occult knowledge
+about--
+
+MATT: Make an occult check, knowledge/occult.
+
+MARISHA: --the moon, and maybe things come out at
+the moon times?
+
+LIAM: (accented) That is a moon.
+
+MARISHA: (accented) That is a moon in the skies.
+
+(dice hitting the floor)
+
+MARISHA: Oh noes.
+
+LIAM: Fail.
+
+MARISHA: Oh it was a four, can I keep it? You're
+not going to let me keep it.
+
+MATT: On the table.
+
+MARISHA: Three. I'm going to spend a blue to add a
+d6, right?
+
+MATT: Yep, thank you.
+
+MARISHA: Ooh, and a four. So seven!
+
+MATT: Yes, a full moon's particular furry beasts
+with the nasty teeth, various forms of lycanthropy
+
+are affected at this point in time. Based on the
+information that these attacks happened every few
+
+weeks, and the cycle of the lunar cycle, you
+gather there's probably a very good chance that
+
+this beast that's been seen multiple times is some
+sort of a shapeshifter.
+
+MARISHA: The full moon, it has mystical powers.
+I'd watch out for any type of lycanthropy in the area.
+
+LAURA: What the fuck is lycanthropy?
+
+MARISHA: You goods? You've had those hiccups
+for--
+
+LIAM: (spits) Ugh.
+
+LAURA: What did you eat, son?
+
+LIAM: I don't know what happened last night.
+
+MARISHA: You shouldn't eat from the traveling
+street carts. Those are bad.
+
+LIAM: I have a lot of praying to do.
+
+TRAVIS: Would you pray for me as well? It burns
+when I pee. I think it might have had something to
+
+do with last night.
+
+MARISHA: Did you also eat from the travelling
+street cart?
+
+TRAVIS: No.
+
+MARISHA: Don't eat from food trucks!
+
+TRAVIS: Oh, okay!
+
+MATT: A couple of things. One, ladies, red chips.
+
+LAURA: Yeah!
+
+TRAVIS: Just the ladies?
+
+LIAM: I sneaked it. It's mine!
+
+MARISHA: You fucking--
+
+MATT: The men get black chips.
+
+TRAVIS: Oh good! At least I have one more now.
+
+MARISHA: What? Well, that's fine.
+
+TRAVIS: I have two chips. Two chips! Just saying!
+
+MATT: Roll a smarts check if you could, Sudeis.
+
+MARISHA: Just straight smarts?
+
+MATT: Yes.
+
+LIAM: (accented) Smart check.
+
+MATT: Add to the d6 as well, Let's see what you
+find.
+
+DONATION PROMPT: All right!
+
+LAURA: All right!
+
+MARISHA: I'm going to re-roll. Do I re-roll both,
+or which one?
+
+MATT: Just one, the big one.
+
+MARISHA: The big one? That's not great. Ugh.
+Five!
+
+MATT: Five, you add anything to it?
+
+MARISHA: Don't bait me, Matthew Mercer. I know
+what you're doing.
+
+MATT: You don't have to.
+
+MARISHA: Trying to get me to use all my tokens.
+
+MATT: You get more information if you--
+
+TRAVIS: Yeah.
+
+MARISHA: (growling) Yeah, the blue one.
+
+MATT: Okay.
+
+TRAVIS: If you finish this game and you have chips
+on your table---
+
+MARISHA: No wait. I don't want blue. I want a
+red.
+
+LAURA: No! But no, with the red--
+
+TRAVIS: It's already been done.
+
+MARISHA: Oh, because he gets one, right?
+
+LAURA: Do the blue, do the blue.
+
+MARISHA: All right, I'll just use the blue. I
+already threw it to you.
+
+MATT: Add your d6.
+
+MARISHA: I would like a d6.
+
+MATT: Like a d6.
+
+MARISHA: Ooh, that's good, ten!
+
+MATT: Ten! You do also recall, as you're putting
+these beats of information together: full moon,
+
+lycanthropy, seemingly rumours spreading wide
+you've heard of silver mines drying up or being
+
+purchased up.
+
+MARISHA: You know there are certain things that
+really like silver when they're also lycanthropes.
+
+LAURA: What the fuck is that word you're
+saying?
+
+TRAVIS: Like, or don't like?
+
+MARISHA: Like.
+
+LAURA: Like.
+
+MARISHA: I don't know, do I know things that might
+like silver?
+
+MATT: People like silver.
+
+MARISHA: I know certain things are afraid of
+silver.
+
+MATT: Werewolves--
+
+MARISHA: They hate silver.
+
+MATT: For werewolves, lycanthropes, it's the only
+thing that can kill them.
+
+TRAVIS: Thank you!
+
+MARISHA: My immediate thought would be, if I was
+werewolf--
+
+LAURA: There's a, wait. What are we talking about
+werewolves? I thought it was a bear?
+
+MARISHA: That's what lycanthropes are,
+werewolves.
+
+LAURA: Oh! I understand.
+
+LIAM: Is that a thing that we would all know
+about in this--?
+
+MATT: Folklore has heard stories and such, you've
+never encountered one. It's occasionally maybe
+
+heard of in fairy tales and such, times have been
+weird as of late.
+
+MARISHA: If I was werewolf and had vulnerability
+to silver, I'd want to control all the silver. So...
+
+LAURA: Oh.
+
+MARISHA: That way no one can hurt me.
+
+LAURA: So we got a big old wolf trying to
+quarantine off--
+
+MARISHA: Or a bear, or it could be other beasts.
+
+TRAVIS: Wait, wait, wait, didn't Swearengen say
+that Cy had bought all of the gold and silver
+
+mines? You don't think that Cy could be...
+
+MATT: He didn't say that Cy did. He said that
+they'd been purchased up. Cy had lost a lot of
+
+money. He's worried that Hurst might be buying
+them up.
+
+TRAVIS: Oh yes, George Hurst, actually.
+
+MARISHA: I also saw Cy run very quickly right
+before the moon came out.
+
+TRAVIS: Troubling.
+
+MARISHA: Just saying.
+
+TRAVIS: Troubling. Troubling thoughts.
+
+MARISHA: I think we should keep an eye on Simon.
+
+LAURA: Should we keep looking for a wolf then, or
+should we talk to these people in town that
+
+you think might be a wolf?
+
+TRAVIS: I think George Hurst's establishment would
+be a good place to visit.
+
+LIAM: Is our trail cold here?
+
+MATT: You guys are deep in the forest. Where are
+you going? Are you heading towards--
+
+MARISHA: If it's full moon then he's out in beast
+form. We have good chance of finding him in beast form.
+
+MATT: Who wants to make a tracking check?
+
+LAURA: I'll try.
+
+TRAVIS: I would love to.
+
+LAURA: But I don't got a thing.
+
+TRAVIS: Is it tracking-- yeah, it's tracking.
+
+LIAM: Can we all make a tracking check?
+
+MATT: You can all make a tracking check, all
+unskilled I'm pretty sure.
+
+LIAM: And then do we roll-- if you've got no skill
+in it, is it two d4s?
+
+MATT: No, it's a d4 and a d6, and then minus two.
+
+LAURA: Oh, I did it wrong.
+
+MARISHA: So do you add the d4 and the d6
+together?
+
+MATT: No. You take the higher of the two.
+
+LAURA: And if you get the top, you get to roll
+again?
+
+MATT: Yeah.
+
+LIAM: Two!
+
+MARISHA: Three.
+
+TRAVIS: Six, four.
+
+LAURA: 16.
+
+MATT: Minus two, 14.
+
+LAURA: 14.
+
+TRAVIS: That was a good stack.
+
+LAURA: That was.
+
+MATT: So as you all are lost entirely in the
+middle of this forest, middle of the night, the
+
+moonlight the only thing that's giving you any
+sort of visual reference. All of a sudden, you
+
+Stinky Ja-- Stinky Jules!
+
+(laughter)
+
+LAURA: I wondered what you were going to call me
+there!
+
+MATT: Stinky Jules, you look over and you see
+particularly little spats of blood, and larger
+
+beast tracks, recent ones that scale up this way.
+You begin to follow, and you guys follow behind
+
+Stinky Jules. You come over a ridge looking down
+to where a lot of the plots, a lot of the set
+
+claims are all set up the side and separated with
+flags and various markers and such. You can see a
+
+number of them have been closed and boarded up.
+
+MARISHA: The mines?
+
+TRAVIS: What do you see?
+
+LAURA: Uh... a bunch of things have been boarded
+up. Can we take them down and go in the place?
+
+MATT: If you want to, there's a number of ones you
+can go and check out.
+
+TRAVIS: Not in the terribly condemned, 
+haunted-looking--
+
+LAURA: Why don't you lead the way, there, Syd?
+
+TRAVIS: (high-pitched) Me?
+
+LAURA: Yeah, you look like you're capable.
+
+TRAVIS: Look, I've already got quite a bit of blood
+on my sleeve. I was not quite prepared for this.
+
+Maybe I could draw the outside of this
+establishment. I'll go, all right, fine.
+
+LAURA: Yeah. All right.
+
+TRAVIS: And I'll go up to the entrance of the
+mine?
+
+MATT: It's a campsite that is currently abandoned,
+and it looks like it's been abandoned for a while.
+
+There are a number of wooden boards that are
+placed up against the entrance. You look around
+
+and you can see a bunch of leftover discarded mining
+materials and what looks like most of the remnants
+
+or the scraps that are left behind in one of the
+big mining carts that's currently outside-- make a
+
+notice check. This'd be investigation, make an
+investigation.
+
+TRAVIS: Investigation, okay.
+
+Ooh, four.
+
+LAURA: Ooh.
+
+TRAVIS: Ooh, five! I'll take the five.
+
+MATT: You glance around and look inside this and
+look around the exterior of it. The dust around
+
+here is silver specifically in nature. This is a
+silver mine.
+
+TRAVIS: My fellows, this appears to be a silver
+mine. Crazy.
+
+MARISHA: Mm-hmm.
+
+LAURA: Right. Should we look inside the mine?
+
+LIAM: Yeah, whatever this thing is a scourge.
+
+LAURA: Do we see tracks of a beast around?
+
+MATT: The beast tracks faded once it got over the
+ridge and went down to the claim area, so...
+
+LAURA: What about this little bear cub that we got
+with us. Does he smell anything around?
+
+MATT: (laughs) I'll roll for the bear cub. Bear
+cub kind of (sniffing), (cute growl) kind of
+
+leans up against you.
+
+LAURA: Tell you what, he's useless, but he sure is
+damn cute.
+
+TRAVIS: Yes, he is.
+
+MARISHA: I still say we use him as bait.
+
+LIAM: Also, I don't understand. Are we saying that
+silver is a danger to these creatures? Is that
+
+what you're implying? Why would he have run into
+the middle of a silver mine?
+
+MARISHA: Probably wouldn't have.
+
+TRAVIS: Unless he was wounded by the gun that poor
+late Charlie was holding.
+
+LIAM: It doesn't make sense, if silver is a bane
+to these creatures it wouldn't have run right into
+
+the heart of it.
+
+TRAVIS: It must be empty, then. Stinky Jane, um,
+Jules. Why don't you take a look inside?
+
+LAURA: All right. I go and look inside the mine.
+
+MATT: Okay, so you pry open some of the board--
+
+LAURA: Yeah, pull back some of that wood.
+
+MATT: The air is dry and musty in there. You get a
+few feet in and it's pitch black. There's no light.
+
+LAURA: Do we got any sort of-- I've got some
+matches.
+
+TRAVIS: I do too!
+
+MARISHA: I've got a lantern.
+
+LAURA: Oh! Hey, who's got a lantern?
+
+MARISHA: I come in with a lantern.
+
+TRAVIS: Lead the way. I'm sure it's totally empty.
+I'm right behind you.
+
+LIAM: I'm going to walk behind.
+
+MARISHA: Come on, Jules.
+
+LAURA: All right.
+
+MARISHA: The ladies are leading the way. What do we
+see?
+
+MATT: You guys glance inside. You walk about 20,
+30 feet into the mine before it opens into two
+
+different paths. But immediate at a glance, as--
+
+LAURA: I'm holding my hand above my pistol.
+
+MATT: Okay. You look down both sides of the split
+Y formation deep into this mine, and you can see
+
+areas that have been heavily mined. But the thing
+that catches your attention is, for being boarded
+
+up and abandoned, there's still a lot of apparent
+silver veins in the walls that are in the middle
+
+of being mined before they were left behind. You
+see visible veins, even this quickly in.
+
+LAURA: Looks like somebody's trying to--
+
+LIAM: (hiccups and spits)
+
+LAURA: Watch them feathers. Somebody's trying to
+keep people from getting this silver.
+
+LIAM: Chat loves a serial killer.
+
+LAURA: What?
+
+TRAVIS: I take offence to that, good sir.
+
+MARISHA: So they bought the mine simply to--
+
+LAURA and MARISHA: Shut it down.
+
+MARISHA: Da.
+
+LAURA: We should get some of that silver though.
+
+DONATION PROMPT: All right!
+
+MARISHA: All right.
+
+TRAVIS: Should we explore, perhaps see if anything
+was left behind?
+
+LAURA: Well, I see some silver's left behind. And I
+try to get some.
+
+MARISHA: We should probably get silver-- yeah. Can
+we get some silver pieces?
+
+MATT: Yeah, and actually it takes you about half
+an hour or so, but you manage to scrounge up some
+
+decent chunks of silver. Probably about five
+pounds' worth, which is quite a bit.
+
+LAURA: I don't want to cart around that much. I'm
+going to take about a pound of it. Stick it in my shirt.
+
+MARISHA: I'll take the other four pounds.
+
+LAURA: All right.
+
+MATT: (laughs) All right.
+
+LAURA: What's wrong with your damn wrist?
+
+TRAVIS: It-- it does pulse quite a bit.
+
+DONATION PROMPT: All right!
+
+LAURA: All right, give it to me. I'll take a look
+at it again.
+
+TRAVIS: I'm quite thirsty too. I have a bit of
+cottonmouth going on.
+
+LAURA: I'll just keep on pushing.
+
+TRAVIS: (pained) Motherfuck-- I would appreciate
+it if you didn't quite press on it quite that hard.
+
+LAURA: Something's weird with this guy.
+
+LIAM: Is there any hair coming out of that hand?
+
+MATT: Nope, not that you can see. Make a notice
+check.
+
+LIAM: Okay. Uh, no idea what that is. What do I
+roll?
+
+MARISHA: 1d4.
+
+LAURA: And then minus two.
+
+MATT: You're not very good at noticing things.
+You're a faithful man. You take faith--
+
+LIAM: All right, three plus--
+
+MATT: The d6 to see which is higher.
+
+LAURA: Yeah, you also roll a d6.
+
+LIAM: Thanks man. Five minus two is three. And I'm
+going to waste a blue. So that's a three plus two
+
+is five.
+
+MATT: Okay.
+
+LIAM: I'll settle at five.
+
+TRAVIS: Toss that blue. Send it flying.
+
+MATT: Best you can tell, based on the wound, it's
+a mild wound. It's a little swollen. It seems to
+
+be fine, but no other visual effect than that.
+
+TRAVIS: (pants) It's so hot in here, isn't it? I
+do feel perhaps it's the lantern (pants) and I'll
+
+actually take off the outer coat and really just
+roll up the shirt.
+
+MATT: Big pit stains.
+
+LIAM: Are you sure you don't want a poultice on
+that?
+
+LAURA: Do you want to hold some of that silver?
+
+LIAM: It's really a simple thing for me to do, to
+wrap some mud and some water.
+
+TRAVIS: I feel like I'm earning my marks. I'm
+quite proud.
+
+MATT: You hear from the far, far depths of the
+mine--
+
+DONATION PROMPT: All right!
+
+MATT: A faint sound going, not "All right".
+
+(laughter)
+
+MATT: It goes, (creepy exhale).
+
+LAURA: Oh shit.
+
+MATT: A deep echoing exhale from deeper in the
+mine.
+
+TRAVIS: Oh no. Um. I don't suppose any of you had
+gas, just then?
+
+LAURA: Well, I did, but it's usually silent.
+
+MATT: (creepy exhale) It's still a ways away, but
+it's getting slowly louder.
+
+LAURA: What the fuck is that?
+
+TRAVIS: Uh, hello?
+
+MARISHA: We should go deeper.
+
+LAURA: I bet that thing's in here!
+
+TRAVIS: What thing? No!
+
+LIAM: Well, we have to make a choice. We either go
+in now, stop it from escaping, if it's our killer.
+
+Or go back for reinforcements.
+
+LAURA: Let's go kill it!
+
+TRAVIS: Yes, but could we take a moment to
+consider that it was boarded up?
+
+LAURA: I want to go kill it.
+
+LIAM: I take out my crucifix and lead the way.
+
+LAURA: Yeah! Let's go.
+
+MARISHA: Before we walk off I go, Sydney, catch!
+And I toss him a piece of silver.
+
+MATT: Okay.
+
+TRAVIS: Oh! Thank you. What is this for?
+
+MARISHA: Just...
+
+TRAVIS: Last night? Yes, jolly good!
+
+MARISHA: I thought it'd be good if we all had
+some.
+
+MATT: All right, you guys begin to curl around the
+left side where the sound's coming from, and as
+
+you come into a larger mining chamber--
+
+LAURA: I'm holding up silver and I got my hand on
+my pistol.
+
+MATT: You see--
+
+MARISHA: I've got the lantern.
+
+MATT: --not a furry creature. As your lantern passes
+by, all of a sudden it catches a darker shadowed
+
+shape that looks like a human but with a larger
+head than normal. Its body is black and bulbous
+
+and it looks almost shiny like it's covered in
+oil, but that's its natural form. It glances over
+
+real fast and its eyes glow as it flashes in the
+light and (hisses) it scatters out of the light--
+
+LAURA: Ugh, I shoot it!
+
+MATT: --into a far corner. You're going to shoot
+it?
+
+LAURA: Yeah!
+
+MATT: All right, go ahead and make your shooting
+skill check.
+
+LIAM: Are her bullets still smited?
+
+MATT: No, the smite only lasts for a few rounds.
+
+LIAM: God damn it!
+
+MATT: Yeah.
+
+LIAM: I mean, God bless it!
+
+(laughter)
+
+LAURA: What do I roll for this?
+
+LIAM: You're asking me?
+
+LAURA: What's R.O.F? Is that what I roll-- a six?
+Do I roll a d6?
+
+MATT: You do.
+
+LAURA: Okay.
+
+LIAM: 2d-- oh, that's the damage.
+
+LAURA: I'm going to re-roll.
+
+MATT: d6 on your shooting? Your shooting is a d10,
+I think.
+
+LAURA: Oh shit! Awesome.
+
+MATT: Look where it is. I think it's pretty high.
+
+TRAVIS: Yeah, it's a d10.
+
+LAURA: Okay. All right.
+
+MATT: And what was the d6?
+
+LAURA: It was uh-- oh, a d6. I didn't--
+
+MATT: Yeah, as well with that one.
+
+LAURA: So that was a nine total.
+
+MATT: What's the lower of the two?
+
+LAURA: The lower of the two is a four. So it adds
+to eight.
+
+MATT: Right, as the bear-- is this you
+re-rolling?
+
+LAURA: Yeah.
+
+TRAVIS: Yeah, she wanted to re-roll the trait
+die.
+
+MATT: Okay, got you. And the six was a four?
+
+LAURA: Yes.
+
+MATT: Okay, so the bear, thinking that you're its
+mother and sees suddenly the fear, runs to your
+
+side and clings to you and in doing so disables
+your shot, and you have to go with the lower
+
+strike on that one.
+
+LAURA: Damn it!
+
+MATT: But you do get a black chip from that one.
+
+LAURA: Well, that's good. Hand it over.
+
+MATT: And the bear is heavily-- Blue chip to you
+Liam.
+
+LIAM: Oh my god, that was your boob.
+
+MARISHA: I'm great, it was my knee. My knee
+deflected.
+
+MATT: The bear is shaking against you and making
+it harder to shoot. The gun ricochets off the far
+
+back wall, sparking across the stone.
+
+LAURA: I'm pushing the bear off my leg.
+
+MATT: And you hear once again (creepy breathing).
+
+TRAVIS: I said that's supposed to be mine!
+
+MATT: Heavy breathing. I'll have you guys go ahead
+and each draw a card at random from your deck.
+
+LAURA: Oh jeez. Okay.
+
+LIAM: Shuffle one more time.
+
+LAURA: You're going to shuffle it?
+
+LIAM: Hey, question, way earlier in the game, as I
+shuffle my cards, you said that I gained two
+
+miracle points back. It's been a while. Do I, or
+do I not?
+
+MATT: You gain one more back, so you've gained
+three total of what you've used.
+
+LIAM: So, say that last bit again? Because I
+thought I was down to one, so if you're giving me
+
+one, now I have two?
+
+TRAVIS: Ladies first. Pick a card.
+
+MATT: You've cast three miracles, correct?
+
+LIAM: Oh Jesus, I don't know. I was marking it
+down and, before I asked you that question, I was
+
+at one point.
+
+MATT: How did you get one point? How much do your
+miracles cost?
+
+LIAM: I did a lot of shit, man! I thought it was
+two a miracle.
+
+MATT: It should say on them. Then yeah--
+
+LIAM: I healed a couple of people. I smited her
+bullets.
+
+MATT: Right. So that would be--
+
+LIAM: Three?
+
+MATT: Three uses. Four uses, but you've regained
+three. So you would have been at two, to five.
+
+LIAM: So I'm at five now?
+
+MATT: You're at five now.
+
+LIAM: Okay.
+
+LAURA: Wow. Did you pull a card?
+
+LIAM: I did not. I'm going to pull this one.
+
+LAURA: Oh Jesus, really?!
+
+MARISHA: Son of a bitch!
+
+LAURA: Do you see what just happened, with the
+three of these?
+
+MATT: Wow, that's great! Great! And what do you
+have Laura? A jack. Okay. First things first. As
+
+you were not quite fast enough--
+
+MARISHA: Can we use fate chips to redraw cards?
+
+MATT: Nope! (chuckles)
+
+MARISHA: Fucking fuck!
+
+MATT: This strange creature who's keeping in the
+shadows just outside your lantern-light, you hear
+
+the (rasping growl), and it lunges out at you, being
+the closest to it. It swoops out towards you. You
+
+can see it's bulbous, it's only about three feet
+tall in its size, but its larger head is
+
+awful-looking and it's just a terrible-looking
+thing, large saucers for its face. It strikes out
+
+towards you with two of its claws. I want you all
+to go ahead and roll a guts roll, by the way.
+
+LAURA: Guts roll. Oh, jeez.
+
+MATT: Minus one.
+
+LAURA: Man, come on. I'm rerolling, just in case.
+Oh, sorry, I should warn you.
+
+MATT: I'm going to reroll that.
+
+MARISHA: No. I'm going to spend a fate chip to
+counter your reroll.
+
+MATT: Okay. I'll use another one to reroll.
+
+TRAVIS: I'm going to add one to mine.
+
+LIAM: I'm adding.
+
+LAURA: All right, all right, I'm going to add one
+too. I'm going to use my blue and add it.
+
+MARISHA: Running out of fate chips.
+
+MATT: All right, so what do you got?
+
+MARISHA: Three on my guts.
+
+LIAM: Nine.
+
+TRAVIS: Five.
+
+LAURA: Eight.
+
+MATT: All right. You, everyone else has managed to
+take this back. You are finding yourself shaken
+
+from the perspective of this, and you're now
+holding the lantern. There's not much else you can
+
+do at this moment. When it comes to your turn,
+you'll have to see if you can reveal that.
+
+However, it does swipe out at you. That's going to
+be-- so, what is your parry?
+
+LAURA: Five.
+
+MATT: It rolled a six. It hits you, it strikes
+out. You go ahead and suffer, from that, that's
+
+going to be-- I'm going to go ahead and add a d6
+to that.
+
+MARISHA: What did you use?
+
+MATT: It was black. All right, that would be eight
+points of damage. What's your toughness?
+
+LAURA: Five.
+
+MATT: Five. You are shaken right now as it strikes
+out at you, and strikes its claw across your
+
+front. You manage to pull it off, and it just
+barely cuts the skin, but it's enough to freak you
+
+out at the moment. That ends its turn. And then
+you're up next, actually. At the top of your turn,
+
+go ahead and make a spirit check to try and regain
+your composure.
+
+DONATION PROMPT: All right!
+
+LAURA: All right, I will! Ooh, yes. Nine.
+
+MATT: Nine? All right. Black chip here. You shake
+it off, you're no longer shaken, but that's all
+
+you can really do this turn, as you go ahead and
+try and steady yourself and start going for your
+
+gun now to pull it out. I'll say you can pull your
+gun out for this turn as well. All right. The rest
+
+of you guys, now, you go ahead and see if you can
+make a spirit check to not be shaken.
+
+MARISHA: Just roll a d6? 2d6.
+
+MATT: It would be 2d6 for anything you roll as a
+trained check, so yeah.
+
+MARISHA: Ooh, six. Seven, total.
+
+MATT: So you're no longer shaken. That's the end
+of your turn. You guys, what do you want to do?
+
+TRAVIS: Go ahead, Father.
+
+LIAM: I want to stab this thing with my crucifix.
+
+MATT: Go for it. So go ahead and roll fighting.
+
+LIAM: Okay, so-- oh, I do have skill in that. So
+it's a d4 and a d6? Okay. Four and a four, and I'm
+
+going to give you a red-- no, I'm going to use a
+blue chip and add to that for eight.
+
+MATT: Eight, okay. Versus its-- all right, so two
+damage. It is now shaken.
+
+LIAM: You are not welcome here!
+
+MATT: As you slam it with the crucifix, (shrieks),
+it shrieks back in this high-pitched wail and begins to
+
+push back into the shadows away from you. But
+not far enough away to go ahead and give you a
+
+secondary melee attack against it, so it's right
+in your face, out of the line of the lantern. All
+
+right, that brings it to you, Travis.
+
+TRAVIS: I kneel down and I say, oh! Look, a
+weapon! And I pull out of my boot a bowie knife,
+
+and I would like to rush the creature.
+
+MATT: Go for it.
+
+LIAM: I really admire you.
+
+TRAVIS: Oh shit, what do I roll?
+
+MATT: This would be fighting.
+
+LIAM: (Sydney voice) There seems to be a railgun
+over here.
+
+TRAVIS: Nine.
+
+MATT: A d8. Has to be max die.
+
+TRAVIS: Oh, that's right, sorry. That was d6, for
+a four. So let me add--
+
+LAURA: That's a reroll.
+
+TRAVIS: Oh, fuck, balls, ass. Okay, well, let's
+try it. That was worse.
+
+MATT: Which of the two?
+
+TRAVIS: The six.
+
+MATT: Six. Six does hit. Go ahead and roll your
+damage. So 2d4 plus two.
+
+TRAVIS: One. Three. Five. A total of five.
+
+MATT: Toughness of six. You go ahead and strike
+with the dagger, and as you hit its hide, it scrapes
+
+in, but does not appear to leave a wound, its
+somewhat crackled, black, shadowy form absorbing
+
+most of the impact of the blow, and it turns and
+hisses at you, its horrible, small, baby-like
+
+mouth filled with layers of sharp teeth. All
+right, your turn back, we're back at the top of
+
+the round. It goes back. It's now going to lash
+out at you, Sydney. It's going to go ahead and
+
+make its strike at you. I'm going to go ahead and
+add six to that. That is-- that's going to be a
+
+ten. What's your parry?
+
+TRAVIS: Six.
+
+MATT: Six, okay. So it does hit you. It is not a
+raise, so it doesn't get the additional d6 damage.
+
+I will spend another blue chip to go ahead and add
+a d6 to the damage it's already doing.
+
+MARISHA: Blue chips, I don't have any blue chips
+to counter.
+
+MATT: All right, that's going to be 11. What's
+your toughness?
+
+TRAVIS: Five.
+
+MATT: Five, that is six points of damage to you,
+so that is considered a raise, so you actually are
+
+shaken and you take a wound. You are actually
+wounded. The creature leaps out and jams its claws
+
+into your side and bites into your throat. You
+freak out and push it back. It doesn't manage to
+
+pull anything free, but it does leave these giant
+bite marks on the side.
+
+TRAVIS: I'm leaking. (yelps) Please! Help me!
+
+MATT: All right, you're up, Stinky Jules.
+
+LAURA: All right. I want to shoot it a whole bunch
+of times. I'm going to fan my hammer.
+
+MATT: Okay. All right. So your gun's already out.
+You're going to go ahead and take all six rounds
+
+on it, at minus two.
+
+LAURA: Yeah, let's do it. I have no idea how
+that--
+
+MATT: Make your shooting roll six times, minus two
+for each roll.
+
+LAURA: Okay, so that's just a six?
+
+MATT: Whatever your shooting is. Shooting is a
+d10. You're really good at shooting.
+
+MARISHA: Hey, that's good! Same thing, yeah, do
+it. Nice!
+
+LAURA: Or wait, I'm going to reroll the third one.
+So I got eight on the first two, so that's six for
+
+the first two, and then I'm going to reroll the
+third.
+
+MATT: They both hit, all right.
+
+LAURA: That's five on the third hit.
+
+MATT: Okay, roll the next three.
+
+LAURA: I'm rerolling this one. Four on the fourth.
+Six on the fifth. Rerolling on the sixth one.
+
+Sorry. Oh shit, off the table. And six on the last
+one.
+
+MATT: You guys watch as there's a series of
+flashes in the center of this room as Stinky Jules
+
+unloads an entire fully loaded gun into this
+creature. Go ahead and roll damage for each of them.
+
+LAURA: Oh my gosh. So did I hit every single
+time?
+
+MATT: Every single one hit. So roll 2d6 for the
+first shot.
+
+LIAM: Jeepers.
+
+LAURA: Six plus one is seven for the first.
+
+MATT: All right, so it is-- all right, next one.
+
+LAURA: Seven for the second.
+
+MATT: All right, next one.
+
+LAURA: Ooh! (gasps) 19. Oh my gosh. 24 on the
+next.
+
+MATT: So before you get to the rest of the shots,
+you, just screaming, echoing, you unload as this
+
+creature turns around and its face gets shredded
+by a hail of bullets from your gun. As it slumps
+
+to the ground and turns to ash and shadow before
+dissipating with a (sizzling) sound, you're still--
+
+LIAM: Ease down. Ease down. It's dead.
+
+LAURA: What the fuck was that thing? What's up,
+Lucas?
+
+MATT: We have ten minutes left on this game to go
+ahead and get to $70,000, guys.
+
+LAURA: How close are we?
+
+MATT: How close are we?
+
+OFF-SCREEN: We're at about $68,000.
+
+TRAVIS: $68,000, just $2,000 away!
+
+MATT: All right, so.
+
+LAURA: I used so many of my chips on that one!
+
+OFF-SCREEN: We're only at $67,000.
+
+LAURA: Oh, $67,000.
+
+MATT: So, after the creature's down, you spend a
+while searching the mine. Nothing else of this
+
+type seems to be down here. As you make your way
+outside of the mine, you glance and see what looks
+
+to be in the distance about four individuals
+running away who seem to have been tracking you.
+
+You see them run towards a distant place, into the
+shadows--
+
+MARISHA: How far away are they?
+
+MATT: About, at this point? 200 feet or so.
+
+MARISHA: Still far enough away to where I can
+shout at them?
+
+MATT: It's up to you.
+
+MARISHA: Sudis will shout, if you run, only death
+will come and find you, and I'm going to attempt
+
+to try and shaken them.
+
+MATT: Okay, go ahead and make a persuasion roll.
+
+LAURA: I'm going to reload my gun while we're
+leaving the place.
+
+LIAM: I'm going to bless her bullets.
+
+MARISHA: Ooh, I rolled an eight with a five, so
+that's 13 plus two. 15.
+
+MATT: All righty. You watch as most of them run
+away and one gentleman stops and turns around.
+
+"Death? I don't want death to follow me!" At which
+point, suddenly, you watch as a large cougar leaps
+
+out and just tears his throat out and starts
+chewing into his corpse.
+
+LIAM: How did you do that?
+
+MARISHA: I told you. I told you.
+
+LAURA: A large cougar?
+
+TRAVIS: That's a big fucking cat.
+
+LAURA: Should we shoot it?
+
+MATT: It's large for a cougar, but it's not quite
+what you were looking for.
+
+LAURA: Okay, all right.
+
+TRAVIS: I mean, there are three of them left,
+right?
+
+MATT: But they've all run into the forest. You
+guys have options now. You have some silver at
+
+your disposal. You have-- hmm, okay. You have
+silver at your disposal, you know some entity's
+
+out there right now. What are you going to do?
+
+LAURA: Find the fucking entity. We should kill it.
+We should kill it while we're on the hunt, I mean,
+
+we're ahead of it.
+
+LIAM: Right, but that thing you just killed,
+that's not what we were following. We need to
+
+press on.
+
+LAURA: Right, but we can find-- what?
+
+MARISHA: Should we chase after people who were
+following us? Or should we maybe check other
+
+silver mines?
+
+TRAVIS: (low voice) I think-- (normal voice) I
+think we kill the motherfuckers. We chase them down.
+
+MARISHA: The accent's already rubbing off on you.
+
+TRAVIS: I'm sorry. I'm losing quite a bit of
+blood. Reverend, if you would be so kind.
+
+LIAM: It's going to take me a couple of minutes.
+
+LAURA: Can I walk up to him and just punch him in
+the gut?
+
+MATT: Sure.
+
+TRAVIS: (grunts) (low voice) You fucking bitch!
+And I hit her back.
+
+MATT: Smack across the face. You feel the pain and
+sting on the side of your cheek.
+
+LAURA: What the fuck are you?
+
+TRAVIS: I'm terribly sorry, I have quite the
+temper.
+
+LAURA: What's going on with you?
+
+TRAVIS: I'm bleeding from the throat.
+
+DONATION PROMPT: All right!
+
+(laughter)
+
+TRAVIS: Please--
+
+LAURA: Are you the monster we're looking for? I
+take out the silver and I push it on this face.
+
+MATT: It does nothing.
+
+LAURA: I take it and I push it on his hand.
+
+TRAVIS: Besides the pressure, it's doing nothing,
+my dear.
+
+MATT: You watch, at this point, as stepping out of
+the sunlight you see E.B. Farnum walking out with
+
+his hat. He goes, "They're right there." And he
+turns away to the side, and you see stepping out
+
+as well the gentleman Simon you met earlier and a
+few other individuals. You see, holding a couple
+
+of guns trained on you, standing in the center, Cy
+Tolliver. You see him step out. His outfit is
+
+shredded. He's like, "If you guys had all just
+decided to not go poking where it didn't belong--"
+
+LIAM: We can handle this peacefully! Stinky, put
+your gun down. And I bless her bullets.
+
+MATT: All right. Go ahead and make a faith check.
+
+We just hit $70,000, guys.
+
+(cheering)
+
+LAURA: Good job, guys!
+
+LIAM: I'm going to add to that with a red, so it's
+six plus two is eight.
+
+MATT: Eight. That is a single raise, so you do
+plus four damage for the next three rounds.
+
+LAURA: Awesome!
+
+MATT: All right. We shall see now at this point.
+So, at this point, I want you guys all to pick a
+
+card, see where you're at.
+
+TRAVIS: Don't even need to shuffle it.
+
+LAURA: I'm going to choose the one second to the
+left. Oh, he's shuffling, I saw the king.
+
+LIAM: This one's the good one on top. Five of
+clubs.
+
+LAURA: Did we get a straight? What'd you get?
+
+TRAVIS: Nine.
+
+MARISHA: Four.
+
+LAURA: Aw, so close.
+
+LIAM: Mediocre as hell.
+
+MATT: Immediately, at the top of this round, you
+have the nine. You watch as, as you're preparing
+
+yourself for this moment, Cy hits the ground on
+all fours, shirt begins to tear, his fur bursts
+
+out of his back, and all of a sudden his mouth
+extends, teeth and it seems like an endless supply
+
+of saliva dripping onto the ground. (roars) You're
+up first.
+
+TRAVIS: Well, once more into the (deep voice)
+fucking breach. I throw both bowie knives that I
+
+have in my sleeves, and I tear after him, just run
+at him, both knives out.
+
+MATT: You get right into his area. Go ahead and
+roll. Are you going to attack with both of them?
+
+So two attacks at minus two each.
+
+LIAM: You're still skinny as fuck, though, right?
+(high-pitched battle cry)
+
+TRAVIS: Matt, I'm going to reroll this one. I'll
+leave that there. Okay, so that's six. And I would
+
+like to add a blue chip.
+
+MATT: Okay, here, have one back. Everybody gets a
+blue chip.
+
+(cheering)
+
+MARISHA: Yeah, to whoever did that.
+
+LAURA: Thanks, guys!
+
+TRAVIS: Can I add more than one chip to a roll?
+
+MATT: For right now? Sure.
+
+TRAVIS: I can send it back.
+
+MATT: Blue chip to Marisha and a red chip to
+Travis.
+
+TRAVIS: So that's 16 total.
+
+MATT: One of each to Marisha.
+
+LIAM: Opa, opa, opa.
+
+MATT: Travis, what are you doing? 16 total for the
+first hit? Okay.
+
+TRAVIS: Well, actually, I thought I was just doing
+one, so. Hey, I guess I did all that on the first hit.
+
+MATT: So that definitely hits. Go ahead and roll
+damage with an additional d6.
+
+TRAVIS: Okay, an additional d6. Six. Ten.
+
+MATT: Ten. All righty. You go ahead and strike
+down with the blade, jamming it across the front
+
+of the werewolf's form. It roars, you can see the
+exposed wound in itself. It seems to be taken
+
+aback and shaken, but nothing directly beyond
+that.
+
+TRAVIS: My second bowie knife.
+
+MATT: Go for it. The small bear named Trinket, by
+the way, just begins to slowly hump your leg,
+
+distracting you momentarily.
+
+LAURA: What? Why the fuck?
+
+TRAVIS: That was a five. That's nine.
+
+MATT: Nine. Black chip to Laura. Inspired,
+apparently, by the small bear coming to
+
+adolescence. That hits. Go ahead and roll damage.
+
+TRAVIS: I'm going to reroll that. That was short.
+I can't believe I shorted it. That was even worse.
+
+That was a one.
+
+MATT: Total one. With the plus two?
+
+TRAVIS: Oh, with the plus two is three.
+
+MATT: Three. This one strikes through. Does
+nothing. You can see it hits the flesh and tears
+
+across, not able to pierce the outside of this
+hardened werewolf exterior. All right, ending your
+
+turn, anyone have five or lower?
+
+LIAM: I had a five.
+
+MATT: All right, you and the wolf go at the same
+time.
+
+LAURA: Did Trinket humping me make me not get to
+go?
+
+MATT: Oh, you had an eight. Okay, sorry, so you're
+going next.
+
+LAURA: Hah! I want to shoot it. I'm going to shoot
+the werewolf bear creature. All right.
+
+LIAM: You fucking smell like balls.
+
+LAURA: I do. I'm going to fan my hammer again,
+man. I'm going to reroll the first one.
+
+LIAM: They're blessed, they're blessed! Plus four
+to--
+
+LAURA: That's seven. Oh, so three on the first
+hit, which probably doesn't hit.
+
+MATT: Three misses.
+
+LAURA: Ooh, that's good.
+
+MARISHA: Big money, no whammies, yeah! Go, Laura,
+go!
+
+LAURA: So eight, eight, nine on the next ones.
+Nine on the one after that, so I've got one more.
+
+Nine-- no, that's a six, damn it.
+
+MATT: Five hit.
+
+LAURA: Okay. All right.
+
+LIAM: Plus four on the damage.
+
+DONATION PROMPT: All right!
+
+LIAM: That's what I said.
+
+LAURA: 12 plus five is 17, plus five, actually. 17
+plus five is 22 on the first one. 11 on the second
+
+one. 11 on the third. 18 on the next one. Oh my
+god. 15, no, 17 on the next one. Do I get one more
+
+hit? Eight on the last one.
+
+MATT: All right. You unload, bullets blasting into
+the werewolf's body. You see it seems like almost
+
+none of the wounds have slowed it down.
+
+LAURA: Oh my god. I'm going to reload.
+
+MATT: You reload your weapon with your quick
+reload. All right, ending your turn, now it's your go.
+
+LAURA: I'm going to back away from it, too.
+
+LIAM: I want to bless the crucifix that I'm
+holding and attack, which I can do, right? Does
+
+that work?
+
+MATT: Yeah. It'll be minus two to your attacks.
+That's to Marisha, actually.
+
+LAURA: Damn, Marisha.
+
+MARISHA: Are we trying to end the game at one
+minute?
+
+LIAM: So five is what I roll for
+that--
+
+LAURA: Wait, we don't get to finish the game?
+
+MATT: We'll finish it, don't worry.
+
+LIAM: All right, eight on the faith. And then the
+attack is what gets gunked, right? Four minus two,
+
+plus four, so six for the stab to the eye.
+
+MATT: You swing, and it actually grabs your hand,
+catches it in the air, pulls you right in towards
+
+its jaws. What are you doing?
+
+MARISHA: I'm going to start walking up to it, and
+I'm going to say, tonight is the night that you
+
+die, and I'm going to attempt to shaken it with my
+persuasion thing.
+
+LIAM: (hiccups)
+
+MARISHA: Because I have it, this I get to just add
+a d6 to the roll, right? Fucking fuck. Ooh, 11
+
+plus another five, so that's 16.
+
+MATT: 16, okay. As you say this to the wolf, who's
+holding the preacher in his face, it appears to be
+
+still in the same shaken state that it was
+previously, its eyes darting around.
+
+MARISHA: How far away am I from it?
+
+MATT: You're about 30 feet.
+
+MARISHA: Can I walk up to it and make it?
+
+MATT: What's your speed?
+
+MARISHA: 20 paces.
+
+MATT: Nope. Peg leg. You're getting closer, but not close
+enough.
+
+MARISHA: You're going to die.
+
+MATT: As you finish that, E.B. Farnum pulls out his
+gun, with the other two guys who have their
+
+pistols ready, and they unload upon you guys.
+
+LAURA: Oh shit. Is there anything to duck behind?
+Probably should've done that.
+
+MATT: Okay. That's a hit to you from E.B., who
+says, "I like my hat better!" That's going to be
+
+an eight. Nine. What's your toughness?
+
+TRAVIS: Five.
+
+MATT: Yeah, so that's going to be four over.
+That's a raise. You take a wound, which you
+
+haven't been healed since the last one, have you?
+So you're now at two wounds. Oh wait, that was a
+
+raise, 'cause you were already shaken, so that's
+three wounds. You go right down. You just get shot
+
+in the chest and fall to the ground, and you're
+bleeding out now.
+
+TRAVIS: (deep voice) Well, ain't that some fucking
+shit.
+
+MATT: The two other gunmen go ahead and start
+firing at you and you, being the scariest ones at
+
+that. That's going to be, yeah, with the range
+here. You get hit, and you, I'm going to go ahead
+
+and add six to that.
+
+MARISHA: No, you're not!
+
+LIAM: Uncanny Dodge.
+
+MARISHA: No.
+
+MATT: Okay. Add another six to that.
+
+MARISHA: That a red? Is not in the cards for you,
+my friend.
+
+TRAVIS: Or we could get a good ending.
+
+MATT: So the other shot towards you does not hit
+you. You, however, do suffer-- that's going to be
+
+14 points of damage. What's your toughness?
+
+MARISHA: Four.
+
+MATT: Yeah, so you're shaken and you take a wound.
+You now see Simon from earlier pulls out a deck of
+
+cards before him, and you see this sparkle of
+bluish energy across his fingers as he goes ahead
+
+and attempts to release a torrent of beams.
+
+LAURA: I think you suffer two wounds.
+
+MARISHA: Two wounds or just one wound?
+
+TRAVIS: Two wounds, because you went ten over.
+
+LAURA: Yeah, she went ten over.
+
+MATT: Oh yeah. You were already shaken before,
+weren't you?
+
+MARISHA: No. I shook it off.
+
+MATT: Shaken and then a wound. You're fine.
+However, each of you guys. Hits, hits, you're
+
+already on the ground. Each of you guys-- what are
+your toughnesses?
+
+LAURA: Five.
+
+MARISHA: This is Simon doing this? Is he shaken,
+though?
+
+MATT: Simon wasn't shaken. The werewolf is.
+
+LIAM: Bring us home, Marshal, bring us home.
+
+MATT: So that's going to be a second wound for
+you. That's going to be six. What's your
+
+toughness? Five. So you are shaken, now. Against
+you, that's going to be six. What's your toughness?
+
+LAURA: Five.
+
+MATT: You're already shaken? You are shaken now.
+So, given the circumstances, as they are, you have
+
+no silver weapons and no silver bullets. The fight
+presses on for a few more minutes as you all do
+
+the best you can to combat this overwhelming
+source, but the perpetual spray of bullets in your
+
+direction eventually puts most of you onto the
+ground. And as the wolf tears into your face,
+
+Stinky Jules, you scream out as the jaws of Cy
+Tolliver, now extended into white and bloodied
+
+fangs, rips the face from your body, taking out
+your jugular. You freak out, E.B. Farnum manages
+
+to get a crack shot that takes off the top half of
+your head. You--
+
+LIAM: Thank you, Lord, for letting me sleep with
+two women and a man.
+
+(laughter)
+
+MATT: You hear a familiar voice in the back of
+your head go, "Yes. You followed the right path."
+
+And you feel this crackling of flames over your
+shoulders before-- as now you realize that this
+
+voice indeed was not leading you down the right
+way.
+
+LIAM: No shit.
+
+LAURA: What about Trinket? Is he alive?
+
+MATT: Trinket's over your body now as the werewolf
+has let it alone.
+
+LAURA: Humping?
+
+MATT: And is just humping your knee as you bleed
+out. It's horrible. Time limits.
+
+LIAM: Wait, flames on my back? What?
+
+MATT: You feel flames on your back, knowing that
+this entity that's been whispering into your
+
+head is not from your deity. However, the werewolf
+walks over, grabs you by the arm, and lifts you
+
+back onto your feet. Turns back toward you, the
+preacher, and goes, "Do what you're meant to do.
+
+"Cy commands it." You watch as the visage of the
+fantastic Sydney dissipates, and in his place, now
+
+standing before you instead, is a humanoid
+cat-like tiger creature with two backwards hands.
+
+(laughter)
+
+LIAM: Thanks, chat!
+
+MARISHA: Thanks, chat. Thank you for that.
+
+TRAVIS: Oh, I hated that fucking accent anyway. I
+want to see what you look like on the inside. And
+
+I shove a blade right under his belly button and
+open him up from bottom to top.
+
+MATT: You pray as hard as you can to your deity,
+but the pain is too hard, but you can't help but
+
+scream out in horrible agony as you are gutted
+like a fish--
+
+LIAM: We call him Jesus, but.
+
+(laughter)
+
+MATT: Yeah, there are multiple deities in this
+world.
+
+LIAM: Hey, there's one god, clearly one god,
+clearly.
+
+MATT: And he's helped you a lot tonight. As you
+are gutted in the full moonlight, you hear the
+
+chuckle of Cy Tolliver with his somewhat nervous
+allies, evening falling darker still on the future
+
+of Deadwood here, amongst the reckoning. You guys
+got wrecked.
+
+TRAVIS: Yeah, Deadlands!
+
+(cheering)
+
+TRAVIS: I'm alive! Murdering another day.
+
+LIAM: R-E-K-T, rekt.
+
+MATT: That was rough. Yeah, going after it without
+the silver bullets or using the silver to armor
+
+up, there was no way.
+
+LAURA: We didn't have time for it.
+
+LIAM: Where's the silver bullets? We don't got a
+smelting machine.
+
+MATT: Somebody to smelt it.
+
+MARISHA: Well, we only had five minutes left in
+the stream.
+
+TRAVIS: Oh, excuses, excuses, dead people.
+
+LAURA: Man. That was a fun game. What did we get
+to?
+
+OFF-SCREEN: Over $71,000.
+
+(cheering)
+
+OFF-SCREEN: We still have a little bit more stream
+going, just to end it off, so looking like if we
+
+get to $75,000, should we still give them the
+75,000 goals that we had, including the--
+
+TRAVIS: Absolutely. Yeah, 100%.
+
+OFF-SCREEN: And they can commemorate this chat,
+because these are still available.
+
+MATT: You guys did an amazing job. Thank you so
+much for tuning into this absolute chaos and adding to it.
+
+MARISHA: And 100% of the proceeds from those
+shirts are going to the MDA.
+
+LIAM: Thank you for donating. Thank you.
+
+LAURA: You guys are amazing. Thanks for all the
+chips.
+
+MARISHA: I wish I had a few more minutes to wreak
+havoc.
+
+LAURA: I know, right?
+
+MARISHA: Just a few more is all I needed.
+
+MATT: You know what, you saved a few people in
+town. They'll probably inevitably be destroyed by
+
+the incursion of Cy Tolliver--
+
+LAURA: Eventually, yeah.
+
+MARISHA: That was fun.
+
+MATT: This is a lot of spoilers for the Deadwood
+movie coming up, by the way. They have to compete
+
+with Supernatural and Walking Dead, so they're
+just throwing werewolves in.
+
+LAURA: My throat hurts from talking like Stinky
+Jules the whole time. All right!
+
+TRAVIS: Caught what she caught, huh?
+
+MARISHA: What's happening now?
+
+MATT: Nice, that's fantastic. You guys have raised
+such an incredible amount of money. Thank you so
+
+much for tuning in and being so generous and
+helping this amazing cause. We're going to go
+
+ahead and prep you guys for the next bit of
+entertainment closing up the rest of this charity
+
+stream. See if we can hit that 75k goal. That
+would be incredible. Thank you for making my first
+
+foray into the chaos of Savage Worlds what it was,
+though I'm pretty sure it usually doesn't involve
+
+so many fate chips and a lot of-- there was a lot
+of intrigue we didn't hear that just got thrown
+
+out the window as soon as shit started happening.
+That's okay. That's the nature of these wonderful
+
+games. Guys, thank you so much. We're going to go
+ahead and clean up here and prepare for your next
+
+performance, and yeah. We'll see you guys-- you'll
+see these guys this coming Thursday, and me and
+
+Marisha will see you the following Thursday for
+the next episode of Critical Role. Lots of love, guys.
+
+TRAVIS: Thank you!
