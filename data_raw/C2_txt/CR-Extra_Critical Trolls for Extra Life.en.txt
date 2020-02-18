@@ -1,0 +1,6482 @@
+MATT: Welcome, everyone, to a kind of Critical
+Role. (laughs) Critical Rejects, and/or the
+
+delightful return of some interesting characters
+and some fresh faces you'll see here in a second.
+
+Tonight, as part of the Extra Life Charity Stream,
+we're going to be running a one-shot game,
+
+continuing the current crazed adventures of the
+illustrious Vox Moronica. (laughs) It should be
+
+some interesting fun in that regard. Let's see, I
+don't think we have much else to announce, other
+
+than we're going for our next goal at 60,000.
+
+ZAC: If we hit it, Felicia has promised to come do
+a Rock Band concert for us.
+
+MATT: Felicia is going to do a Rock Band concert
+if we hit 60k tonight. I'm vying to maybe be the
+
+drummer for that, because I'm pretty good at
+drums, and by that I mean I'll destroy them. Good
+
+or bad, you'll find out, but let's see if we hit
+60k. Felicia will do that, it would be awesome.
+
+You guys have already been fantastic, blowing
+through the goals as we have, so we'll see how
+
+much this momentum of positive awesomeness we can
+carry through to the end of the stream tonight.
+
+And as part of that, let's go ahead and bring ourselves
+into the mood for some Critical Rejects.
+
+[dramatic music]
+
+MATT: Okay. Welcome. For those who weren't here
+for the initial, completely improvised
+
+introduction of Vox Moronica, these wonderful
+characters, we have Dan Casey here who plays Salty
+
+Pete. If you want to give a brief little
+description of your character and what you're about.
+
+DAN: For those who don't know, I'm a pirate. Well,
+formerly a pirate. My name's Salty Pete, some call
+
+me Sam, Money Sam if you're this guy over here.
+And I am trying to get my ship back. I lost it in
+
+a bet. I play for pink slips, and I'm missing a
+few fingers, which you may remember from our
+
+previous adventure. They were unceremoniously cut
+off. Classic, I know. Classic times. That's me in
+
+a nutshell.
+
+MATT: Fantastic.
+
+DAN: This is me in a mimed nutshell. I'll be here
+all night.
+
+MATT: All right, and following that up, we have in
+the center over here the illustrious Snugglelord,
+
+if you want to go ahead and give us a rundown of
+what you're all about.
+
+ZAC: Well, you can call me Snugglelord.
+
+DAN: (laughs) He just did!
+
+ZAC: Damn it! That was my intro. I'm a warlock
+tiefling who used to be the prince of a land, and
+
+I impregnated all the impregnable, and I got
+bored, and given the strong word of my wonderful
+
+and empowering leader, the Shathrum-- my god, per
+se-- I decided to leave and go on a great journey
+
+to find these riches that the Shathrum had
+promised me. And that's when I picked up these
+
+dum-dums and paid them to be my personal
+bodyguards because I don't like to mess with the
+
+riff-raff and things like that.
+
+MATT: Fantastic. That is our illustrious
+Snugglelord. And to his left we have, returning,
+
+the wondrous, talented, and very forceful
+personality--
+
+IFY: Ulfgar Fireforge, baby. Money talks, bullshit
+walks. Ex-pit fighter, now I'm a sellsword. Bring
+
+the money to the table and Imma take it and Imma
+do whatever you need me to do. Whatever, no
+
+questions asked, just put the money on the table, and
+we'll discuss the details after that. But keep it
+
+coming. Yeah!
+
+MATT: That's Ulfgar. All righty. On the other
+table we have three-- well, characters in a bit.
+
+We'll get to the introductions when they become
+part of the story, but for now we have three of
+
+our talented members of Vox Machina, and the
+regular Critical Role crew will be jumping into
+
+some new characters tonight that will be unveiled
+later. Go ahead and introduce yourselves real fast.
+
+MARISHA: Our characters or ourselves?
+
+MATT: No, just yourselves.
+
+MARISHA: Oh, hello, I'm Marisha Ray, and you can
+catch us on Critical Role on Thursday nights, and
+
+I'm a voice actor, and actor, and host, and all
+that stuff, and today I'm playing D&D.
+
+MATT: Rocking.
+
+LIAM: Hi, I'm Liam O'Brien.
+
+ORION: Hi, Liam O'Brien is an amazing voice actor.
+He's done a lot of amazing things in a lot of
+
+amazing projects.
+
+LIAM: Aww.
+
+ORION: I'm DBM and your mind will be blown. I'm
+Orion Acaba, who is far less impressive, but also
+
+awesome. I'm a voice actor, also on Critical Role,
+who-- I was in Final Fantasy, okay?
+
+MATT: Thank you. Awesome. Great introductions, all
+right. I do want to talk about the donation aspect
+
+of tonight's game, or has that already been
+established?
+
+ZAC: The chat--The Shathrum is informing itself?
+Yes. They are aware if they look in the Shathrum
+
+for the "moderators" of the spoken word of thy
+lord. I don't even know how to spin this. If you
+
+donate 500 dollars, a message may appear that
+could affect the outcome of the game.
+
+IFY: Ayo, I just got that play on words. That's a
+real good play on words now that I figured it out.
+
+In my head. I'm on board.
+
+DAN: Classic moderators. Clerics. This fucking
+guy.
+
+MATT: And on that note, let's go ahead and jump in
+and begin tonight's game. So... Salty Pete.
+
+Actually, the Snugglelord I believe has a custom
+miniature. Is that in the studio at the moment?
+
+ZAC: Oh, the miniature? Oh my god, I forgot it.
+You know, I was here a little late last night and
+
+didn't bring it like an idiot. I'm never going to
+hear the end of it now.
+
+MATT: That's okay. We'll use this for you in the
+meantime, but--
+
+ZAC: Okay, thank you.
+
+DAN: But if we get to 70,000 he will leave the
+studio. He will go home, get it, come back.
+
+MATT: That's okay. You'll only hear about it on
+Twitter. So. To begin. Salty Pete, Snugglelord,
+
+and Ulfgar, having done some dubious, yet
+strangely publically lauded deeds in the recent
+
+months, enjoyed a small period of fleeting coin
+surplus where they drank and gambled away most of
+
+their hard-earned bounties. This period of hard
+luck, almost seemingly brought on by the mildly
+
+antagonistic scoundrel Shendo McCree, has you
+nearing doing far dirtier work than you were used
+
+to, which, that'd be quite dirty based on your
+past history.
+
+ZAC: I seem to have forgotten what some of those
+things were. Could you elaborate a little bit? How
+
+dirty are we talking here?
+
+MATT: Well, things you've done in the past
+involved, from what the public knows, saving a
+
+small village from a poisonous arcane sand golem
+and some artefact beneath. On the outside and not
+
+known so well, you burned half the village down,
+you nearly threatened to kill the few survivors
+
+that were there, and took what little bit of gold
+remained in the pockets of those completely
+
+distraught villagers.
+
+DAN: But we did save that woman from the house.
+
+MATT: You did. You did. You're right, I take it
+back. However. Currently ailing from the immediate
+
+lack of funds, you sit about the raucous,
+alcohol-misted tavern known as Verian's Beer Den,
+
+drinking what remains from the inside of your coin
+purses, and currently discussing amongst
+
+yourselves how the hell to pull yourselves out of
+this looming debt.
+
+DAN: How are we going to pull ourselves out of
+this looming debt?
+
+(laughter)
+
+DAN: It's just looming!
+
+ZAC: Well, if you had done what I had asked you to
+do, which is to communicate with these peasants
+
+and possibly find us some good bounty work, or at
+least something--
+
+DAN: No one wants to talk to a man with seven
+fingers. No one!
+
+ZAC: Valid point. How about-- Will you tape on
+another finger, maybe, perchance?
+
+DAN: Ah, yeah, that's not suspicious at all.
+
+IFY: I mean, if you want this finger I'm still
+wearing around my neck, I mean, you can have it
+
+back, but...
+
+DAN: No. It looks good. It completes the outfit.
+
+IFY: Thank you.
+
+MATT: All right. If I could have you guys all roll
+a perception check real fast. Go ahead and roll a
+
+d20, add your perception skill to the d20 roll.
+
+DAN: Nine.
+
+IFY: 21.
+
+DAN: Very perceptive!
+
+MATT: Snugglelord.
+
+DAN: Perception is right here. That is three.
+
+ZAC: 19.
+
+MATT: 19. Okay. While Salty Pete is currently
+staring at the lowly stumps of what used to be his
+
+digits on one hand, the two of you notice on the
+far side of the bar, a young girl, maybe 16 or so,
+
+rushes into the tavern from the back with a hooded
+cloak covering most of her features. She runs over
+
+to the tavern owner behind the bar, a rather
+robust-looking gentleman in his mid-30s, big
+
+square chin, Gaston in appearance, and a bit of
+swagger to how he runs this establishment. This
+
+being the Verian character. She runs up to him and
+hands him a piece of parchment, talking to him for
+
+a bit. You can't make out the actual speech, and
+they're too far to make out what the lips are
+
+saying, but she hands him the parchment and they
+speak for a bit. Verian then reaches down and
+
+hands her a little bit of gold. Ulfgar, you
+recognize the amount of gold passed over, as you
+
+are very tuned in to the presence of gold.
+
+(laughter)
+
+MATT: Five gold pieces have been passed on to this
+young girl. She immediately nods, pulls her hood
+
+up even closer, and darts back out the door she
+entered from.
+
+MARISHA: She was just getting a dime bag. It's
+fine.
+
+ZAC: Were you checking out an underage woman, or
+was something else going on in that situation?
+
+IFY: No, silly, I was checking out that gold over
+there, man. I don't care about women. Just gold.
+
+ZAC: What gold are you speaking of?
+
+IFY: There's some gold in that pouch that she gave
+to him. Now, I'm about to go over there and I'm
+
+going to seduce him.
+
+ZAC: Carry on. Go for it.
+
+IFY: Hey there. I feel like two beefy dudes like
+me and you can really share some gold and some
+
+good times together. What do you think?
+
+MATT: As you approach Verian at the bar and say
+this to him, Verian looks at you with a quizzical
+
+expression and goes, "Well... I don't mean to tell
+you one way or the other, but I am first off very
+
+"confused, but mildly blushing at this offer you've
+given me. But, strangely enough, you walk with
+
+"those two at the table you were just at, I assume,
+yes?"
+
+IFY: Yeah, yeah, yeah.
+
+MATT: "All right, well, Snuggleface as well. Come
+this way. It appears I have a notice for the three
+
+"of you, and I would like to share this
+information."
+
+ZAC: Wait, wait, wait, hold up. On us?
+
+MATT: "Yes. It's requested right here."
+
+ZAC: Is it... notice or wanted papers?
+
+MATT: "Well. That is information that comes with a
+price in this place. Understood, information is
+
+"expensive, and I paid quite a sum to be the
+messenger. It's the way the work is done, my friend."
+
+IFY: Yeah, I see, I see. But you also look so
+stressed. Maybe I can massage you up, you know.
+
+These fighter hands are mighty strong, and I could
+really get those kinks out.
+
+MATT: Go ahead and make a persuasion roll.
+
+(laughter)
+
+LIAM: Give that man advantage.
+
+(laughter)
+
+IFY: 13.
+
+DAN: Minus one?
+
+(laughter)
+
+MATT: He goes, "A tempting offer, based on the
+knots that have been acquired over many years of
+
+"hard labor behind this bar, but I think, as you
+would respect, money talks..."
+
+IFY: Bullshit walks. I like this guy. This guy is
+like me! He knows what I'm talking about. Yeah.
+
+ZAC: Listen, how about you just tell me what's on
+the fucking sheet you have right there. Right now.
+
+DAN: Ah, straight shooter.
+
+MATT: "For what? I fail to see, despite your
+somewhat demonic appearance, the soft, cuddly
+
+"exterior of the clothing you wear, I have not
+this-- you stare at me with such darkness. I am
+
+"confused by this."
+
+ZAC: These two here, these two assholes that I
+employ, are at my bidding. They may be stupid but
+
+they punch hard.
+
+IFY: Actually, at the current time, he has way
+more money than you, and I'm liable to fight for
+
+his sake and his body.
+
+DAN: Listen. For the sake of hypothetical.
+
+ZAC: Next time we're going to-- Can we step away
+from the man I'm trying to intimidate, and we
+
+discuss this as a group?
+
+DAN: Well, maybe you can loop us in next time
+instead of being like oh, they're so stupid. They
+
+don't get it. They've got feelings.
+
+IFY: I know, seriously! I'm over here having a
+good flirt session. You guys, coming up here--
+
+ZAC: That was going nowhere!
+
+MATT: Snugglelord. Make an intimidation check with
+disadvantage.
+
+(laughter)
+
+ZAC: With disadvantage?
+
+MATT: Yes. Roll twice and take the lower.
+
+(laughter)
+
+IFY: Might as well just say it, it's...
+
+DAN: It's going to go just like earlier.
+
+(laughter)
+
+MATT: Verian crosses his arms, clutching the
+parchment in his hand, and goes, "Hah. That was
+
+"adorable. But no, seriously. 15 gold."
+
+IFY: God! That's a lot of money, man.
+
+MATT: "So is the promises this parchment provides.
+It looks very informative. Eh?"
+
+DAN: Can I try to use sleight of hand to replace
+it with a piece of paper in my bag?
+
+(laughter)
+
+DAN: Close up magic!
+
+MATT: Go for it? With disadvantage. It's going to be
+a hard one.
+
+ORION: Do it. Double 20's.
+
+IFY: That is a 20. That's a natural--
+
+DAN: Hold on, let me see if that is a 20. Oh, that
+was a 20.
+
+MARISHA: Roll again and hope it's another 20.
+
+IFY: Oh!
+
+DAN: Hold on. 13.
+
+(laughter)
+
+MATT: As your hand slides across the front of the
+bar, your finger touches the edge of the
+
+parchment. You wink and point with your-- most
+fingers in the direction. And he glances briefly,
+
+and as you give a slight tug you feel his meaty
+hand slap onto your wrist, and slowly pull
+
+back your hand. His glance comes back towards
+yours, meeting your gaze, and goes, "It is now 20
+
+"gold, my friend."
+
+DAN: Aww, you got me there.
+
+IFY: I go ahead and take this opportunity to rest
+my hand on his hand and say, we can work this out,
+
+my friend. We got something here for both of us.
+
+(laughter)
+
+CHAT ROOM: Small street urchin boy runs by and
+steals paper.
+
+DAN: What?!
+
+MATT: Suddenly, the paper is snatched out from
+Verian's hand, the influence of the dark deity
+
+somehow pushing fate along. This child that
+shouldn't have even been in this tavern from the
+
+get-go, is just small enough to stay out of sight.
+Runs off going (laughs), clutching the paper in
+
+his hand, out the back door.
+
+ZAC: Let's chase him. This is our chance. He has
+to hold to the business, we can go after him.
+
+IFY: You guys chase him, I'll hold it down over
+here.
+
+ZAC: You are not sleeping with this man! There is 
+another opportunity, later, later, let's get the child, go!
+
+DAN: It takes three of us to catch one orphan.
+
+ZAC: Well, yes, obviously in this situation.
+
+(laughter)
+
+IFY: All right.
+
+DAN: Let's go.
+
+IFY: Let's do it!
+
+MATT: All right, you guys charge out into the
+night air, looking across both sides. Everyone
+
+make a perception check real fast to see if you
+can ascertain which direction the child went.
+
+IFY: 18 for me.
+
+ZAC: Eight.
+
+DAN: Eight.
+
+MATT: All right, Ulfgar, your keen eyes glance
+back and forth. To the left you can see the small
+
+child ducking into a nearby alleyway before
+disappearing into the shadows. You guys continue
+
+following and curving in that alleyway and you
+realize that child, while trying to do their best
+
+to escape, has somehow found themselves cornered in
+the back of a dead end. The child turns real fast
+
+(panting) breathing heavily. "I mean no harm!
+Look, I need money for my mum to eat and I'll give
+
+"this to you for five gold, it's cheaper than what
+the man was offering, aye, aye?"
+
+IFY: How about I give you some of my rations? You
+said you want food to eat, you ain't going to buy
+
+new Air Jordans.
+
+DAN: Whatever those are.
+
+ZAC: We are three-- one competent warrior and two 
+bodyguards, we could easily bully this small child into giving us
+
+what we want. You give up some of our food? Take
+the damn paper.
+
+IFY: Nah, this kid, you know, I'm feeling bad for
+him, you know. I feel like--
+
+DAN: He's like a little me.
+
+IFY: Yeah, he's like a little me right there,
+trying to get that gold, that's real cute kid,
+
+you're on a good path, this is the path you want
+to be on right now, no?
+
+MATT: "Thank you sir, thank you for understanding.
+We were hoping that we could come to a deal on
+
+"this. Five gold. Please?"
+
+IFY: All right. Do we have five gold left?
+
+DAN: I have one. One gold!
+
+ZAC: We can't afford a piece of paper!
+
+(laughter)
+
+IFY: All right, how about this? We're going to
+feed your momma, right? You want to feed your
+
+momma, I want to feed your momma too.
+
+DAN: Whoa.
+
+ZAC: That's a small child!
+
+IFY: I am not going to bully a child, that's not
+the life I live--
+
+ZAC: But you'll fuck her mother?
+
+IFY: Maybe. Look!
+
+DAN: He said, to be fair, he said feed. That's
+open to interpretation.
+
+ZAC: I knew what he meant and he did not deny.
+
+MATT: The child is slowly backing away further
+into the alley--
+
+IFY: Hey, hey! Slow down. How about we each give
+you a day's worth of rations?
+
+MATT: Make a persuasion roll. I'll say with
+advantage because you've been the one person nice
+
+to this kid since you arrived.
+
+(laughter)
+
+MATT: Roll twice, take the higher.
+
+IFY: Oh. Let's see. 13.
+
+MATT: 13. The kid: "Well, I'll happily take your
+rations, and the one gold you've got if that's
+
+"okay? I mean, you've got one gold, that's an easy
+enough transaction, right?"
+
+IFY: See now that's my kid! Hey, do you want to be
+my son? You want to be my son? I think I'm going
+
+to make this kid my son. He's coming on this
+adventure with us, guys.
+
+MATT: "Are you going on an adventure?"
+
+ZAC: Hold on.
+
+IFY: I've always wanted a son.
+
+DAN: He has, he has.
+
+ZAC: The chances of this child dying very quickly
+are very high. We won't have to feed the mouth for
+
+too much longer.
+
+IFY: Okay, you're taking a way cynical look. I'm
+going to protect this kid!
+
+DAN: We take him along with us like a meaty,
+expendable intern.
+
+MATT: "What does 'expendable' mean?"
+
+DAN: Ah, dinnae ken when you're talking about,
+Junior. You're driving a hard bargain. Hold on,
+
+the adults are talking.
+
+IFY: Let's take him! Salty. You know much how much
+I wanted a little boy. I told you.
+
+DAN: Ever since you were a little boy.
+
+IFY: Yeah. Let me get this little boy.
+
+ZAC: You idiots have known each other for that
+long?
+
+DAN: We're pen pals. He's a mountain dwarf, I'm a
+hill person. You know. We communicate. Classic, classic.
+
+IFY: Yeah, you can come with us, kid.
+
+MATT: "Really?"
+
+ZAC: You'll only speak to this one.
+
+MATT: "All right."
+
+DAN: Or this one.
+
+ZAC: Oh, for fuck's sake.
+
+IFY: You're going to help me raise him? You're
+going to help me raise my son?
+
+DAN: Oh, you read my mind.
+
+MATT: "So I won't talk to the fuzzy one, and I'll
+just talk to you two. Okay. Here's your parchment.
+
+"Thank you. I'm so excited! I've always wanted to
+be an adventurer." And he reaches to his side, and
+
+he pulls out this wooden sword that's moldy and
+haphazardly constructed, and he swings it around. "Hah!"
+
+IFY: Oh, he'll make me cry 'cause it's so cute.
+Oh, dang.
+
+DAN: What's your name, little wee orphan?
+
+MATT: "Stephen. My name's Stephen. My brother's
+named Steven, and my mom wasn't very original, but
+
+"at least this way we can tell each other apart."
+
+DAN: It's all right. A P-H is more sophisticated.
+
+MATT: "Oh, thank you."
+
+DAN: Unless it's an F, in which case, little
+continental.
+
+MATT: "It's a P-H, then."
+
+DAN: All right, great. Great.
+
+MATT: "All right. Let's go!" You look over the
+parchment that you received. The actual note.
+
+ZAC: I take it from him, 'cause he can't read.
+
+(laughter)
+
+IFY: We just explained how we were pen pals.
+
+ZAC: I know that those were small drawings.
+
+IFY: Oh, pish-posh.
+
+MATT: The note says, "Seeking the ones called Vox
+Moronica."
+
+ZAC: It's asking for us.
+
+DAN: Is that what we're called now?
+
+ZAC: It stuck.
+
+(laughter)
+
+MATT: "I myself am known as the alchemist Kioli. I
+have an issue that seems to befit your skillset."
+
+ZAC: It seems, if I keep reading, there might be
+some sort of mention of money, so I'm going to continue.
+
+DAN: Please, don't stop to tell us that, just
+fucking read it.
+
+MATT: "Come to my home, the grey brick building at
+the corner of the town square. There, I shall be
+
+"able to present to you, perchance, a way to make a
+bit of coin for yourself."
+
+DAN: You were right!
+
+ZAC: You heard that? I was reading in my head.
+
+DAN: What? Oh, man! Our cycles must be lined up.
+
+ZAC: Basically, we need to go to this building,
+and there's a possible job for us.
+
+IFY: Oh, I like that, job means money. Stephen. Rule number
+one: always do something if it's for money. No
+
+matter what.
+
+DAN: Always.
+
+MATT: "Okay, for the money, then." As you guys
+continue towards the center of the town square,
+
+you eventually take a look about, and you find the
+grey brick building on the corner indeed. The
+
+windows themselves, a dim light from the inside,
+the door is closed. It looks to be a small,
+
+relatively unadorned or simple building, more for
+function than visual presentation. As you walk up
+
+to the edge of the door, the door appears to be
+closed and locked.
+
+ZAC: It's locked.
+
+DAN: Ah, that's where I come in. I've got what's
+left of my masterwork thieves' tools. I'd like to
+
+unlock the door.
+
+MATT: Okay.
+
+IFY: Don't worry. If it doesn't work, we can
+always burn it down.
+
+MATT: Roll, add your dexterity bonus and your
+proficiency modifier.
+
+DAN: Come on, three fingers. All right, dexterity
+is plus three, 18, plus modifier. What is this again?
+
+MATT: Plus two should be your proficiency
+modifier.
+
+DAN: There we go. 20.
+
+MATT: With but a swift move of your wrist, the
+door slowly creaks open, and you can see the low,
+
+reddish-orange light from the interior of the room
+becomes visible. Immediately, as you push the door
+
+open and glance inside, it is cluttered, wall to
+wall small wooden crates and some broken glass
+
+jars that contain dried weeds and other types of
+plant matter. As you peek around the corner, you
+
+can see there are a number of shelves and tables
+set up before you that have strange, long glass
+
+contraptions with small brass wires that wind up
+along tubes, liquids bubble and churn in all sorts
+
+of different colors and textures. The smell that
+hits you is this very aggressively iron-like
+
+viscous scent that causes your sinuses to
+immediately expand with this burning sensation.
+
+Across the room, you see hunched over a small iron
+table, with big, thick leather gloves on, a
+
+humanoid figure that is currently crouched in the
+middle of a very, very intense-- some sort of a
+
+situation such as working or tinkering.
+
+DAN: It looks like a hoarder.
+
+ZAC: This could be a dicey situation. I think this
+might be a good opportunity to maybe get your new
+
+son some experience. Possibly go and greet this
+fine creature.
+
+IFY: I'm not going to send my new son to go-- I'm
+not sending my new son down the hall. He's not
+
+going down there! Now, Stephen, stay with Uncle
+Pete. I'm going to go down there.
+
+ZAC: Fair enough. That's fine.
+
+MATT: "I'll stay with my Uncle Pete. Hi, Uncle
+Pete."
+
+DAN: Hello, Stephen.
+
+MARISHA: Oh, god.
+
+IFY: I'll go investigate that hole.
+
+MATT: Okay. As you open the door and step into the
+room, you get a better view of the interior. I'm
+
+going to have you go ahead and roll a stealth
+check.
+
+DAN: Oh, I'm the one who's good at stealth.
+
+(laughter)
+
+IFY: Three.
+
+DAN: Whoops.
+
+MATT: As you step in and look around the rest of
+the door, you see there's actually three other
+
+individuals inside this room on the other side of
+the wall, all patiently sitting arm-to-arm. As you
+
+step in, you get about two or three steps before
+your elbow bumps one of the nearby tables. As it
+
+hits it, a glass jar that's been on the edge
+topples and falls, shattering on the ground.
+
+Instinctively, the gentleman who's hunched over at
+the other table goes, "Who's there?!" and throws
+
+something in the air. I need you to make a
+dexterity saving throw.
+
+(laughter)
+
+DAN: This is not going well.
+
+IFY: Seven.
+
+(laughter)
+
+MATT: You take four points of acid damage as
+suddenly this vial that's spinning in the air
+
+shatters on the ground before you, filling your
+space with this horribly caustic liquid. It fills
+
+your lungs and pocks the outside of your skin, and
+you're coughing, it burns the inside. He goes,
+
+"Oh, I'm sorry, I'm sorry, you spooked me. Wait,
+what are you doing here?"
+
+IFY: You just throw acid at anybody who walks in your
+house? Come on, man.
+
+MATT: "That door was locked for a reason!
+Intruder! Intruder!"
+
+DAN: This isn't our hotel room? Oh. My goodness.
+What? What's going on with you? Get out of our room.
+
+ZAC: See, Stephanie, this is why you send the dumb
+ones in first.
+
+MATT: "Um, Steph--"
+
+DAN: He's not supposed to talk to you. You're
+sending him mixed signals.
+
+IFY: Don't listen to this crazy dude.
+
+MATT: At which point, "Wait, are you Vox Moronica?
+I recognize you, the snuggle one. Yes, I called
+
+"you here. I'm sorry about the vial thing--"
+
+ZAC: Yes, we got your note.
+
+MATT: "Good, step inside, step inside. Oh.
+Interesting. Usually when I call in the aid of
+
+"various mercenary groups, it takes them a long
+time to inquire. I appear to have two that have
+
+"arrived at the same time. Conundrum." At which
+point looks over to the group of the other three,
+
+who are currently waiting on the side of the room,
+if you guys would like to describe yourselves.
+
+ZAC: Hello.
+
+DAN: Describe yourselves!
+
+(laughter)
+
+ORION: My name's Quaalude Methaqualone. Pleased to
+meet you. Wood elf, druid. Do things.
+
+DAN: Quaalude Methaqualone? Wood elf, druid. You
+do things.
+
+ORION: Nice to meet you. Hi, this is my
+associate.
+
+LIAM: My name is Kurt. I come from the northern
+hills. Barbarian folk. I don't wear much. I don't
+
+have much patience. Don't test it.
+
+IFY: Yeah, I see it. I'm liking what I'm seeing
+right there. Liking that outfit, baby, yeah.
+
+DAN: Really working.
+
+LIAM: I can go that way.
+
+ORION: Open mind. Free open mind. Free open mind,
+all of us.
+
+MATT: What's your name again, Liam?
+
+LIAM: Kurt.
+
+MATT: Kurt, all right.
+
+MARISHA: Hello! I'm Edna, and I'm 79 years young!
+Can you believe it? (laughs) I know, that one gets
+
+them every time.
+
+CHAT ROOM: Josephine, leader of the Guild of
+Moderators, steps out of the shadows and stares
+
+unblinking at the party. She holds out an
+enchanted red stapler and says, "It is dangerous
+
+"to go alone. Take this."
+
+LIAM: The fuck are you?!
+
+(yelling)
+
+IFY: Hey, come on, that's creepy!
+
+ZAC: I somehow feel like all of these things are
+being driven by some unseen force. This is the
+
+proof I was telling you about! The Shathrum
+exists!
+
+DAN: I remain thoroughly agnostic. All I see is a
+stapler.
+
+ZAC: Of all the things that have happened--
+
+DAN: I'd love to take this creation, this--
+
+IFY: Wait, so you're not going to throw acid at
+her?! She came out of nowhere, you don't throw
+
+acid at her? I'm the only one?!
+
+DAN: Presumably she was already in here.
+
+ZAC: Let's calm down and figure-- let's--
+
+MATT: At this point the poof of cloud smoke slowly
+disappears as the guild leader has extended the
+
+stapler, looks over towards the alchemist who
+invited you and goes, "Oh! That's Josephine. I've
+
+known her for quite some time. Don't worry, she--
+that's how she gets in and out of the room, it's a
+
+bit spooky. A stapler, that's curious. Have you
+tinkered this item yourself?" And she extends it
+
+and goes, "No, I just know that whatever you were
+requiring in these groups was a bit dangerous and
+
+I figure they should take this."
+
+ZAC: I will take the-- thank you.
+
+MATT: Fair enough.
+
+ORION: (mumbling) There's something about you...
+(unintelligible).
+
+MATT: "That's not a language."
+
+DAN: He's speaking in italics.
+
+ORION: I think it's... I think it's... I love what
+you're wearing, is what I'm saying. Eh?
+
+LIAM: Nobody can understand what you're saying.
+
+ORION: (mumbles)
+
+ZAC: Is your party member high?
+
+MATT: "Oh no, he's just Johnny Depp as a pirate."
+
+(laughter)
+
+DAN: Oh, burn.
+
+MATT: She bamfs out, puff of black smoke--
+
+IFY: Well, I guess it's time to introduce myself.
+
+MARISHA: What does that stapler do? You know, I
+might be able to Detect Magic on it, you know, I
+
+have been doing a little bit of studying. Who says
+an old dog can't learn new tricks, am I right? Let
+
+me see.
+
+DAN: I can't.
+
+MARISHA: What? I can't? What? I'm sorry, I'm a
+little hard of hearing. What?
+
+ORION: He cat.
+
+MARISHA: What? Cat? You're a kitty cat? Oh.
+
+DAN: Lovely to meet you.
+
+MARISHA: Oh, what was your name, Sonny?
+
+DAN: Salty Pete. Salty. Pete. AKA Sam AKA
+Money Sam.
+
+IFY: Money Sam baby, how you doing baby?
+
+ZAC: When did this new alias come about?
+
+DAN: Approximately 15 to 20 minutes into last
+adventure.
+
+(laughter)
+
+ZAC: Oh, last week, I remember.
+
+DAN: Last time we had a big adventure.
+
+IFY: I'm Ulfgar Fireforge, sellsword, ex-pit
+fighter, money talks, bullshit walks, this is my
+
+son Steph, Steph Fireforge, ex-street urchin, dope
+warrior baby, 'kay? That's my warrior baby, he
+
+does warrior baby stuff--
+
+MATT: "Hi, I'm his warrior baby."
+
+ORION: That's-- you're a lively bunch.
+
+MARISHA: You know, he's a bit young. Don't you
+think he's a bit-- he's a very young boy.
+
+ZAC: As the leader of this terrifying group of
+mercenaries, and I believe that you can possibly
+
+tell if there's magic on this from here. I think
+I'll hold onto it.
+
+MARISHA: I may not-- I'm a bit hard of seeing but
+I--
+
+LIAM: Jesus, you fuckers talk a lot.
+
+MATT: "Well, anyway, I've called you here for a
+reason but--"
+
+MARISHA: Who are you? The chat room?
+
+ORION: What the hell's that?
+
+(yelling)
+
+ZAC: Stop! Stop! Stop! You know of the Shathrum?
+
+MARISHA: I'm sorry, once again, hard of hearing,
+Sonny Boy--
+
+DAN: This is awfully convenient.
+
+MARISHA: The chateau? Yes, I've been to the
+chateau--
+
+LIAM: He's asking you where the shitter is.
+
+MARISHA: The shitter? The shitter is right around
+the corner.
+
+ZAC: No the Shat-- the Shathrum! The Shathrum
+speaks to me, does it speak to you, too?
+
+MARISHA: Oh, you know that voice-- are you
+referring to that voice?
+
+ZAC: Yes! Yes! The voice.
+
+MARISHA: I heard that too. Did you hear that? Is
+that what we're talking about now, I don't know--
+
+MATT: "I'm certainly afraid no one's heard no
+Shathrum. That's a dark god we don't speak of.
+
+Dark days in the past. It rendered whole
+communities forfeit of their lives. I really hope
+
+that you're not saying that's what you're looking
+for."
+
+DAN: No, definitely not.
+
+ZAC: Definitely, I would definitely not follow
+every word and commandment of the Shath-- no.
+
+MATT: "All right, well, down to business then."
+
+MARISHA: Okay. Oh wait, let me-- can I Detect
+Magic on that stapler?
+
+MATT: Do you have an Identify or a Detect Magic
+spell?
+
+MARISHA: I do have Detect Magic.
+
+MATT: Okay. You take a moment and it is indeed
+emanating a magical force on it.
+
+MARISHA: Can I tell what kind of magical force?
+
+MATT: You gather it has some semblance of an
+abjuration-based spell enchantment. You'd have to
+
+actually take some time with it to ascertain its
+nature.
+
+MARISHA: You know, I have to take a little bit
+more time with it, but I feel like it might have
+
+some sort of protective qualities to it.
+
+MATT: "Anyway! You've all stumbled loudly into my
+home."
+
+IFY: Yeah, but I also got acid thrown in my face.
+Don't forget that.
+
+MATT: "You snuck up on me!"
+
+IFY: I'm never going to let you forget that.
+
+ORION: We've been here quietly.
+
+MATT: "I know, and that's fine. I have two
+mercenary parties that are now vying for the same
+
+job."
+
+DAN: Shotgun. Blitz. No blitz.
+
+ZAC: We don't even know what this is! What-- We
+don't agree to a job before knowing what the
+
+job--
+
+DAN: Fine. Please disregard.
+
+IFY: I agree to money, and it smells like there's
+some money in here. And it smells like there's
+
+some acid in my face because you poured acid in my
+face!
+
+MATT: "Perhaps it'll be worth it when you hear
+what the business is about, all right? Now. It
+
+appears I've lost my assistant. I would like to
+find him. Checking in on his well-being is what I
+
+ask of you. Discover where he is, and bring him
+back safely if possible. It's been-- well, we've
+
+been working on some sort of planar shifting
+through alchemy and forgotten lore for a while,
+
+now, and we found a nearby arcane nexus in the
+east, toward the center of the Zorla swamp.
+
+There's a nasty horde of goblins that live out
+there, but we managed to barely sneak past them at
+
+the time, and we set up a portal anchor at a place
+underground. Now, our first attempt already proved
+
+successful: we managed to open a doorway to some
+unknown location. I'm not stupid, I'm not going in
+
+there, so I sent my assistant in with a rope tied
+around his side. Off he went, he stepped
+
+through--"
+
+ZAC: I like it, I like it. That's a good tactic.
+
+MATT: "I think so, too. Protects my well-being and
+what good's an assistant if they're not
+
+disposable, right?"
+
+ZAC: I completely understand.
+
+MATT: "So I sent him in. He stepped through.
+Didn't return for about 30 minutes, nearly
+
+bringing all 300 feet of rope in with him."
+
+DAN: That's a lot of rope.
+
+MATT: "I know! It went taut, I pulled him back in,
+and eventually he came back safe and sound. Little
+
+chilled, a little confused, but fine. Came back,
+sneaking past the goblins, a little bit of a run
+
+as they discovered our passage, but we made it
+back fine. That evening, he recalled a landscape
+
+of shifting shapes and earth, purples and darkness
+and forms without form and creatures that drifted
+
+between the realms, all kinds of interesting
+things. One swam through the air and through him,
+
+leaving him tickled and unscathed. But that's all
+he recalls. He says he only recalls about five
+
+minutes of this portal, then darkness for a bit,
+but he was in there for a good 30 minutes. I think
+
+he lost some time in there. Anyway. Pulled him
+back, he was fine. But he grew a little more
+
+distant over the next few nights, not really
+answering my calls as quickly, seemed to be lost
+
+in thought a lot, and eventually, in the morning,
+he went missing. I used my divinations, as limited
+
+as they are, to discover that he had run off into
+the swamp by himself, beelining for that doorway
+
+that we originally found and opened. So. I count
+myself lucky on a blue moon, and I wish not to
+
+endanger myself by going after him myself. Thus,
+I'm willing to pay 2,500 gold pieces to the group
+
+who finds him and brings him back."
+
+DAN: Like I said, shotgun.
+
+IFY: I'm going to need to take a seat real quick.
+That's a lot of money. Oh, yeah. Tell me how much
+
+that was again?
+
+MATT: "2,500 gold pieces."
+
+IFY: Oh, yeah.
+
+ZAC: I apologize. He's...
+
+DAN: He's an enthusiastic--
+
+IFY: Say that one more time for me, it's just
+getting me there.
+
+MATT: "I'm going to not, actually. There's
+children present."
+
+DAN: He likes currency.
+
+LIAM: Are you asking us to work together? Or to
+compete against one another?
+
+MATT: "To be honest, I would prefer you work
+together, because I get the feeling this isn't
+
+going to go very far if you don't."
+
+ZAC: I'm completely okay with this, as long as you
+all understand that I am of course in lead of this
+
+party.
+
+LIAM: (laughs)
+
+ORION: As he says that, I'm going to take a
+special leaf pod that I have, and I'm going to pop
+
+a couple seeds.
+
+DAN: Was that an edamame?
+
+(laughter)
+
+ORION: You want one? It's great.
+
+ZAC: No, no.
+
+DAN: Just curious.
+
+MARISHA: Is that Metamucil? Is that what that is?
+
+DAN: Keeps him regular.
+
+MARISHA: Ah yes, I forgot to take mine today.
+
+ORION: [jumbled] --it'll make you poop.
+
+MARISHA: What?
+
+LIAM: We're going to get your shit done for you.
+Where are we going?
+
+MATT: "East, to the Zorla swamp. Past the goblin
+hordes, you'll find some sort of a mound with a
+
+tunnel in it. Beneath there is where we found
+where the planes are weakest and where alchemy
+
+allowed us to open that doorway. He's probably
+somewhere within there, scattered. He does not
+
+have the means of opening the portal himself. This
+I know. He's probably somewhere lost in that den.
+
+Don't know why. Try and bring him back safe, if
+you could."
+
+IFY: Do we want to rest before this, maybe stop by
+the Valarian Bar for a little bit--
+
+CHAT ROOM: Edna suddenly develops Tourette's and
+can't stop saying Vilian and Dasmodel at random
+
+intervals.
+
+MARISHA: Did they say Edna?
+
+DAN: They surely did.
+
+MARISHA: Edna says what randomly now?
+
+DAN: She has Tourette's and says--
+
+MARISHA: I have Tourette's and I say what?
+
+MATT: Balium and Deswomwom?
+
+DAN: Balium and Desmond?
+
+MARISHA: Balium and Desmond?
+
+MATT: What was the phrase?
+
+MARISHA: If I could get a confirmation on what my
+Tourette's entails.
+
+MATT: Belial and Asmodan.
+
+DAN: Ah, classic mythology.
+
+MARISHA: Classic voice-to-speech not knowing what
+the shit nerds say.
+
+ZAC: Did you hear that voice per se just now?
+
+MARISHA: You mean Asmodeus? Asmodeum?
+
+ZAC: Did you hear the voice?
+
+MARISHA: Is that what he said?
+
+MATT: Asmodan. Write it down. Asmodeum is what
+keeps you regular.
+
+DAN: That's what he took.
+
+ORION: Here, have some Asmodeum.
+
+MARISHA: Oh, Asmodeum!
+
+ZAC: The voice? Did you hear the voice too?
+
+MATT: "If you're talking voices, I want this out
+of my home! Get out! Do this job, come back for
+
+the money."
+
+ZAC: We'll leave. Before we go, can we at least
+get something in writing. Something to say that--
+
+we've been screwed before, and I know that you
+look like a fine individual, but-- businessman to
+
+businessman, please.
+
+MATT: Pulls out a parchment and takes an extended
+45 minutes to handwrite with a quill an extremely
+
+detailed contract, making you all wait, and then
+he gets halfway through and goes, "No, no," and
+
+crumples it up and grabs another piece of paper.
+
+ZAC: It's worth it.
+
+DAN: She said Asmodan 45 fucking times.
+
+MATT: "I messed up this draft, too." Crumples it
+up.
+
+(groaning)
+
+MATT: Eventually, goes, "And that should be
+square."
+
+ZAC: Thank you.
+
+MATT: "There you go. Legally binding."
+
+ZAC: Thank you very much. That's great.
+
+MATT: "No worries, get out."
+
+LIAM: Cort stands up and says, I've had enough. I
+report to Edna and no one else. Let's fucking do
+
+this. He kicks the door open and leaves.
+
+ZAC: I didn't speak anything but two words for the
+last hour and a half!
+
+DAN: Well, that escalated quickly.
+
+MATT: "That door is easy to dam--"
+
+LIAM: Go fuck yourself!
+
+ORION: What's going on?
+
+ZAC: Somehow I've ended up with more idiots than
+when I started.
+
+DAN: Ah, classic escalation.
+
+IFY: Oh, yeah.
+
+ZAC: You two are now my commanders, because for
+some reason you're more intelligent than the
+
+idiots we're picking up.
+
+CHAT ROOM: --obsessed with following Snugglelord
+around. You are welcome.
+
+ALL: Who?
+
+ZAC: Was that Steph?
+
+OFF-SCREEN: Crazy blackpowder merchant becomes
+obsessed with following Snugglelord around.
+
+DAN: Sounds like you've been pimped into doing
+something.
+
+ZAC: My lord, please, messages you could give me
+that help me along my way would be very much
+
+appreciated, my lord. Anything that could help me
+get rid of these idiots and continue on my
+
+journey.
+
+MATT: With a sparkle of dark innovation, you look
+up and see a star in the sky twinkle, a voice
+
+behind you goes, (Victor voice) "Hi! You're the
+one who's dressed proper. Where are you off to?
+
+Oh, you're nice and soft. Whoa." Rubbing your
+back, this crazed old man with bits of dirt and
+
+soot all over his face. "I need a friend. I could
+be your friend."
+
+ZAC: No touching. No touching.
+
+MATT: "Then why would you wear this? It's so nice
+to touch."
+
+DAN: That's practically his skin.
+
+IFY: Congratulations, you've got a son.
+
+DAN: Oh, he's got a boy, a wee baby. Oh, so cute.
+
+IFY: Haha, yeah!
+
+ORION: What's your name?
+
+MATT: "My name is Victor."
+
+ORION: Victor, welcome to the journey.
+
+ZAC: No, we do not accept just anyone that comes
+up to us and touches us.
+
+DAN: We're taking a child to a swamp?
+
+MARISHA: Belial!
+
+(laughter)
+
+DAN: What she said! Belial!
+
+MATT: "No, no. My name is Victor."
+
+MARISHA: Asmodan. No. Yes. Asmodan.
+
+ZAC: Why have you cursed me so? Why have you
+cursed me like this?
+
+LIAM: Here. Take that. There, that's better.
+
+LIAM: She'll be fine.
+
+ZAC: Stephanie, don't do drugs.
+
+IFY: Stop talking to my son, okay? He's my son,
+don't ever talk to my son. Keep your words in your
+
+zone and you got your own son, I've got a son--
+
+ZAC: I do not have a son!
+
+DAN: He's got an adult son.
+
+ORION: I think you just call it a friend. You just
+call them friends.
+
+DAN: A ward of the state.
+
+MATT: As you guys, through the moonlight, start
+making your way outside of the actual town towards
+
+the outskirts of Zorla swamp--
+
+ORION: I say, I know the swamp. Whenever you have
+something show up and everything pops up it will
+
+reflect it back.
+
+ZAC: Well, that's great. I have no idea what this
+idiot is saying. Does anyone-- can anyone
+
+translate?
+
+DAN: He knows it's a swamp.
+
+ORION: Yes. It's the same thing every time.
+
+DAN: Something pops up and we reflect it back?
+Like a funhouse mirror?
+
+ORION: Or something.
+
+MATT: "All right." The little boy who's following
+you goes, "Okay! Don't worry, I'll protect you!"
+
+And he pulls out a small wooden sword and is like
+(fighting noises).
+
+ORION: That's a good lad. That's a good lad.
+
+IFY: So good. Oh my god, I'm crying again because
+he's so cute. Oh god. I love my son!
+
+MARISHA: He's so cute. Would you like a chocolate
+chip cookie?
+
+IFY: Go there and get a cookie from grandma.
+That's your grandma now.
+
+MATT: "A cookie? I'd love one right now, thank
+you."
+
+ZAC: Can we all shut up?!
+
+DAN: You had pastries this entire time?
+
+ZAC: Oh my god.
+
+MARISHA: I raised two children in my day, I always
+keep a good pastry on me. Here.
+
+MATT: Stephan starts crying as the large, scary
+devil man in the--
+
+IFY: Don't yell at my son. You won't tell me how
+to raise my kids, I won't tell you how to raise
+
+your kid over there, okay?
+
+ZAC: It's not my child, we--
+
+IFY: Don't, don't-- Stephan, go over there to your
+grandma and get a cookie. She your grandma now.
+
+(laughter)
+
+MATT: He dries the tears from his face and goes
+"Okay."
+
+MARISHA: Come here little-- Belial! Stephan! Come
+here. Come here-- Asmodan! Come here.
+
+MATT: The closer he gets the slower his walk is
+and the more the look of trepidation is on his
+
+face. You can see him struggling with the idea of
+like, "I really want this cookie but she is really
+
+freaking me out right now."
+
+MARISHA: What? No. Look, I know I look old and
+scary but trust me I was quite the hot little
+
+shimmy back in the day, Asmodan.
+
+MATT: "Thanks." Grabs the cookie and darts back
+ten feet and starts chewing it rapidly. At which
+
+point, in the distance you see catching up to you
+now with heavy breath-- "You all move so very
+
+fast, but you're not too fast for Victor."
+
+ZAC: Oh, you haven't died of a heart attack yet?
+
+DAN: A son can always find his father.
+
+MATT: "To the swamp!" And he goes running off in
+front of you.
+
+ZAC: Let him go.
+
+CHAT ROOM: Two great goliath warriors with two
+large tigers attack Vox Moronica.
+
+IFY: God, what?!
+
+DAN: Are those two goliath warriors with large
+tigers-- In a swamp.
+
+LIAM: Classic encounters.
+
+DAN: Wait, no, there are-- we need to reflect them
+back, like he said.
+
+IFY: We need to reflect them?
+
+MATT: As you guys are having this conversation,
+and we'll say going forward preferably don't
+
+suggest encounters, because that--
+
+LIAM: Yeah, no Tarrasques please.
+
+MATT: Yeah, that's going to screw me up. However,
+as you guys are having this conversation, you see
+
+Victor go charging off into the swamp, turn around
+and go, "Never mind! Never mind! Bad idea!"
+
+(screaming) And from behind you see these two
+dark-armored knights on top of these strange,
+
+slightly shifting tiger forms come charging out of
+the darkness of the swamp after you.
+
+ORION: How far away? How far away are they?
+
+MARISHA: I think my eyesight must be going
+because--
+
+MATT: About 25 feet.
+
+MARISHA: I could swear I see two men riding giant
+tigers in the distance. I really need to get some
+
+glasses.
+
+ORION: As I see this I'm like (mumbles) and I
+entangle them.
+
+MATT: Okay. As you cast Entanglement, all these
+vines go (whipping noises), forming out of the
+
+swamp and writhing in the air. As they reach out
+towards the forms, they seem to pass through their
+
+physicality.
+
+DAN: I disbelieve.
+
+ORION: Well then, they're tricky, sticky ones.
+
+MARISHA: I'm telling you, need to get my eyes
+checked.
+
+MATT: I need everyone to go ahead and make a
+history check, if you could. All of you guys.
+
+DAN: 12.
+
+ORION: 21.
+
+ZAC: 18.
+
+LIAM: One. I'm sorry, zero. Excuse me, zero.
+
+ZAC: One!
+
+ORION: 21.
+
+MARISHA: 19.
+
+MATT: Okay. You understand that the Zorla Swamp,
+for as long as it's existed, especially during
+
+nights of heavy moonlight, part of the dark
+enchantment is it tends to conjure up series of
+
+dangerous illusions; things that have temporary
+form at moments. It almost has this weird magic
+
+where imagination can cause forms to exist for
+short periods of time. They're illusions and can
+
+be destroyed or dispelled in certain ways, but
+until then they can prove to be as deadly or
+
+dangerous as what you see before you. This
+knowledge hits you as they approach and both of
+
+them ride by swinging these giant swords, one
+swinging past you, Salty Pete. The second one is
+
+going to go for-- (laughing) is going to aim for
+Victor.
+
+(laughter)
+
+DAN: Oh no.
+
+MATT: First, the one swinging towards you Salty
+Pete, the giant sword, that is a 16 to hit. What's
+
+your armor class?
+
+DAN: That 100 percent hits. I'm 14.
+
+(laughter)
+
+DAN: Oh, just casually decapitated.
+
+MATT: You take five points of slashing damage as
+the sword (whooshes). It hits you and you can see
+
+as it approaches to you in that instant, its form
+is shimmering and doesn't seem to have physicality
+
+to it, yet the impact still feels like a heavy
+steel blade wings you in the front of the chest.
+
+You feel a thick bruise beginning to form beneath
+your armor.
+
+DAN: My sternum!
+
+MATT: As the tiger growls, rides past you into the
+grasses behind you. The other one swings towards
+
+Victor who's like (old man yelling) running
+away--
+
+ZAC: Please. Please hit him, please hit him. Lord
+do me this one favor and please--
+
+IFY: Is he close enough to throw Snugglelord to
+protect his son?
+
+(laughter)
+
+MATT: Well, towards Victor, which is the old guy.
+You want to--
+
+IFY: Okay. I want to throw Snugglelord towards
+Victor to protect his son.
+
+MATT: Okay.
+
+DAN: Aww, that's so sweet.
+
+IFY: I'm going to help you protect your son,
+baby!
+
+ZAC: No, what are you doing?!
+
+MATT: I'll have you guys roll athletics checks,
+contested.
+
+ZAC: Athletics. Where's athletics?
+
+IFY: 19.
+
+ZAC: Oh god, there's no way.
+
+(laughter)
+
+MATT: This is happening. Ulfgar grabs Snugglelord,
+lifts him up and throws him forward--
+
+ZAC: You idiot! What are you doing?!
+
+IFY: Protect your son! Protect your son!
+
+ZAC: He's not my son! He's-- aah!
+
+MATT: At which point, you skid to a halt, your
+heels grinding into the wet earth that begins to
+
+initiate the formation of the swamp that you guys
+are traveling towards. As you finally come to a
+
+stop, you see Victor go, "Thanks!" and run past
+you as the giant semi-illusionary warrior swings
+
+at you. That's a 23.
+
+DAN: Does that hit you?
+
+(laughter)
+
+ZAC: I believe that hits a 13.
+
+MATT: You take six points of slashing damage as
+the blade smacks you across the abdomen. You can
+
+see part of your fuzzy exterior slash open and red
+begin to slowly pool and darken the material.
+
+ZAC: Oh motherfucker.
+
+IFY: I look over at Stephen. "I hope to protect
+you like that one day. I care about you a lot,
+
+son."
+
+DAN: That's a father's love.
+
+ZAC: Stephanie, don't listen to your father. This
+was a very dumb thing to do.
+
+MATT: All right, everyone roll initiative.
+
+LIAM: Oh Jesus.
+
+DAN: 20.
+
+MARISHA: 14.
+
+LIAM: 11.
+
+ORION: 15.
+
+MATT: All right.
+
+IFY: Initiative is just your dex, right?
+
+MARISHA: Correct.
+
+IFY: All right.
+
+MARISHA: What are we doing? What are we fighting?
+
+IFY: 12.
+
+MARISHA: We're fighting these assholes?
+
+DAN: We're fighting the swamp.
+
+IFY: Can anyone dispel this at all?
+
+ZAC: I have a three.
+
+MATT: All right, well, first and foremost, Salty
+Pete. As they turn around and begin riding back
+
+for a second ride-by, you have your first turn.
+
+DAN: I'm going to try and unfurl an arrow from my
+shortbow at the goliath.
+
+MATT: You pull it, go ahead and release the arrow
+towards the first illusionary entity. Roll for
+
+attack.
+
+DAN: All right. Where's my-- it's okay. 18.
+
+MATT: 18 does indeed hit. Go ahead and roll damage
+on that arrow.
+
+DAN: All right. That is eight points of damage.
+
+MATT: Eight points of damage. Your arrow arcs
+across, you can see it strike true in the front of
+
+the armored goliath knight. As it hits it, you can
+see its form disperse for a second, attempt to
+
+reform, and a beam of moonlight comes streaking
+out of the sky, hits it and it immediately
+
+disintegrates. You can see both it and the tiger's
+form roll into ash and vanish before your very
+
+eyes.
+
+DAN: Holy crap! That was awesome.
+
+IFY: That's some good stuff right there.
+
+DAN: Did you see what I did?
+
+IFY: That's some good stuff right there.
+
+ZAC: I will give you that one. That was very
+impressive.
+
+DAN: I exploded him.
+
+(laughter)
+
+MATT: We had the 20. Who was at the 16? It was the
+highest next I believe.
+
+MARISHA: I had a 14.
+
+CHAT ROOM: The stapler starts to glow. Use it to
+kill the goliaths.
+
+MATT: The stapler. Who's clutching the stapler? As
+you're holding it it begins to shake and glow with
+
+this weird goldish red energy.
+
+DAN: Kill the goliaths!
+
+MATT: At that moment, as you guys are carrying--
+you find, though yourself are feeling scared and
+
+cowardly, thus your inability to, this pulls you
+to immediate initiative.
+
+ZAC: Oh shit! I rolled a three on initiative!
+
+MATT: I know. This pulls you to the front of the
+initiative order with its magical enchantment. I
+
+need you to go ahead and roll and add your
+charisma to this.
+
+(laughter)
+
+DAN: Lot of charisma. Nailed it.
+
+(laughter)
+
+ZAC: Eight. I'm rolling poorly!
+
+MATT: Did you add your charisma to it?
+
+ZAC: Yes!
+
+MATT: The stapler, for a second, begins to form
+this large, glowing orange orb in the front that
+
+all of a sudden releases the blast, knocking you
+off your feet. You land prone on the ground as you
+
+guys see this giant burning red metallic staple
+flying across the darkened sky towards the entity.
+
+However, the illusion passes underneath it and it
+goes, disappearing into the distance.
+
+ZAC: I think I should try that again possibly
+because that was freaking awesome.
+
+(laughter)
+
+ZAC: I just need to get used to the-- it shakes a
+lot, it's hard to aim, but I'm pretty sure I can
+
+hit them.
+
+DAN: Got a bit of recoil.
+
+MATT: You finish your turn getting back to your
+feet. Next up, I believe it was you. Edna, yes.
+
+MARISHA: So there's a goliath riding a tiger?
+Coming this way? All right. Oh boy, Magic Missile!
+
+MATT: All right, go ahead, Magic Missile, go ahead
+and roll damage on that one.
+
+MARISHA: I'm going to do all three at him. So 1d4
+plus four times three. So that's-- Those are not
+
+good rolls. Six. Rolled ones every time. Six
+damage.
+
+MATT: Six total damage?
+
+MARISHA: Yeah. (yelping) Belial!
+
+MATT: As Edna releases this, screaming Belial into
+the night air, the missile streaks off into these
+
+three silver darts of arcane energy, smashing into
+the sides of this semi-translucent armored
+
+goliath. You can see its form sparking and
+shimmering like it's having a hard time keeping
+
+physicality in this world, but it's still
+maintaining its position. Riding forward, now
+
+towards you since you are the source of its
+initial anger.
+
+DAN: You've angered the goliath.
+
+MARISHA: Asmodan.
+
+MATT: Next up, who's the highest initiative?
+
+LIAM: I believe it was me. I forgot to mention
+before-- Oh you were? Go for it then.
+
+MATT: Go for it, Quaalude.
+
+ORION: There's a-- so as he's coming towards us
+I'll-- I'm going to just do a spin like, hold on
+
+darling, (claps) and do a Thunderwave. And get
+thunder.
+
+MATT: Okay. So you move over to get between Edna
+and this entity. You release Thunderwave. Is it
+
+just a saving throw on their part, I believe,
+right? Yeah. Have your spells ready.
+
+LIAM: Thunderwave.
+
+MARISHA: It's super effective. It's a druid spell.
+
+MATT: Found it first. Okay, so yeah, they have a
+constitution saving throw. What's the DC of your
+
+spell?
+
+LIAM: Oh, you didn't prepare it. What's your--
+
+MATT: It doesn't matter, it's a four. All right,
+so that's 2d8 damage, it says?
+
+ORION: Yes.
+
+MATT: Actually, you roll that, you roll that
+damage, go for it.
+
+ORION: Nice. What's that? Eight?
+
+MATT: Okay. So as you rush in front of her, you
+put your hand out in front and slam your fist into
+
+the ground. As it does, this giant light wave of
+thunderous energy blasts out, flattening all the
+
+damp grasslands around you and sending the
+shockwave forward that, as it hits and impacts the
+
+front of the illusion, it casts it into dust as
+the wave passes over as it rushes, just about to
+
+strike you. With that, the Thunderwave passes and
+the entity is destroyed and is no more.
+
+DAN: Holy crap.
+
+MATT: So as you all stand there, clutching your
+glowing, shaking stapler that slowly fades to its
+
+mundane-looking self, the immediate danger seems
+to have passed.
+
+MARISHA: Does that stapler still appear to be
+magical?
+
+MATT: You go over and take it and as the vibration
+is slowly--
+
+ORION: You all right Edna?
+
+MARISHA: What? I'm fine.
+
+ORION: Oh good.
+
+MARISHA: Yes, here. Can I see it? Can I detect any
+magic? Does it look pretty meh?
+
+MATT: No. It's definitely radiating some magical
+presence. Essentially once per short rest you can
+
+use your action to initiate it and it fires an
+arcane, heated giant staple that does, upon
+
+impact, if you manage to hit, does pretty hefty
+damage.
+
+LIAM: I walk over to the boy and I kneel down and
+I say, listen, and I take the wooden sword out of
+
+his hand and I toss it. You want to fucking let
+some blood today? You use one of these. And I've
+
+got-- all I'm wearing is a leather thong and I
+have five small iron hammers on my belt, and I
+
+take one out and I say, fucking use this and
+you'll paint the blood out of anyone's skull. Use
+
+this, Boy-o. It'll work.
+
+DAN: It's hammer time.
+
+MATT: "Of course, of course I will, sir. Oh, I'm
+going to smash some skulls in for me dad."
+
+IFY: Oh yeah, that's a good job, son. That's your
+uncle now, that's your other uncle.
+
+MARISHA: Stephen, how old are you?
+
+MATT: "This many."
+
+MARISHA: Oh that's good, that's old enough. That's
+how old my boys were when they had their first
+
+swords, yes, yes, that's a good age.
+
+MATT: You hear a voice echoing from the distance,
+"Is it gone?" (panting) "Thank you for saving me,
+
+O Great Soft One."
+
+ZAC: Oh no, it's nothing at all, I'm only bleeding
+internally now, thank you so much.
+
+DAN: And externally.
+
+ZAC: Both, yes.
+
+MATT: "Well come on, let's continue onward!" And
+he goes running into the swamp. As the small--
+
+ZAC: Why is he still alive?
+
+DAN: Obviously you saved him. You selflessly
+sacrificed your body and saved his life.
+
+ZAC: I would do no such thing. I was thrown.
+
+IFY: No, you saved your son. You saved your son.
+You're a good dad. You're a real good dad. I love
+
+you.
+
+MATT: Pushing into the swamp proper as you guys
+continue inward, you find, about 20 to 25 minutes
+
+of walking through, the actual swamp sludge is so
+thick that your boots are getting caught and stuck
+
+with each individual step.
+
+MARISHA: This is really bad for my orthopedics.
+
+MATT: Everyone go ahead-- everyone make an
+athletics check.
+
+MARISHA: Not my strong suit...that's not a good
+roll either.
+
+ZAC: Ten.
+
+DAN: 11.
+
+IFY: 15.
+
+MARISHA: Three.
+
+LIAM: 15.
+
+ORION: 15.
+
+MATT: So you guys get about ten minutes in before
+you realize that Edna isn't with you. You look
+
+behind you and--
+
+MARISHA: Oh, Asmodan!
+
+MATT: In the distance you see her actually
+physically stuck in the muck of the swamp.
+
+LIAM: I head back and I pick her up over me
+shoulder and I just put her on and I just start
+
+carrying her through the mud.
+
+MARISHA: Watch my back, Cort.
+
+LIAM: Nah, it's good for you, you like it.
+
+MARISHA: (groans) I'm not as nimble as I used to
+be.
+
+LIAM: Use it or lose it, lady.
+
+MATT: Who's helming the tracking of this group
+trying to find this Cyril, this assistant?
+
+DAN: Not it.
+
+(laughter)
+
+ORION: I'll be at the forefront.
+
+ZAC: He was the one who told us about the swamp. I
+believe he--
+
+ORION: I'll use that roll for a 24.
+
+MATT: 24, okay. As you guys are moving forward,
+you begin to pick up what looks like recently set
+
+human tracks that are deeply sunken in and leaving
+these pools behind in the swamp. So you kind of
+
+start taking charge and everyone begins to follow.
+The child, Stephen, is kind of following in step
+
+next to you excited to kind of see that now
+there's another leader of the group. You however
+
+are now being very, very closely followed behind
+with this slightly under-his-breath cackling and
+
+muttering soot-covered old man who's like, "I
+don't get out often, it's nice to see the moon.
+
+Can I touch you again just once more?"
+
+ZAC: Can you leave? I can feel you breathing on my
+neck, just back up, please.
+
+MATT: "Good! Good! I'm still breathing. Very good.
+Keep that up, I need a reminder every now and
+
+then. Smell this." And he gives you this weird
+clump of blackish powder that's in his hand. He
+
+reaches out and puts it in front of your face.
+
+IFY: Oh man, your son is weird, ha!
+
+ZAC: Get that out of my face. If you would just
+please be quiet, you can walk beside me.
+
+MATT: "Oh, okay! I will walk beside you. But this,
+this may save your life one day." And he shoves it
+
+into a pouch at his side.
+
+IFY: Hey Snuggle's son! Is that dookie? Is that
+dookie you just made him smell? You know, there's
+
+this trick I used to play when I was little. I was
+like "Hey, smell this powder," but it was dookie.
+
+DAN: How'd you get it powdered?
+
+IFY: You just punch it a lot.
+
+MATT: In frustration for this conversation,
+Snugglelord, in anger you all of a sudden just
+
+flex and for a moment (poof noise), your little
+imp familiar appears on your shoulder and just
+
+kind of pats you on the side of your head.
+
+DAN: What the fuck is that?
+
+ZAC: I do in fact have a 'son', per se--
+
+MATT: "I have a brother?"
+
+IFY: Yeah, yeah.
+
+DAN: Oh, is that the nature of your relationship?
+
+ZAC: Yes. I did not want anyone to meet him under
+these circumstances, but everyone meet--
+
+CHAT ROOM: Oh no. Liam and Orion accidentally hit
+heads and develop Foreign Accent Syndrome. They
+
+now each speak in different foreign accents. Also,
+Snugglelord realizes his costume's rear flap has
+
+been open the--
+
+MATT: --entire time.
+
+(laughter)
+
+MATT: So, pick different accents you guys. As
+you're walking through the middle of the swamp as
+
+they're having this conversation, he turns around
+and you both hit your heads together--
+
+MARISHA: Oh, be careful. I do that all the time.
+You got to be careful. I actually have one of
+
+these buttons so I can call for help if I ever
+trip and fall down. Yes.
+
+IFY: Oh, yeah, yeah. That's cleric alert, right?
+
+MARISHA: It's a life alarm, yes.
+
+IFY: Yeah, yeah. It'll call the cleric to come and
+help you out.
+
+ORION: (Russian accent) No problem, I changed different accent, 
+I sound different now, yes?
+
+ZAC: The strange imp on my shoulder has now become
+the slight-- very much the least awkward thing
+
+that is going on at this moment.
+
+MATT: Of which, the imp at this point reaches
+forward with its smiling, young, boyish, handsome
+
+face and whispers into your ear, "Uh, Snugglelord?
+I'm afraid to let you know your flap is open."
+
+DAN: Oh, that's embarrassing.
+
+IFY: I knew it was open the whole time, I was just
+looking at his booty.
+
+ZAC: Grow up, that's where my tail comes out. Get
+over it, it is-- It's tiefling anatomy, it's
+
+totally fine, move on.
+
+LIAM: (Brooklyn accent) Wait a minute, wait a minute. 
+Wait a minute!
+
+The fuck happened to my fucking Celtic accent?!
+
+This is fucking bullshit! God damn it, I'm from
+the fucking Highlands. The fuck? What are you
+
+looking at? God damn it. I would like to fucking
+rage, and I take out hammers and I just start
+
+punching the shit out of the trees around me. I'm
+fucking angry. God damn it! I used to have a
+
+fucking charming accent and now I sound like a
+fucking mook.
+
+IFY: He's swinging around all them hammers like
+that. I guess you could say he's too legit to
+
+quit, right?
+
+ORION: I do not understand the reference. I'm so
+sorry for you.
+
+MATT: At this, your imp kind of leans in and says,
+"My apologies for bothering you, master, but is
+
+this a bad time?"
+
+ZAC: Yes. Everyone meet my imp, Lucas.
+
+MATT: He waves and nods and kind of smiles quietly
+at everybody.
+
+MATT: "Hi."
+
+ZAC: By the way, Lucas is wearing absolutely
+nothing except for a Pabst Blue--
+
+MARISHA: What was his name? Mucus? What? Mucus?
+That's such a strange name for an imp.
+
+MATT: Describe him again, sorry.
+
+ZAC: Lucas is wearing nothing but a Pabst Blue
+Ribbon t-shirt and an American flag baseball cap.
+
+I don't know what that is or what it means, but.
+No pants. He's an imp.
+
+MATT: No pants. Got it. It's like a strange,
+alternate-dimension Donald Duck.
+
+MARISHA: I feel like we should do something about
+Cort.
+
+LIAM: Top of the morning to ya. Top of the morning
+to-- fucking hell.
+
+MATT: This angry yelling, by the way, has been
+echoing through the forest, and for a split second
+
+you, Cort, hear this (whizzing noise) as-- what's
+your armor class?
+
+LIAM: My armor class is 16.
+
+MATT: You hear the sound and instinctively push
+out of the way. Your hand slaps what looks like
+
+some sort of small, wooden shaft that just flies
+past you. The rest of you in the middle of this
+
+moment look around you and you see starting to
+crawl out of the nearby trees a bunch of small,
+
+angry, growling humanoid figures going
+(growling).
+
+IFY: Oh yeah, this them goblins they talking
+about.
+
+DAN: Oh, right, goblins.
+
+IFY: Yo, yo gobs. Yo, what up?
+
+MATT: Roll initiative.
+
+MARISHA: Oh, new maps, new maps! New map things!
+Look, it's a new thing!
+
+MATT: So we have over here Snugglelord, Salty
+Pete.
+
+MARISHA: Don't die, Mucus.
+
+ZAC: My imp just tripped on some cords, I'm
+sorry.
+
+MATT: All right, takes me a minute to set up here,
+guys. Make sure you have your initiative numbers
+
+ready.
+
+MARISHA: Oh, we're rolling initiative, right.
+
+IFY: I got a 20.
+
+MATT: Oh wow. Hold onto that number just for a
+second.
+
+ZAC: I got a six. Oh, sorry, I add one, right?
+Yeah, seven.
+
+MATT: We'll say that this is, next to Snugglelord,
+that's Victor. And we'll say that this little
+
+kobold with the spear is Stephen. All right, so--
+
+LIAM: When I find the Critter who took my fucking
+Irish accent we're going to have words. We're
+
+going to have words.
+
+DAN: Certainly not Irish words.
+
+ORION: He's so much more aggressive than before,
+which I did not think was possible.
+
+ZAC: You actually think a small woodland critter
+took your accent from you?
+
+MATT: Okay, so 25 to 20.
+
+IFY: I'm 20. I'm up there, ha, yeah.
+
+MATT: 20 to 15?
+
+ORION: 15.
+
+MATT: 15 to ten? Ten to five?
+
+DAN: Oh. Six.
+
+ZAC: Seven.
+
+MATT: Okay. Double fours, all right. All right, as
+you see all these goblinoid figures start
+
+shuffling out from the sides of the trees nearby,
+and some seem to be laying low in the swamp and
+
+some have stealthed up upon you, kind of
+chittering to themselves. We'll say they're
+
+preparing for another round of either ranged, kind
+of nasty arrows, or some of them are pulling out
+
+these jagged little bladed elements. Ulfgar, you
+have the initiative on this round, ready for
+
+anything as you are, both swords out.
+
+IFY: All right, I'm coming right at the first guy
+who seems to be loading up the next bolt.
+
+MATT: Okay. The closest to you would probably be
+the one behind you, the one that hit you before.
+
+All right, so, you go ahead and move up to it,
+both swords out--
+
+IFY: And I swing down at him with both my swords.
+
+MATT: All right, go ahead and swing for the first
+attack.
+
+IFY: All right. 14.
+
+MATT: 14. Okay. As you swing with the first one,
+it swings down towards it. It manages to catch
+
+purchase on the goblin's body armor but the armor
+seems to streak it off to the side and your sword
+
+plunges into the swamp floor.
+
+IFY: Ooh. And then with the next one-- one.
+
+MATT: With the second one you swing down, and this
+time the goblin actually reaches up and somehow
+
+catches the blade in its hand. You're like, "How
+could a goblin catch a blade and not cut its own
+
+hand off?" and you realize you were swinging it
+with the flat end for some reason. The goblin goes
+
+(cackling) and is standing there clutching your
+blade, putting you in a very bad position. That
+
+will end your turn. Alongside you, though, your
+new son bravely runs up to your side, clutching
+
+the hammer that you had, and says, "Leave my dad
+alone!" Runs up to the goblin and swings. Natural
+
+20!
+
+(yelling)
+
+IFY: Yes!
+
+MATT: Double the four, that's eight points of
+damage. While you're captured, your seven-year-old
+
+son goes up with the war hammer and the side of
+the goblin's skull explodes to the side. Its grip
+
+is released as it falls to the ground.
+
+IFY: That's my son! That's my son, he just killed
+somebody! Ooh I'm so proud!
+
+CHAT ROOM: --with his shield tightly for the rest
+of the journey.
+
+MATT: What was that one?
+
+OFFSCREEN: You're going to love it.
+
+DAN: I don't think we will.
+
+MATT: What was that? I'm excited.
+
+OFFSCREEN: I'll find it.
+
+MATT: Okay. Bring it to us when you find it. All
+right, no worries.
+
+CHAT ROOM: Salty Pete a.k.a. Sam a.k.a. Money Sam
+has a full 22-card Deck of Many Things appear in
+
+his pocket and immediately plays three cards.
+Also, Snugglelord turns into a body pillow.
+
+OFFSCREEN: 60k.
+
+MARISHA: Oh, 60k!
+
+(cheering)
+
+MARISHA: Yes, someone just threw a Deck of Many
+Things on your ass!
+
+MATT: Why are you guys laughing at me? Deck of
+Many Things is a bad thing for you guys.
+
+MARISHA: It's true. Yeah, we're going to die.
+We're going to die.
+
+MATT: So we'll get to that on your turn. That's
+what you'll do on your turn. So suddenly you
+
+realize-- you feel this strange weight appear in
+the back pocket of your suit and you--
+
+DAN: It's real Magic the Gathering in me pocket.
+
+MATT: All right, we'll get to you next--
+With that, that gets us to Quaalude, you're up.
+
+LIAM: Dance, Mercer, dance.
+
+(laughter)
+
+ORION: Where am I on the field? I mean to say
+(changes accent) where am I on the field? Oh.
+
+Wonderful. I look at what's going on and go, oh, I
+can barely stand this, and turn into a giant great
+
+big bear.
+
+IFY: You should've said you could do that back
+when we first met him! That's the most exciting
+
+magic.
+
+DAN: Yeah, way to bear-y the lead.
+
+MATT: You turn into a giant bear--
+
+ORION: Yeah, and it's a brown bear. And, first of
+all, I'd like to (bear noises) for a while and
+
+then--
+
+MARISHA: Yeah, looks like he's on some serious
+hallucinogens.
+
+MATT: All right, we got a goblin here and two
+goblins here immediately in your vicinity.
+
+ORION: All right, where's the Vox Moronica peeps?
+
+MATT: Well, this is you, this is Edna, and this is
+Kort. And over here you have Salty Pete who's the
+
+pirate dwarf, you have Snugglelord and you have
+Ulfgar.
+
+IFY: And I'm crying, 'cause I'm proud of my son
+right now.
+
+ORION: I'm going to bounce over to the goblin to
+my right.
+
+MATT: Over here? Roll a claw and a bite. Go for
+it.
+
+MATT: (muttering) Deck of Many Things. Jesus Christ, guys.
+
+DAN: Seriously, holy shit.
+
+IFY: The deep cuts.
+
+MARISHA: That wasn't the repeat one, there was
+another one as well?
+
+ORION: The bite misses. Right?
+
+MATT: What'd you roll to hit?
+
+ORION: Four.
+
+MATT: Four misses, yeah.
+
+ORION: And the other one is 18.
+
+MATT: 18 does hit. Go ahead and roll damage for
+the claw attack. The bite, you try and snatch up
+
+the goblin, it manages to move out to the side,
+but you manage to swing your claw wide and manage
+
+to catch it in the face.
+
+ORION: Seven damage.
+
+MATT: Seven damage. As you swing, the claw hits
+the side of the goblin's face. You hear it scream
+
+as the claws spear through the side of its jaw and
+neck, leaving open its jugular. Bleeds out and
+
+goes gurgling to the surface of the muddy waters
+of the swamp.
+
+ORION: I'll turn to the other goblin and go,
+(roars). And then that's my turn.
+
+DAN: Did you motorboat his corpse?
+
+(laughter)
+
+MATT: By the way, you have enough movement to go
+up to him if you want to.
+
+ORION: Uh. Yeah, if I can.
+
+MATT: Okay, so you move to there. So that goblin,
+you're staring him down. He looks very scared,
+
+watching that you just destroyed his ally. Okay,
+that ends your turn. It is now their turn. This
+
+one turns here. This one rushes into you, this one
+comes up to Ulfgar, these two both rush into Salty
+
+Pete. This one runs in against you. Actually, this
+one's probably going to come over to Victor. All
+
+right, so. First, we're going with it against you.
+That is going to be a 14. What's your AC as the
+
+bear? Okay, that hits. You go ahead and take five
+points of slashing damage as its scimitar streaks
+
+across the exterior of your bear hide. There's
+going to be one against you, Kurt. That's not
+
+going to hit, that's an eight. So as it comes
+towards you, you dodge out to the side and knock
+
+it away, it doesn't even get close enough.
+
+LIAM: Eyy!
+
+MATT: The one that's coming up behind you--
+
+MARISHA: Oh, hello there little one!
+
+MATT: That's going to be an 11 to hit.
+
+MARISHA: Oh, my AC is 11.
+
+MATT: 11? All right. You take five points of
+slashing damage as it jumps in the air, and arcs
+
+down with a blade, hitting your back.
+
+MARISHA: Snugglelord, control your son!
+
+(laughter)
+
+MATT: The one that's going after Victor, that
+hits. As you see one of the goblins rushes out
+
+with this small spear and jams it into the side of
+Victor, the blackpowder merchant, who goes,
+
+(yelps) "My kidneys!"
+
+ZAC: Oh, what a fucking shame.
+
+DAN: That's some goblin dialysis.
+
+MATT: This goblin here still has his bow out. He's
+going to make a bow attack against you, Salty
+
+Pete. That is a nine against armor class. It just
+breaks off the outside of your armor. There are
+
+now two of them-- or no, sorry, there's one that's
+going after you, Ulfgar. That is a natural 20. You
+
+take-- okay. Eight points of slashing damage as
+the scimitar manages to hit you extremely hard
+
+about the top of your armor. You can feel the
+blade sink in about two inches and hit bone. It's
+
+not very nice in this part. And this last goblin's
+going towards your son, who just bashed the brains
+
+out of one of its allies. That is going to be an
+11, which does hit, because he doesn't have any
+
+armor on.
+
+ZAC: Looks like you didn't jump in front of that
+attack for your son, there, dumbass!
+
+MATT: He takes five points of slashing. You see
+the other one come out with its scimitar and hack
+
+into the side of your son. He screams out in pain.
+You can see there's a big streak of blood down his
+
+arm, and one of his arms is hanging limply to the
+side. Tears welling up in his eyes when he looks
+
+at you, like, "Dad?"
+
+IFY: Don't worry, it's all part of the plan.
+
+DAN: It'll grow back! Chicks dig scars.
+
+MATT: And with that, Snugglelord, it's your turn.
+
+CREW: Just so you know, "A bright light appears
+above. It is Snugglelord's lost shield: his
+
+pillow. He has to equip it for the remainder of
+the journey."
+
+MARISHA: Oh! You have a pillow shield.
+
+MATT: In this moment, you feel a great boon come
+down that same star that sparkled in the sky.
+
+ZAC: Lord, what have you delivered to me?
+
+MATT: And out of a sudden poof of dark shadow,
+this pillow lands into your arms, holding,
+
+strangely, the visage of both you and some other,
+distant hero from another plane of existence. You
+
+clutch it to yourself, knowing that having it will
+give you a plus-two bonus to your armor class.
+
+ZAC: This is really weird, Lord! Slightly
+inappropriate, but I'll take it. Thank you?
+
+MARISHA: Moving in the right direction. Don't ever
+look a gift pillow in the mouth, all right?
+
+MATT: So. What are you doing on your turn,
+Snugglelord?
+
+ZAC: I would like to Hex the enemy closest to me.
+I can't see.
+
+MATT: All right, the enemy closest to you is,
+aside from you guys-- you're right here. There are
+
+two enemies right here that are pretty close to
+you.
+
+ZAC: My right.
+
+MATT: So right there. This guy here, you mean?
+
+ZAC: Sure. Doesn't matter.
+
+MATT: Okay. So this one that's currently attacking
+the blackpowder merchant and stabbed him with the
+
+spear.
+
+ZAC: Wait, that's the one that's attacking the
+blackpowder merchant? I'll attack the other one.
+
+MATT: Okay. (laughs) You turn to the one that was
+firing at Salty Pete.
+
+ZAC: And I Hex him.
+
+MATT: You Hex him, okay, it is currently hexed.
+
+ZAC: And then I attack with the Eldritch Blast.
+
+MATT: All right, all three of them? How many
+Eldritch Blasts can you throw at this level?
+
+ZAC: I believe just one. But I have the Agonizing
+Blast as well, which adds four.
+
+MATT: Right, okay. So go ahead and roll for an
+attack against it. And add your spell attack,
+
+which I believe is plus six, right?
+
+ZAC: Eight, then?
+
+MATT: Eight, okay.
+
+ZAC: Help me roll better.
+
+MATT: You come around and you focus, and your eyes
+go dark black, and there's a burst of smoke energy
+
+out the sides as all of a sudden the shadows from
+the swamp reach up and cling to the body of this
+
+goblin. It looks down, freaking out. It is now
+currently feeling the entwined dark energy of your
+
+hex. You put your hand out before it, and you
+release a burst of dark arcane energy that goes
+
+far too wide and strikes one of the nearby trees.
+The goblin--
+
+ZAC: I think the stapler's still having an effect
+on me. Can you turn it off? I'd let it go, but I
+
+can't stop shaking.
+
+MATT: The goblin looks at you and goes (cackles).
+
+ZAC: Oh, fuck you! I'll get you!
+
+MATT: The blackpowder merchant is still holding
+the spear to the side of him and goes (cackles).
+
+You can move if you want. It's still your turn.
+You can move, and then it'll be the end of your
+
+turn.
+
+ZAC: I can move, but can I do Misty Step, or is
+that another--
+
+MATT: Misty Step's a bonus action. You can only
+move. Nothing's currently in melee with you, so
+
+you can move however you want right now.
+
+ORION: Let's just move away from Salty Pete.
+
+DAN: Yeah, it's gonna get real messy in one
+second.
+
+ZAC: I'm going to move away from the blackpowder
+merchant, and as I'm running away, I'm like, fend
+
+for yourself!
+
+MATT: Okay. And with that, Salty Pete, it's your
+turn!
+
+DAN: What's this in me pocket? It's some sort of
+deck of many things.
+
+ZAC: Wait, did you say 'dick'? There's a dick in
+your pocket?
+
+DAN: Deck.
+
+ZAC: Did you say there's a dick in your pocket?
+
+DAN: I'm just happy to see you. The answer is
+both.
+
+MATT: Is there a deck of cards somewhere, by the
+way, guys? That's usually how this is played.
+
+LIAM: An actual deck. We need an actual deck.
+
+ORION: I only have my bullshit.
+
+MATT: That's fine. We'll use what you have there.
+
+ORION: Oh, shit, okay.
+
+MATT: So go ahead and hand it to Salty Pete. Go
+ahead and pull three of those.
+
+DAN: Saints preserve us!
+
+ORION: Let me shuffle-- that's fine, they're
+shuffled.
+
+ZAC: I'm still unclear. You have a dick in your
+pocket--
+
+DAN: Oh, you'll find out.
+
+MATT: You draw three of them.
+
+MARISHA: Draw good ones!
+
+DAN: All right. Shall I flip the cards?
+
+MATT: Yep. Go ahead.
+
+DAN: King of diamonds, two of clubs, and two of
+diamonds.
+
+MATT: So, king of diamonds, you said?
+
+DAN: King of diamonds, two of clubs, and two of
+diamonds. We have many things in store.
+
+ZAC: Well, that's not good. The DM's laughing.
+
+MATT: You pull out the first card. Suddenly,
+within your hands, it bursts into a golden flame.
+
+Looking into it, your eyes spark, and the
+experience of a thousand generations of your
+
+family past come coursing into your body. You gain
+50,000 experience points.
+
+ALL: What?
+
+MATT: You gain 50,000 experience points.
+
+DAN: What the fucking christ?
+
+MARISHA: You just went to like level 12.
+
+ZAC: Super-Saiyan, man!
+
+IFY: Hey, give me those cards!
+
+MARISHA: Hey, shut up! Oh, we didn't hear it. No,
+we were bitching.
+
+CREW: "The guild laments the loss of your accent
+and gifts you this blessed banhammer of doom."
+
+MATT: There you have it. Banhammer of doom is
+yours. Also acquired within your hands--
+
+ZAC: I'm confused, because she said the loss of my
+accent, but I didn't lose one.
+
+LIAM: Salty Pete is now level nine.
+
+(laughter)
+
+MATT: So go ahead and roll 5d10 and add that to
+your hit points.
+
+MARISHA: That's amazing! Also, you get some fun
+new abilities real quick.
+
+MATT: It'll take a while, so we'll just go with
+it. Add your hit points. You can tell him what
+
+happens. All right, so. And the crossbow that's in
+your hand all of a sudden fires aglow with bluish
+
+magical energy. It's now considered a +2 magical
+crossbow. So the second card you pulled is what?
+
+DAN: That was one card? All right, the second card
+was a two of clubs. Classic card.
+
+MATT: (laughs)
+
+DAN: Oh, shit.
+
+MATT: All right. Your intelligence is now
+permanently five lower.
+
+DAN: Oh, that's-- I'm feeling fucking stupid.
+
+ALL: (laughing)
+
+MATT: You're allowed to draw an additional card if
+you choose to.
+
+DAN: Oh, 100%.
+
+MATT: What's the third one you drew?
+
+DAN: It's two of diamonds.
+
+MATT: Okay. If you singlehandedly defeat the next
+hostile monster you encounter, you gain experience
+
+points enough to gain another level.
+
+DAN: I'm doing it! My fourth card is the queen of
+clubs.
+
+MATT: Oh no.
+
+DAN: This is going to end quickly.
+
+MATT: Okay. The card disappears in a flicker of
+fire, but you see in your mind, suddenly, your
+
+vision press deep into the Nine Hells. You see a
+large pit fiend demon all of a sudden glare back
+
+and go, "Salty Pete. You are my quarry." And then
+vanish in flame, just as the card did. You don't
+
+know what happened, but you get the feeling
+something very dangerous is now hunting you.
+
+DAN: Yeah, I've got a horrible feeling.
+
+ORION: So did that happen instead of the
+intelligence thing?
+
+MATT: No, that happened as well. Deck of many
+things, guys.
+
+ZAC: Your hair just turned blond.
+
+DAN: I'm stupid now.
+
+ZAC: Didn't know that. Good to know.
+
+DAN: I've got a glowing blue--
+
+IFY: I just want to know if I really did just feel
+the presence of a demon pointing at you.
+
+DAN: 100%. It kind of looked like that, but a
+little bit meaner and not a waifu pillow.
+
+ORION: And like four times the size, right?
+
+LIAM: Matt, can we take intermission at some
+point?
+
+MATT: I'm going to right after this battle. Okay.
+That ends your turn. So add your hit points. I'll
+
+give you the sneak attack bonus that he gets now.
+
+MARISHA: You can probably add more points to your
+intelligence.
+
+ZAC: Did you put this hammer in my hands?
+
+DAN: No, I didn't.
+
+MATT: All of your attacks and skills are also plus
+two. Kurt, you're up. Kurt and Edna.
+
+LIAM: Where's the boy? Where's the boy?
+
+MATT: Little boy is right here.
+
+ORION: Don't kill the one next to Salty Pete. He
+has to take that one out.
+
+LIAM: I want to walk over to the goblin. I know
+there's one right behind me, I'm just going to
+
+keep walking. If it takes a swing, I don't give a
+fuck. I don't give a fuck, yeah. I'm going to walk
+
+towards the goblins by the boy. Yeah.
+
+CREW: The gods were unclear.
+
+LIAM: And now, you
+might not have noticed it before, guys, but I got
+
+almost-- what do I got?
+
+CREW: This is for the loss of your accent.
+
+LIAM: Does it come back? I get a prop toy?
+
+ZAC: What kind of sick game are the gods playing
+on me?! You give me a pillow and a hammer and then
+
+take the hammer away and I'm left with the fucking
+pillow?
+
+MATT: The hammer, all of a sudden, the edge of it
+bursts into flames through the sheer force of
+
+frustration and anger. Your accent does not come
+back, but you feel the vengeance for losing it now
+
+is coursing through the actual weapon that you
+hold.
+
+LIAM: So I walk over to him, and you guys might
+not have noticed this before, but I got nothing on
+
+but leather thongs and a tattoo of a badger on my
+chest. Half of my chest is a tattoo of a badger,
+
+and I'm already in a rage, because right before
+the fight started, I went into a rage. I take my
+
+free hand and I fucking rake it down my chest, and
+I say, let's go, Gary! And take my warpick off my
+
+back, and I want to recklessly attack the one that
+struck the boy. I want to split him right down the
+
+fucking middle.
+
+MATT: All right, go ahead and roll for the
+attack.
+
+ZAC: You're going to not use the hammer that just
+started glowing?
+
+MARISHA: Use the hammer!
+
+LIAM: Am I getting a magic weapon? Is that what
+this is? It's unclear. All right. So I'm going to
+
+use this magic weapon. I'm attacking recklessly. I
+got two 17s, so that's a 21.
+
+MATT: 21 hits. All right, so go ahead and roll the
+damage for one of your regular weapons, and add
+
+1d6 flaming damage to it.
+
+LIAM: (counting) 12.
+
+MATT: 12. You walk up and just smash it into the
+mud. The actual flames cause a sizzling sound as
+
+it hits the marshy ground. What was once a goblin
+is now a charred and liquefied mess.
+
+LIAM: The blood splashes onto me, and I look down
+at the kid, and I wipe it off my face, and I wipe
+
+it down his head, and I say, today you are a man.
+
+IFY: I look at Stephen, and I'm like, it's all
+part of the plan.
+
+MATT: Edna. What are you going to do?
+
+MARISHA: All right, so I have one guy on my butt?
+Okay, so question. Jesus. Oh, goodness me. As part
+
+of being a conjuration wizard, I can do a minor
+conjuration as an action, and I can just conjure
+
+things that are up to ten pounds. Can I conjure a
+ten-pound rock over his head?
+
+MATT: You could, yes.
+
+MARISHA: Okay. So I'm going to turn around and be
+like, I told you to get your son away from me,
+
+Snugglelord! And I drop a ten-pound rock on his
+head.
+
+MATT: Okay. It appears. Just go ahead and roll a
+d20 and add your intelligence modifier to it, to
+
+see how you're able to conjure it in the right
+space above it. What'd you roll? You rolled a one.
+
+Okay. So here's what happens. Make a dexterity
+saving throw. As you finish your conjuration, you
+
+go, this way! And the rock appears right above
+you.
+
+ORION: Four.
+
+MATT: Four. You take--
+
+MARISHA: Five total.
+
+MATT: You take four points of bludgeoning damage
+as the rock slams down onto your head. You can
+
+feel your neck jostle and your whole head ringing
+for a second.
+
+MARISHA: I'm still new at this! I'm still
+learning.
+
+IFY: Somebody save grandma!
+Somebody go in there and save grandma!
+
+MARISHA: What? Belial! What?
+
+MATT: Ulfgar, you're up.
+
+IFY: So now I look at this goblin fronting me,
+it's like, guess what? Today you made a mistake.
+
+First mistake: walking up into this swamp. Second
+mistake: messing with me and my son and my family
+
+I have here. I've got grandma over there who just
+got hit by a rock. I've got--
+
+ZAC: A rock she dropped on her own head, mind
+you.
+
+IFY: Semantics. So I'll sweep with Linda and
+Regina.
+
+MATT: Okay.
+
+IFY: First one swings for-- goodness. 23.
+
+MATT: That hits. Go for it, yeah.
+
+IFY: And the second one is a one.
+
+MATT: Okay. Roll damage on the first one.
+
+IFY: All right, so for the first one. Where's that
+d8? There it is. So nine.
+
+MATT: Nine points of damage. As you bring your
+first sword down, it embeds itself about seven
+
+inches into the chest of this small goblin, who
+looks at you, twitching, its eyes slowly rolling
+
+back in its head. With a big grin, you bring your
+second blade down and swing it outward. It cleaves
+
+his torso in two, but the inertia pulls outward in
+the direction of your son.
+
+IFY: No!
+
+MATT: Go ahead and just roll a d20.
+
+IFY: 18.
+
+MATT: 18, okay. You manage to steel your will
+enough to stop the blade but an inch from his
+
+face, the metal sitting there and shimmering with
+power. He looks at you with a moment of sudden
+
+confusion and fright.
+
+IFY: It's all part of the plan.
+
+ZAC: I think that small boy you took away from
+wherever he may be from just wet himself. He
+
+definitely peed himself.
+
+MATT: Quaalude, you're up.
+
+ORION: Oh. Roar! And he's still on me?
+
+MATT: Go for it. Bite/claw attack on him. (laughs)
+
+ORION: What is this, my dex?
+
+LIAM: Strength or dex for him?
+
+MATT: This is your attack, yeah, strength. The
+attack bonus should be with the bear's stat
+
+block.
+
+LIAM: You weren't prepared for that, were you?
+
+MATT: I've got the monster manual right here. If
+you're a druid--
+
+MARISHA: It's a brown bear, right? At the very,
+very back.
+
+MATT: Brown bear, there you go. Plus five to hit.
+
+LIAM: Plus five to both of those. 17 and 12.
+
+MATT: So 17 and 12? 17 hits. So the first attack
+hits. That would be your bite.
+
+ORION: Okay, sure. Yeah. That's 1d8?
+
+MATT: 1d8 plus the strength modifier.
+
+MARISHA: Plus strength. Five, right? What's your strength?
+Plus two.
+
+ORION: Oh, five.
+
+MATT: Five points of damage. You bite at it with
+your bite, get a big old chunk of its shoulder and
+
+tear it off, and it screams out in pain, the dark
+blood of the goblin pouring down, but it's still
+
+standing angrily at you. As you swipe your claw at
+it, it ducks back out of the way, and it looks at
+
+you with this foam at the edge of its mouth.
+
+LIAM: Is it the bear's strength bonus? Add two
+more points of damage to that.
+
+MATT: So it would be seven total. So as it darts
+back and looks at you, growling, it's lost way too
+
+much blood and tries to make a swipe at you, but
+falls face-first down into the swamp. You can feel
+
+the gurgling of its final breath pulling out into
+the water at the top of the marsh. It is gone.
+
+ORION: Oh. Sweet. That made a big difference.
+
+MATT: You can still move if you want.
+
+MARISHA: Help me!
+
+ORION: Where's Edna? Let me go--
+
+MARISHA: I've hit my head and I can't get up.
+
+ZAC: Hit your stupid button!
+
+ORION: I have that chunk still in my mouth that I
+ripped off, yeah? I'm going to spit it in the
+
+goblin's face.
+
+MATT: Okay. Make an intimidation check.
+
+LIAM: Wow, it rolled up on the dice. Not too
+good.
+
+MATT: The goblin catches it in its mouth and
+starts chewing. Yeah, goblins are a little weird.
+
+All right, that brings it to their turn.
+Strangely, this fight-- most goblins are very
+
+cowardly creatures, but you start noticing in
+these goblins as you're fighting them, all of
+
+their eyes are clouded over, and they're fighting
+with a fervor and a perpetual anger where they
+
+don't even really notice the danger they're in.
+This is uncommon to a species that is generally
+
+cowardly by nature. The goblin that you just
+finished chewing looks at you and lashes out at
+
+you with its scimitar. That is going to be a 20.
+Hits, okay. You take five points of slashing
+
+damage as it arcs its scimitar across your bear
+form, leaving another big streak of slash damage
+
+across the front of your body. We have the
+goblin that is hexed. It is going to be attacking
+
+you, Salty Pete. That is going to be a 17 to hit.
+
+DAN: That hits.
+
+MATT: All right, so for that, you take five points
+of piercing damage from a shortbow arrow that
+
+(impact) into your back.
+
+DAN: I can afford it.
+
+OFF-SCREEN: Incoming message.
+
+MATT: Okay.
+
+DAN: The anticipation is quite literally killing
+me.
+
+CHAT ROOM: Whenever an ally is injured,
+Snugglelord has the uncontrollable urge to hug
+
+them and they heal.
+
+LIAM: Aw, that's sweet.
+
+MATT: So you see this arrow sticking out of your
+ally's back, and you suddenly feel like, oh no! I
+
+need to go and help my friend! But we'll get to
+your turn--
+
+ZAC: When the fuck would I ever say or do that?!
+
+(laughter)
+
+MATT: We'll get to your turn when we get there.
+All right, so. The one is going to be attacking
+
+the powder merchant. It misses. You now have--
+this one is off on the side. It is going to rush
+
+up towards the Snugglelord now with its scimitar
+in the air, and that's going to be a 14 to hit.
+
+What's your AC?
+
+ZAC: More than that. I have my trusty pillow. 15.
+
+MATT: 15, that'll do. You hold your pillow out in
+front of you, and the blade arcs off, sparks
+
+flying, almost like the exterior of the pillow is
+iron for a split-second.
+
+ZAC: What the shit?!
+
+MATT: Bringing it to your turn, Snugglelord.
+
+CHAT ROOM: A black unicorn randomly appears and
+permanently attaches itself to Snugglelord's
+
+loins.
+
+(laughter)
+
+MATT: As this happens, you feel this urge to heal
+your friend, you hear this tiny (hoofbeats) and
+
+you see this really, really small pitch-black
+unicorn comes up and runs up and just latches
+
+itself to the outside of your crotch and forms
+this protective barrier.
+
+ORION: Unicorn codpiece!
+
+DAN: You've got a unicock.
+
+ZAC: Look, we both leveled up, Salty Pete.
+
+MATT: So it's your turn.
+
+ZAC: So now am I--
+
+MATT: You're right here, this goblin's in front of
+you. You feel the uncontrollable urge to go and
+
+help someone who's been wounded recently, which
+would be either Edna or Salty Pete.
+
+(laughter)
+
+LIAM: Work that unicorn, girl!
+
+ZAC: Edna, I feel--
+
+MARISHA: What? I'm sorry, you're going to have to
+speak up--
+
+ZAC: The Shathroom is drawing me towards you.
+
+MARISHA: What?
+
+ZAC: The Shathroom is commanding me to help you,
+to heal you, I don't want to do it, but it's--
+
+MARISHA: Oh, Asmodan.
+
+ZAC: It's making me do it! (strained sounds)
+
+MATT: So you move to her. Put you there, it's
+fine. The urge makes you move a little bit faster
+
+than you normally would. You get up to her, but
+the goblin does get one swipe at you as you run
+
+by. That is a 16. You take five points of slashing
+damage as the blade streaks across the back of
+
+your tiefling form.
+
+ZAC: "Ah! This is stupid!"
+
+MATT: You rush up and hug Edna from behind--
+go ahead and roll a d8.
+
+MARISHA: I missed you too, Snugglelord.
+
+MATT: Go ahead and roll a d8, Snugglelord.
+
+MARISHA and LIAM: The unicock!
+
+ZAC: It's a three.
+
+MATT: Three. You heal three points of damage from
+the warm embrace of the Snugglelord. And you
+
+almost take damage from the piercing of the tiny
+unicorn horn in the side of your hip.
+
+ZAC: It's like holding legos in a pantyhose! This
+is gross! Ugh!
+
+MATT: Salty Pete, who is now the Conan of this
+adventure, it's your--
+
+DAN: I'm feeling great! So, is it possible to use
+my cunning action to hide until I go into
+
+stealth?
+
+MATT: You have to really be in a situation where
+you can hide properly.
+
+LIAM: You can run up to any enemy who's five feet
+away from one of your allies and distract them.
+
+MATT: Which, by the way, currently the powder
+merchant is fighting this guy, so this guy you
+
+could still do some sneak attack damage if you hit
+it. You just want to try and get away from it
+
+because if you're attacking with a crossbow, you
+have disadvantage if it's right up next to you.
+
+DAN: Got you. All right, and there's a guy who's
+right next to me as well?
+
+MATT: Right there, yeah.
+
+DAN: Okay. All right, I'm going to use my cunning
+action to disengage. Here we go, pretty cunning!
+
+MATT: Where do you want to go from there? Do you
+want to move--
+
+DAN: I'd like to get behind him so I can flank him
+with my sword.
+
+MATT: Okay, so you move over there.
+
+ZAC: Do you need my magical codpiece for this?
+
+DAN: No! You're fine, just hug the lady on the
+ground!
+
+MATT: So you pull your sword out? Go ahead and
+roll for an attack.
+
+DAN: Okay. It's a 20, not natural, though.
+
+MATT: Okay that hits! Go ahead and roll damage
+plus sneak attack.
+
+DAN: All right! That's going to be a lot, I need
+6d6.
+
+(laughter)
+
+DAN: That's stupid.
+
+LIAM: I played as a rogue for three years before I
+could do that!
+
+DAN: Listen, there's many things that are going to
+happen tonight.
+
+ORION: Annihilation! He's dead! Whatever it is--
+
+MATT: How much damage is that?
+
+DAN: Let's see. That's like 40. Some shit. Okay,
+12, 22, 27, 28 points of damage. Wait, plus three
+
+more... 31!
+
+MATT: 31! It had seven hit points. So, as you
+vanish stealthily into the darkness of the swamp,
+
+you can see the goblin that's currently harrying
+the blackpowder merchant, Victor, looks over its
+
+shoulder, "Huh?", as suddenly the blade protrudes
+from its chest with such force that its ribcage
+
+tears open, spraying the contents of its torso all
+over the blackpowder merchant.
+
+DAN: "Oh, you're in the splash zone!"
+
+(laughter)
+
+MATT: (coughing) "Good job!"
+
+DAN: "Surprise! Here's Salty!"
+
+MATT: Kurt, you're up.
+
+LIAM: How do I top that?
+
+DAN: Do I level up?
+
+ORION: Yeah he did! He leveled up! He got to level
+ten!
+
+ZAC: Guys, we have a message!
+
+CHAT ROOM: Bahamut, impressed with his bravery,
+imbues a "XIX, the Sun" card to Stephen. He is now
+
+a monk.
+
+MARISHA: Wait, Stephen's now a monk?
+
+MATT: As you look over to your child in this beam
+of-- a silver-platinum light comes down from some
+
+mystical source, you hear the flapping wings of a
+dragon--
+
+CHAT ROOM: Suddenly, in the middle of whatever is
+happening, a beautiful and dangerous princess
+
+appears in battle calling herself Ryco.
+Snugglelord immediately falls madly in love with
+
+her and proclaims to his go--
+
+ZAC: Ryco, if you made that message...
+
+MATT: You mean Ryan Copple?
+
+ORION: Ryco is--
+
+MATT: Oh, Ryco. Okay, well--
+
+MARISHA: That's hilarious. I'm hoping so.
+
+DAN: I'm level ten, you guys!
+
+ZAC: So a princess named Ryco-- I have not got to
+do anything--
+
+MATT: And just then Ryco appears on the
+battlefield, three-point landing, Avengers-style,
+
+looks over and you can see now, this beaming
+platinum light that's on your son, coming down, is
+
+now coming from her as she holds aloft her holy
+symbol. She looks down and goes, "Stephen, you
+
+shall be the savior of this group", at which point
+you see now his muscles pulse into him and now he
+
+looks intensely ripped, as bracers now attach
+themselves.
+
+MARISHA: Is he still seven?
+
+MATT: He's still seven years old, but the
+scariest-looking seven-year-old you've ever seen.
+
+DAN: "The sweet baby's got a six-pack on his
+six-pack!"
+
+MATT: All right, so Kurt. All this happens around
+you, the princess winks at you,"Go! Fight,
+
+once-Irishman!"
+
+(laughter)
+
+OFFSCREEN: Nobody has the thing up on their phone
+or something? They're being cut off, some of
+
+them.
+
+ZAC: Some of them are getting cut off? I don't
+have my phone on me. I can do that.
+
+LIAM: Oh, jeebus. What enemies are left? I
+don't--
+
+MATT: There's one there and one here.
+
+LIAM: All right. I'm running towards-- there's one
+by Edna and Snugglelord? I'm running over. And I
+
+yell-- and it's attacking Edna?
+
+MATT: Yes.
+
+LIAM: And I say, (irish accent): "Nobody--" Fuck!
+
+(Brooklyn accent) Nobody touches my fucking girlfriend! 
+Come here, you! And I take the hammer,
+
+right in his head.
+
+MATT: All right, go ahead and roll an attack.
+
+MARISHA: "Oh, Kurt! Thank you so much, my sweetie
+patootie!"
+
+(laughter)
+
+LIAM: That's a 19.
+
+MATT: That hits, go ahead and roll damage.
+
+LIAM: Seven, nine, 11. Age is just a number, all
+right?
+
+MATT: As you rush over, you take the hammer and
+smack it into the side of the goblin and it goes
+
+just scattered into ash, and slowly drifts down
+across the bottom of the swamp floor.
+
+LIAM: And I take some of the blood off my weapon
+and I smear it on Edna's face and say, now you are
+
+a man.
+
+MARISHA: What? I've got nice cans? Why thank you,
+I know! You should've seen me when I was 20!
+
+MATT: Edna, it's your turn.
+
+MARISHA: What? Oh, it's my turn. Okay, am I still
+surrounded by anything?
+
+MATT: No, there's just one over here and one
+goblin that looks hexed and is currently very
+
+outmatched. The party is ever growing.
+
+MARISHA: "Is that your son, Olaf, or is that a
+goblin? Is that a gob-- Magic Missile!"
+
+MATT: All right! Go ahead and roll Magic Missile
+damage.
+
+MARISHA: Two, five, ten!
+
+MATT: The goblin, which now pulls out a second
+arrow and is aiming it towards you. As it pulls
+
+back, the three arrows go (swooshing) as each
+burst of arcane energy slams one into its chest,
+
+one into its shoulder, and the final one slams
+under the chin, causing the front of its head to
+
+explode out into a glimmering spray of crimson
+into the night.
+
+DAN: Christ!
+
+MATT: The current threat disengaged, you all look
+around at the chaos that just ensued and have to
+
+take a moment to really digest what has
+transpired, and with that we're going to take a
+
+quick five-minute break! We'll be right back to
+continue what the hell this is.
+
+MARISHA: We got to level up Dan Casey!
+
+DAN: I have 64,000 experience points!
+
+(laughter)
+
+[soft music]
+
+GIRL: Thank you.
+
+[soft music]
+
+GIRL: Thank you.
+
+BOY: Thank you.
+
+[soft music]
+
+GIRL: Thank you.
+
+GIRL: Thank you.
+
+[soft music]
+
+GIRL: Thank you.
+
+[soft music]
+
+BOY: Thank you.
+
+BOY: Thank you.
+
+[soft music]
+
+GIRL: Thank you.
+
+[soft music]
+
+GIRL: Thank you.
+
+[break]
+
+MATT: Welcome back, ladies and gentlemen, to the
+adventures of Vox Moronica and all the chaos that ensues.
+
+ZAC: I have one quick message, guys. Because we
+hit our goal, we've now raised it to 75,000, and we
+
+have until the end of this game to raise it. Now,
+don't forget, as you've probably witnessed, every
+
+$500 donation, we've been reacting and doing the
+crazy shit that you've been telling us to do.
+
+DAN: I'm level ten now! Everything's on fire! A
+child has a six-pack! You did this!
+
+ZAC: And I'm about to, well--
+
+MATT: All right, so here we go. So.
+
+MARISHA: What level is Stephen, by the way?
+
+MATT: Well, Stephen is now currently a level one
+monk.
+
+MARISHA: Level one monk, all right.
+
+MATT: Which is still pretty good for a
+seven-year-old, I'm just saying. So you guys, as
+
+the battle winds down and the initial adrenaline
+wears off, you can see Ryco, the princess that
+
+landed in a three-point, stands up and looks over,
+armor glimmering, beautiful face, long dark hair.
+
+Glances about and gives everyone a look--
+
+ZAC: Huge knockers.
+
+MATT: Huge, enormous, and glances about the rest
+of the party and goes, "You warriors have proven
+
+"yourselves to delve into this dangerous night and
+this swamp. Who do you call leader?"
+
+ZAC: Me. This one.
+
+MATT: She approaches you. "And what purpose do
+you--"
+
+CHAT ROOM: Gary the Badger comes to life as a
+spirit animal and permanent companion of Liam's
+
+character. Gary, feeling the deep hurt inside
+Liam, restores his original accent. Liam can
+
+change Gary change between.
+
+MATT: So what was the top of that one?
+
+ZAC: I think the computer volume needs to be
+turned back up there, and I've got it right here.
+
+"Gary the Badger comes to life as a spirit animal
+and permanent companion of Liam's character. Gary,
+
+"feeling the deep hurt inside Liam, restores his
+original accent. Liam can change Gary change
+
+"between the tattoo form and the spirit form at
+will."
+
+DAN: Holy shit!
+
+LIAM: The accent is back?
+
+MATT: The accent is back. The badger, Gary,
+reaches out to you and (animal sounds).
+
+LIAM: So Kurt drops to his knees and openly starts
+weeping and hugs the badger to him and says, I
+
+lost Gary five years ago, and there's been a hole
+inside me ever since! You, little man, you and I
+
+are going to go places! And he's into my tattoo.
+
+DAN: That's freaky as shit!
+
+ORION: I turn out of bear form.
+
+MATT: Okay.
+
+CHAT ROOM: Salty Pete suddenly sees his lost
+fingers magically reappear. As he attempts to feel
+
+them, the illusion fades and the fingers
+disappear. He hears the demon's cackling laughter
+
+in the darkness.
+
+DAN: Why! Why would you take my fingers, then
+bring them back, and then cackle at my loss?! Oh
+
+no, my long-lost digits! I thought they were a
+necklace, but no! They're a cruel fallacy!
+
+MATT: As the illusion of the fingers fades, you hear
+in the distance, echoing in the dark forest,
+
+(cackling). You sense some very dark evil is very,
+very near.
+
+DAN: Oh, thank goodness I'm level ten.
+
+MATT: At which point, Ryco has now approached the
+de facto leader of the group and says, "Your name?"
+
+ZAC: I'm Snugglelord.
+
+MATT: "And your purpose in this swamp?"
+
+ZAC: To take your hand in marriage.
+
+MATT: Pardon me?
+
+ZAC: I get down on one knee and I look at Ryco
+right in the eyes, and I say, you're awesome and
+
+amazing at everything. Will you be my
+big-knockered wife?
+
+MATT: Roll persuasion with advantage.
+
+LIAM: That's fucking beautiful.
+
+MATT: As the rays of moonlight come streaking
+through the tops of the forest, this crystalline,
+
+beautiful moment-- You roll twice; you take the
+higher. Frames the two of them, this male and
+
+female form, masculine--
+
+CHAT ROOM: Crazy merchant man and Stephen both
+shout, Look these! This burning red, an explosion
+
+the size of a nuke goes off in the distance. (two
+tracks playing over each other) feel of change
+
+over why.
+
+ZAC: I'm going to load those up.
+
+MATT: Load those up. We still have a couple
+messages to get to, guys.
+
+ZAC: That was a 17.
+
+MATT: Ryco glanced down at you, and you can see
+this red flush in her cheeks. She goes, "Well,
+
+"you, warrior, you shall be my champion. I accept
+your hand."
+
+IFY: Yeah, she accepted, but it was more than 17.
+
+ZAC: I'm sorry. It was a 23 or something like
+that. I was underselling it.
+
+MATT: Nevertheless, she takes your hand and pulls
+you up and, while you yourself are caught in her
+
+eyes, she, in a very forceful warrior self,
+reaches out, takes you by the hand, and Frenches
+
+you deeply in the center of the swamp.
+
+(whooping)
+
+IFY: I cover up Stephen's eyes.
+
+ORION: From that?
+
+LIAM: Is Frenching you in the swamp a euphemism?
+
+MATT: It is now.
+
+DAN: Don't look it up on Urban Dictionary!
+
+ZAC: I pull back and say, sorry, sorry, that's
+actually just a unicorn. It's not what you think.
+
+It's literally a unicorn. I'm sorry.
+
+MATT: She looks disappointed, then smiles and
+goes, "Well, I entrust you are here for worthy
+
+"reasons. Now, as my future husband, I wish you all
+health, and I gift you this." And her fingers go
+
+out, and with a magical array, this strange
+leather girdle appears and hovers in the air.
+
+"This will give magical power to whoever should
+wear it, and a gift of switching their sex to the
+
+"other side to gain a new, beautiful perspective on
+life. Who would take this boon?"
+
+ZAC: Guys, my Ryco's into some freaky shit.
+
+DAN: I feel like we all want that. I feel like all
+of us really want it. All of us.
+
+ZAC: I mean, you could give it to your husband if
+you ever wanted, per se, a wife as well.
+
+IFY: I think it should go to me and my buff-ass
+son. I mean, we got a lot of stuff to work out.
+
+ZAC: I would say it would be quite nice for your son to
+have a mother as well.
+
+IFY: You don't know. I need to play two roles. He
+don't have a mom anymore. I need to be the daddy
+
+and the mama.
+
+DAN: I'm clearly the strongest one here. I need
+the strength that comes with being a woman.
+
+MARISHA: What?
+
+ORION: I mean, by all means.
+
+MATT: I would like the entire party to roll a
+persuasion check. Whoever rolls highest--
+
+MARISHA: I take seniority shit around here! I'm
+old! Oh, I have an 18!
+
+LIAM: I'm petting Gary under a tree and watching
+all this.
+
+MARISHA: What was it? Persuasion? 20 total.
+
+ORION: Two.
+
+ZAC: 17.
+
+DAN: Six.
+
+IFY: Five.
+
+MARISHA: Look, you see, I've been around for quite
+some time, and I have had to live under the
+
+patriarchal values of this kingdom, and you know
+what? It's really tough being a woman. I had to
+
+birth two big, strong boys out of me.
+
+ORION: From your vagina?
+
+MARISHA: And you know what? My good late Charles
+husband, God rest his soul, he was a good husband,
+
+but he--
+
+ORION: They always used to say, Charles would
+charge.
+
+MARISHA: What?
+
+MATT: Ryco does this with her fingers, and the
+girdle drifts toward you and goes, "It is your
+
+"choice, then. You decide who takes the girdle." At
+which point, she looks over to Snugglelord, winks,
+
+and then vanishes in a puff of smoke.
+
+DAN: Bye! Bye, Ryco!
+
+IFY: It's all right. Sometimes we've got to be
+nice to Grandma, okay?
+
+DAN: Yep, well, sure. She'll be Grandpa.
+
+ORION: Are you going to try it on? Does it make
+you younger?
+
+MARISHA: Yes. I don't think so. I think it just
+makes me Ed.
+
+ORION: So it will make you a gross old man with
+low-hanging balls. That's not good.
+
+MATT: So you take the girdle. Do you put it on?
+
+MARISHA: Yes, I do.
+
+MATT: All right. As she puts the girdle on, you
+can see her older, elderly woman form shimmers and
+
+shifts into instead an elderly, hunched-over man
+with a hook nose and a cleft chin.
+
+MARISHA: What do I look like? Am I handsome?
+
+ORION: It looks like your name is Ed, now.
+
+MATT: At which point, Stephen, the monk kid, and
+the old blackpowder merchant, both together
+
+shout-- which I can't shout together because I'm
+one human being-- "Look! An explosion!" "Look! An
+
+"explosion!" And you guys look off in the distance
+and see this bright red glow as an almost
+
+nuclear-sized red burst comes coasting through the
+trees.
+
+ORION: I hang onto the chain-link fence.
+
+ZAC: I grab the merchant, and I put him in front
+of me and hold him.
+
+IFY: I grab and protect my buff-ass son.
+
+DAN: I clench my body.
+
+LIAM: I grab Ed and say, it doesn't mean a thing,
+baby! And I kiss him.
+
+ORION: I look at playground.
+
+MARISHA: It's 2015! We can be progressive, god
+damn it!
+
+MATT: As the blast wave comes coursing through the
+swamp, expecting to be turned to dust, instead a
+
+wave of warmth drifts over you. You open your
+eyes, releasing the tension, and you and you and
+
+you and you are all women.
+
+ZAC: I have boobs!
+
+DAN: I'm Salty Pietra!
+
+ZAC: I have boobs!
+
+MATT: You turn back to Edna.
+
+DAN: At least you have the girdle!
+
+ZAC: I have boobs!
+
+MARISHA: I didn't even get to see what my member
+looked like! That's really unfortunate!
+
+ZAC: Oh, I should look fast.
+
+DAN: Now it's an innie again!
+
+IFY: That don't mean a thing, baby! That's Ulfgar
+Fireforge, ex-pit fighter, ex-bin, sellsword;
+
+bullshit talks, money walks; I got a son now; his
+name is Stephen--
+
+MATT: "No, it's now Stephanie!" As you now seem to
+have a monk daughter who all of a sudden, the
+
+muscles rip even heavier as she all of a sudden
+ascends to level ten to match Salty Pete.
+
+DAN: Finally! Someone on my level!
+
+MARISHA: What? Why? Just because?
+
+MATT: Because the deity Shathrum demanded that
+this blast of energy also instill the heroic
+
+presence within this child, who ages four years
+into the future. At the tender age of 11, this
+
+daughter, now strong, Korra-style, glances up at
+her mother and goes, "Now I can protect you, Mom!"
+
+IFY: That's my baby. Aw.
+
+ORION: I don't know about you, but I'm quite happy
+with the results.
+
+ZAC: I have boobs!
+
+LIAM: Kurt holds her bosom and says, my tattoo's
+now three-dimensional!
+
+DAN: It's like a relief map!
+
+MARISHA: I just want you to know, Kurt, that this
+doesn't change anything. You were open-minded when
+
+I was a man, and now--
+
+MATT: Everyone roll a perception check.
+
+LIAM: Feel these! They're fantastic!
+
+MARISHA: Okay. Ooh!
+
+LIAM: Roll a what? What's going on?
+
+MATT: Roll a perception check, for the love of
+God! Roll a perception check! All of you!
+
+IFY: I rolled a one.
+
+MARISHA: 25.
+
+IFY: A one.
+
+DAN: 15!
+
+ZAC: 24.
+
+MATT: Both Quaaludia--
+
+ORION: You can call me Q.
+
+MATT: Q and Edna glance off, and you see in the
+distance this large mound of swamp earth that
+
+seems to be similar to what the alchemist had told
+you to go ahead and locate, where apparently this
+
+doorway had been opened.
+
+ORION: I go over to investigate. You want to come
+in?
+
+MARISHA: Ah, yes. I think we were standing next to
+what we were looking for the whole time.
+
+ORION: Is something wrong with your ear?
+
+MARISHA: I don't know. I was talking to you via
+comms, I don't know why.
+
+ORION: What is a comm? You so crazy, girl. I love
+you. Let's go investigate, yes? I walk over. I see
+
+what is going on.
+
+LIAM: I take the war pick off my back, and I start
+walking toward the mound.
+
+MATT: All right. Making your way deeper into the
+Zola Swamp toward this mound, you begin to recall,
+
+you've heard mysteries about this Zola Swamp, and
+you've heard such things as rampant curses. The
+
+magical energies here are so strong and cross over
+so with many realms that chaos seems to burst out
+
+at periods of time, and you feel like this entire
+group has fallen into a nexus period in which the
+
+magical energies uncontrollably alter the
+landscape around, thus the events that have
+
+transpired in the recent time.
+
+MARISHA: This explains why it's been a very weird
+day.
+
+DAN: There's got to be a rational explanation.
+
+MATT: As you make your way toward this earthy
+mound, you look about the outside and you can see
+
+there are a series of animal limbs and strange,
+crudely carved runes and various skulls that are
+
+all hanging by pieces of twine all around the
+outside of this entranceway that seems to delve
+
+into a deep, animalistically carved natural tunnel
+into the swamp floor proper.
+
+ORION: I want to do an insight check.
+
+MATT: Onto?
+
+ORION: To see if I recognize any of the carvings
+or any of that stuff.
+
+MATT: It wouldn't be insight, per se. Insight's
+more of a person's motives. You can go ahead and
+
+roll a religion check.
+
+ORION: Okay. That's 14.
+
+MATT: Okay.
+
+IFY: Can I roll a perception check?
+
+MATT: What are you looking for?
+
+IFY: My vagina.
+
+(laughter)
+
+ORION: I guess we should explore ourselves.
+
+IFY: That is a nine.
+
+MATT: Nine? You're going to be busy for a while.
+
+DAN: Take 20!
+
+MATT: All right, so. Glancing about--
+
+ZAC: When you find it, it's glorious.
+
+MATT: --the rooms, as you look across them, the
+carvings, there are these strange, ancient
+
+symbols. You can see what looks almost like a G
+and an S. These are symbols of the great, ancient
+
+deity, Shathrum.
+
+ORION: I recognize these things, eh, Snugglefoots?
+Come over here and look. It seems like there is
+
+some kind of G and S.
+
+ZAC: It's the Shathrum! Shathrum! Our god!
+
+DAN: Ah, your god.
+
+ZAC: There's only one god!
+
+IFY: Excuse me, did you not see that dragon come
+out and make my daughter buff? Did you not see
+
+that dragon come out and make my daughter buff?
+Did you not see the dragon in the sky?
+
+ZAC: That was God, the Shathrum!
+
+IFY: No, that was Bahamut.
+
+DAN: Then how do you explain the demon that took
+away my fingers, then made them come back, then
+
+took them away?
+
+ZAC: It's the sick sense of humor of the
+Shathrum!
+
+ORION: Can I feel it? Is it open?
+
+MATT: Yeah. It is an open tunnel that leads deeper
+into the earth itself.
+
+ZAC: We have to go! We have to! This is my
+calling!
+
+DAN: Let's do it!
+
+ZAC: I was expecting resistance, but you want
+to--? Okay, fine. I just thought you would be
+
+against me on this.
+
+DAN: It was a run-by fruiting.
+
+MATT: The feminine bravery that seems to have
+taken root in Salty Pete, you can see the
+
+confidence of a modern-day woman taking over what
+was once a relatively questioning male, leads the
+
+charge deeper into the swamp earth before you. The
+tunnel, dark and moldy from the interior, the cold
+
+air hitting you-- you can smell mildew and rot and
+what sounds like wood that has largely fallen into
+
+dusty awfulness. Descending further into the
+cavern, you hear in the distance low muttering,
+
+this small, synchronized, cacophonous chant, this
+(whispered incantations) echoing maybe, you'd
+
+imagine, 20, 30 feet ahead of you, around a bend.
+You can see a little bit of flickering light
+
+that's pushing into the hallway from around that
+turn.
+
+ORION: When I hear that, I'm going to use my Mask
+of the Wild, and I'm going to blend into the side
+
+of the rock.
+
+MATT: Okay. As you shimmer to the side of the
+rock, go ahead and roll a stealth roll with advantage.
+
+ORION: Yeah, that'll work. That's a 19.
+
+MATT: 19? Okay. You crest around the edge. You
+enter an actual chamber at the end of this
+
+hallway, closed off, and there's a couple of small
+rocks in the center. But in the middle of this,
+
+you see a large bonfire. An orangish-blue flame is
+flickering and burning. You can see stones
+
+arranged almost like a haphazard, half-fallen
+doorway. You can see what appears to be four
+
+goblins around, one of which is larger than the
+others with all this war paint across its face,
+
+and they're all chanting in unison. (chanting)
+
+MARISHA: I go ahead and cast Mage Armor on
+myself.
+
+MATT: All right, you have Mage Armor on yourself.
+You can see though, the lead goblin is throwing
+
+things into the flame. With each toss, the flames
+flicker up into vibrant blue flames and then die
+
+back down, the color turning more and more from a
+blue to a bright, vibrant yellow. It's pulsing
+
+now. The fire's pulsing.
+
+DAN: I'd like to stealth.
+
+MATT: Roll stealth, Salty Petunia.
+
+DAN: All right, that is a 30.
+
+MATT: Okay!
+
+DAN: I'm level ten!
+
+MATT: All right. So as you come around the bend
+too, you see the druid, which is currently hidden
+
+across the rock. You also have the same view, and
+you can see the danger at this. Suddenly, as
+
+you're watching, you see the flames flicker in,
+and the goblins all stand up, and a tendril spikes
+
+out of the flames. This small purple door seems to
+open up, and a tentacle reaches out and wraps
+
+around a goblin and pulls it in. It screams. All
+the goblins keep chanting, keep chanting. It opens
+
+up even further and further, and from what you can
+see now, this entity starts pulling through. It's
+
+this weird, fleshy mass, almost like this
+amorphous, giant cluster of flesh that is
+
+surrounded with teeth and eyes, eyes that glance
+around in all positions, mouths that open up and
+
+screech and squeal, and then disappear. It's
+constantly moving and shifting in its position,
+
+and as it comes out, this weird, twisting
+cacophony of voices of all different shrieking
+
+sounds and low guttural murmurs all happening at
+once, (eldritch noises). The goblins smile and
+
+look more and more feverish as suddenly it reaches
+out and grabs another one, stuffing it into its
+
+maw, until eventually only the lead goblin
+remains. As he stands there, chanting and chanting
+
+and chanting, the creature moves forward and
+slowly envelops and rolls over the goblin. You
+
+hear this scream as its body is completely
+consumed. As it pulls back, you can see almost the
+
+goblin's face appear as part of its fleshy mass
+for a second and then vanish into it. You also see
+
+a partially absorbed human arm and half of a face
+that matches the description of the assistant,
+
+Cyril, that you were coming to find.
+
+DAN: It's Ulfgar's vagina! We found it!
+
+IFY: Real funny, guys. You guys are real funny.
+
+ZAC: I take my imp off my shoulder, and I say,
+Lucas! Stand five feet in front of me! And then I
+
+use Crown of Madness, and I attach it to the
+merchant, my "son", and make him also stand five
+
+feet in front of me, creating a human shield--
+well, not human, but a shield, a body shield, what
+
+children are for. They're ready to soak up that
+damage.
+
+DAN: How big is this entity, again? How gigantic?
+
+MATT: There it is.
+
+DAN: (nervous laughter) Not great.
+
+MATT: So I would ask all of you to roll
+initiative, please.
+
+ORION: Matthew? As position goes, I'm right
+there.
+
+MATT: You're off to the side?
+
+ORION: Up against there, and yeah. And my Mask of
+the Wild, I look like the wall. That's what it does.
+
+MATT: Yes, I'm aware.
+
+DAN: Am I still stealthed for this, or did I--?
+
+MATT: You are still stealthed, currently, as far
+as you know.
+
+DAN: I'll find out real quick.
+
+MATT: Yes, you will. All right. So initiative
+rolls, everyone? We have 25 to 20?
+
+LIAM: 20.
+
+MATT: 20, all right. All right.
+
+ZAC: 18.
+
+MATT: 18 for Snuggs over there. 20 to 15, 15 to
+ten?
+
+ORION: 13.
+
+DAN: I also have a 13.
+
+MATT: All righty. Salty. Ten to five? Five to
+one?
+
+IFY: One!
+
+ZAC: Still looking for that vagina, eh?
+
+IFY: I'm having fun here.
+
+MATT: So top. Kurt, you're actually up first, and
+you are back here with the rest of the group in
+
+this circumstance.
+
+MARISHA: Go get them, tiger!
+
+LIAM: Right. Well, obviously I would like to
+fucking rage! And I push my beautiful mane of hair
+
+back and slap my-- oh, fucking hell, that hurts.
+Let's do this, Gary! And Gary the badger flies out
+
+of my breast and lands in front of me, ready to
+fight by my side.
+
+ZAC: You have boobs now!
+
+LIAM: And I pull up one of my hammers and flip it
+in my hand, and as soon as I catch it, I throw it
+
+at the fucking thing.
+
+MATT: All right, so as you move forward to get
+within visual range of it, moving past your
+
+allies, Gary appears right in front of you. This
+dice will be your Gary badger. And you can go
+
+ahead and throw the hammer at the entity. It is
+with disadvantage because of the distance it is
+
+from you right now. So go for it.
+
+LIAM: Oh, that's terrible. Oh, terrible, terrible.
+It flies right by.
+
+MATT: It does. It actually lands over here. Your
+hammer ends up slamming and streaking across,
+
+hitting this piece of stone, and then arcing off
+to the side. So is that a regular hammer or the
+
+magical one?
+
+LIAM: That was a regular one. I'm just fucking
+glad I'm Irish again.
+
+MATT: All right, that's your turn. Next, this
+creature comes streaming forth
+
+(eldritch chanting). Okay. As it moves forward, the ground
+you can see around it, the actual stone floor,
+
+begins to almost warp and bend like it doesn't
+have, in its near vicinity, the same hard
+
+physicality as it did before. All righty. So first
+it's going to go ahead and start-- it's going to
+
+go ahead and reach out with one of its tendrils
+towards you. It has a bunch of these biting mouths
+
+on it. Whips out toward you.
+
+LIAM: Is it a dex save?
+
+MATT: No, this is a 20 to hit.
+
+LIAM: Oh, that hits.
+
+MATT: It will actually move right up to there,
+that side there. So it hits. You take 17 points of
+
+piercing damage.
+
+LIAM: That's rough.
+
+MATT: Yes.
+
+DAN: We're proper fucked!
+
+MATT: And make a strength saving throw.
+
+LIAM: Strength saving throw. I get advantage on
+that, so that's a 15.
+
+MATT: 15. The impact of it pushes you back and you
+almost fall over, but you catch yourself and throw
+
+the tendril off your body and angrily growl at it
+in response. That ends its turn. Snuggle, you're
+
+up. At the top of your-- okay, yeah, you're far
+enough away. Okay.
+
+ZAC: I'm still Snugglelord, mind you.
+
+MATT: Sorry. Snugglelord. My apologies.
+
+ZAC: My penis may have left me, but the name
+sticks.
+
+MATT: True. Snugglelady.
+
+ZAC: So I control the merchant, and I have him run
+directly at the creature, yelling like a fricking
+
+idiot, saying, "Please kill me! Please kill me!
+Please kill me!"
+
+MATT: "Please kill me! Please kill me! Kill me!"
+Running towards it. Is that all you wanted to do?
+
+ORION: He has to make a melee attack.
+
+ZAC: Is this Crown of Madness guy?
+
+MATT: Yeah. It has to make an attack at the end of
+it.
+
+ZAC: Oh, he has to attack?
+
+DAN: He gets to.
+
+ORION: If you make him do something--
+
+MATT: Go ahead and roll the attack for it. What'd
+you roll?
+
+ZAC: A four.
+
+MATT: A four? This creature should be easy to hit.
+It is large, and it's not moving very fast, but
+
+the blackpowder merchant has bags of this dark
+powder attached to it that it carries with it, and
+
+runs forward and starts trying to punch at it, and
+it's like hitting dough (impacts). No damage
+
+whatsoever. But it seems to have gotten its
+attention to some degree. So that's the end of
+
+your turn. Do you want to move closer?
+
+ZAC: No, I'm fine.
+
+MATT: Okay. That brings us to Quaalude. Quaalina.
+Q. However you wanted to be.
+
+ORION: Call me Q. It's good. I'm going to shimmy a
+little bit along the wall, right before, and then
+
+I'm going to-- wait, no. I don't because I won't
+be able to move out-- Oh wait, I can split up
+
+movement! I can break movement! So I'll move-- am
+I still ten feet away from it?
+
+MATT: Here you are.
+
+ORION: Okay, cool. So I want to get a little bit--
+it doesn't matter because I'm going to spring out
+
+and turn into a direwolf (howling) and bite the
+shit out of it.
+
+MATT: Go for it.
+
+ORION: I'm going to gain advantage because I--
+
+MATT: First things first, roll a wisdom saving
+throw.
+
+ORION: Who's a wazza-bazza?
+
+MATT: Roll a wisdom saving throw.
+
+ORION: No. Wait, wisdom. Four.
+
+MATT: Okay. Oh, this is a d8. Okay. As you
+transform into the direwolf right there, you
+
+snarl. You hear all the voices in your mind, and
+for a second you feel like you're really confused,
+
+and you don't know where you are. You spend the
+remainder of your turn trying to shake the voices
+
+out of your head. You're unable to do anything
+this turn.
+
+ORION: Son of a bitch.
+
+MATT: The chaos of this, the mouths speaking in
+unison, drive you temporarily mad.
+
+LIAM: Don't worry. Salty Petunia's going to save
+us all.
+
+MATT: Salty, you're up. At the beginning of your
+turn, also make a wisdom saving throw.
+
+DAN: Oh no, my worst skill. Oh, that's a three
+with my modifier!
+
+MATT: Okay. As you pull your sword out, you're
+like, "I'm ready for this!" You hear the same
+
+voices through your mind, and once again you start
+looking about and rubbing your eyes, trying to
+
+figure out where you are, what's happening, and
+you spend the rest of your turn standing there
+
+listening to the voices.
+
+DAN: Well, that was embarrassing.
+
+MARISHA: Edna, you're up.
+
+ZAC: Petunia, what the fuck?
+
+MARISHA: You know, this has probably been one of
+the most exciting days of my life. Blindness!
+
+MATT: Okay. All right. What's the save on it?
+
+MARISHA: Asmodan! I mean, shit, what? You asked a
+question? What are you, 30 feet?
+
+MATT: What's the DC on that spell?
+
+MARISHA: 13.
+
+MATT: 13. As a flash of light bursts in the
+direction of this creature covered with eyes, all
+
+the eyes close and you hear the yelling becomes
+more of a shrieking sound. And you see it starts
+
+writhing around angrily. It is currently blinded,
+so well done on that. You're way back here. Do you
+
+want to stay where you are?
+
+LIAM: Good job there, handsome.
+
+MATT: Do you wish to stay where you are?
+
+MARISHA: What? I'll back up a bit, if I can. I
+don't know where exactly I am, but--
+
+MATT: You are right here.
+
+ORION: You're here, Grandma. You're here.
+
+MARISHA: I need to remain-- oh, you know what, let
+me shift on in a bit so I can see. I'm Edna.
+
+MATT: All right, that's your turn, Edna. Ulfgar.
+
+LIAM: Oh, right. Things change so fast here. It's
+hard to remember.
+
+IFY: Yes, and now I have a present for this thing.
+
+ZAC: Did you find the present in there?
+
+IFY: Now the name Larry and Robert and swing
+down.
+
+MATT: So you move to the side into combat with the
+creature. Go ahead and roll for each attack.
+
+IFY: So the first one is a 23.
+
+MATT: That hits.
+
+IFY: The second one is a natural 20.
+
+MATT: I will ask you to make a wisdom saving throw
+real fast.
+
+IFY: All right. Wisdom. 16.
+
+MATT: 16. Yeah, you hear the voices cascading
+through your ears as you rush forward. However,
+
+you steel your mind, focus on the attack, and push
+through it unaffected.
+
+IFY: That's my secret. I already had voices in my
+head.
+
+DAN: Oh, what a plot twist!
+
+MATT: Go ahead and roll both attacks. The second
+one gets double on the dice.
+
+IFY: So the first one is a four.
+
+MATT: Plus whatever the damage is of your
+strength. It should be on the--
+
+IFY: Oh yeah, that's with it. And then the second
+one is nine, so 13 total.
+
+MATT: Awesome, so a total of 13 damage. Whack,
+whack! You're cutting off parts of its body. You
+
+can see the slices of flesh that fall off on the
+ground kind of quiver and squeal before going
+
+motionless. You see the eyes close and kind of
+slightly leave open as if a person had just passed
+
+away. I'm going to keep this on it for blindness
+so we have it as a reminder. All right. That ends
+
+your turn, Ulfgar. Up to the top. Kurt, you're
+up.
+
+LIAM: When does Gary go?
+
+MATT: Oh, Gary goes on your turn as well.
+
+LIAM: On my turn instead of me, or in addition to
+me?
+
+MATT: I'll say in addition to you.
+
+LIAM: In addition to me? All right. Well, first,
+I'm going to attack this fucker with my war pick.
+
+No, with this magic fucking hammer I have right
+here, and I'm going to recklessly attack while in
+
+a rage. But I get advantage with reckless attack,
+right? So that's terrible. Get him, Gary! Go for
+
+the eyes!
+
+MATT: What'd you roll?
+
+LIAM: Oh, a three.
+
+MATT: With your bonuses? You have advantage
+because of your reckless attack.
+
+LIAM: Five with the--
+
+MATT: With the advantage?
+
+LIAM: No, seven with advantage.
+
+MATT: Okay, that's still not enough,
+unfortunately. All right, so you go to try and
+
+swing it. As you go to swing-- I forgot to make a
+wisdom save. I've got to remember to do that.
+
+We'll say, for the purposes of storyline here, as
+you go to swing, the voices come into your head,
+
+and for a second you stop and slow your arc. By
+the time your hammer actually hits it, it goes
+
+(soft impact). There's no power behind it. Gary
+also is going to rush forward. You go ahead and
+
+make an attack for Gary.
+
+LIAM: An attack for Gary? All right. Oh jeez, I
+don't know what a badger's stats are.
+
+MATT: I know. I'm making it up. Go ahead and
+roll.
+
+LIAM: I rolled a 13.
+
+MATT: A 13? That'll hit. So go ahead and roll 1d4
+plus two damage from the badger's claws.
+
+LIAM: That's five of angry badger damage because
+he's a barbarian as well.
+
+MATT: So the badger reaches out and grabs the side
+of it and bites into one of its tendrils. As it
+
+does, it rears back, and there's a splash of
+greenish, brackish blood that goes across its face
+
+and on the ground.
+
+LIAM: Oh, I've missed you, Gary!
+
+MATT: All right, that ends your turn. It's now its
+turn. It is blinded for this turn. First it's
+
+going to go at-- you see one of its mouths
+rescinds for a second and then releases this giant
+
+globule of dark green goo that slams into the
+ground and explodes right in the center here. I
+
+need you two and you two to roll dexterity saving
+throws.
+
+MARISHA: Did you say me?
+
+MATT: Yes. Edna, Kurt, Salty Pete, and
+Snugglelord.
+
+DAN: 22.
+
+MARISHA: Ten.
+
+CHAT ROOM: Lady Josephine, Leader of the Guild of
+Moderators, casts a great spell. As long as they
+
+sing like they are in a musical, they level up to
+ten. Otherwise, they lose five to all stats.
+
+LIAM: What was that again?
+
+MATT: You will all have to sing in unison--
+
+ZAC: I believe I heard that loud and clear, my
+lord Shathrum. I believe if we, yes--
+
+MARISHA: If we sing a musical?
+
+DAN: If you sing like you're in a musical, we
+level up to ten. Otherwise you lose five to all
+
+stats. Question. Since I'm already level ten, is
+there exemption?
+
+MATT: No. You'll just lose five stats.
+
+CHAT ROOM: Tilda Tilda Tilda Tilda Tilda Tilda
+Tilda Swinton. Tilda Tilda Tilda Tilda Tilda Tilda
+
+Tilda Swinton. (repeats)
+
+MATT: Guys, sing along!
+
+ALL: Tilda Tilda Tilda Tilda Tilda Tilda Tilda
+Swinton.
+
+LIAM: How long do we do this for?
+
+ALL: Tilda Tilda Tilda Tilda Tilda Tilda Tilda
+Swinton. Tilda Swinton! Tilda! Tilda Swinton!
+
+Tilda! Tilda Swinton! Swinton!
+
+MATT: And with that momentous occasion, as the
+spittle hits the ground, suddenly it does not
+
+explode. It's lifted in place and is shattered.
+You feel all of a sudden the warmth of the
+
+moderator guildmaster fill all of you, and with
+this divine energy your bodies are suddenly
+
+elevated to the strength, hardness, and experience
+of a seasoned adventurer.
+
+DAN: I feel the same.
+
+ZAC: My boobs have gotten bigger! I'm level ten
+now!
+
+MATT: So go ahead and roll seven additional of
+your hit dice to add to what you've got, except
+
+for you.
+
+DAN: What a fucking rip.
+
+(laughter)
+
+LIAM: Give me my fucking book. Jesus, Mary, and
+Joseph.
+
+MATT: All righty.
+
+DAN: Shathrum preserve us!
+
+ORION: Isn't it, you have to keep singing as if
+you're in a musical?
+
+MATT: Even with disadvantage, that is plus 12 for
+its bite attack. This is going to be against you.
+
+What's your AC?
+
+LIAM: My AC is 16. I think.
+
+MATT: 16? So even though you're kind of hearing
+the voices, you see one of the tendrils whip out
+
+toward you. You smack it to the side with your
+hammer, disabling it and not taking any damage
+
+from it. It's going to roll to see if it can get
+rid of the blindness. That is a natural 20, so it
+
+is no longer blinded.
+
+MARISHA: Aw, pooper.
+
+MATT: That ends the gibbering mouther's turn. That
+brings it to Snugglelady.
+
+ZAC: Now, if I heard that donation correctly,
+we've now all leveled up to ten, or do we have to
+
+keep singing--?
+
+OFF-SCREEN: You do have to continue singing.
+
+DAN: No, I think you read it wrong. (singing)
+Perhaps you did.
+
+ORION: You have to keep singing in a musical, and
+then you gain up to level ten. When you stop, you
+
+lose that and you go to level five.
+
+MATT: (singing) That will destroy the game.
+(normal) So we'll say, for the next round of
+
+combat, you guys have to do-- anything you do or
+want to do in this combat, sing it as if it's a
+
+musical. When the round's over, then it'll stay
+permanent and you can continue forward. So.
+
+(singing) Snugglelord, what is your bidding?
+
+ZAC: (singing) I'm being told that I have this
+urge to run over to Kurtney and heal her of damage.
+
+LIAM: Stop feeling my boob! What are you doing?
+Well, that's actually quite nice.
+
+MATT: (singing) And with that, you heal five hit
+points from the hug of the Snugglelady.
+
+LIAM: (singing) I feel better. I feel pretty and
+alive.
+
+ZAC: (singing) I love that my decisions are made
+for me! This is bullshit.
+
+(laughter)
+
+MATT: (singing) Quaalude, I want you to make a
+wisdom saving throw.
+
+ORION: (howling) Okay.
+
+LIAM: What the fuck was that?
+
+MATT: It's his direwolf form singing. What's your
+answer?
+
+ORION: What is it? Wisdom? 14.
+
+MATT: Sing it.
+
+ORION: (singing) My wisdom is 14, dear DM.
+
+MATT: (singing) Your brain resists the voices you
+hear. Your mind is your own. Tell me what you
+
+shall do, dear.
+
+ORION: (singing) I'll tell you right now what I'm
+going to do! I'm going to jump up as the direwolf,
+
+and (snarling).
+
+MATT: (singing) Roll your attacks!
+
+ORION: (singing) Natural 20!
+
+MATT: (singing) Double your damage now!
+
+ORION: (singing) Doubling damage, we're doubling
+damage, unh! That is four plus four, plus four
+
+plus four is eight! That means a 16!
+
+MATT: (singing) As you tear a piece of the
+creature astray, your turn ends! Victory is yours,
+
+I say! Soon! Next, the turn goes to Salty Pete!
+
+ORION: (singing) But not before I knock it prone!
+
+MATT: (singing) The gibbering mouther's immune to
+prone! Its mass has no legs! It cannot fall over!
+
+Salty Pete, it's your turn to be, moreover!
+
+DAN: (singing) First I must ask, do I need to roll
+a saving throw?
+
+MATT: (singing) You're close enough where you must
+make a wisdom saving throw.
+
+DAN: (singing) Oh fuck. No!
+
+MATT: (singing) All right. Salty Pete, you make a
+melee attack, randomly determined creature within
+
+reach. That would be the Snugglelady! Roll an
+attack against the Snugglelady!
+
+DAN: (singing) And now my fanfiction is complete!
+You're not going to like this. 24!
+
+MATT: (singing) Surprise attack of a 24 against
+you counts as a sneak attack!
+
+DAN: (singing) Holy shit.
+
+ZAC: (singing) Oh fuck! Oh fuck! Oh fuck, oh fuck,
+oh fuck!
+
+MATT: What's your rogue class? I mean, are you an
+assassin or a thief?
+
+DAN: I'm a thief.
+
+MATT: You're a thief? Okay, good. Good thing
+you're not an assassin. (singing) If you were an assassin,
+
+that would've been a critical hit as well. All
+right, so roll damage against the Snugglelord.
+
+DAN: (singing) Let's hope they're all ones. Mostly
+ones.
+
+ORION: (singing) Hoping for ones, and a lot of
+them are all ones!
+
+DAN: (singing) Eight plus three. 11!
+
+MATT: You take 11 damage. (singing) 11 damage to
+the Snugglelord, Snugglelord, Snugglelord.
+
+ZAC: Bitch, what?
+
+DAN: Was that from the guy who did Hamilton?
+
+MATT: (singing) Edna, it's your turn.
+
+ORION: (singing) Well the old gray mare, she ain't
+what she used to be, ain't what she used to be.
+
+MATT: (singing) Edna has more powerful spells now,
+because you are level ten. Do not forget.
+
+MARISHA: (singing) I do have more high-level
+spells. And to this I say, Asmodan! And I cast
+
+something from my higher-level spells.
+
+MATT: (singing) A Lightning Bolt, perhaps?
+
+MARISHA: Sure! (singing) I'll Lightning Bolt him!
+
+MATT: (singing) The moment that Edna, not being
+familiar with these high-level spells, has the
+
+instinct to release this energy she's not used
+before, the bolt streaks forth from her hands,
+
+striking Snugglelord, Kurt, the black powder
+merchant--
+
+MARISHA: (singing) Wait, this is unfair. I was
+being led and baited by the dungeon master!
+
+MATT: (singing) Too late.
+
+MARISHA: (singing) Shit.
+
+MATT: (singing) And the gibbering mouther. Make a
+reflex saving throw, you, and you, and blackpowder
+
+merchant does not make it with a seven. What is
+your damage? 8d6.
+
+MARISHA: (singing) 8d6, my damage is!
+
+ORION: (imitating a trombone)
+
+MARISHA: (singing) 16 plus another four, so that
+brings it to 20. That was six. How many? Eight?
+
+Shut up. What did I say? 20? So that's 28. 28
+damage. 28, 28 damage.
+
+MATT: Reflex saving throw.
+
+ZAC: (singing) 14.
+
+MATT: (singing) You take 28 points of lightning
+damage.
+
+ZAC: (singing) Fuck.
+
+MATT: (singing) You, Kurt, also roll it.
+
+LIAM: (singing) I rolled an 11.
+
+MATT: (singing) You also take 28 points of
+lightning damage.
+
+LIAM: (singing) That fucking stings.
+
+MARISHA: (singing) Oh no, I just hit my lover with
+lightning! I just hit my lover with lightning!
+
+MATT: (singing) It's not over, you see, because
+the bolt that you released also hit the
+
+blackpowder merchant. He failed the saving throw.
+He took almost enough life to take him to zero,
+
+but it ignited the blackpowder and, boom!
+
+(laughter)
+
+ZAC: Oh no! Oh no!
+
+MATT: (singing) A cacophonous explosion rocks the
+cavern! I need another saving throw from all of
+
+you! Except for Edna and your son.
+
+MARISHA: (singing) I just want to point out, this
+was a suggestion from the Dungeon Master.
+
+DAN: (singing) What modifier do we add?
+
+MATT: (singing) It's your dexterity saving throw,
+so add your dex.
+
+DAN: (singing) 21.
+
+ORION: (howling)
+
+MATT: (singing) All right, what did you roll?
+
+ZAC: (singing) Two.
+
+MATT: (singing) Ulfgar, what did you roll? Ulfgar,
+what did you roll?
+
+IFY: Did I roll a saving throw? What?
+
+MATT: (singing) Yes. Roll a dexterity saving
+throw.
+
+IFY: (singing) All righty. I rolled a 13.
+
+MATT: (singing) All right.
+
+ORION: (singing) And I rolled a 14.
+
+LIAM: (singing) I rolled a 13, and Gary rolled a
+12.
+
+MARISHA: (singing) I didn't have to roll.
+
+DAN: (singing) Please remember, I have evasion!
+
+MATT: (singing) Yes, you do. Anyone who rolled
+lower than a ten just took 21 points of fire damage.
+
+ZAC: (singing) Goodbye.
+
+MARISHA: Oh no, is he unconscious?
+
+MATT: (singing) Snugglelord is unconscious and
+currently dying. That brings us to Ulfgar.
+
+IFY: (singing) Oh, I've been brewing up some fun
+while you guys were playing. I've been brewing up
+
+some fun while you guys are playing. You see, now
+that I'm level ten, I turn into an eldritch knight
+
+and now I'm lighting shit on fire. Prepare to be
+blasted away by my Chromatic Orb! Orb! Orb! Coming
+
+at you, you weird thing!
+
+MATT: (singing) All right, so you're attacking with a
+Chromatic Orb attack? Is that what you're doing as
+
+an eldritch knight?
+
+IFY: (singing) Yes.
+
+MATT: (singing) Roll for attack. Roll for attack.
+
+IFY: (singing) It's 11, but I don't know what to
+add to it.
+
+MATT: (singing) That's all right, 11 still hits
+this monstrosity.
+
+IFY: (singing) Ooh yeah. Ooh yeah.
+
+MATT: (singing) So roll your sword's damage plus
+an additional 3d8.
+
+IFY: (singing) Ooh yeah. Let me get them 3d8s. Ooh
+yeah. We blowing stuff up. We blowing stuff up
+
+like ooh, yeah! We blowing stuff up! We're blowing
+stuff up like ooh, yeah! We're blowing stuff up!
+
+We're blowing stuff up like ooh, yeah! I do 20
+damage!
+
+MATT: (singing) How do you want to do this?
+
+(cheering)
+
+MARISHA: One more time, all together!
+
+ALL: (singing) How do you want to do this?
+
+ZAC: (singing) I'm unconscious. I can't hear you.
+
+IFY: (singing) I'll do it. I'll do it. I'll do it
+with some cold damage, since you spitting fire at us.
+
+MATT: (singing) How do you want to deal this final
+blow? You've slain the creature; describe your
+
+epic blow.
+
+IFY: (singing) I look at my daughter in her eyes.
+I said, everything came until this time because I
+
+told you, I told you, it's all a part of the plan!
+It's all a part of the plan! It's all a part of
+
+the-- die!
+
+MATT: (singing) You release your blasted orb of
+arcane energy, the cold flowing from your
+
+fingertips! The mouther, it skulks! It turns, and
+it wails, but the cold energy holds it in place,
+
+you see! Its flesh begins to freeze. It cracks its
+claws! Suddenly it freezes in place, unable to
+
+escape! You reach down with your blade and
+shatter. It scatters across the ground. Victory is yours.
+
+(air horn)
+
+ZAC: That wasn't even Lucas! Who did that? I think
+that means we don't have to sing anymore.
+
+MARISHA: The musical is complete?
+
+MATT: You guys have completed a round of combat
+successfully, the musical. The battle is won.
+
+ZAC: Where the fuck are those donations?
+Seriously.
+
+DAN: I'd just like to point out that he's at
+negative 24 hit points.
+
+ZAC: You don't have to bring that up.
+
+MATT: But go ahead and roll a death saving throw.
+A d20, roll a d20.
+
+ZAC: Okay, that's a 17.
+
+MATT: Okay, so you're fine. You're not bleeding
+out, yet. So you guys all sit there and look about
+
+yourselves in your sex-changed forms, except for
+Edna. The Snugglelady lies on the ground, bleeding out.
+
+MARISHA: I have never seen a party of more strong
+and powerful women. I just want to say that.
+
+ZAC: I'm dying!
+
+MARISHA: I know, we are like the Golden Girls.
+Thelma and Louise.
+
+ORION: I change out of beast form, and I
+straighten out my skirt, and I walk over to dead
+
+Snugglebaby and do a Cure Wounds.
+
+DAN: What are you doing to that baby?
+
+LIAM: I make out with my girlfriend. We make out a
+little.
+
+MATT: As you heal Snugglelord up, you look about,
+and you look down. The gibberling, which has
+
+slowly turned to this frozen, shattered mass as it
+begins to thaw over the next few minutes, as you
+
+take a moment to take care of your wounds and
+such, you see there is the arm and part of the
+
+face of the assistant you were seeking there on
+the ground.
+
+LIAM: Oh, that's sad.
+
+MARISHA: Oh right, the whole reason we came here.
+
+ORION: Wait, is--?
+
+MATT: The assistant you came here to seek, there
+are parts of his body there on the ground.
+
+DAN: Oh, we found him! There he is, and there he
+is, and there he is!
+
+ORION: What about blackpowder boy? What about
+Victor? Is he nowhere to be seen?
+
+MARISHA: Is Victor still alive or did he die,
+right? Victor exploded?
+
+MATT: Oh, no. There are a couple pieces of the
+assistant; there are many pieces of Victor.
+
+DAN: It's raining men! Or was he transformed as
+well? I never heard him sing.
+
+MATT: However, at this moment, you feel a shudder
+of the room (impacts). You look over your
+
+shoulder, and you see now, coming down the hallway,
+these two giant, leathery red hands pulling its
+
+way through the hallway as a demonic pit fiend
+pulls its way down the tunnel behind you and goes,
+
+"Where is Salty Pete?"
+
+ZAC: He's not here!
+
+DAN: I draw a card and play it.
+
+MARISHA: Oh shit!
+
+ORION: Oh shit! Do I see him doing this? Because I
+back the fuck away.
+
+MATT: It's too fast. Go ahead and pull a card.
+
+DAN: Queen of Diamonds.
+
+IFY: Is that a new one?
+
+DAN: Yep.
+
+IFY: Oh shit.
+
+DAN: It's the fungus queen from down below.
+
+MATT: You are granted the ability to cast the Wish
+spell one time.
+
+MARISHA: Oh my god, you get the Wish spell one!
+You can't fuck it up!
+
+MATT: So as you pull the card and look at it, you
+feel suddenly the grace of the gods enter your
+
+mind, and you see the face of that Reika woman who
+appeared in the forest earlier. She goes, "I grant
+
+"you the last of my power: one wish to save you in
+this instant. Choose wisely." And the vision is
+
+gone. You look down in your hand, and you see a
+single pearl, pulsating with energy, infinite
+
+possibilities there in your hand, as you see--
+I'm going to pull up a picture just so you have an
+
+idea of what you're about to face-- standing about
+15 or more feet tall, this thing coming down the hall.
+
+DAN: Oh shit, it's from Fantasia!
+
+MATT: (impacts)
+
+ORION: I quickly whisper, careful what you say!
+
+ZAC: Would you like any advice? I know you're
+quite dumb. You're quite dumb. Would you like any help?
+
+DAN: I wish that the pit fiend was transformed
+into an adorable, harmless puppy; that Victor was
+
+reassembled; and that the assistant was also
+reassembled into a living person; and also that
+
+we're paid 2600 gold.
+
+ZAC: That was a very clever thing to say! I'm
+impressed!
+
+MATT: The pearl vanishes from your hand. This cold
+wind begins to blow throughout the tunnel. The pit
+
+fiend goes, "I will destroy--" and turns into,
+what were you asking again?
+
+DAN: A harmless puppy dog.
+
+MATT: (yapping) This little puppy dog now comes up
+to you and starts gnawing on your ankle.
+
+DAN: I snap its neck.
+
+(laughter)
+
+MATT: It falls limp in your hands. As you drop the
+puppy, the pieces of Victor begin to shake and
+
+slowly pull together. As it does, the arm and the
+face of the assistant shake and all of them swirl
+
+together to form one horribly mutated blackpowder
+merchant/Cyril the assistant, going, "Augh! Which
+
+"of you--? Help me!" He's quivering in place with
+three arms and an additional face attached to it,
+
+covered in soot. It looks at you, going, "What
+have you done?"
+
+ZAC: Do you think maybe we could get more money
+for it now, since it's technically people?
+
+ORION: That is terrible. That is amazing! That is
+terrible.
+
+DAN: I used the wrong conjunction.
+
+ORION: Yes, you did. Oh my god.
+
+MATT: As you make your way back to town, carrying
+this moaning, horribly tortured entity right now
+
+that's-- making speech itself is a pain-- you make
+your way back to town, this legion of female
+
+heroes, all level ten. You've returned--
+
+ZAC: Big knockers.
+
+MATT: Yes. Big knockers. You've returned to the
+alchemist, who turns around and goes, "Oh, you've
+
+"returned! Great! I'm glad you could make it!
+Where's--? Whoa, what happened to all of you?"
+
+DAN: We found him.
+
+IFY: Hey, there.
+
+DAN: We look different.
+
+MARISHA: Unfortunately, I was hoping it'd make me
+younger again, but I'm still an old woman.
+
+MATT: "There's nothing wrong with age. Have you
+brought my assistant back?"
+
+DAN: You could say that.
+
+MATT: As he hobbles in, he goes, "Oh, three arms!
+That'll be even more useful! Thank you so much!
+
+"For the extra arm, I'll give you a 100-gold
+bonus!" He hands you the sack of gold coins.
+
+ZAC: I quickly grab it, and I Misty Step out of
+the apartment and run like hell.
+
+IFY: I try and snatch it before he can do that.
+
+MATT: Both of you guys make dexterity checks right
+now. This is contested dexterity checks.
+
+ZAC: Damn it.
+
+DAN: Oh, this is going to end in tears.
+
+IFY: 16.
+
+ZAC: 17.
+
+MATT: With that, as Ulfgar reaches out, "No!" the
+Snugglelady vanishes. You hear laughing in the
+
+distance, running into the night. So now we're
+going to go through and have each of you guys give
+
+me the epilogue of what your character's doing
+post the story, just so we can wrap up here. So Ulfgar.
+
+IFY: So Ulfgar is now wanted after casting a
+Chromatic Orb on one said Snugglelady. No one
+
+knows what happened, and only a roll can let you
+know what truly happens.
+
+MATT: Snugglelady?
+
+ZAC: Oh yeah, what about your daughter?
+
+IFY: Oh, she protects me for the rest of my life.
+
+ZAC: I'm sitting on a beach somewhere on a far-off
+island with my little imp, Lucas, chilling by the
+
+water, drinking Coronas. They have Coronas.
+
+MATT: Yes. Ye Olde Corona. It's an Elven wine.
+
+ZAC: My wife left me when I became a woman.
+Strangely, Ryco was only interested in men, so my
+
+wife left me. So it's just me and Lucas now,
+basking in our riches, enjoying a long life on the
+
+beaches together, toasting our Coronas.
+
+MATT: All right. Salty Pete?
+
+DAN: Well, I floated around for a while from town
+to town, playing the craps tables until I could
+
+win enough money to fill a Scrooge McDuck-ian
+vault in which I could swim around--
+
+CHAT ROOM: Snugglelord slips, falls, and wakes up,
+and realizes this whole thing was a fever dream
+
+brought on by cheap ale that had gone off and
+poisoned him.
+
+MATT: So after this adventure, you imagine
+yourself on the desert island. However, you
+
+suddenly wake up with a headache and realize,
+shortly after you were hit with the Chromatic Orb
+
+by Ulfgar, you went unconscious. Your money's
+gone, and you're left with a heavy bruise and a
+
+bit of a sore back end.
+
+ZAC: Lord Shathruum, why? Why, Shathruum?
+Why?
+
+IFY: (cackling) Oh, my gold! (cackling)
+
+ZAC: Am I still married to a woman that doesn't
+love me because I'm a woman?
+
+MATT: Yes. That happened beforehand.
+
+DAN: Eventually I re-purchased my ship, the
+Obsidian Helen, and now I sail the seven seas as
+
+the cruelest sea-hag that the world has ever seen,
+with my seven fingers.
+
+MATT: One finger for each sea.
+
+DAN: Perfect.
+
+MATT: All right. Quaaludia.
+
+ORION: I go to the nearest temple and get a spell
+of restoration to return me to at least half self.
+
+It's permanent?
+
+MATT: Unfortunately, it is a permanent
+incantation.
+
+ORION: I don't do that. I go and get--
+
+MARISHA: Why are you suddenly Southern?
+
+ORION: Fuck this. I'm going to finish this with
+some sass. I move to a different area and I just
+
+learned how to speak different, like the locals
+do. I got me a nice little dress and a nice little
+
+college with my earnings, and I just get one with
+nature is all.
+
+MATT: All right. Kurtney?
+
+LIAM: Well, if she'll have me-- No, Kurt works
+fine. If she'll have me, I ask Edna to marry me,
+
+and I'd like to raise badgers until she passes,
+and I carry on her memory.
+
+MATT: Edna?
+
+MARISHA: I happily accept Kurt's hand in marriage,
+but beforehand I feel like I just need to get some
+
+adventuring out of my system first, and I hear
+there's this man. He's, like, a tiefling, and they
+
+call him something like the Bounty Hunter, or the
+Broker, or something like that, and, I don't know.
+
+Maybe he's looking for more mercenaries. I think
+I'll join up with him.
+
+LIAM: I'll see you when you get home.
+
+MARISHA: Okay.
+
+IFY: And I donate some of the recovered money to
+Kurtney's badger fund and make sure Kurt is well
+
+taken care of so she can--
+
+ZAC: So they weren't upset when you stole their
+money?
+
+DAN: 2,600 gold pieces goes an awfully long way.
+
+MATT: And so concludes our adventure for the
+evening. Thank you all so very much for joining in
+
+and helping us guide this to a momentous
+conclusion.
+
+ZAC: This was bullshit. Mods, you're on my shit
+list because I know most of those $500 donations
+
+were from you, because those were in-jokes.
+
+IFY: Thanks, everybody.
+
+MATT: Seriously. Thank you all so much for all
+your support on this entire Extra Life charity
+
+drive. You guys have shown tremendous, tremendous
+strength of heart for giving what you have over
+
+these past couple days. Really, really proud and
+honored to be part of this community. And from me,
+
+thank you for everything you guys have done,
+tremendously. We raised, what was the total?
+
+ZAC: So we're at 68,000. We wanted to hit 75 as
+the new goal.
+
+DAN: We can still do it. Right now. I know one of
+you is a rebel billionaire, Richard Branson.
+
+ZAC: So how about, if we hit 70 in the next couple
+of minutes, we'll do a big giveaway--
+
+CHAT ROOM: Stephen becomes possessed by the Spirit
+of the Overlord. She hunts down every member of
+
+the former party and claims their power to becomes
+immortal master of the universe, bringing about an
+
+age of her.
+
+ZAC: Which character was that?
+
+OFF-SCREEN: Stephanie.
+
+ZAC: Stephanie?
+
+MARISHA: She goes on an Avatar journey!
+
+ZAC: Stephanie. So if we get to 70 in the next
+couple of minutes, guys, we'll do a big giveaway.
+
+We forgot to give these away earlier, so we'll do
+a big giveaway with everyone you see here's
+
+signature on a poster, and some D&D book and some
+dice and all that stuff, and these wonderful--
+
+handmade by our wonderful chat room member--
+
+ORION: Little interesting fact, by the way,
+because we only did 70-- guys, last year, LA, Los
+
+Angeles, only raised about $113,000 alone, so
+we're-- us right now, tonight, are accounting for
+
+a lot of that, and I think we can hit the 70 as
+well. If we did 113 last year--
+
+ZAC: I think we can hit it. Everybody watching,
+donate $1 or $2. Everyone watching, donate $2.
+
+That would be amazing.
+
+MATT: And these incredible implements here that
+are being donated to this thing are made by Gil
+
+Ramirez, a fantastic member of the community and a
+really, really talented smith of many regards. So
+
+these are hardcore, serious implements, guys.
+Fantastic. But yeah. So as everyone goes on their
+
+way, Stephanie, the now older, more trained,
+hardened, and bent on vengeance daughter of
+
+Ulfgar, goes around beating the ever-loving shit
+out of all previous members of the party, except
+
+for Edna who, for some reason, she can't seem to
+find. Apparently disappeared at some point in the field.
+
+ZAC: That's my girl. Stephanie, all along, you
+know I was pushing you because I wanted you to be
+
+something, and this idiot couldn't do it.
+Tough love.
+
+IFY: Stephanie will eventually murder the
+Snugglelady. Stephanie, my daughter, will
+
+eventually finish this guy.
+
+ZAC: Look, it's still Snugglelord. Just because I
+have breasts and no penis, you can still address
+
+me as Snugglelord, okay?
+
+MARISHA: It's Lorde with an E.
+
+ORION: This is not canon. None of this is canon.
+
+MATT: I want to take a moment here and say, real
+fast, too, for all of you people who are watching
+
+who are dungeon masters, let this evening be a
+warning to you to never include the Deck of Many
+
+Things into your campaign because all of that
+hard-earned time you spent building your story,
+
+your world, your NPCs, an epic arc, will go down
+in flames in a very short period of time.
+
+ZAC: Guys, round of applause to Matt for dealing
+with that shit tonight. Woo!
+
+MATT: That was unique. That was unique.
+
+ZAC: I'm not going to lie. When I told Matt about
+this idea, we thought the idea would be thematic
+
+to the past Vox Moronica story, where I could hear
+the chat room, and it would help guide us along
+
+our way, but that very first $500 donation that
+came in said, "Little street urchin runs by,
+
+"steals it, and runs away." I was like, oh shit,
+that's how this is going to play out. And Matt ran
+
+with it, and kudos because I thought the cows was
+nuts, and this was absolutely bonkers.
+
+MATT: Yeah. You guys are real creative.
+
+(laughter)
+
+ZAC: Wow. All right, I'm going to check those
+donations one more time.
+
+OFF-SCREEN: We're 500 away.
+
+ZAC: We're 500 away! Oh, Jesus.
+
+DAN: Come on, don't you want to make the party do
+something else crazy?
+
+ZAC: Somebody needs to donate 500 now. Yeah,
+retcon. Somebody give us a $500 donation right now
+
+and set the story straight--
+
+OFF-SCREEN: Wait, we're only 200 away now.
+
+DAN: But still donate 500.
+
+ZAC: We need a 500 to tell us-- somebody fix this
+story, please, because this is fucked.
+
+DAN: Right now, we ended on a Scorpius Malfoy. We
+need better. Harry deserves better.
+
+OFF-SCREEN: It's at 70k.
+
+MATT: 70k! We got it!
+
+(cheering)
+
+ZAC: All right, guys! Everybody active in the
+chat, no spam please! You only have to be active
+
+once, and Lucas is going to draw for our big,
+end-of-the-night winner, and we'll make sure it's
+
+an awesome, awesome prize pack. It's going to
+include a lot of stuff we didn't even bring up, I
+
+promise you that. All right, Lucas. Should we
+drumroll it?
+
+DAN: Yeah.
+
+OFF-SCREEN: Give us, like, five seconds--
+
+ZAC: Oh, I'm aware it takes you a little bit. I
+know. We're just going to roll it.
+
+(humming Also Sprach Zarathustra)
+
+DAN: Tilda Swinton!
+
+(yelling)
+
+ZAC: Stop!
+
+OFF-SCREEN: CruelGroundhog!
+
+ALL: CruelGroundhog!
+
+(cheering)
+
+DAN: CruelGroudhog, congratulations! You have won
+an amazing prize pack including the following items!
+
+ZAC: The ones that I listed earlier, plus more!
+
+DAN: I assume they're scrolling up the screen.
+
+ZAC: Nope, they are not. Guys, thank you for
+tuning in to our Extra Life charity campaign!
+
+Claudia, you have something you want to say?
+
+MATT: Sneak in, sneak in. We've got Claudia here
+to say something.
+
+CLAUDIA: So I'm just sneaking in to let you guys
+know that 70k is amazing, and we actually are
+
+still going with this. This was our big push for
+everything, but don't forget that on the 24th our
+
+friends at Nerdist are also going to be running a
+stream, and that's going to continue to add to all
+
+of this number. So Geek & Sundry's going to keep
+pulling for that 75, hopefully by the end of this
+
+week, but join us on the 24th on
+twitch.tv/nerdist. Dan, if you want to say
+
+anything else about that?
+
+DAN: Yeah, absolutely. Guys, this is truly
+incredible. The fact that you're able to do this
+
+in 12 hours plus last night, it's insane. And the
+fact that you guys are able to do this kind of
+
+thing is amazing. And we're so excited because on
+October 24th, Nerdist, we're going to be doing a
+
+24-hour stream, full 24 hours. We're going to have
+all of our friends from Geek & Sundry, some of
+
+your other favorite people from around the
+internet, coming by, playing games for a great
+
+cause. Again, this is all for the Children's
+Miracle Network Hospitals. They do great work for
+
+kids with cystic fibrosis, cancer, some really
+scary stuff, and they do it for the kids who are
+
+facing these conditions. They don't care whether
+or not they have the money to pay for it. That's
+
+what they're there for. They give them treatment
+even if they can't pay for it, and that is
+
+something to be applauded, something to be
+supported, so thank you so much. And please, I
+
+hope you join us October 24th, twitch.tv/nerdist.
+We'll see you there, and hopefully all of you guys
+
+will be there as well.
+
+ORION: Of course.
+
+ZAC: I'll be there, bro.
+
+CLAUDIA: And our goal altogether is 100k right
+now, but the more you guys donate, the higher we
+
+go because you keep pushing us.
+
+MATT: Guys, thank you all so much, sincerely.
+Well, thank you guys for playing tonight. Thank
+
+you guys for being so awesome.
+
+ZAC: I have one more thing to say.
+
+MATT: Go for it.
+
+ZAC: I really wanted to die that game.
+
+DAN: What are you, Harrison Ford in fucking
+Empire?
+
+ZAC: I really wanted to die, but thank you all.
+It's time to go home.
+
+MATT: To be fair, this whole experience would've
+had a very high possibility, at a number of
+
+points, of killing a number of you, had you not
+all gone to level ten suddenly and gained all of
+
+these powers. But such is the thing. We never even
+got around to the-- one of the chat people gave
+
+you the power to form Captain Planet.
+
+ZAC: It was a "OP, game-breaking Captain Planet."
+That's what was in the message. Smart move to not
+
+include that.
+
+MATT: They made some other cool things in there,
+but there's only a certain point where you start
+
+adding more to the wish before you get a
+third-arm-merged assistant. But no, guys, thank
+
+you all so much. Great suggestions. We hope you
+had a good night, and all of us at Critical Role
+
+will see you Thursday.
+
+ZAC: And we'll see you Monday!
+
+MATT: Boom. Good night.
+
+MARISHA: Good night, everybody!

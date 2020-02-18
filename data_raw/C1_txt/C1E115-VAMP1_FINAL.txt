@@ -1,0 +1,8296 @@
+TALIESIN: Finish it! Finish it, I dare you!
+
+(cheering)
+
+TALIESIN: Good evening, everybody. Welcome to
+terrible decisions in my life. Welcome to Critical
+
+Role. We are doing Vampire: The Masquerade. Sort
+of. Well, we're going to talk about it. We're
+
+doing kind of a homebrew thing. It's going to be
+fun. It's going to be weird. It's going to be dark
+
+and really inappropriate and I'm so sorry. If any
+of you are a little squeamish, it's going to get a
+
+little weird, and I'm so sorry. I was a big fan of
+this game 25 years ago. This game and the World of
+
+Darkness, Werewolf: The Apocalypse, Mage: The
+Ascension, Changeling: The Dreaming, and all of
+
+these games were a big part of all of our lives
+and they really affected us and changed us. It was
+
+an introduction to roleplaying for a lot of
+people who may not have been comfortable with
+
+Dungeons & Dragons of something obviously much
+more serious, because look at us. We're so much
+
+more serious right now. The build that we're going
+to be running is kind of a mix of, as I'm checking
+
+my notes, the new v5 Alpha. It's also a little bit of
+Onyx, it's a bit of my old homebrew that I found
+
+bits and pieces of while cleaning my room, all
+mushed together. If you're interested in this
+
+game, there's a brand-new version in Alpha right
+now that you can play around with. There's also
+
+the old school stuff that Onyx has put out which
+is the size of a small library. You can go in and
+
+find books on every city and every type of
+creature you could want. There's weird, angry 80s
+
+versions of everybody. I want to do a special
+thanks to Jason Carl, White Wolf, Onyx Path, and Don
+
+and Katherine, if you're watching, for running
+really good games, and Sasha and Juliet for
+
+running very good games. Sasha's not watching;
+she's at marching band. You've got marching to do.
+
+SAM: This music, Taliesin.
+
+TALIESIN: This is Syrinscape. I hit a random
+button in their Creepy Asylum set. It's rocking.
+
+We have some announcements that, in theory, I was
+supposed to have, but I don't. I know some of them
+
+off the top of my head.
+
+SAM: I can help you out there, Taliesin.
+
+TALIESIN: You can start there with Backblaze.
+
+SAM: Is the camera on me? Our sponsor tonight is
+Backblaze! Yev from Backblaze is back again to
+
+peddle his wares. Backblaze is unlimited backup
+for Macs and PCs. You can use mobile apps to
+
+access data on the go. You can recover files by
+mail using a flash key or hard drive. They'll ship
+
+it to your door to restore your data. And you get
+a 15-day, fully-featured free trial if you go to
+
+backblaze.com/criticalrole. To honor our fine
+people at Backblaze, I have composed a rap in the
+
+style of Sir Mix-A-Lot. Ahem. Oh boy, I should
+have rehearsed this.
+
+TALIESIN: You and me fucking both.
+
+SAM: I like backups and I cannot lie! Those other
+brothers can't deny! When a virus hits and your
+
+hard drive quits, but you backed up all your shit
+you get sprung! Wanna act all tough 'cause you
+
+know it's all backed up. So fellas!
+
+TRAVIS and MATT: Yeah!
+
+SAM: Fellas!
+
+TRAVIS and MATT: Yeah!
+
+SAM: Storing lots of porn?
+
+TRAVIS and MATT: Yeah!
+
+SAM: You better store it!
+
+TRAVIS and MATT: Store it!
+
+SAM: Hoard it!
+
+TRAVIS and MATT: Hoard it!
+
+SAM: Store those gigs of smut! Baby got
+Backblaze!
+
+(cheering)
+
+TRAVIS: Yeah! Backblaze rap!
+
+SAM: Backblaze! Check it out.
+
+TALIESIN: Wow, it's only uphill from here. That's
+good.
+
+LAURA: Very nice, Sam.
+
+TALIESIN: That was beautiful.
+
+LIAM: So we're all vampires tonight, right?
+
+TALIESIN: Oh yeah.
+
+LIAM: Is the camera even picking us up?
+
+LAURA: I know; can you see us?
+
+LIAM: Can you see us?
+
+TRAVIS: Just your jewelry floating around in the
+empty space.
+
+TALIESIN: I was about to be nerdy enough to say
+that all vampires in the White Wolf universe are
+
+picked up by electronics. Yeah. There's only one
+clan that even is not reflected in the
+
+mirror.
+
+LIAM: I was just testing you.
+
+TALIESIN: I know some of this! I don't know all of
+it. I remember some of this from high school. Got
+
+to be able to LARP this stuff. Do we have anything
+new in merch?
+
+LAURA: Well, it's the same stuff in merch, but we
+also have the art book coming out! The one we
+
+talked about.
+
+SAM: Oh, the new comic!
+
+LIAM: Scanlan and Grog.
+
+SAM: Did you read it?
+
+TRAVIS: I did.
+
+SAM: It's good, right?
+
+TRAVIS: The troublesome twosome. Pretty sweet.
+
+SAM: Pretty good.
+
+TALIESIN: Putting it out there for anyone watching
+that I don't have the rest of the announcements,
+
+so if there's anything that anybody wanted me to
+say, they should put it on here with a piece of
+
+paper at some point.
+
+TRAVIS: The comic book is amazing. Beardless
+Grog.
+
+SAM: Oh yeah!
+
+TRAVIS: He's like a baby! A baby in the woods.
+
+MARISHA: It's weird looking at your D&D characters
+and being like, "Oh! They were so young! They were babies!"
+
+LAURA: Oh look, they're alive!
+
+TRAVIS: The writing is fucking brilliant, as
+always, Colville is amazing. Olivia Samson.
+
+SAM: Good action, good art. It's good stuff.
+
+TALIESIN: We're going to be doing Slave Labor
+Graphics on Wednesday Club. It's going to be
+
+Johnny The Homicidal Maniac and all sorts of gothy
+comic books for Halloween. We're going to be doing
+
+Gather Your Ghost tomorrow because it's funny when
+I do a show three days in a row. Four days in a
+
+row here!
+
+MARISHA: Sagas of Sundry: Madness is coming out
+next week! Yeah!
+
+LAURA: Should have worn the black wig tonight!
+
+MARISHA: I thought it would be spoilery.
+
+TALIESIN: You had free time; you could have pulled
+that together.
+
+MARISHA: Yeah, I thought about it. I was like,
+"Should I? Eh."
+
+TALIESIN: Trying to think if there was anything
+else off the top of my head. I feel like I'm
+
+missing something.
+
+MATT: Vamp as much as you want, Taliesin, you have
+to start the game soon. (laughter) Look, I don't
+
+get to enjoy giving you shit from this side of the
+table.
+
+TALIESIN: For the record, this is intimidating!
+Holy cow. I feel like I want to adjust my desktop
+
+settings. This is a lot.
+
+LAURA: I'm scared of it.
+
+TALIESIN: You should be. This is evil and
+terrible. This is a brand-new game system, so
+
+we're going to be taking it slow. For those of you
+at home who know Vampire: The Masquerade, this is
+
+going to be a very barebones thing. We've cut a
+lot of fat. We've cut a lot of something. We've
+
+cut a lot of limbs from this baby, but it is going
+to be dark. There are going to be hints of what's
+
+going on in the real world, but we're keeping this
+very insulated, so it's not going to be a lot of
+
+world-building. Ah, thank you!
+
+TRAVIS: There's also going to be a Talks Machina
+next week on Tuesday discussing this one shot.
+
+SAM: Oh, really?
+
+TRAVIS: Yes, there will be.
+
+SAM: Is it going to have a different name?
+
+TALIESIN: No. Don't forget to submit your gif and
+fanart of the week to submit@talksmachina.com.
+
+You're still in Batman, which is great.
+
+MATT: Yeah! Still there; they haven't gotten rid
+of me yet.
+
+TALIESIN: I don't know if we're talking about
+Thrashtopia yet, but eventually we're talking
+
+about Thrashtopia because Thrashtopia's cool.
+
+MARISHA: Yeah. Thrashtopia has been uttered into
+the universe.
+
+TALIESIN: CR podcast is now available through
+Amazon Alexa, apparently, which I did not know.
+
+It's available on Amazon Echo, Echo Dot, Echo
+Plus, and other Alexa-enabled devices.
+
+MATT: Maybe you just yell loud into a canyon, it
+echoes back to you.
+
+TALIESIN: Just say, "Alexa, how do you want to do
+this?" and it plays.
+
+LAURA: That would be amazing! Wouldn't it?!
+
+MARISHA: Could we make that happen? I'm going to
+talk to Ben!
+
+TALIESIN: I don't know how things work.
+
+MARISHA: Ben. Let's make it happen.
+
+TALIESIN: I think that's what Ben wanted me to
+say. Ben.
+
+LAURA: It's so cool. Make it so.
+
+TALIESIN: This'll be a d10 system, so everyone
+remembers. It's going to be a six and above is a win.
+
+LAURA: I've got so many d10s in my tray right
+now.
+
+TALIESIN: I'll explain the red dice. We're going
+to take this through, and it's going to be really
+
+weird. I am so sorry for everything that's about
+to happen. I'm going to try to maintain my cool.
+
+MARISHA: Let's do this shit!
+
+TALIESIN: Ladies and gentlemen, boys and girls,
+hopefully people who are not too young to be
+
+scarred for life: prepare for Critical Role: Goth
+Vampire Edition.
+
+[dramatic music]
+
+(laughter)
+
+MATT: I legitimately can say I understand.
+
+TALIESIN: It's not going to save you.
+
+MATT: I know.
+
+TALIESIN: All right. When we last left off, we
+were finishing up a very emotional, very heavy and
+
+intense episode of Critical Role.
+
+LAURA: Oh my god. Super meta.
+
+TALIESIN: We're going meta, people. It was a tough
+time; everyone went home. We packed up our stuff.
+
+Made our way out to our cars in the parking lot.
+And that's the last thing you remember before it
+
+all went black. You have been away for some time.
+You don't know how long it's been. You don't know
+
+where you are. You don't feel quite right. You
+feel disconnected. Something's a little off.
+
+You're hungry, you're thirsty, you're not entirely
+sure, but you're waking up and it is pitch black.
+
+LAURA: Is there anyone around us?
+
+TALIESIN: Can you see anything? Take a look! It's
+very dark and there's nothing around. You're lying
+
+on your back.
+
+LIAM: Each of us alone?
+
+TALIESIN: Each of you alone.
+
+LAURA: Put my hand up and feel.
+
+TALIESIN: Yes, you are in a coffin.
+
+(yelling)
+
+MARISHA: Oh god!
+
+SAM: I'm going to start shouting. Hello! Can
+anyone hear me?
+
+TALIESIN: You're a voice actor. You call that
+shouting?
+
+SAM: It's me, Sam Riegel of Critical Role!
+
+TALIESIN: The sound is deadened by the thick wood
+and the fabric.
+
+LAURA: Can we try to push?
+
+TALIESIN: Yeah, give me a strength plus melee.
+
+MATT: I'm going to Uma Thurman.
+
+MARISHA: That's what I was going to do. I'm trying
+to one-inch punch this.
+
+TRAVIS: Me too.
+
+LAURA: A ten and a six.
+
+TALIESIN: A ten and a six, that's two successes.
+
+LIAM: I got a ten and this X-ed-out one.
+
+TALIESIN: Oh no.
+
+LAURA: That's bad.
+
+LIAM: I figured as much.
+
+LAURA: You succeeded and you failed.
+
+MATT: That's okay. I failed as well.
+
+MARISHA: What do we roll for the one-inch
+punch thing?
+
+SAM: So you got an X-ed-out one as well?
+
+TALIESIN: Liam, something's wrong. You go up to
+touch your face, and it doesn't feel right. It
+
+feels like papier-mache, there's something weird.
+Laura, you rolled how many?
+
+LAURA: Two successes. That's all I could roll.
+
+TALIESIN: How many did you get?
+
+MARISHA: What do I roll for one-inch punching?
+
+TALIESIN: Strength plus melee.
+
+MARISHA: Do I use the red?
+
+TALIESIN: You have to always use at least two
+of the red.
+
+MARISHA: Always two, copy that.
+
+TALIESIN: Whatever red you have, you have to use.
+
+MARISHA: Okay. I don't know what that means, but
+I'm into it. All are successes but two.
+
+LAURA: Both of the reds are successes.
+
+MARISHA: Four successes.
+
+TALIESIN: You give a sharp push and the top of the
+coffin cracks a bit. It snaps.
+
+MARISHA: Shit, I fucking broke it!
+
+MATT: My strength is two, my melee is zero, which
+is accurate.
+
+TALIESIN: You're welcome.
+
+MATT: I rolled a five and a one. So a failure and
+whatever the X means.
+
+TALIESIN: You're feeling a little queasy.
+
+MATT: That's about right.
+
+TALIESIN: You're not feeling good. You got to hold
+on.
+
+SAM: One success.
+
+TALIESIN: One success? All right. You give it a
+push and it moves a little bit. Got a little shove.
+
+TRAVIS: Three successes.
+
+TALIESIN: The coffin cover cracks in half. That's
+as far as you've gotten.
+
+LAURA: What did mine do?
+
+TALIESIN: Yours got a good little shove. If there
+was something to see outside, you would see
+
+something, but there's not yet. You start to hear
+a little bit of a squeak. You feel something
+
+wriggling around inside the box with you.
+
+SAM: Like a mouse squeak?
+
+TALIESIN: If a mouse were bigger.
+
+MARISHA: Rats?
+
+TALIESIN: That's a good guess. It could be
+something rat-ish.
+
+LAURA: Do I want to eat the rat-ish?
+
+TALIESIN: I don't know; do you?
+
+TRAVIS: Do you like radishes?
+
+LAURA: Maybe.
+
+TALIESIN: You're definitely feeling hungry, and it
+does strangely smell appetizing.
+
+LAURA: Can I catch it and eat it?
+
+TALIESIN: Give me a dex roll.
+
+LAURA: Just dex?
+
+TALIESIN: Give me dex athletics, just to be fun.
+See what that does.
+
+MARISHA: We all have rats in there?
+
+TALIESIN: Yeah.
+
+LAURA: Where's my athletics?
+
+TALIESIN: Top of physical.
+
+LAURA: I don't have athletics. Yes I do. Shut up.
+
+TALIESIN: These are complicated. It's going to
+take a second.
+
+LAURA: Oh okay. Success, success, success, and two
+failures.
+
+TALIESIN: Two failures?
+
+LAURA: But three successes!
+
+TALIESIN: Are the two failures on red dice?
+
+LAURA: No, one is on a red, and one is a success
+on a red.
+
+TALIESIN: Okay. You grab the rat and it bites you.
+But you're holding on. You're still not feeling
+
+very well, you can't react yet.
+
+LIAM: Is there enough room to bring my knees up
+and start pushing with feet and hands?
+
+TALIESIN: Not yet, but soon. You're still a little
+weirded out by your face.
+
+MARISHA: I'm up, right?
+
+TALIESIN: You're still in your coffin.
+
+TRAVIS: Can I reach my fingers through the crack
+in the top of the coffin and see if there's any
+
+light, cold, or anything?
+
+TALIESIN: You feel wood, I suppose. There's
+another layer of wood above you.
+
+LAURA: What?
+
+TRAVIS: No light?
+
+TALIESIN: No light. Not yet.
+
+SAM: I'm yelling: I am an internet celebrity!
+People know me! Not many people. In obscure
+
+corners, but mostly in gaming stores.
+
+MARISHA: Situationally famous.
+
+TALIESIN: Do you want to do something with that
+rat?
+
+LAURA: Yeah! I want to bite it like I just ate
+that donut!
+
+TRAVIS: Gross.
+
+TALIESIN: Take a big bite of that rat. All right,
+so give me one of your red dice.
+
+LAURA: Oh no!
+
+TALIESIN: No, that's good.
+
+LAURA: Okay.
+
+TALIESIN: Mark your hunger, if you have a pencil,
+to just one X.
+
+LAURA: It's on the very bottom.
+
+TALIESIN: Just one.
+
+LIAM: Who's that at the window? Hunger! Ooh,
+hunger!
+
+TALIESIN: I love that show. You're feeling a
+little better. You're feeling a little more
+
+clear-headed. This is not a good situation.
+
+LAURA: Did I just eat a rat?
+
+TALIESIN: You did just eat a rat. I'm going to
+point out: it's not that you're not hungry any
+
+more. You're still hungry; you're just feeling a
+little better.
+
+LIAM: Am I so distracted with my face--
+
+TALIESIN: No, you're good now.
+
+LIAM: Okay, all fours, pushing.
+
+TALIESIN: Give a good push. Give me either, yeah,
+fun, strength brawl or strength athletics to see
+
+if you can push it off.
+
+LIAM: (grunting) I don't like it in here! The red
+is a ten and a two. And then a nine and one on the
+
+other dice. So success, success, failure,
+failure.
+
+TALIESIN: You got the coffin lid about halfway off
+now. You can almost make out a layer of wood above you.
+
+MARISHA: I'm going to give another whack where
+I've already indented it. Same roll?
+
+TALIESIN: Yeah, strength brawl or strength melee.
+I'll give you options now.
+
+LAURA: You have a better melee than brawl?
+
+MARISHA: Yeah, it doesn't make a lot of sense. I
+don't quite understand it. Okay. Three successes
+
+and three failures, two failures on the red.
+
+TALIESIN: Two failures on the red?
+
+MARISHA: Yeah.
+
+TALIESIN: Ooh, that's interesting. I'm learning
+how this works, one second.
+
+TRAVIS: I like this! She eats her hand.
+
+LAURA: Oh my god, what if she does?! What if she
+eats her own flesh?!
+
+TALIESIN: Things can happen, man, I'm not going to
+say.
+
+MARISHA: Bucket list check?
+
+LAURA: Make sure it's a digit you don't use very
+much.
+
+MARISHA: Start with the pinkies and work your way
+back?
+
+MATT: How will you pinky swear?
+
+TALIESIN: I'm so sorry, I'm trying to find my one
+hunger.
+
+LIAM: You don't pinky swear with evil people.
+
+LAURA: Evil people don't pinky swear! Evil people
+middle finger swear!
+
+MARISHA: Middle finger swear, yeah!
+
+LIAM, LAURA, and MARISHA: Middle finger!
+
+TALIESIN: Yeah, you don't feel well at all. You
+start scratching at your wrists. You start digging
+
+in a little bit. You're going to take one damage
+and you're going to start sucking your own blood
+
+because things are getting weird.
+
+TRAVIS: Oh shit!
+
+MARISHA: So dehydrated, you guys!
+
+TRAVIS: So much crying since last week!
+
+TALIESIN: You're going to take one damage and
+sadly, you're getting a little weird.
+
+LAURA: You get another red die! I don't even know
+what it means!
+
+LIAM: She has to roll three of them.
+
+LAURA: It's all so mysterious!
+
+MATT: I notice the rat's there and I look at my
+broken hand. So instead, I decide I'm going to try
+
+to coax it near me. Hey! Hey little guy! Hey
+buddy!
+
+TALIESIN: I'm going to give charisma animal ken.
+
+LAURA: That's good! I guess we have to lean into
+our strengths.
+
+TALIESIN: That's a good idea.
+
+TRAVIS: Oh no.
+
+MATT: Six or above you said? That's three
+successes.
+
+TALIESIN: It thinks that you are the nicest,
+sweetest, most wonderful person and is so excited
+
+that it may get to play with you and be a part of
+the game. It comes over and it's really--
+
+MATT: How hungry am I?
+
+TALIESIN: You're two dice worth of hungry right
+now, man, that's pretty hungry.
+
+MATT: How cute is the rat?
+
+TALIESIN: It's not that cute. A pescatarian would
+probably eat it.
+
+MATT: I'll eat the rat.
+
+TALIESIN: All right, good for you! Your hunger's at
+one. Give me one of your die.
+
+MATT: Whee! It actually hit the rat!
+
+TALIESIN: You actually just knocked--
+
+MARISHA: Oh, buddy!
+
+TALIESIN: Poor guy. It's okay. He's going to
+sleep. I'll get him his coffin later.
+
+LIAM: You can't see his penis any more!
+
+SAM: I'll roll to try to headbutt my way out of
+here. Three successes!
+
+TALIESIN: You snap that in half, and now you've
+just got wood.
+
+TRAVIS: I'm going to try and reach using my
+superior strength and try and punch through that
+
+crack into the wood above.
+
+SAM: Superior strength?
+
+LAURA: How many strengths does he have?
+
+SAM: More than all of us.
+
+TRAVIS: That's three successes and one failure
+with the red.
+
+TALIESIN: One failure with the red? You crack
+through, but some of the wood splinters and gets
+
+lodged and you're going to spend a minute trying
+to pull some chunks of wood out of your fist. That
+
+was a good shot, though.
+
+MARISHA: I'm going to go ahead and eat a rat, too.
+Pop him off, Ozzy Osbourne-style.
+
+TALIESIN: You've got to catch the rat.
+
+MARISHA: I catch the rat and I eat it.
+
+TALIESIN: How are you going to catch the rat?
+
+MARISHA: How am I going to catch it?
+
+TALIESIN: How are you going to catch it? Gotta
+catch 'em all!
+
+MARISHA: Do rats like-- hmm. What do rats like?
+
+TALIESIN: They like Disney films. Cheese. Amazon
+gift cards.
+
+LAURA: I don't think they really like cheese very
+much.
+
+MARISHA: I'm going to do little rat scratches on
+the--
+
+TALIESIN: You're going to do Pirates of the
+Caribbean? Let's give you manipulation animal ken.
+
+MARISHA: I can manipulate animal ken!
+
+LAURA: We're just so hungry.
+
+MARISHA: Come here, you little fucker. Three
+successes, two failures. One failure on red.
+
+TALIESIN: One failure on red? You grab it. You
+take a bite. You're going to lose one of those red
+
+die, but you are going to feel a little nauseous
+about this whole process.
+
+MARISHA: Well, I'm in a coffin.
+
+TALIESIN: You are in a coffin. I'm amused by the
+throwing of the dice. All right.
+
+TRAVIS: (groans)
+
+TALIESIN: Yeah, you got a second.
+
+MATT: I listen out to see if I hear anything.
+
+TALIESIN: You hear someone claiming to be an
+internet celebrity.
+
+MATT: I start going: Sam! Sam, it's me! It's
+Matt!
+
+SAM: Matt, is that you?
+
+MATT: It's me!
+
+SAM: What has happened to us?! All I see is wood!
+Have we gone inside Wyrmwood?
+
+TALIESIN: I feel like I should be able to bleed
+you for that.
+
+LAURA: Is there any kind of lock? I have it open a
+crack; I can't feel any?
+
+TALIESIN: There's no lock, no. It was just
+sealed.
+
+LAURA: I want to shove it over to the side.
+
+LIAM: I'd like to rap a song with my knuckles on
+the wood to try to get somebody's attention.
+
+TALIESIN: You're starting to hear that you're
+obviously in a small group together.
+
+MARISAH: We can also sort of hear?
+
+MATT: Sam!
+
+SAM: Matt!
+
+LAURA: Sam?
+
+MARISHA: Sam!
+
+LAURA: Matt?
+
+SAM: Marisha?
+
+LAURA: Dad?
+
+TALIESIN: Rocky! You've managed to make your way
+out.
+
+TRAVIS: I made it out first?
+
+TALIESIN: You can crawl out.
+
+TRAVIS: Do I see anything?
+
+LAURA: Do you see my fingers?
+
+TALIESIN: You take a look and you're on a set.
+
+MARISHA: Okay! Max!
+
+TRAVIS: (shushing) Guys! I'm outside the boxes!
+
+LAURA: Baby! Do you see my fingers?
+
+TALIESIN: You don't see their fingers, but you do
+see you're on a set. It looks pretty familiar. It
+
+might be the Nerdist set.
+
+TRAVIS: The fuck?
+
+LAURA: Did Nerdist turn us into vampires?
+
+TALIESIN: Hasn't it turned us all into vampires?
+
+LIAM: Fucking Chobot.
+
+TALIESIN: We'll get to that. The little light wall
+is sparking and flickering. This place is even
+
+more trashed than normal. Someone went through
+here. There's already a giant hole in the floor
+
+that's been blown through, and there are red X's
+in a circle and you've come out of one of them.
+
+You can see some of the wood has started to give a
+little bit and you can hear the tapping coming
+
+from the ground.
+
+TRAVIS: Sam! Quit yelling like a little bitch!
+
+LAURA: Travis! I start pounding on the wood.
+Travis!
+
+TRAVIS: Can I find my way to-- Is that Liam?
+
+LIAM: Yeah!
+
+TRAVIS: Okay, sit tight. Can I find my way to
+Laura's sound?
+
+LAURA: Baby!
+
+TALIESIN: Yeah.
+
+LAURA: Baby! Help!
+
+SAM: Oh yeah, you're married.
+
+TRAVIS: You guys are fucked. Can I try and smash
+through the floor?
+
+TALIESIN: Sure, give me a strength brawl.
+
+TRAVIS: Strength brawl? You are so kind! Give me
+one more of these things.
+
+SAM: Wow!
+
+TRAVIS: Damn.
+
+LAURA: There better be a lot of successes in
+there.
+
+TRAVIS: There are. There are five successes and
+two failures. None on red.
+
+TALIESIN: All right. Yeah. Practically like Bruce
+Lee, you punch down and the floor splinters open
+
+and there's Laura Bailey with blood all over her
+face.
+
+LAURA: Oh!
+
+TRAVIS: Oh! Shit!
+
+LAURA: I ate a rat, baby!
+
+TRAVIS: You did what?!
+
+LAURA: I ate a rat!
+
+TRAVIS: You ate a rat?
+
+LAURA: Yeah!
+
+TRAVIS: It wasn't because I punched through
+the floor?
+
+LAURA: No!
+
+TRAVIS: You could have lied and I wouldn't have
+known that! Ugh, god!
+
+LAURA: I was really hungry! I'm sorry.
+
+TRAVIS: Is there any left?
+
+LAURA: Well, there's a little bit of rat left, but
+it's just the butt.
+
+TALIESIN: It's rat butt, man. Even a vampire has
+some standards.
+
+LIAM: Can somebody get me out of wherever the fuck
+it is I am?
+
+TRAVIS: Quick note: we could get out of here and
+leave everybody else.
+
+LAURA: We can't do that!
+
+LIAM: I can hear you, dick!
+
+TALIESIN: You're making a lot of assumptions.
+
+TRAVIS: Let's get everyone else out.
+
+MARISHA: Now we all know how you feel about us.
+
+MATT: Sam!
+
+SAM: Matt!
+
+MATT: I'm here, Sam!
+
+SAM: I can hear you!
+
+TRAVIS: I'll go get Liam and Sam, you get Matt and
+Marisha.
+
+LAURA: Okay, I'm going to try to open Matt and
+Marisha.
+
+TALIESIN: Give me either strength brawl or
+strength melee.
+
+MATT: You can do this, Laura!
+
+LAURA: Thanks! I'll try!
+
+MARISHA: Let me know if you need help pushing!
+
+LIAM: There's a rat in here with me.
+
+MARISHA: You should eat it!
+
+LAURA: Three successes, two failures. The success
+was on the red.
+
+TALIESIN: As long as there's no failure on the red,
+it doesn't matter. You punch through quite easily.
+
+It goes all right.
+
+LAURA: Yeah! I'm getting her out first!
+
+LAURA and MARISHA: Yeah!
+
+LAURA: Help me get Matt out.
+
+MARISHA: Okay!
+
+LAURA: Matt!
+
+MATT: Sam!
+
+SAM: Matt!
+
+MARISHA: I'm confused. Oh yeah, they're yelling
+for each other.
+
+LAURA: Look at all your lipstick on your--
+
+MARISHA: I know! This is why you don't do this on
+a daily basis.
+
+TRAVIS: On your X I rolled five successes and two
+failures, but none on the red.
+
+TALIESIN: Yep, that does it. It doesn't go well,
+but you get it open.
+
+LIAM: Ooh!
+
+TRAVIS: You okay?
+
+TALIESIN: Actually, five/two, that's fine.
+
+TRAVIS: You all right?
+
+LIAM: Is my face okay?
+
+TRAVIS: It looks a little fucked up.
+
+LIAM: It feels weird.
+
+TRAVIS: We could leave right now.
+
+TALIESIN: Liam does not look healthy. He looks
+almost like everything froze and cracked, like he
+
+was wearing a plaster mask that started to go.
+
+LAURA: What the fuck happened to you?!
+
+LIAM: What do you mean?
+
+LAURA: You look really weird.
+
+LIAM: That makes me sad!
+
+TRAVIS: Don't worry about it. You know what? It's
+the lighting in here; it's super low. Let's get
+
+everybody else out first.
+
+LAURA: You should eat a rat.
+
+LIAM: The fuck are you talking about?!
+
+LAURA: I'm just saying.
+
+MARISHA: It's real good.
+
+LAURA: Can we try to pry open Matt's coffin?
+
+SAM: Matt?
+
+MATT: Sam, is that you?
+
+TALIESIN: I would recommend leaving Sam, but
+yeah.
+
+MARISHA: Okay, we double-team it.
+
+TALIESIN: You can roll together and we can add
+all of your successes together.
+
+MARISHA: Let's do that.
+
+TALIESIN: There's also a thing, I'm going to
+remind you, you can do if you really don't like
+
+your roll, although I would save this for later,
+you can spend a willpower and reroll all the dice
+
+you don't like. But then your willpower goes
+down.
+
+MARISHA: Ooh, I got a ten! Ooh, I got two tens!
+
+TALIESIN: Two tens. You hop over to Matt's
+little X. Oh, failures?
+
+MARISHA: One's an X-ed-out X. One on the red.
+
+TALIESIN: So you walk over to Matt's little X and
+you kick down real hard and you go straight
+
+through all the way down to the bottom. He's
+fine!
+
+MATT: I spit bits of rat right up into your face.
+
+LAURA: I definitely also rolled a bunch of
+failures with only one success and a failure was
+
+on the red.
+
+TALIESIN: Was it a real failure?
+
+LAURA: It's a four.
+
+TALIESIN: As long as it's not a one, it doesn't
+matter.
+
+LAURA: Okay.
+
+SAM: A failure is a one.
+
+TALIESIN: A failure is a one on a red die.
+
+LIAM: And a success is--?
+
+TALIESIN: Six and above.
+
+LAURA: But a failure failure is a one.
+
+TALIESIN: Yeah, you don't have to worry about
+anything other than--
+
+MARISHA: I'm so sorry, sweetheart.
+
+MATT: It's okay! Where's Sam?
+
+MARISHA: You look all right, though! I mean, you
+look--
+
+TALIESIN: He looks all right.
+
+MARISHA: You look as bad as we do, but okay.
+
+MATT: Thank you for having Sam send you.
+
+TALIESIN: You guys look like maybe you've been
+clubbing. You're a little pale.
+
+TRAVIS: Sam?
+
+SAM: (shouting) Yeah?
+
+TRAVIS: Scream like a baby some more.
+
+SAM: (wailing)
+
+TRAVIS: Okay, cool. Can we find our way over to
+the baby screams?
+
+TALIESIN: Yeah. Was going to say, yeah, pick which
+baby, but yeah, no, that'll work.
+
+TRAVIS: Liam, you want to help me?
+
+LIAM: Yeah, of course. Sam, are you okay in
+there?
+
+SAM: (shouting) I'm worried about my nanny! When I
+was playing, I had a nanny watching the kids, I've
+
+got to get home to the kids!
+
+TRAVIS: Is anybody wearing a watch?
+
+LAURA: Oh no, Charlie!
+
+LIAM: Do we have our iPhones on us?
+
+TALIESIN: You do not have your phones on you.
+
+LIAM: I'm sure it's just a couple hours later.
+We'll get you out of there and we'll figure it out.
+
+MARISHA: Can I go to the nearest surface and see
+if there's a dust layer?
+
+TALIESIN: You want to actually take a look around,
+maybe?
+
+MARISHA: I want to take a look around.
+
+TRAVIS: Let's get Sam out first.
+
+MARISHA: While they get Sam out, I'm going to look
+around.
+
+TALIESIN: Why don't you do a perception awareness
+roll?
+
+TRAVIS: Strength and brawl is what he told me last
+time.
+
+LIAM: And brawl? Here comes my two big dice.
+
+TRAVIS: I have one red fail, and one, two, three,
+four successes.
+
+MARISHA: I've got a ten and a seven on the red
+ones.
+
+TALIESIN: Man, you heard another rat rolling
+around, and you're eyeing it.
+
+TRAVIS: In the coffin? Or just on the floor?
+
+TALIESIN: Not everyone has eaten a rat yet.
+
+TRAVIS: Nope.
+
+TALIESIN: I think there's one more rat around, you
+should go looking for that.
+
+TRAVIS: I'm going to go look for the sound of that
+rat.
+
+LIAM: What are you doing?
+
+TRAVIS: I feel like I need a rat.
+
+MARISHA: They're kind of refreshing. Don't judge, man.
+
+LIAM: I'm judging you hard. Real hard.
+
+MARISHA: We are in a survival situation!
+
+LIAM: What? We're in the studio! I mean, it's a
+little fucked up, but I rolled a ten and a seven,
+
+did we get Sam out?
+
+TALIESIN: A ten and a seven? Yeah, that'll do it.
+
+MARISHA: You know there's not good crafty!
+
+LIAM: Sam! Husband, are you okay?
+
+SAM: I'm fine! Hey, that was a tough night, but
+I'm sorry, are you okay?
+
+LIAM: It's a process.
+
+SAM: Okay.
+
+LAURA: Oh, I'm sorry I told you that you look like
+shit right after everything happened. I didn't
+
+think about it.
+
+LIAM: I'm used to that.
+
+TALIESIN: This is the most WB Vampire since the WB
+Vampires.
+
+MATT: Yeah. Two successes to look around.
+
+TALIESIN: So there's no one here. And it's kind of
+messed up. Oh, plus three. Something is wrong.
+
+Including a giant sign on the wall painted in
+blood that says "Something is wrong."
+
+TRAVIS: Amazing.
+
+LAURA: Does it look like familiar handwriting?
+
+TALIESIN: No. To be fair, with the size of the
+palette, it looks a little bit like
+
+fingerpainting.
+
+MARISHA: Does it look like it was deliberate, or
+like it was part of the Thrashtopia set?
+
+TALIESIN: It's way too good-looking to be part of
+the Thrashtopia set.
+
+MATT: So it's in Papyrus.
+
+MARISHA: You guys, someone took their time to tell
+us that something is wrong.
+
+SAM: Of course something is wrong! Look at us! Do
+we have fangs?
+
+TALIESIN: How would you know?
+
+SAM: I'm looking at them.
+
+TALIESIN: It's a little dark, Liam does not look
+okay.
+
+MATT: I'm going to look for the lights.
+
+MARISHA: I'm going to go over to the green lights
+and see if I can screw them in.
+
+TALIESIN: A bunch of them are broken. And it
+looks like they've been smashed, all of the
+
+furniture, the table and the two chairs in that
+section have been completely thrashed up and
+
+broken up. There's damage everywhere. It looks
+like a riot came through here.
+
+LIAM: I'm going to drag my hand through the
+writing on the wall, to make sure that it's fake
+
+blood like syrup.
+
+TRAVIS: Like, maple syrup and chocolate syrup?
+
+LIAM: That's right, it's food, right?
+
+TALIESIN: Yeah, it's maple syrup.
+
+LIAM: Does it taste like maple syrup?
+
+TALIESIN: It doesn't quite taste like maple syrup.
+How much do you taste?
+
+LIAM: (lip smacking) Just my fingers, three
+fingers.
+
+LAURA: Stop sticking your fingers in your mouth!
+
+TALIESIN: Try again? Give me one of your blood
+tokens. It's not maple syrup, but it tastes better
+
+than anything that you've ever experienced in your
+entire life, you feel great.
+
+LIAM: Oh, I wipe a letter off the wall, and finish
+that off then.
+
+TALIESIN: Just one. That's all you're getting.
+
+LIAM: Yeah, that's fine, that's fine.
+
+TRAVIS: What are you doing? Oh, sorry.
+
+TALIESIN: But you're hungry, you're all hungry.
+
+MATT: I'm going to slowly push open the door that
+leads to the hallway just outside of the set.
+
+TALIESIN: So are you going to push towards the
+Twitch studio, or push towards the hallway?
+
+MATT: Oh, sorry, closer to the Twitch studio.
+
+TALIESIN: Towards the Twitch studio.
+
+MARISHA: The big body doors? The big stage doors?
+
+TALIESIN: You sadly can't quite get to it because
+there are piles of film memorabilia, there's a
+
+Power Ranger helmet, there's a Foosball table, it
+is just--
+
+MARISHA: Grab that fucking helmet, it is worth
+some money.
+
+TALIESIN: Not in the condition it's in!
+
+MATT: Based on her recommendation, I grab the
+helmet and put it on.
+
+MARISHA: Can I bend down and see if there's any of
+our stunt swords, or can I snap off a chair leg
+
+and arm myself?
+
+TALIESIN: You can snap off a chair leg, that's
+okay, give me a strength athletics, I suppose. I'm
+
+still getting used to--
+
+TRAVIS: Can I keep looking for that rat?
+
+TALIESIN: Yeah, give me a perception awareness.
+Oh, well, a perception investigation.
+
+TRAVIS: Damn it.
+
+MARISHA: Two successes?
+
+TALIESIN: Oh, yeah, it snaps right off, you've got
+a broken chair leg.
+
+SAM: Seeing Marisha do that, I'm going to find any
+XLR cable on the floor I can find.
+
+TALIESIN: You don't even have to roll for 
+that, it's everywhere.
+
+SAM: I'm going to use it as a whip if I need to.
+
+TALIESIN: That'll work great.
+
+TRAVIS: Three of three, including one crit.
+
+TALIESIN: Oh yeah, three and three including one crit?
+Boy, do you find that rat. Suddenly--
+
+LAURA: Rats have paper?
+
+TALIESIN: Rats are made of paper.
+
+TRAVIS: Okay.
+
+TALIESIN: Which one did I hand you again?
+
+TRAVIS: Auspex, heightened awareness.
+
+TALIESIN: Boy, you really saw that rat, and you
+got it.
+
+TRAVIS: I go right after it.
+
+TALIESIN: You catch it, and are you going to give
+it a bite?
+
+TRAVIS: I'm going to give it a good little
+(snarls).
+
+TALIESIN: Give me a die, and you're at one hunger.
+By the way, your hunger level's however many
+
+red dice you have right now.
+
+LAURA: There should be some stunt weapons--
+
+TALIESIN: Not on the Nerdist set, they're not that
+cool. Sorry, I'm going to be throwing so much
+
+shade, it's going to be really bad.
+
+LAURA: But there's a closet right outside of the
+stage.
+
+TALIESIN: There are, but that door is not opening.
+You're going to have to maybe--
+
+LAURA: Go to the hallway door?
+
+TALIESIN: You can check to see if it'll open.
+
+LAURA: I'm going to try and get into the hallway
+door.
+
+TALIESIN: Are you going to be--
+
+LAURA: Stealthy about it?
+
+TALIESIN: Are you going to try and be stealthy
+about it?
+
+LAURA: I'm going to try and be stealthy about
+opening the door. Quietly.
+
+TALIESIN: Super stealthy. How quietly are you
+going to open the door?
+
+LAURA: So quietly? Super quietly? I'm going to
+take a really long time pushing that little bar in.
+
+TALIESIN: Yeah, give me a dex stealth.
+
+LAURA: Okay. Whoa! Double zeroes, crit. And all
+successes. Everything was a success.
+
+SAM: All successes?
+
+LAURA: Yeah!
+
+TALIESIN: You start to vanish as you're pushing
+the door, you're get a little--
+
+MATT: Yes!
+
+LAURA: Oh my god. How do I use this, what do I do
+with this?!
+
+TALIESIN: You let me know when you want to want to
+use it, and I'll tell you what roll to make, but
+
+there are rules to it right now! You can try and
+get fancy with it later, and it might get fancy,
+
+but play around, see what works and what doesn't.
+You don't know how this shit works.
+
+LAURA: Okay. So I can open the door.
+
+TALIESIN: You can open the door very quietly.
+
+LIAM: So, we're going to find a phone, we're going
+to call your nanny. You and I will get out of
+
+here, we'll get to your place, we'll get you home,
+and then I'll go home.
+
+SAM: Sure, yeah. Amy must be worried.
+
+LIAM: I would assume.
+
+SAM: Yeah!
+
+TALIESIN: The lights in the hallway are
+flickering. They're not working well. They've got
+
+that weird fluorescent crackle when things are
+left to go to rot.
+
+LAURA: Can we hear any voices at all?
+
+TALIESIN: You can hear the hum of the server room
+right across from you. And some sort of squishy
+
+sound coming from the server room. There's some
+sort of awful (squishy noises).
+
+LAURA: Oh, that's foul. I'm going to go check it
+out.
+
+TRAVIS: Where'd Laura go?
+
+SAM: I don't know. Are you okay?
+
+TRAVIS: I feel funny. I'm really hungry.
+
+SAM: Ooh, maybe they have leftover, what did we
+have, Greek?
+
+TRAVIS: Yeah, it was like breakfast pizza and
+gyros?
+
+SAM: Oh, it was Chinese!
+
+LAURA: Yeah, we had Chinese.
+
+SAM: Maybe they have some leftover Chinese.
+
+MATT: While they're having this conversation, I
+walk over in my Power Ranger helmet and follow
+
+behind Marisha and where Laura might be, because I
+have no idea where she is.
+
+MARISHA: Oh, babe, we should look out for those
+Warcraft props.
+
+MATT: Oh yeah!
+
+MARISHA: Those might also be worth some money.
+
+TALIESIN: I literally have their location written
+in my notes, that makes me so happy.
+
+MARISHA: Really?
+
+TALIESIN: Really.
+
+SAM: If we wanted to head to the kitchen, is that
+the same direction they're going?
+
+LAURA: Yeah.
+
+TALIESIN: They're at least at the table, and
+there's something happening in the server room.
+
+It's dark in the kitchen, but you can't quite tell
+what's happening.
+
+MARISHA: Let's try and get to the kitchen.
+
+LIAM: Where?
+
+LAURA: You don't want to check out the server
+room?
+
+MARISHA: Well, we've got to go that way anyway.
+
+TALIESIN: Everyone roll a dex stealth.
+
+LAURA: Do I have to roll dex stealth?
+
+TALIESIN: Since you did so well, I'm going to let
+you walk one through, although that's not quite
+
+how it works.
+
+LAURA: Oh, really? Should I do it?
+
+TALIESIN: No, I'll let you go.
+
+LIAM: Crit!
+
+MARISHA: Ooh, I got two tens! Same thing!
+
+LAURA: Oh you got two tens, he got two tens as
+well!
+
+TALIESIN: Two tens? All right!
+
+MARISHA: And the rest are successes.
+
+TRAVIS and MATT: Two successes.
+
+SAM: One success.
+
+TALIESIN: You guys make a little bit of noise,
+and--
+
+SAM: Isn't a crit two tens?
+
+LAURA: A crit is two tens.
+
+TALIESIN: --there's noise, there are things. You
+don't see anybody, but you can hear stuff moving
+
+around.
+
+MARISHA: It's probably Sean, he works so late.
+
+TALIESIN: So the big door, the big door for the
+Twitch studio.
+
+LAURA: You mean that door over there?
+
+TALIESIN: I mean, yes, as long as you're not
+pointing in the game, because then you're pointing
+
+at the front, but if you're pointing at the table,
+then yeah, that's the door.
+
+LAURA: Right.
+
+LIAM: No, she's Laura, she's not Laura. She's
+Laura, not Laura.
+
+TALIESIN: I'm trying to find my points.
+
+(creepy ambient sound, repeating "Where are
+you?")
+
+LAURA: "Where are you," did you hear that?!
+Creepy! Ugh!
+
+TALIESIN: Yeah, there's some weird sounds coming
+from everywhere, but there's a big, bloody sign
+
+written on the main door to the Twitch stage.
+
+MARISHA: Does it say, "Things are getting
+creepy?"
+
+SAM: Does it say, "Is it Thursday yet?"
+
+TALIESIN: It says, "I was born in a box, how do I
+end?" With a question mark.
+
+LAURA: Wait a minute, does that mean other people
+came out of coffins, too?
+
+TALIESIN: And below it is a circle that's been
+drawn in blood, and set into four corners. In one
+
+corner is a heart, in another corner there's a
+face, in the other corner is a glowing sun, and in
+
+the other corner is a cross with a circle.
+
+MARISHA: It's a box?
+
+TALIESIN: It's a circle, cut in four. With a heart,
+a head, a sun, and a cross.
+
+MATT: Where are the Warcraft weapons?
+
+LAURA: Are they in the stock closet, in the closet
+that's got the props?
+
+MARISHA: They might be in the prop closet.
+
+TALIESIN: Right, does anybody actually have a card
+key that gives them access to the prop closet?
+
+TRAVIS: I don't.
+
+LAURA: I bet Marisha does!
+
+MARISHA: I do!
+
+TALIESIN: Where is it?
+
+MARISHA: It's on Sean's desk. I've got to get to
+the desk, I've got to get to my office.
+
+MATT: I'll come with you to the office.
+
+MARISHA: Okay.
+
+LIAM: Is it as we remember it, or is there debris
+everywhere?
+
+TALIESIN: The Foosball table is missing, the couch
+has been overturned.
+
+LAURA: Are there Lucky Charms in the cabinet?
+
+TALIESIN: There are in fact, for some strange
+reason, Lucky Charms in the cabinet.
+
+LAURA: Can I try to eat some Lucky Charms?
+
+TALIESIN: You can, go ahead and have a handful.
+They taste like rat droppings. You can still taste
+
+them. It's the worst thing ever.
+
+LAURA: Even the marshmallows?
+
+TALIESIN: The marshmallows are like fuzzy bits of
+lint inside of rat droppings, I'm so sorry. It
+
+doesn't taste right.
+
+TRAVIS: What's the matter with you, you love Lucky
+Charms!
+
+LAURA: (sadly) I love Lucky Charms. These taste
+like shit.
+
+TRAVIS: Are they old?
+
+LAURA: I don't think that's what it is.
+
+LIAM: You're crazy.
+
+LAURA: They taste like shit.
+
+LIAM: Ugh!
+
+MATT: Let's make our way to Sean's office.
+
+TALIESIN: Reroll stealth before you do.
+
+MATT: Okay. Trying to be careful as we go past the
+server room glass window.
+
+MARISHA: What was it again? Dex and--?
+
+MATT: Stealth.
+
+TALIESIN: Dex stealth.
+
+MATT: That's one success!
+
+LAURA: Just one?
+
+MATT: Just one. I'm not very stealthy.
+
+LAURA: Oh no!
+
+TALIESIN: Oh no.
+
+MARISHA: Double failures. On the red.
+
+LAURA: Everything else was a success though!
+
+LIAM: Doesn't matter!
+
+MARISHA: Yeah, everything else was real good!
+
+LIAM: It's just like the end of the Vox Machina
+story! Goodbye!
+
+TALIESIN: What's your current hunger?
+
+LAURA: She's got two dice.
+
+MARISHA: Yeah, two, yeah. They both were ones. The
+red ones were ones.
+
+TALIESIN: Yeah, your forehead starts to elongate a
+little bit, and your eyes begin to glow, you start
+
+to kind of have a little bit of a twitch, and
+you're getting a little feral.
+
+MARISHA: Do I see my reflection in the server room
+window?
+
+TALIESIN: You do see your reflection in the
+server room window. Are you looking in the server
+
+room window?
+
+MARISHA: Yeah.
+
+TALIESIN: That's not a server.
+
+MARISHA: What do you mean that's not--? What?
+
+TALIESIN: Whatever's in the server room, it
+doesn't quite look like a server.
+
+MARISHA: Does it still look like a big, fatty
+computer?
+
+TALIESIN: If they made them out of meat.
+
+MATT, TALIESIN, and MARISHA: Meat computer.
+
+LAURA: Gross!
+
+MATT: It's probably MSI.
+
+TALIESIN: Normally I wouldn't do this on this, but
+it's amusing me. So even though this was a
+
+failure, I figure I may as well hit that now since
+you started to change. The server is pulsating and
+
+thwapping against the window like it's trying to
+get out.
+
+MATT: Do we see any discernable features beyond
+being a mass of flesh?
+
+TALIESIN: How close to the window--? Make a
+perception roll into the window.
+
+MATT: We're trying to say on the other side of the
+hallway as we creep by. Just perception?
+
+TALIESIN: You can do perception investigation, if
+you like, or perception awareness.
+
+MATT: Three successes and one failure on the red
+die.
+
+TALIESIN: One failure on the red die? You are
+suddenly panicked when you realize-- you get
+
+distracted for looking in the room when you realize
+that you can see Marisha's reflection, but you
+
+don't see yours.
+
+MATT: I know what this means!
+
+MARISHA: Babe! This is some Buffy shit!
+
+MATT: It's pretty fucking cool.
+
+MARISHA: Look how awesome! Do I look cool?
+
+MATT: Pretty badass. I got to take a picture, but
+I see my phone's not there. I'm like: Oh shit, sorry.
+
+TALIESIN: Suddenly, the door to the server room
+bursts open.
+
+LAURA: Do we hear it in the kitchen?
+
+TALIESIN: It flies open.
+
+LAURA: Oh shit! I go running to see what the noise
+is.
+
+TALIESIN: As you stop, you see Dani Carr.
+
+LIAM: No!
+
+MARISHA: Dani!
+
+TALIESIN: With a big smile on her face. A very big
+smile on the face. And a tea set! And she ignores
+
+you and takes the tea over into the Geek & Sundry
+bullpen, humming a little tune as the door shuts
+
+behind her with whatever's writhing and wriggling
+in there.
+
+MARISHA: Wait, did she us?
+
+TALIESIN: She didn't seem to acknowledge you.
+
+LIAM: She came out of the server room and went
+into Nerdist?
+
+TALIESIN: She looked a little gaunt, definitely,
+but her eyes had sunken in a little bit and her
+
+skin was a little too tight for her skull.
+Everything looked a little thinned and darkened.
+
+MATT: Marisha, I think we're all fucked up.
+
+LAURA: What the fuck happened to Marisha's face?
+
+MARISHA: Look, isn't it awesome?
+
+TALIESIN: To the bullpen. To the Geek & Sundry
+bullpen to Marisha and Sean's office in the back.
+
+LIAM: I'm going to follow her. Dani!
+
+TALIESIN: How close are you going to get?
+
+MARISHA: I've got to get the key card, so I'll go
+with you.
+
+LIAM: 30 feet behind. D?
+
+MARISHA: Continuing my mission.
+
+LIAM: Dani?
+
+TALIESIN: She's ignoring. She takes the tea set,
+if you can look around, into Sean's office,
+
+humming the whole time. The door shuts behind her.
+You couldn't get a good look at what's going on.
+
+The lights, again, are all a little iffy.
+
+MARISHA: We've never fucking drank tea.
+
+TALIESIN: If you're crawling in that direction,
+you can definitely start taking a look around and
+
+see what's up there as I find my bullpen.
+
+LIAM: I don't remember exactly what's in the
+Nerdist offices, but it's full of shit. Is there
+
+anything I could grab as a weapon?
+
+TALIESIN: Other than a commemorative Chun Li
+statue.
+
+LIAM: I'm taking it.
+
+MARISHA and LAURA: Those are heavy!
+
+MATT: Can I look for social's, Chris' sword that
+he always attacks people with?
+
+TALIESIN: The foam one?
+
+MATT: The foam one.
+
+TALIESIN: Are you going into the Geek & Sundry
+bullpen?
+
+MATT: To look for that, yes.
+
+TALIESIN: Chris is in the bullpen.
+
+MATT: I go: Chris, give me your foam sword!
+
+TALIESIN: Chris is ignoring you. Chris is sitting
+at his desk and his eyes have sunken all the way
+
+almost into the back of his head. His mouth is
+very terse and he's wearing a sign and he's
+
+working on the socials. You also see that the
+window has been blocked and covered.
+
+LAURA: Do they look like us, or do they look
+like--?
+
+TALIESIN: They look like people wearing some weird
+makeup who are very dehydrated and they're all
+
+wearing signs around their neck and really trying
+hard--
+
+LAURA: Signs around their neck?
+
+TALIESIN: Are you going in enough to see it?
+
+MATT: Yeah! I was going to go bug him and: Chris!
+What's wrong with you?
+
+TALIESIN: As far as you can see so far,
+between Chris, Sax, Arcade, and Audrey, they are
+
+all occasionally making eye contact with you, but
+not really keeping it, and they're all wearing
+
+signs that say "Drink Me."
+
+SAM and LAURA: Ugh.
+
+TALIESIN: They are terrified. Is anybody above a
+hunger three right now? Three or above? Do you
+
+have three red dice, or is everybody at least at
+two?
+
+MATT, LAURA, and TRAVIS: One.
+
+SAM and MARISHA: Two.
+
+TALIESIN: They smell weirdly good. There's an
+almost candied sensation.
+
+LAURA: Do they smell like Lucky Charms?
+
+TALIESIN: They smell like the first bowl of Lucky
+Charms you ever had in your life. They are all
+
+sitting at their desks, either working or
+pretending to work, it's hard to tell. Dani comes
+
+bursting out of the office without a tea tray,
+sits down at her desk and meets your gaze.
+
+TRAVIS: Who did she deliver tea to?
+
+LIAM: Dani?
+
+TALIESIN: "Yeah?"
+
+LIAM: What's going on?
+
+TALIESIN: "Oh, you're all awake! That's great."
+
+MARISHA: Dani. Sean doesn't drink tea.
+
+TALIESIN: "Sean doesn't drink tea, that's true."
+
+MARISHA: Is Sean in there?
+
+TALIESIN: "No. No, Sean's working on the server."
+
+LAURA: Ugh. How long were we sleeping?
+
+TALIESIN: "Who can say? That's just a matter of
+opinion, that could be anything. I'd have to ask
+
+"upstairs. I could write an email!"
+
+LIAM: Do you know what's going on?
+
+TALIESIN: "Of course! Of course I know what's
+going on; that's my job. I know what's going on."
+
+LAURA: Why were we in the coffins?
+
+TALIESIN: "I don't understand the question. That's
+odd."
+
+TRAVIS: Who did you give the tea to?
+
+TALIESIN: "Oh, they're having a creative meeting
+right now."
+
+SAM: Who's they?
+
+TALIESIN: "The creative team."
+
+MARISHA: Why the fuck didn't I get an email?!
+
+LAURA: You were in a coffin, dude, you might have
+gotten an email.
+
+LIAM: Is this a Geek & Sundry thing or an LDN
+thing?
+
+TALIESIN: This is most assuredly an LDN thing.
+
+(laughter)
+
+TALIESIN: "Well, ask me no more questions, and
+I'll tell you no more lies!"
+
+TRAVIS: Can I make my way out of the bullpen, back
+towards the server room?
+
+TALIESIN: Yeah.
+
+TRAVIS: Can I approach the server room window?
+
+TALIESIN: Yeah.
+
+TRAVIS: Can I look inside?
+
+TALIESIN: Yeah. Give me a perception investigation
+because you don't have an awareness issue.
+
+TRAVIS: Oh god. Three successes.
+
+TALIESIN: That thing in there is definitely meat
+and it's some sort of weird-- it's built out of a
+
+lot of different things and it seems to be
+interconnected to something that goes up higher
+
+into the building. It's part of some sort of
+machine.
+
+TRAVIS: Do I smell anything?
+
+TALIESIN: It smells kind of good. Not great, but
+it smells pretty good.
+
+TRAVIS: Okay.
+
+TALIESIN: But it's locked.
+
+TRAVIS: I don't see Sean anywhere?
+
+TALIESIN: Not that you can tell. How well and
+intimately do you know Sean? Could you recognize
+
+him by just parts? You don't see his head
+anywhere, I'll go that far.
+
+LIAM: You've seen his head.
+
+TALIESIN: Man, I warned y'all.
+
+TRAVIS: Yeah, I know!
+
+MATT: Is this an amalgamation of many parts, or it
+one giant, pulsating Tetsuo type thing?
+
+LAURA: I know, I was picturing a big flesh blob,
+but it's body parts?
+
+TALIESIN: Yeah, if you look really closely you
+tell that there's parts that were not ground up
+
+appropriately and are definitely--
+
+LAURA: Ground up?!
+
+MATT: Chris, give your sword! I shake him. Give me
+your sword!
+
+TALIESIN: Chris is frozen with fear.
+
+MATT: I look around for the sword.
+
+TALIESIN: There is a foam sword by his--
+
+MATT: I take it!
+
+TALIESIN: He almost tells you not to take it, and then
+thinks better of it when Dani looks at him.
+
+LIAM: I set Chun Li down on Dani's desk. Dani,
+we're going to get the fuck out of here, and we're
+
+going to take you with us. You need to tell me
+what the fuck is going on so we can work together
+
+to get the fuck out!
+
+TALIESIN: "We won't know what's going on until the
+creative meeting is over. You would have to talk
+
+"to them."
+
+LIAM: You are talking like a crazy person!
+
+MARISHA: I'm going to go in the creative meeting.
+
+TALIESIN: Yay!
+
+MARISHA: They're in my office.
+
+MATT: It's true.
+
+TRAVIS: There's no writing or sign on the door
+that says, "Drive-Thru"?
+
+TALIESIN: You go into the creative meeting?
+
+MARISHA: Yeah.
+
+TALIESIN: You walk in.
+
+LIAM: Fuck it. I pick up Chun Li and I back her
+up.
+
+TALIESIN: Inside are Eric, and I think it's Matt
+Key. Eric's sitting on the little green grass
+
+carpet. They've got the tea set out. There's a
+couple different tea cups and he's sitting there
+
+having a sip of tea. Weirdly, Whitney Moore is
+sitting there with him.
+
+LIAM: Does it look normal in here? They're not,
+but the room?
+
+TALIESIN: They look normal, except their eyes.
+There's large black circles around their eyes and
+
+their mouths are blackened over in this very weird
+gray puffy mold. It's almost like there's a mold
+
+around their mouths and eyes. In the corner is
+Matt Key, who is working on an iPad, but it's only
+
+the arm and the head of Matt Key. He seems to have
+sprouted spores. There's an old, flowering pile of
+
+gray mushrooms that still have Matt Key's face and
+hand as he's working in the corner that has
+
+crawled up and covered the window. Eric and
+Whitney see you come in and go, "Oh thank god,
+
+"Marisha, we've been waiting. It has been very
+weird. Come down, have some tea, it's just what
+
+"you need." As they sit and drink tea.
+
+SAM: Are there any telephones around, Taliesin?
+
+TALIESIN: Have you ever seen a telephone in this
+place?
+
+LAURA: Where's Taliesin?
+
+TALIESIN: There was an extra hole in the ground
+and I was already broken open. That's all I'm
+
+going to say. They're giggling a lot and they're
+talking about "Dad." "Dad's coming back any second
+
+"now. Dad has plans. Have some tea. We'll explain
+everything."
+
+SAM: Don't have the tea.
+
+MARISHA: Is this a coup? Is Taliesin taking over?
+What did Taliesin do?
+
+SAM: Where's Taliesin?
+
+LAURA: There was a hole.
+
+TALIESIN: "Taliesin was here. Taliesin left. He
+went to go deal with something. But Taliesin was here."
+
+SAM: Which way did he go?
+
+TALIESIN: "Out."
+
+LAURA: Outside? Should we leave? Let's leave.
+
+SAM: Yeah!
+
+LAURA: I'm going to walk towards the front door.
+
+SAM: I'm joining Laura.
+
+TALIESIN: You're going to walk towards the front
+door?
+
+LAURA and SAM: Yeah.
+
+MATT: Before they do that, because I saw my lack
+of a reflection. Is it day or night outside?
+
+TALIESIN: You don't know. You actually haven't
+seen a working window yet.
+
+MATT: They're all blocked?
+
+TALIESIN: So far!
+
+MATT: I'm going to say: Hey! Be careful! Be slow.
+Some of us might be sensitive to sunlight.
+
+SAM: Oh.
+
+MATT: I point. Marisha's probably still back in
+the office. You saw Marisha's face?!
+
+TALIESIN: Eric and Whitney see you do this and
+laugh their ass off. And then, "Key! Key! Put that
+
+"in, put that in, that's great! That's great! Aw,
+Matt! Matt! Genius! No, we're going to use that!"
+
+MATT: I never get this kind of positive feedback,
+I'm actually liking this.
+
+LAURA: Yeah, right.
+
+LIAM: Key. Key, buddy. You doing all right?
+
+TALIESIN: Key has a smile and he's writing
+everything down. He's just iPad-ing, "Key. Key,
+
+"buddy. You doing all right?"
+
+MARISHA: I'm going to go look over Key's shoulder,
+look at his iPad. Scroll up.
+
+TALIESIN: Roll a straight dexterity roll.
+Dexterity dodge. Let's get weird.
+
+MARISHA: Sure! All successes except for one.
+
+TALIESIN: All successes except for one? He's been
+writing down everything the two of them have said.
+
+MARISHA: Is there anything that we have said
+further up in the document?
+
+TALIESIN: Oh yeah, it's all there. He's taken down
+every note of everything he can hear.
+
+MARISHA: Including when we weren't in the room?
+
+TALIESIN: No. It's a creative meeting.
+
+MARISHA: Right.
+
+LIAM: Key. Buddy. I voice Doctor Strange. You love
+Doctor Strange! Key!
+
+TALIESIN: He writes, "I voice Doctor Strange. I
+love Doctor Strange. Key!"
+
+LIAM: Can I poke his face a little bit?
+
+TALIESIN: It's gray and weird looking.
+
+LIAM: I'm going to poke it.
+
+TALIESIN: All right. Roll stanima.
+
+LAURA, MARISHA, and MATT: Stanima?
+
+TALIESIN: Stamina. Roll stanima. What am I going
+to add to that? Just roll stanima--
+
+LIAM: Oh shite.
+
+SAM: I think he thinks it's "stanima"!
+
+TALIESIN: I can't say it right, I know.
+
+LIAM: It's a lot of pressure behind that screen,
+man.
+
+LIAM: Not on the red one, but the non-red is a
+failure-- Two failures, and the red one is a
+
+success.
+
+TALIESIN: So just a failure on the one--
+
+LIAM: Failure on the non-reds.
+
+TALIESIN: Okay, but a success on the reds.
+Nothing. This is going to sound weird, roll
+
+charisma persuasion.
+
+LIAM: Charisma and persuasion. Yes. Yas, Key.
+Where the frig is persuasion? Where is it? There
+
+it is.
+
+TALIESIN: There's still tea.
+
+LIAM: Four failures, the red is a nine, and a
+non-red success.
+
+TALIESIN: It doesn't matter where a failure is,
+just tell me the number of successes.
+
+LIAM: Two successes, one of which is on a red.
+
+TALIESIN: Okay, and the other red didn't hit a
+one? It doesn't matter failures, it's just
+
+successes.
+
+LIAM: I only have one red die, though.
+
+TALIESIN: So it's fine. So two successes.
+Actually, hold on. That's right, I can do this.
+
+I've got a thing for this.
+
+LIAM: And I smell my finger.
+
+LAURA: Gross. Why are you licking and smelling
+your fingers?
+
+LIAM: You've known me for so long.
+
+LAURA: You've got a piece of paper.
+
+LIAM: What is it?
+
+LAURA: What is it?
+
+TALIESIN: Key actually twitches and you hear this
+snap of a whole bunch of mushrooms and spores as
+
+his neck (clicks). There's a little puff.
+
+MARISHA: Does the spore puff do anything?
+
+TALIESIN: Were you close enough to sniff it?
+
+MARISHA: I was leaning over his shoulder.
+
+LAURA: Oh shit, you were.
+
+TALIESIN: "We're going to add that in. It's going
+to be great."
+
+LIAM: Are you aware this is not a normal situation
+right now?
+
+TALIESIN: "Oh yeah, we have Alpha money. We've
+never had this kind of money before. They're
+
+"letting us do so much." Did you sniff the snorts?
+Spores. (mispronouncing) Sniff the spores? Sniff
+
+the s'mores?
+
+MARISHA: I don't know, did I sniff the spores?
+
+TALIESIN: There were s'mores, but-- Roll stanima,
+just tell me what happens.
+
+MARISHA: Stanima? I've got to think about it now.
+Just straight stanima?
+
+TALIESIN: Feels good to be on the other end of
+this, doesn't it?
+
+MATT: Yeah. But I feel for you.
+
+TALIESIN: Fuck off. Yes.
+
+(laughter)
+
+LIAM: Smell the siggle.
+
+MARISHA: Two successes.
+
+TALIESIN: Yeah, you're fine. Nothing weird. You do
+notice that the tea they're pouring is red. And it
+
+smells pretty good.
+
+MARISHA: It's blood! I'm so thirsty. Okay, I sit
+down on the grass. Is Arwen here?
+
+TALIESIN: No Arwen. Probably for the best, because
+I'm not that, you know.
+
+MARISHA: I have some tea.
+
+TALIESIN: So as you sip the tea, Eric and Whitney
+giggle, talk, and make notes. "There's a big thing
+
+"happening tonight. There's going to be a big new
+change to the show. And as soon as we get that
+
+"little lock problem off of the Twitch stage,
+everything will be great. We've been trying to
+
+"figure out how to open the Twitch stage, and
+there's a little lock, and he's very excited for
+
+"you to figure out his little puzzle. He says it
+shouldn't be too hard for people like you to
+
+"figure out."
+
+MARISHA: Oh, you've been talking to the lock.
+
+TALIESIN: "We've been talking to Father. Father
+has been helping us redesign the show, it's going
+
+"to be really good."
+
+MARISHA: Wait, is Father Father his full name?
+Like first name, Father, last name, Father?
+
+TALIESIN: "No. (giggling) No, he's very excited,
+though. He's very excited for you to figure out
+
+"his little riddle. It's going to be good. You
+should figure out his riddle. Can we help you? I
+
+"mean, I know you're not supposed to be in this
+meeting. We're really thankful that you're here, but--"
+
+MARISHA: It's my fucking office, bitches.
+
+TALIESIN: "Sure, but we kind of had the room?"
+
+TRAVIS: Try the tea.
+
+MARISHA: I've been drinking the tea.
+
+TALIESIN: It tastes good. It tastes a little
+weird. It tastes really good. Tastes like blood.
+
+It's a little bitter. It's good.
+
+LAURA: Maybe it's like mushroom blood tea.
+
+MARISHA: I'm not getting dosed, am I? That would
+suck.
+
+TALIESIN: We'll find out, won't we?
+
+LAURA: Did we make it to the front door yet?
+
+SAM: Yeah, we're hustling.
+
+TALIESIN: You want to hustle? As you turn the
+corner to the front door--
+
+LIAM: Wait, Eric, did you get your suit for the
+wedding?
+
+TALIESIN: "Yeah."
+
+LAURA: It's definitely a flesh suit.
+
+TALIESIN: Of course it is. As you turn the corner,
+Lego Hardwick has been propped up in front of a
+
+red velvet curtain, with a sign that's blocking
+off the whole front.
+
+SAM: What does the sign say?
+
+TALIESIN: It says "Your funeral."
+
+MATT: That's not ominous at all, from a giant Lego
+Hardwick.
+
+TALIESIN: Somehow he looks less creepy. I'm not
+entirely sure how they pulled that off.
+
+LAURA: Do you think it's because Matt said we're
+light sensitive?
+
+SAM: Maybe. Do you want to peek out?
+
+LAURA: I can try. Do you want to do it?
+
+SAM: I'll hold you so if you cry out in pain, I'll
+pull you back.
+
+TALIESIN: Matt, really quickly, roll a wits and
+willpower.
+
+SAM: Taliesin, Laura's going to peek out.
+
+LAURA: Sam's going to hold onto my back.
+
+TALIESIN: Hold on.
+
+MATT: That was a good roll for me. That is a crit
+success, with six successes.
+
+TALIESIN: You felt a weird push towards that
+curtain that you can't quite identify. That was
+
+very odd. That's very strange.
+
+MATT: I'll go first! I just want to see, I'm
+really interested.
+
+SAM: But you said we could be light sensitive.
+
+MATT: I have a good mind for these things, and you
+know what? My intuition's telling me that I go first.
+
+LAURA: You're acting really weird, Matt.
+
+TALIESIN: He gets just far enough to grab his hand
+onto the curtain, and a beam of daylight comes
+
+streaking right through and hits you square in the
+head.
+
+MATT: Shit.
+
+SAM: Does he cry out in pain or anything?
+
+TALIESIN: He doesn't cry out. No, nothing happens.
+
+LAURA: Does it hurt?
+
+MATT: Am I fine? Does it hurt me?
+
+TALIESIN: Slowly, the two halves of you separate
+at the head.
+
+SAM: I pull him back!
+
+LAURA: I'm going to squish his halves together and
+hold him together!
+
+TALIESIN: And Matt Mercer drops into a pile of
+ash.
+
+(shouting)
+
+MARISHA: We always knew you'd be the first to go
+in the apocalypse.
+
+LAURA: You're dead already?
+
+TRAVIS: He's literally a pile of ash? Clothes,
+anything, just ash?
+
+TALIESIN: Just ash.
+
+TRAVIS: (shouting) Pick up the ashes!
+
+SAM: I'm picking up the ashes.
+
+LAURA: (shouting) Marisha's going to be so upset!
+
+SAM: I don't know what to do, I'm putting them in
+our pockets!
+
+LIAM: Why are you always the one who picks up the
+ashes?
+
+TALIESIN: Marisha, there is nothing funny about
+this. You shouldn't be laughing.
+
+TRAVIS: She's not out here!
+
+MARISHA: I'm not there! I'm in the office!
+
+TALIESIN: You're not there? Oh shit. Well you
+certainly are hearing screaming now.
+
+SAM: I start crying.
+
+LIAM: I'm with Marisha in the office.
+
+LAURA: We're crying.
+
+TRAVIS: No, I'm not crying, I'm freaking the fuck
+out!
+
+TALIESIN: You are having the best creative meeting
+ever, by the way.
+
+MARISHA: This is a great creative meeting. I kind
+of miss this.
+
+SAM: Oh god! What are we going to do? Should we
+tell Marisha?
+
+TRAVIS: No! Yes! No!
+
+SAM: I think we're alone.
+
+TRAVIS: I'm out there with you, I'm by the
+server.
+
+LAURA: If he was by the server room he totally
+would've seen it happen.
+
+SAM: We can't tell Marisha, they were about to get
+married!
+
+LIAM: Meanwhile, back in the office: This is why I
+never get in the middle of G&S conversations,
+
+because you guys have your own language. I never
+know what you're talking about, and it's best that
+
+I just stay out of your way.
+
+TRAVIS: Do we bring the ashes with us or do we
+like put them in a trash bin?
+
+MATT: It's not just ashes. Amongst the pile, there
+is still a foam sword and a Power Ranger helmet.
+
+This is important guys, don't leave that behind.
+
+LAURA: I pick up the Power Ranger helmet.
+
+TALIESIN: It's not going to help you.
+
+LAURA: Can we put the ashes in the Power Ranger
+helmet?
+
+TALIESIN: You can.
+
+MARISHA: Oh my god, that's so sad!
+
+SAM: I'll pile the ashes in the helmet.
+
+TRAVIS: We don't tell Marisha! She'll freak out.
+Maybe there's a way to undo it.
+
+LAURA: To bring his ashes back?
+
+SAM: No, if we break the magic, everything comes
+back to normal. That's how these things work.
+
+LAURA: What, do you think this is magic? You don't
+think we're actually fucking vampires right now?
+
+TRAVIS: Did you eat a rat a second ago?
+
+LAURA: I ate a rat! I feel like this is real life!
+It's not going to go back.
+
+TALIESIN: You hear thunderous sounds of something
+being tossed around really violently upstairs,
+
+like somebody is doing demolition up there and
+then it suddenly stops. You can see, from your
+
+vantage point, everyone in the front office of
+Geek & Sundry looks up. And then goes right back
+
+to work, like trying to pretend that nothing
+happened.
+
+MARISHA: I pop out of the office--
+
+TALIESIN: You do not get that far. Do you try and
+stand up?
+
+MARISHA: Yeah? I was going to go talk to Dani.
+
+LAURA: Oh no, you drank the tea.
+
+TALIESIN: Yeah. What did we learn about drinking
+the tea?
+
+MARISHA: You know, it looked real good. You said
+it looked bloody. I'm real thirsty.
+
+TALIESIN: I will also say: while it is not sun
+tea, it is Sean tea.
+
+MARISHA: Ashanti about a Sean tea?.
+
+LAURA: It's made of Sean?
+
+TALIESIN: It is made of Sean.
+
+MARISHA: Wait, you mean it's Sean tea?
+
+TALIESIN: With a hint of mushroom for flavor. As
+you go to stand up from the grass, you notice that--
+
+MARISHA: (shouting) I'm drinking my best friend's
+essence! That's gross!
+
+TALIESIN: Your legs have turned into little
+mushrooms in the grass. And they're starting to
+
+push through your abdomen as well, and come up
+through your throat.
+
+LIAM: No! I'm going to start scraping them off, if
+I can.
+
+TALIESIN: Make a stanima-- a stanima roll.
+
+LIAM: Okay. Just straight, right?
+
+TALIESIN: Just kind of a simple one.
+
+LIAM: That's a failure on the red. No it's not,
+it's a five, and ones are the only failure.
+
+TALIESIN: Ones are the only fail. There's a big X
+when you go wrong.
+
+LIAM: So one success.
+
+TALIESIN: The stuff starts sticking to you in a
+way that you don't like, and it burns a little
+
+bit. You probably want to wipe your hands off. And
+while you were wiping her off, it was starting to
+
+go straight through the skin like there was
+nothing under there other than mushrooms.
+
+MARISHA: It's just something I ate. Mushrooms have
+never sat well with me.
+
+TALIESIN: And that's the last thing Marisha ever
+said.
+
+(shouting)
+
+LIAM: (shouting) No!
+
+LAURA: We come barging in: (crying) You guys!
+
+SAM: (crying) Marisha, I'm so sorry! He's gone!
+
+TRAVIS: What'd you do?
+
+LIAM: She's a mushroom.
+
+TRAVIS: What do you mean?
+
+LIAM: She's a mushroom, look! And I push into her
+shoulder.
+
+TALIESIN: She leans right over and you've got
+powder on your hand.
+
+(shouting)
+
+TRAVIS: Oh fuck! What happened? We took care of
+the guy we were with. What'd you do?
+
+LIAM: Where's Matt?
+
+LAURA: (shouting) He's in the Power Rangers
+helmet!
+
+(shouting)
+
+TALIESIN: Suddenly, Christian bursts into the
+room. He is covered in blood and says, "Can you
+
+"keep it down?"
+
+TRAVIS: Does he smell good?
+
+TALIESIN: He does. "You guys are making a lot of
+noise, and people are trying to work. God!" And he
+
+goes back out.
+
+LAURA: I'm going to set Matt's helmet down next to
+Marisha's mushroom head.
+
+TRAVIS: Okay. Not sure what's happening? Sun: bad.
+Sun very bad.
+
+SAM: Don't go out the front door. Don't drink
+anything.
+
+LIAM: Don't drink the tea! She drank the tea!
+
+SAM: Do we get a refund on the wedding gift?
+
+LIAM: I literally just bought a new suit. It's a
+good suit.
+
+SAM: Is it an automatic refund thing, or do we
+have to apply for it?
+
+MARISHA: (whispering) Take my safety deposit!
+
+TRAVIS: Can I look at Dani? Dani, why are you
+wearing a sign that says "Drink me"?
+
+TALIESIN: Actually, Dani's one of the few who
+isn't.
+
+TRAVIS: Not wearing a sign. Chris is. Why are you
+wearing a sign that says "Drink me?"
+
+TALIESIN: "He said I had to. I'm sorry, I
+can't--"
+
+TRAVIS: Father said you had to?
+
+TALIESIN: He's not in a mood to talk.
+
+SAM: Is Father Chris Hardwick?
+
+TRAVIS: We should kill Chris.
+
+SAM: Hardwick?
+
+TRAVIS: Nope. This Chris.
+
+LAURA: Why?
+
+TRAVIS: Chris, do you want me to kill you? We
+shouldn't kill Chris.
+
+TALIESIN: He does smell-- Well, no, you're at one.
+You're fine.
+
+LIAM: Hey, just a side note. For their wedding, I
+bought them a big block of tickets to Hamilton,
+
+and they can't use them now.
+
+TRAVIS: The wedding's done, Liam!
+
+LIAM: I get that. Would you like to see Hamilton
+again?
+
+TALIESIN: Suddenly the creative room stops. All
+eyes turn to Liam.
+
+LIAM: I mean, if anyone wants to buy them off me,
+I'll cut you a real good deal.
+
+TALIESIN: And they slowly start to get up.
+
+LIAM: Wait, what's going on?
+
+TALIESIN: "You have Hamilton tickets?"
+
+LIAM: I mean, not on me! But I could never tell
+you where they are if I'm eaten!
+
+TALIESIN: Whitney and Eric slowly move towards
+you, and as they open their mouths a little wider,
+
+you see that there is nothing in there. It's just
+a void in their mouths.
+
+SAM: I'm going to whip Whitney in the face with an
+XLR cable!
+
+TALIESIN: Let's do dexterity with brawl.
+
+SAM: All successes. Three successes!
+
+TALIESIN: Three successes? You get her right in
+the face. She falls down with a big cut right
+
+across her face. This black dust comes poofing out
+of it like soot. She's giggling on the floor,
+
+rolling around in laughter. The whole room starts
+to bend, glitter, and shift. Everything's getting
+
+a little soft in there. Maybe you've been
+breathing too many of the spores.
+
+SAM: Like I feel like I'm seeing trails?
+
+TALIESIN: How do you feel like you're seeing
+things? You're either seeing something or you're
+
+not. If you're seeing it, it's either real or it
+isn't.
+
+SAM: Does it feel good?
+
+TALIESIN: It doesn't feel good. It feels like
+things are going to turn on you at any second.
+
+SAM: I'm going to back up, cock my XLR cable.
+
+LAURA: We should shut the door. I'm going to shut
+the office door.
+
+TRAVIS: We got to get Liam out of there!
+
+LAURA: Liam's in there still?
+
+TALIESIN: It's up to you if you backed up with
+everybody.
+
+LIAM: Wherever Sam is, I am now.
+
+TRAVIS: I kick Eric dead in the chest just for good
+measure.
+
+MATT: Just for good measure.
+
+TRAVIS: He was coming after Liam!
+
+LIAM: He's big!
+
+TALIESIN: Strength brawl.
+
+TRAVIS: Just strength?
+
+TALIESIN: Strength brawl. Get weird. What's your
+power again? Okay, never mind. I know what your
+
+power is.
+
+SAM: Matt and Marisha!
+
+LAURA: You guys are so dead!
+
+TRAVIS: Six successes, no failures.
+
+TALIESIN: Six successes, no fails? Your foot goes
+right through the center of him in a big poof of soot.
+
+TRAVIS: (coughing) I back out.
+
+TALIESIN: When you pull out, he is again on the
+ground hiccuping in a laugh and the shoe you were
+
+wearing is now a different shoe than you have on
+your other foot.
+
+TRAVIS: My shoe changed. I kicked him in the chest
+and my shoe changed.
+
+SAM: Is it a Jordan?
+
+TALIESIN: It's not a nice shoe. It's definitely a
+Ross Men's For Less shoe.
+
+LIAM: Do Laura and I also see a changed shoe? We
+all see a changed shoe?
+
+LAURA: Why did his shoe change? Travis, get out of
+the fucking room!
+
+LIAM: Is that your vampire power?
+
+TRAVIS: I got out of it, though! His chest gives
+you new shoes!
+
+LAURA: I'm shutting the door now and I'm grabbing
+a chair and I'm putting it in the thing to block the
+
+office.
+
+TALIESIN: Dani's looking at all of you.
+
+TRAVIS: Is she still sitting down?
+
+TALIESIN: She is.
+
+LAURA: Dani, this is messed up.
+
+TALIESIN: "I agree."
+
+LAURA: Matt and Marisha are dead.
+
+TALIESIN: "Yes, I know."
+
+TRAVIS: Dani, show me your hands!
+
+TALIESIN: "Jazz hands."
+
+LIAM: Open your mouth. Can I see anything? Is
+there a void?
+
+TALIESIN: Not at the moment. Her eyes do have the
+weird little mold. There's a little bit of the
+
+mold, the closer you look, the lips and eyes,
+little bit of the gray mold going on.
+
+LAURA: Dani, did you eat mushrooms?
+
+TALIESIN: "No."
+
+SAM: Can't kill anyone! I just whipped somebody in
+the face and they laughed!
+
+TRAVIS: Yeah, I kicked Eric's chest out and he
+started laughing.
+
+TALIESIN: Dani goes into her desk and she pulls
+out a key card for you all.
+
+LAURA: Thanks. What is this for?
+
+TALIESIN: And a little wooden stake. She's like,
+"You should probably get going, there's a lot of
+
+"work to do if you're going to make it to the
+Twitch show on time." She goes back to working on
+
+her unpowered laptop.
+
+TRAVIS: Unpowered laptop. Just black screen?
+
+TALIESIN: Everybody's is black screens.
+
+TRAVIS: She's typing furiously?
+
+TALIESIN: Everybody's typing on nothing.
+
+LAURA: This is really weird, you guys.
+
+TRAVIS: Hey. Should we bring one of these "Drink
+Me" guys with us?
+
+LAURA: Why?
+
+TRAVIS: I don't know.
+
+SAM: In case we want to drink them? Or feed them
+to somebody else?
+
+TRAVIS: Like a decoy. No offense, Chris.
+
+LIAM: We hit them, they fucked with our brains.
+
+LAURA: Not the "Drink Me" ones.
+
+TALIESIN: They don't have as much of the-- they're
+still there, they're not giggling.
+
+TRAVIS: Chris, do you want to come with us?
+
+TALIESIN: "No."
+
+LAURA: What about you, Arcade?
+
+LIAM: Yeah, Arcade, are you good?
+
+TALIESIN: Arcade's trying to not even look at you
+guys. There's another huge thump above from the
+
+offices above and the sounds of knives scraping
+into walls and glass.
+
+SAM: I'm going to try to glamor him.
+
+LAURA: You can do that?
+
+TALIESIN: What power do you have right now?
+
+SAM: Power? I don't have power; I'm going to try
+to convince him with the power of my words.
+
+LAURA: You're not Scanlan, you're a vampire.
+
+TRAVIS: You don't know that. We're all a bit of
+our characters.
+
+SAM: Going to say: you need to come with us right
+now. You cannot resist. The power of Christ
+
+compels you.
+
+(laughter)
+
+TRAVIS: He burns. Bursts into flame. (yelling) Oh
+god, he rolled something.
+
+SAM: I watched True Blood.
+
+TALIESIN: Something feels weird, but it doesn't
+quite work right. You don't know what you felt,
+
+but you felt a little vibration.
+
+SAM: A good vibration?
+
+TALIESIN: Good vibration.
+
+TRAVIS: (singing) It's a good vibration!
+
+SAM: You can feel it! It felt good?
+
+TALIESIN: Yeah, you felt a little twitch.
+
+SAM: Then I'm going to do it again. I'm going to
+yell at him. You're nothing without us! We keep the
+
+lights on in this place! Come with us!
+
+TALIESIN: He looks afraid, but he's cowering a
+little bit.
+
+LAURA: Sam, be nice to him, he's a really cool
+guy.
+
+SAM: I don't know what I'm doing.
+
+LAURA: I'm going to go over to Arcade and put my
+hand on his shoulder.
+
+TALIESIN: What am I going to do? Roll a d10.
+
+LAURA: Just 1d10?
+
+TALIESIN: How many red do you have right now?
+
+LAURA: Just one.
+
+TALIESIN: Roll a d10.
+
+LAURA: Ooh. I rolled a three. So close.
+
+TALIESIN: You have a moment when you touch him
+where you really think about tearing right into that
+
+throat. Your fangs start to grow.
+
+LIAM: You all right, La? Why are you--?
+
+LAURA: Arcade looks really good is all.
+
+LIAM: You need chapstick?
+
+LAURA: Do you want to come with us?
+
+TRAVIS: Which teeth began to grow? The buck teeth
+or the canines?
+
+TALIESIN: Bit of both.
+
+LAURA: Upstairs, maybe? Are we going to the Twitch
+set? I don't know. What's happening upstairs?
+
+TALIESIN: "You don't want to go upstairs."
+
+TRAVIS: We should go to the Twitch set.
+
+LAURA: Let's go to the Twitch set. Come on, let's
+go. It'll be so much fun. Come on.
+
+TALIESIN: You can try and drag him.
+
+LAURA: You want to go to the Twitch set?
+
+TALIESIN: "I want to stay here."
+
+TRAVIS: Fine, we'll leave him.
+
+LIAM: I'm pulling Sam away for a minute.
+
+SAM: What?
+
+LIAM: Whispering. Listen to me. Those guys, I love
+them, but they're married and--
+
+SAM: Who's married? Oh, Laura.
+
+LAURA: Baby! Look at my teeth!
+
+TRAVIS: What the fuck?
+
+LAURA: I know!
+
+SAM: What are you saying?
+
+LIAM: I'm saying that you and me.
+
+SAM: An alliance?
+
+LIAM: You are my best friend! They are my best
+friends, but they're married!
+
+TRAVIS: I'll actually use my heightened senses.
+
+TALIESIN: What's the roll for that?
+
+TRAVIS: I see hunger roll is perception plus
+investigation.
+
+LIAM: They have to help each other!
+
+SAM: Okay, if shit goes down, I'll help you.
+
+TRAVIS: Liam's whispering and Sam's talking in a
+normal voice.
+
+TALIESIN: To be fair, I'm going to let you have
+this. You can hear all of this.
+
+LIAM: I'm just saying if things go pear-shaped, I
+got you.
+
+TRAVIS: They're saying if things go pear-shaped,
+they're going to fuck us and take care of each
+
+other.
+
+LAURA: You dicks!
+
+SAM: No, we didn't say that! We said that we would
+look out for each other.
+
+TALIESIN: Travis, I have a gift for you.
+
+LAURA: Oh, you're hungry! You're getting hungrier!
+We should get out of this room.
+
+SAM: What do we know? There's some sort of Twitch
+performance that we have to get to. There's a
+
+Twitch show, there's something upstairs, there's
+weird shit on the walls being written. Do we know
+
+what that is?
+
+LAURA: We definitely can't leave.
+
+TALIESIN: Not until the sun sets.
+
+MATT: (gasps)
+
+SAM: Matt's dead.
+
+LAURA: Marisha's dead.
+
+SAM: Marisha's a spore.
+
+LAURA: We don't know where Taliesin is.
+
+LIAM: The wedding is probably not happening.
+
+LAURA: We would be doing so well if Taliesin was
+here. He would totally know what to do right now.
+
+MARISHA: The wedding is probably not happening
+after those two conclusions!
+
+TALIESIN: Dust and mushrooms. We are marrying dust
+and mushrooms.
+
+TRAVIS: We've been to the front door, we've been
+to the bullpen, we've been to the server room.
+
+LAURA: We got to go to the Twitch stage.
+
+TRAVIS: And there's that area beyond the Twitch
+stage that I never go into.
+
+LAURA: Oh yeah, the back area! Let's make our way
+to the Twitch area.
+
+SAM: Yeah, let's go! Liam!
+
+LIAM: What's up, yes?
+
+SAM: We're going to the Twitch area!
+
+TALIESIN: In a little while, when we come back, we
+will be going to the Twitch area. You guys are
+
+adorable.
+
+LAURA: What the heck is happening?
+
+TALIESIN: I'm having fun torturing you all. I've
+got so many worse things to happen. Guys, thank
+
+you for enjoying my attempt to hang onto these
+rules that I've written down. Things are going to
+
+get a little weirder because I'm going to inform
+of them of a couple new rules that they can now
+
+play with since they're starting to vamp out a bit
+more. Sadly, two of our party are dead and are
+
+going to have to not come back to the table.
+
+TRAVIS: You all died so fast!
+
+MATT: You know, I knew that was going to happen,
+but when the compulsion kicked in I was like:
+
+Well, I rolled pretty high.
+
+TALIESIN: You rolled really high. I was going to
+shove you out there because you are what you are.
+
+It's in an inside joke that probably 100 people
+watching our stream right now are like, "Oh, I
+
+"know what Matt was." It was kind of cute.
+
+MATT: Lasombra.
+
+TALIESIN: Nothing you need to know about until
+maybe next week. We'll talk about it.
+
+MATT: Well, thank you.
+
+TALIESIN: Guys, thank you so much. I think we're
+going to have a giveaway for something in the
+
+chat and I believe we're going with "Bloodbath." I
+hope you're enjoying this madness. It's going to
+
+get weirder and I hope you enjoy where we're going
+with all this. We'll be back in a
+
+few minutes once we've watered or had other things
+to drink. We'll see you soon.
+
+TRAVIS: Yeah!
+
+MARISHA: Don't burn down the company while I'm
+dead!
+
+[break]
+
+TALIESIN: Dude. I get the theming. I'm kind of--
+
+LAURA: I want to know where it's going.
+
+TALIESIN: Two nasty little children gone. Four
+sweet little children left. The winner of our
+
+in-chat giveaway is Cloaked_roamer.
+
+TRAVIS: Cloaked_roamer!
+
+TALIESIN: Won a Wyrmwood set of ill-repute that
+I'm not entirely sure of what it is or what it
+
+does, but it is a thing and I'm far too nervous
+trying to run this game with all of these papers
+
+that I'm so glad you can't see--
+
+LIAM: And it wards off Christians.
+
+TALIESIN: It does apparently. Cloaked roamer? And
+then I'm doing a little thing to help you guys out
+
+really quickly before we come back to the game. So
+that I know what I'm doing because this is crazy.
+
+I hope you all are having a good time.
+
+LIAM: I am having a great time.
+
+SAM: This is a reasonably sized D&D table now. We
+have a reasonable amount of people.
+
+LAURA: Yeah. There's plenty at the side-- I bumped
+into you!
+
+LIAM: Let's put that over our head.
+
+TALIESIN: And just to remind you what's painted on
+the floor when we get there.
+
+LAURA: Right. I marked that down.
+
+SAM: Did you guys hear this whole thing about the
+clue? There's a riddle. Were you there for that or
+
+is that me hearing something that Marisha heard?
+
+TALIESIN: No, you've heard that.
+
+LIAM: Do you need this back?
+
+TALIESIN: No.
+
+LIAM: Here's a heart, sun, bottom left is face,
+bottom right is a cross in a circle.
+
+LAURA: Oh, she gave us a--
+
+TALIESIN: A foam sword.
+
+LAURA: A foam sword. No, she gave us the wooden--
+
+TALIESIN and LIAM: A little wooden stake.
+
+TALIESIN: I think she may have given you a keycard
+also. Because she was just--
+
+LAURA: She was being so kind.
+
+LIAM: And so much good role-playing.
+
+TALIESIN: I'm having fun in the most terrifying
+way possible. Oh man, this is intense. I don't
+
+even know if this is a high, I'm not sure what
+this is. This is jumping out of an airplane
+
+without a parachute, but knowing that it's foam
+underneath.
+
+TRAVIS: Can we make our way back to the Twitch
+stage?
+
+TALIESIN: So yeah, let's pick back up. For some
+reason, my volume is--
+
+LIAM: (Snagglepuss voice) Oh, exit stage right,
+even.
+
+TRAVIS: (laughs) Oh no.
+
+TALIESIN: So you make your way back, quietly
+through the mess.
+
+LAURA: Stealthily. We don't want to make noise
+past the meat mass.
+
+TALIESIN: There we are.
+
+LIAM: (Snagglepuss voice) Heavens to Murgatroyd.
+
+TALIESIN: Jesus. I'm going to switch to another
+one, see what happens. I don't know what any of
+
+these audio buttons do, so it's fun for
+everybody.
+
+SAM: When I did my one-shot, I played the same
+song for 45 minutes so it's just a two minute--
+
+LAURA: Hello?
+
+TALIESIN: I'm reeling it in. It's good. You know,
+you could probably hear that from somewhere. We'll
+
+deal with that.
+
+TRAVIS: It's all upstairs.
+
+LIAM: It's probably Rachel Romero up from the
+second floor.
+
+TALIESIN: Only I know. Don't think I don't have
+plans. So you make your way. Do you want to go
+
+through the hallway or through the Nerdist
+office?
+
+LAURA: No. Through the hallway. I feel like the
+Nerdist office-- I just feel like it's going to be here.
+
+SAM: Guys, can I quickly admit that I don't know
+the layout of the building at all?
+
+TRAVIS: Some people know this, actually.
+
+SAM: I don't know the difference between--
+
+TALIESIN: I have the blueprints to the whole
+building right here. I know where every window is;
+
+I know where every office is.
+
+LAURA: And avoid the server room.
+
+SAM: Half the people you've talked about I've
+never heard of.
+
+TRAVIS: Definitely the safest way back to the
+Twitch stage is through the Nerdist office. Sam,
+
+you should lead us.
+
+SAM: Okay. Sure. Which way do I go?
+
+TRAVIS: Just right through this long passageway.
+
+SAM: Okay. I'm at the tip of the spear, I've got
+my whip. I'm going.
+
+LAURA: I'm sure there's something heavy that I can
+grab and use as a weapon in the Nerdist office.
+
+TALIESIN: Yeah. Make a perception investigation
+roll.
+
+TRAVIS: Can I do the same?
+
+TALIESIN: Yeah. Anybody who wants to make
+perception investigation roll.
+
+LAURA: Is it just perception?
+
+TALIESIN: Perception plus investigation, which is
+right below it.
+
+TRAVIS: Oh, three successes.
+
+TALIESIN: That will do.
+
+LAURA: Oh god. I rolled a failure. On the red.
+
+TALIESIN: What's your hunger level?
+
+LAURA: This is the only one.
+
+TALIESIN: Just the only one?
+
+TRAVIS: Take a red die.
+
+TALIESIN: Not for one. You get distracted going
+through people's stuff and you're going to get
+
+left a little behind. You'll be at the back of the
+line by the time this is done.
+
+LAURA: Did I see anything?
+
+TRAVIS: Three successes.
+
+TALIESIN: Three successes? No, you didn't find
+anything.
+
+LAURA: Nothing?
+
+TRAVIS: You got distracted, you're left behind.
+
+LAURA: Yeah, but--
+
+TALIESIN: You've found it. I'll tell you what you
+did find. You found a Playstation VR system. But
+
+very used.
+
+LIAM: You're getting pink eye from that.
+
+LAURA: Do you know how you get pink eye?
+
+TALIESIN: It was already a little iffy, but it's
+definitely not been happy for the past however
+
+long it has been.
+
+LIAM: Poop in the eye, yeah?
+
+TALIESIN: Like Lucky Charms.
+
+LIAM: What's Travis doing right now?
+
+TALIESIN: He was wandering-- he went into the
+corner, to Elise's desk and he found underneath
+
+her desk something that will do. It's a replica
+knife that seems to be pretty solid. It's a Lord
+
+of the Rings replica elf knife. It's not exactly
+sharp, but it will do the trick.
+
+LIAM: I catch up, put my hand on your shoulder.
+That is sick. And I'm sorry and I use Presence:
+
+Awe to say, you really need to keep me safe so I
+can get us out of here.
+
+TALIESIN: Oh, you're going for that?
+
+LIAM: Yes.
+
+TALIESIN: All right. Roll a d10.
+
+LIAM: Okay. Just one. So it's not charisma plus
+persuasion?
+
+TALIESIN: We're doing that next. Roll a d10. Okay.
+So what's your roll? I mean, what's your--
+
+LIAM: Charisma and persuasion.
+
+TALIESIN: And it's just straight-up?
+
+LIAM: That's what it says. Hunger or charisma plus
+persuasion.
+
+TALIESIN: Let me double check just because I'm
+learning how these powers work.
+
+SAM: Where are you?
+
+TALIESIN: I know. I'll find it.
+
+LAURA: I'm just playing with the Pink Eye system.
+
+LIAM: This is the scariest thing yet.
+
+SAM: Are you putting it on your face? It could
+protect your eyes.
+
+TALIESIN: And what's your roll for that? Four?
+
+LIAM: I rolled a four on the d10.
+
+TALIESIN: Make a intelligence versus willpower
+roll.
+
+TRAVIS: So what's the versus mean?
+
+TALIESIN: Oh. Just intelligence and willpower.
+
+LIAM: A single d10 or-- so I roll too? Charisma
+plus persuasion?
+
+TALIESIN: Yeah, you roll that. Charisma plus
+persuasion. I'm making this a versus because
+
+normally, it's not. But this is weird.
+
+TRAVIS: So this is the intelligence one. And
+that's two successes and the willpower is two
+
+successes. And a failure, but not a red.
+
+LIAM: Two successes.
+
+TALIESIN: Two success. Do you want to burn a
+willpower to reroll?
+
+LIAM: Yes.
+
+TALIESIN: Reroll everything you don't like and
+burn a willpower.
+
+TRAVIS: It's four successes.
+
+LIAM: Five successes.
+
+SAM: Oh! You got to mark off that willpower.
+
+TALIESIN: He's your bro, man. And also, take an
+extra die. You're here to keep everybody safe but you're--
+
+TRAVIS: Hey man. You are actually the person I'm
+most concerned about, so you stay close to me. I'll
+
+keep you safe.
+
+LIAM: Everyone here, I don't know why, likes me.
+I'm an idiot, but they do. So you keep me alive,
+
+obviously. So you keep me alive.
+
+TRAVIS: Look what I found!
+
+LAURA: I'm playing Resident Evil.
+
+TALIESIN: On the VR?
+
+LAURA: Yeah.
+
+TALIESIN: I think I was going to have you roll to
+see if you get pink eye, but never mind.
+
+LIAM:That's an auto-fail.
+
+TALIESIN: I feel so bad, I'm so mean to Nerdist.
+Nothing of event walking through here.
+
+TRAVIS: Through the Nerdist office? Nothing?
+
+TALIESIN: Nothing weird.
+
+TRAVIS: Let's go. Let's keep going. To the Twitch
+stage.
+
+TALIESIN: You're at the door. There's the big
+circle. You're in the kitchen again. There's the
+
+big circle on the floor and there's the bloody
+sign on the big door.
+
+LAURA: Oh my god! The farmer jumped out! Oh, you
+guys, have you played this? Oh my god, you guys!
+
+SAM: Is this a portable system? How does this
+work?
+
+TALIESIN: No, it's--
+
+TRAVIS: Wired.
+
+LAURA: I already took it off, dick. And you're in
+the kitchen.
+
+TALIESIN: The funniest thing of course is there's
+prob-- well no, I guess there would be a little
+
+power to it. It's probably pretty glitchy.
+
+TRAVIS: It doesn't really work. None of the
+laptops worked. You were playing with nothing.
+
+LAURA: I'm crazy!
+
+TALIESIN: So yeah, you get to the stage again and
+big red letters that says, "I was born in a box.
+
+"How do I end?"
+
+TRAVIS: Okay, this is obviously some sort of
+puzzle, right?
+
+SAM: This is a riddle, this is a puzzle. We've got
+three clues so far. I was born in a box. How do I end?
+
+LIAM: Well, Matt ended and Marisha ended.
+
+SAM: Something is wrong. Right, that was the
+first thing that we read.
+
+LAURA: Hey guys, thanks for leaving me behind in
+the Nerdist--
+
+SAM: Is it something is the matter or something is
+wrong?
+
+TRAVIS and TALIESIN: Something is wrong.
+
+SAM: And then also, your funeral. This is a word
+scramble.
+
+LAURA: Well, your funeral is obviously referring
+to if you go through the curtain, you're dead.
+
+TALIESIN: Make an intelligence test. No, just
+Sam.
+
+SAM: Okay. In just a straight--
+
+TALIESIN: Straight intelligence test.
+
+SAM: --straight stanima.
+
+TALIESIN: No, straight intelligence test, you
+fucker. I have your stats here.
+
+SAM: Two successes.
+
+TALIESIN: Okay. You know me, I've been busy all
+week. This is not a word scramble. I don't have
+
+time for that shit.
+
+TRAVIS: I would high-five you right now.
+
+TALIESIN: Thank you.
+
+LAURA: I was born in a box. How do I end?
+
+TALIESIN: And there is a circle on the floor.
+
+LAURA: Oh, and it's got--
+
+TRAVIS: A heart, a sun, a face, a cross in a
+circle.
+
+TALIESIN: Or a head, or a face.
+
+LAURA: How do I end? I was born in a box. How do I
+end? You end from the sun! So I'm going to stand
+
+in the sun.
+
+SAM and LIAM: What?
+
+TRAVIS: In the circle or--
+
+TALIESIN: I followed you. Nothing happens.
+
+LAURA: Oh. Maybe the cross, too, a wooden
+stake situation? Can't you die from a cross if
+
+you're a vampire?
+
+TRAVIS: If you're a vampire, yeah.
+
+LAURA: Aren't we vampires? Look at my teeth!
+
+TRAVIS: Those are a problem.
+
+SAM: Who gets born in a box?
+
+LAURA: We did! Coffins, dude.
+
+TRAVIS: Test-tube babies?
+
+TALIESIN: They were born from a tube. Sorry.
+
+SAM: Was Jesus Christ born in a box? A manger
+thing?
+
+LAURA: No, we were born in a box.
+
+TALIESIN: How much you overestimate me.
+
+TRAVIS: When she stood in the sun, did anything
+happen?
+
+TALIESIN: No.
+
+TRAVIS: Why don't you take the stake that we were
+given and stab the heart with it?
+
+LAURA: Okay. I take the wooden stake and stab the
+heart on the ground.
+
+TALIESIN: When you put the stake on the ground
+by the heart, there's this low, bassy thud.
+
+LAURA: Should I leave it here or should I back
+up? What should I do?
+
+SAM: That's a good thing. No, this is progress.
+
+LAURA: Should I leave it on the ground or should I--
+
+SAM: Sure.
+
+LAURA: I'll leave the stake on the ground.
+
+TALIESIN: The blood that the heart was drawn with
+start to turn black and crackle. And it boils
+
+there, gently.
+
+TRAVIS: Okay. So heart and stake. Not cohesive.
+
+LAURA: Very cohesive. It killed the heart.
+
+TRAVIS and LAURA: Yeah.
+
+LAURA: Are there any more clues around? Do we see
+any more writing?
+
+TALIESIN: This is a big building.
+
+TRAVIS: That's true.
+
+LIAM: All right. There's no people out here,
+right? The "drink me" and "eat me" people were all
+
+back in the Nerdist offices, outside the
+bullpen.
+
+TALIESIN: You don't see anybody.
+
+TRAVIS: Should we check the little prop closet?
+
+LAURA: Let's see if the key card opens the prop
+closet. Did it work?
+
+TALIESIN: The keycard does in fact open the prop
+closet. It's a very good keycard. That's better
+
+than my keycard. Yeah, the prop closet opens.
+
+LAURA: (gasps) Is there a weapon in here?
+
+TRAVIS: Can we turn the light on?
+
+TALIESIN: You can hit the switch.
+
+TRAVIS: I hit the switch.
+
+TALIESIN: Doesn't turn on. To be fair, you can see
+okay. You don't see--
+
+TRAVIS: I do have heightened senses.
+
+TALIESIN: Especially if you want to burn a little
+blood, you can see really well if you're looking
+
+for something in particular, but it's the prop
+closet. It's a ruined, dishevelled mess of
+
+ephemera, toys, prop weapons, costumes. It's
+exactly the way you remember it.
+
+TRAVIS: Do I smell anything coming from this
+room?
+
+TALIESIN: Yes, but it is the same smell it's always
+had, which has been very iffy.
+
+TRAVIS: Nothing tasty or spicy or interesting? I
+mean, spicy is the wrong word. It's always spicy
+
+in there.
+
+TALIESIN: I don't know. It's whatever you really
+imagine, the wonderful--
+
+TRAVIS: Does it smell delicious?
+
+TALIESIN: There's obviously some rats living in
+here, if you went diving for them.
+
+LAURA: Can we look for rats? I need a rat. I want
+to eat a rat again. It was really good.
+
+TALIESIN: It was pretty good.
+
+LAURA: I'm serious.
+
+SAM: All right. I'll try to look for a rat with
+her.
+
+TALIESIN: All right. Do a perception
+investigation.
+
+LIAM: Can I go back? I forgot something that I
+wanted to do. Back at the office, inside the
+
+bullpen.
+
+TRAVIS: You guys are okay here looking for rats,
+right? I'm going to go with Liam.
+
+TALIESIN: You can take a look.
+
+SAM: Only one success and one failure with the red
+dice.
+
+TALIESIN: You find a rubber rat and you bite it.
+
+LAURA: Three successes for me.
+
+TALIESIN: I'm personally a fan of the taste of
+rubber rats. I think it's nice and the texture's
+
+pretty positive but your tooth gets a little
+weird. It doesn't feel right.
+
+LAURA: Three successes.
+
+TALIESIN: Three successes? Ooh, that's pretty
+solid. You do in fact find a rat hiding behind one
+
+of the costume bins and if you want to tear for it,
+you got to give me a dex melee or dex brawl. Roll
+
+for it.
+
+LAURA: I'll do a dex brawl.
+
+TALIESIN: All right. Punch that rat. Where are you
+guys going?
+
+LIAM: I'm back at the office, outside the bullpen
+where the door was shut. Who all's wearing
+
+these signs? It was Arcade--
+
+TALIESIN and TRAVIS: Chris, Arcade.
+
+TALIESIN: Audrey was there. Max was there. A
+couple of people.
+
+LAURA: Just one success.
+
+TALIESIN: It's a rat. I'll let you have it for
+one.
+
+LAURA: Can I share it with Sam, though?
+
+TALIESIN: No.
+
+LAURA: I have to eat the rat all myself? Okay, I
+eat the rat.
+
+TALIESIN: How many red dice do you have?
+
+LAURA: Just one.
+
+TALIESIN: It doesn't go away.
+
+LIAM: And the sign says what again?
+
+TALIESIN: Drink me.
+
+LAURA: I tried, I wanted to but it's such a little
+rat. (slurps)
+
+SAM: I'd say you're dead to me, but--
+
+LIAM: Don't judge. I bite Arcade's neck.
+
+TRAVIS and LAURA: (gasping)
+
+TALIESIN: He's going to try and fight you off.
+
+LAURA: You're going to suck Arcade's blood?
+
+LIAM: I am.
+
+TALIESIN: He starts to panic and as it is
+happening, he's going to fight you off.
+
+LIAM: I use Dread Gaze and inspire unbearable
+immobility.
+
+TALIESIN: What's the roll on that?
+
+LIAM: Charisma plus intimidation versus charisma
+and willpower.
+
+TALIESIN: All right. Give me charisma
+intimidation. And my charisma willpower for my
+
+humans. There we are.
+
+LIAM: And failure is a one. So one success. No
+failures.
+
+TALIESIN: He's not frozen. He's hiding in the
+corner.
+
+LIAM: Okay. I grab a couple of t-shirts and I
+push--
+
+TALIESIN: Which t-shirts?
+
+LIAM: The StayTurnt t-shirt and the Dungeon Master
+t-shirt.
+
+TALIESIN: Thank you for being respectful.
+
+LIAM: And I cover his hands up and I say: Can you
+just give into it? You know, this is terrible for
+
+both of us.
+
+TALIESIN: There's a single tear.
+
+LIAM: I know. But it will all be over soon.
+
+TRAVIS: I'm standing behind Liam, holding the prop
+knife to the rest of the room. Is there anybody
+
+moving towards Liam?
+
+TALIESIN: No. I get the distinct impression this
+has already happened. They know what's going down.
+
+LIAM: I mean, we're through the looking glass
+here, Arcade. I'm really sorry, but I'm going to
+
+try to bite him again.
+
+TALIESIN: Are you going to go for a bite?
+
+LIAM: Yes, please.
+
+TALIESIN: Give me a strength brawl. Let me
+double-check. Hold on. Actually, strength brawl
+
+plus two.
+
+LIAM: Strength brawl? Brawl's nothing. So strength
+brawl plus two. Okay, it's not good. I got a fail!
+
+LAURA: You got two fails, yo!
+
+LIAM: Two fails! One on the red.
+
+TALIESIN: One on the red. He manages to just
+barely fight you off. He's hidden under the desk
+
+now. He's trying to crawl away.
+
+TRAVIS: What are you doing?
+
+LIAM: Fuck it. I whip around and turn on Chris.
+
+TALIESIN: Give me a strength brawl plus two.
+
+TRAVIS: Are we eating people? What's happening?
+
+LAURA: He's giving in to it.
+
+LIAM: That's better. That's two successes.
+
+TALIESIN: All right. You get one point back. You
+lose one. Do you want to go any further? Keep
+
+drinking or do you want to--
+
+LIAM: Yeah.
+
+LAURA: (gasps) You can't get rid of your other
+one!
+
+LIAM: You can't get rid of the other one?
+
+TALIESIN: I'm sure there's a way to do it.
+
+LIAM: So you always keep one? If I'm okay-ish,
+I'll hold off. I'll see you later, though.
+
+TALIESIN: He's now bleeding from the neck. As he
+goes back to his-- not pouring, but bleeding.
+
+TRAVIS: Is there a little coagulant in Liam's
+spit, at least?
+
+LIAM: But everybody likes me here, Travis.
+
+TRAVIS: I know they do.
+
+TALIESIN: Are you backing out of the room now to
+join the rest?
+
+LIAM: Is there any other weapon-y stuff in the
+room?
+
+TALIESIN: Not that you can see.
+
+LIAM: Is there anything ridiculous like--
+
+TALIESIN: You've seen that office. Everything's
+ridiculous.
+
+LIAM: Yeah. All right.
+
+LAURA: I'm looking for a weapon in the prop closet
+with the rats.
+
+SAM: I'm helping her and while we're looking I'm
+telling her--
+
+TALIESIN: Perception investigation. You can
+combine your roll if you like.
+
+LIAM: I swing past the office supplies and grab a
+fistful of pencils.
+
+TALIESIN: Good call. Perception investigation. As
+you walk by, you see Dani come walking through the
+
+office. She smiles, walks by. You see her go into
+the office and she says, "Chris, we need you to
+
+"help update the server. Come on." And then she
+walks by, carrying the bleeding Chris over to the
+
+server room.
+
+LAURA: What were you going to say, Sam?
+
+SAM: I'm was going to say, I'm feeling very
+vulnerable. Why don't we form an alliance and if
+
+anything goes down, we kick Liam down and we'll
+run away as fast as we can.
+
+LAURA: But we'll also make sure--
+
+TALIESIN: Sam, do you-- No. I'm just waving this.
+
+LIAM: You also have no idea that I just drained
+Chris' neck.
+
+LAURA: We'll make sure Travis is okay.
+
+SAM: Of course. Yes. But Liam's a goner.
+
+LAURA: I mean, he's a pretty fast runner. I'm
+probably the slowest out of all of us. I got two tens.
+
+TALIESIN: Two tens. That's a critical. That is a
+critical. You have found some World of Warcraft
+
+prop swords. See, I did know where they were. I
+did. There were right here. I know you're not
+
+watching, Marisha. I knew where they were. You
+found some prop stakes, but to be fair, a prop
+
+stake is still a piece of wood. That's still
+stake-y.
+
+LAURA: How many stakes?
+
+TALIESIN: You found two stakes and you found a
+very weird silver chalice. It's
+
+interesting-looking. Could be something. Could be
+nothing. No idea.
+
+LAURA: I stick that in my belt like I would at a
+Ren Faire.
+
+TALIESIN: Ren-Faire style.
+
+LAURA: Yeah. Did I find a World of Warcraft weapon
+too?
+
+TALISIN: Yeah. It's a big ridiculous sword that
+would hang on a wall.
+
+LAURA: Whoa. Is it made of metal?
+
+TALIESIN: It's made out of a metal.
+
+LAURA: This is way too heavy for me.
+
+TALIESIN: Actually, what's your strength?
+
+LAURA: Two.
+
+TALIESIN: That's pretty good. That's a 110 pound--
+that's a normal human. You're not quite
+
+supernatural, but you could be fine with it.
+
+LAURA: Yeah?
+
+TRAVIS: So Liam and I make our way out. Are we
+sharing with the others what just happened?
+
+LAURA and SAM: What just happened?
+
+LIAM: That's a bad idea.
+
+LAURA: What was it?
+
+TRAVIS: We canvassed the offices and found--
+
+LIAM: Well, we wanted to find more weapons.
+
+TRAVIS: Yeah, I found this dagger! It's not super
+sharp, but--
+
+SAM: I found a sword!
+
+LIAM: I got a bunch of pencils.
+
+LAURA: Look at this big-ass sword I found! Do you
+want to switch me?
+
+LIAM: Maybe other people are vampires like us.
+
+LAURA: I'll take the dagger and you take the giant
+sword?
+
+TRAVIS: Yeah.
+
+LAURA: Okay. All right.
+
+TALIESIN: It's a good dagger. It's the S-curled one,
+it's got the nice little--
+
+LAURA: This is really badass.
+
+LIAM: My internal monologue right now is really
+pissed off that I did not get to taste Arcade.
+
+TALIESIN: I know. You know, there's still time.
+Things can still get weird. We'll see.
+
+TRAVIS: Did you find anything out about the
+puzzle?
+
+LAURA: Oh shit. I forgot we were trying to solve a
+puzzle.
+
+SAM: Why don't we all look for puzzle clues? Or
+should we try to do more to the-- that circle on
+
+the ground, Taliesin. How big is it?
+
+TALIESIN: It's slightly smaller than a children's
+four-square court.
+
+SAM: Big enough that if it opened, we could fit
+through it?
+
+TALIESIN: It's bled up into the door. It feels
+like it's some sort of seal against the door
+
+itself.
+
+TRAVIS: Ooh! Wait a minute. Mercer died by the
+sun, right? Don't we have his ashes in the Power
+
+Rangers helmet? I pour the ashes of Mercer onto
+the sun square.
+
+TALIESIN: That's really fascinating. The ashes
+start to mix with-- can't believe you did that. So
+
+frustrated. The ashes start to mix with the sun
+symbol and it starts to boil.
+
+LAURA: Wait, Marisha died by mushrooms.
+
+SAM: We could put some mushrooms on the head?
+
+TALIESIN: Well, you didn't bring any of the
+mushrooms because they looked a little--
+
+LAURA: He probably still has some on his skin!
+
+TALIESIN: He doesn't. He wiped them off.
+
+SAM: What would heads not like? Wait, suns cause
+ashes--
+
+LAURA: Silver! Do we have any silver?
+
+SAM: We just found a sword. What if the sword
+is--
+
+TRAVIS: Silver chalice. You have the silver
+chalice.
+
+LAURA: Oh shit.
+
+TRAVIS: Holy fuck. Take notes.
+
+LAURA: I did! I had silver chalice written down. I
+thought I could drink out of it.
+
+SAM: But would silver hurt a head?
+
+LAURA: Well, you could hit it.
+
+TRAVIS: Plus, Matt Key's head was in the office.
+
+LAURA: Silver is bad for vamp-- does this hurt to
+hold?
+
+TRAVIS: I don't see any other clear connections.
+How about we continue reconning the bottom of this
+
+floor? So who's going to take the audio booth?
+
+SAM: There's an audio booth here?
+
+LAURA: Yeah! It's right over in the corner over
+there, dude!
+
+SAM: Really?
+
+LIAM: Yeah, you just come from your car right to
+this table, so there's a whole bunch of areas you don't
+
+know about.
+
+LAURA: I'm going to go in the back offices.
+
+TRAVIS: You go in the very back, I'll take the
+audio booth. Who wants the three bathrooms?
+
+SAM: I know where the bathrooms are!
+
+TALIESIN: My god, we've finally found a part
+of--
+
+TRAVIS: What are you going to go?
+
+LIAM: I'll go with Sam, because we got to stick
+together.
+
+SAM: Always.
+
+TRAVIS: I'm the closest, so I'll go into the
+recording booth area.
+
+LAURA: I'll be at the back, all by myself.
+
+TALIESIN: The recording booth door is locked.
+
+TRAVIS: Well, it's locked, so--
+
+LAURA: You want to go to check out the back
+offices with me?
+
+SAM: You are huge!
+
+LIAM: You can deadlift a house! You can't bust
+that shit open?
+
+TRAVIS: It's pretty solid with a fire door. Well,
+let me try it. Can I back up and try to run
+
+through the door?
+
+TALIESIN: Yeah. You don't have anything fancy for
+that. Do a strength athletics just for fun.
+
+TRAVIS: So that loads me up pretty good.
+
+TALIESIN: That's a tough door, though.
+
+TRAVIS: That's a serious door. Yeah, it's no joke.
+That is a ton of success. That's five successes
+
+and no failures.
+
+SAM: Whoa. Five successes, Taliesin.
+
+TALIESIN: (sighs) Man, I was really hoping-- well,
+it's okay. I honestly wanted that door to survive
+
+because it's the most obnoxious door in the entire
+building.
+
+TRAVIS: It really is, yeah.
+
+TALIESIN: It's the most obnoxious door in the
+entire building. It's the only one the
+
+keycard won't open. I don't know why. But that
+door comes off its hinges and pops open.
+
+LAURA: Holy crap!
+
+SAM: Wow, CrossFit!
+
+TRAVIS: Yeah, right?
+
+TALIESIN: It goes flying off.
+
+TRAVIS: In the doorway, with my heightened senses,
+can I see anything in the darkened room?
+
+TALIESIN: Oh yeah. In the darkened room, you can
+see in the corner there's two Twitch hosts cuddled
+
+up, hiding. They've been down there--
+
+LAURA: Erika!
+
+TALIESIN: No, it's not Erika. It appears to be Amy
+Dallen and Jody Houser hiding in the corner. Jody
+
+has been furiously scribbling because she's afraid
+she still actually has a deadline if she ever
+
+gets out of here. Amy Dallen has been slowly
+building a little fort out of the computers to
+
+stave off whatever it is that's been--
+
+TRAVIS: Amy? Josie?
+
+TALIESIN: Jody. Amy and Jody.
+
+TRAVIS: Jody. Sorry.
+
+TALIESIN: It's okay. I've been doing a lot of
+Josie lately.
+
+TRAVIS: Are you guys okay?
+
+TALIESIN: "Travis?"
+
+TRAVIS: Yeah.
+
+TALIESIN: "It's not safe! Shut the-- oh."
+
+TRAVIS: I broke the door.
+
+TALIESIN: "There's things out there you don't--
+oh, there's bad things out there."
+
+TRAVIS: Can I come in the room?
+
+TALIESIN: "Yeah. Of course."
+
+TRAVIS: Okay. I walk in the room a little bit. I'm
+still holding a giant sword.
+
+SAM: He needs to be invited in. He's a vampire.
+
+TALIESIN: You don't need to be invited in,
+really.
+
+TRAVIS: I don't? Oh shit.
+
+TALIESIN: I'm glad you asked, though. It's very
+polite.
+
+TRAVIS: I was like, I know this fucking game!
+
+LIAM: Let the right one in.
+
+TRAVIS: Can I tuck the sword behind my back real
+quick?
+
+TALIESIN: Yeah, they saw it but--
+
+TRAVIS: It's not for you.
+
+TALIESIN: They're hip to what's going on and you
+do not look like what they're afraid of. They're
+
+not afraid of you yet.
+
+TRAVIS: So I'm in the little engineering room,
+right?
+
+TALIESIN: Yeah.
+
+TRAVIS: Is the booth clear? Is there anything in
+there? You're sure?
+
+TALIESIN: "Just food and drinks. That's all we've
+just--"
+
+TRAVIS: Do you mind if I look? Stay right where
+you are. Please. Don't move. Can I walk over to
+
+the door and look through and see what's in the
+booth?
+
+TALIESIN: Mm-hmm. Nothing.
+
+TRAVIS: Nothing? Not even food or drinks?
+
+TALIESIN: No, I mean food and drink. They've got a
+stash of-- they obviously raided a terrible
+
+Nerdist shoot for Cheetos and whatever. And,
+weirdly, yet another box of Lucky Charms. I don't
+
+know why we have so many of them.
+
+TRAVIS: Laura! Come in here!
+
+LAURA: I'm already in the back office.
+
+TRAVIS: Oh shit. Can anybody hear me?
+
+TALIESIN: Does anybody--
+
+SAM: We went to the bathroom.
+
+TALIESIN: So depending on how loud you were, they
+probably couldn't hear you.
+
+TRAVIS: Yeah, that wasn't that loud.
+
+LIAM: We might have faintly heard (muffled
+noises).
+
+TRAVIS: Can I try to open the booth door?
+
+TALIESIN: Yeah, it opens just fine.
+
+TRAVIS: Can I peek my head in and look behind the
+door? Check the corners.
+
+TALIESIN: Man! You are nervous!
+
+TRAVIS: Just make sure it's food and drink.
+
+TALIESIN: As far as you can tell, it's just food
+and drink.
+
+TRAVIS: Can I use my Aura Perception to see if
+there is anything else in the room?
+
+TALIESIN: What's the roll for that?
+
+TRAVIS: It says hunger roll, perception plus
+empathy minus manipulation plus willpower. No,
+
+versus. Manipulation versus plus
+willpower.
+
+TALIESIN: Or a perception against people, I
+believe. So who are you running it against? And
+
+you can use it to figure out things like what
+kind of creature someone is, you can get a
+
+notion of how they're feeling.
+
+TRAVIS: Let me get a notion of how Amy is
+feeling since Jody is just writing.
+
+TALIESIN: Yeah, Jody may have snapped a little.
+It's tough to tell.
+
+TRAVIS: She's on the other side.
+
+TALIESIN: Sure. Make the roll and I'm going to use
+my fancy rolls now because things are going to get
+
+weird. Have a blood die.
+
+TRAVIS: So I roll three of these, right?
+
+TALIESIN: That one after. I think you get it next
+roll.
+
+TRAVIS: Three successes, no failures.
+
+TALIESIN: Three successes, no failures? And what's
+it versus for her?
+
+TRAVIS: Manipulation plus willpower.
+
+LIAM and LAURA: I don't like it!
+
+TALIESIN: That is something you do hear, but it's
+coming from somewhere.
+
+LAURA: Oh god.
+
+TALIESIN: Oh yeah. She's scared, but she's been
+here for a while and it's tough to tell how long
+
+and has gone into full fight-or-flight mode and has
+definitely gone fight. And you definitely get the
+
+sense that, and you can read this from her aura,
+she is human and she has killed something within
+
+the last 72 hours. You don't know what.
+
+TRAVIS: Amy. I'm going to ask you to move back
+into the booth until we can make sure it's more
+
+safe. Can you tell me what you've seen and what
+you were hiding from?
+
+TALIESIN: (sighs) "There was a man. He was older. I
+didn't recognize him and he came with people.
+
+"There was some creature and something's wrong with
+Ivan and--"
+
+LAURA: We haven't even seen Ivan yet.
+
+LIAM: Daddy Chops.
+
+TALIESIN: "There was these things with these large
+eyes and these vacant mouths and I fought one and
+
+"then we've been hiding in here. I don't know how
+long."
+
+TRAVIS: We've seen the vacant eyes and mouths as
+well. We put down two ourselves. They laughed
+
+afterwards.
+
+TALIESIN: "Yeah, they do that."
+
+TRAVIS: That's really disturbing.
+
+TALIESIN: "It is! I would say it's been a long
+couple days, except I don't know how long it's been."
+
+TRAVIS: Okay. I can't promise that it's safe
+outside of this room and I'm sorry I broke the
+
+door. Will you just wait inside the booth?
+
+TALIESIN: "How about you put the door back and
+we'll reinforce it and then knock seven times when
+
+"the coast is clear because no one will knock seven
+times, because that's ridiculous."
+
+TRAVIS: That's my normal knock, but okay, that
+sounds fair enough. Can I make a look around the
+
+room before I leave for anything that might be
+used as a weapon? It's pretty bare, right?
+
+TALIESIN: Yeah, it's pretty bare. There's just the
+desks and a decent rough cut of Thrashtopia
+
+rolling on one of the monitors that's flickering.
+
+TRAVIS: I'll pick up the door, back out of the
+room and pull it back there with the handle.
+
+TALIESIN: Good, man. Wow, that's a nice vampire.
+That's good.
+
+LAURA: He's not feeling it yet.
+
+TALIESIN: Where are you at? Three?
+
+TRAVIS: Yeah.
+
+TALIESIN: All right. We'll see how we feel in a
+minute. Cool.
+
+LAURA: What happens if you get five hungers?
+
+TRAVIS: That's a great question.
+
+TALIESIN: That's a great question.
+
+LAURA: I'm going to go back in the back office.
+I'm going to use my Obfuscate.
+
+TALIESIN: Because you have a second-level version,
+right?
+
+LAURA: That's right. So I can be totally
+sneaky.
+
+TALIESIN: You're going to be super sneaky. You're going
+to burn a blood for that.
+
+LAURA: Okay. What does that mean? I get another
+blood?
+
+TALIESIN: Roll a d10. What did you get?
+
+LAURA: Two.
+
+TALIESIN: Oh yeah, you get-- actually, this is not
+the normal rolls. This is me doing terrible things
+
+because this is a short game.
+
+LAURA: I get two extra-- I'm so hungry all of a
+sudden.
+
+TALIESIN: You turned practically invisible, but it
+cost you. So you're going all the way back?
+
+LAURA: Past where we filmed the Slayers' Cake
+thing.
+
+TALIESIN: Past the library?
+
+LAURA: Through to--
+
+TALIESIN: Things start to get very weird back
+there.
+
+LAURA: I'm looking for writing, any clues I can
+find.
+
+TALIESIN: So as you turn the corner, the ground
+starts to slowly get dark and strangely inky. That
+
+whole office that you're used to seeing has been
+cleared and is empty.
+
+LAURA: There's nobody in here?
+
+TALIESIN: There's a table in the middle of the
+room. And in the darkness, you can't quite see the
+
+walls. It's like you turned the corner and there's a
+table, almost in a void. And at the table are four
+
+people playing cards. It's Ivan. Ivan van Norman
+is playing cards with Amy Vorpahl and Damion
+
+Poitier and Sam. They're all sitting, playing
+cards. Ivan--
+
+SAM: Not me Sam. There's another Sam.
+
+TALIESIN: No, the other Sam.
+
+TRAVIS: Ivan, Amy, Damion--
+
+TALIESIN: And Sam are playing cards. It's not a
+game you recognize. Ivan's having a great time.
+
+Everybody else looks a little nervous.
+
+LAURA: Do they smell good?
+
+TALIESIN: They do.
+
+LAURA: Does Ivan smell good?
+
+TALIESIN: Ivan smells pretty good, but Ivan smells
+a little burnt and his hair is-- what is the most
+
+terrifying thing I can say about hair? It's like
+Yahoo Serious hair. That is the most terrifying.
+
+Thank you. It's standing up like he's been
+shocked, like he's been putting his tongue in a
+
+socket.
+
+LIAM: Is that true of his sideburns as well?
+
+TALIESIN: Oh yeah. They're all the way out.
+
+LAURA: Whose back is to me as I'm coming around
+the corner? I'm assuming they don't see me because I'm--
+
+TALIESIN: They don't, and it would be--
+
+LAURA: Ivan?
+
+TALIESIN: Damion's back is to you, although Sam
+has just pulled a card. They're showing the card.
+
+And they're showing the card to Ivan. You can't
+quite make out what Ivan's saying, but Sam's not
+
+having a good time about it and is arguing with
+the rules for some strange reason. And out of
+
+nowhere, a large spider comes out and pulls very
+quickly Sam entirely away from the table.
+
+TRAVIS: What? From where?
+
+LAURA: Into the back corner?
+
+TALIESIN: Whatever is back there. And then a
+chair floats into view and rolls up to where Sam
+
+was. You just heard screams and a spider clack of
+(muffled sounds).
+
+SAM: That's quite a card game.
+
+TALIESIN: Ivan turns. "Amy, you're up."
+
+LAURA: And Ivan seems completely unfazed by it?
+But everybody else is creeped out?
+
+TALIESIN: Yeah, Ivan's running a game, and it's
+Amy's turn.
+
+LAURA: Can I sneak around the room so I'm behind
+Ivan?
+
+TALIESIN: That might be difficult, but you can
+give it a try.
+
+LAURA: Am I going to die?
+
+TALIESIN: There's no roll for that second
+Obfuscate. You just burn and you do it, right?
+
+LAURA: I just do it. Oh wait. No, wits and
+stealth.
+
+TALIESIN: Roll a wits stealth.
+
+LAURA: Oh, I should have done that earlier!
+
+TALIESIN: It's okay. This will work just fine.
+
+LAURA: Do I have to use my two news?
+
+TALIESIN: Oh yeah.
+
+LAURA: I do?
+
+TALIESIN: Yeah, you do.
+
+LAURA: I have to roll three reds on this?
+
+TRAVIS: Yep.
+
+Should've taken your head out of your ass, let's
+go!
+
+LAURA: Shut your fucking face! Stealth and wits.
+Okay, hold on. (counting)
+
+LIAM: Let's go, vampire.
+
+LAURA: Okay, I got to choose my right dice here.
+Okay, here we go. Oh my god.
+
+LIAM and LAURA: Come on!
+
+LIAM: Oh shit! Two failures.
+
+TRAVIS and LIAM: On the reds.
+
+LAURA: But I got a success!
+
+TALIESIN: Two failures on the red? All right, this
+is fun. How hungry are you?
+
+LAURA: It was already three and just because I did
+Obfuscate. It seems a little fucked up that I have
+
+to use my new hungers on my power! You didn't have
+to do that! You didn't have to do that!
+
+TRAVIS: Quit blaming other people for your
+weakness.
+
+LAURA: I'm just saying, it's bullshit.
+
+LIAM: You're rules-lawyering a game you barely
+understand!
+
+LAURA: Yeah, well--
+
+TALIESIN: Here's the deal: you're going to get
+seen. But we'll deal with that, because I want you
+
+to make a note: you are hangry.
+
+LAURA: I'm really fucking hungry.
+
+TALIESIN: As in life. No, I have options here, and
+I'm going hangry. You are down three on any
+
+persuasion or subterfuge rolls because you are not
+going to be subtle or cunning about anything.
+
+Until you feed, you're going to be really on
+edge.
+
+LIAM: Time for a Taco Hell run.
+
+TALIESIN: Amy Vorpahl frighteningly pulls a card,
+puts it down, closes her eyes. Ivan pulls the
+
+card, looks at it, smiles.
+
+LAURA: Do they see me yet?
+
+TALIESIN: Not yet. And then Ivan turns to Amy, and
+Amy... it's like every piece of her rotates 45
+
+degrees against itself. Not like meat, but like
+glass, and then she shatters like a mirror. And
+
+then a new chair pops right up.
+
+TRAVIS: Cleanly? Does blood explode?
+
+TALIESIN: No, it's just glass.
+
+TRAVIS: Fragments? Amy fragments?
+
+LAURA: Did it seem like Amy was a vampire before
+she shattered?
+
+TALIESIN: No, she smelled pretty good.
+
+LAURA: Can I--
+
+TALIESIN: Ivan turns to you, but Damion has not
+seen you.
+
+LAURA: I'm going to walk up behind Damion 
+and bite the shit out of his neck.
+
+TALIESIN: Okay, you have surprise on him, but not
+Ivan. Ivan's going to allow it.
+
+LAURA: Okay, I figured.
+
+TALIESIN: Roll-- actually, since this is surprise.
+Roll wits. This is going to be weird. Roll wits
+
+and stealth. I'm going to make this a weird one.
+
+LAURA: That's what I just rolled, and it was not
+good.
+
+TALIESIN: Yeah, try it again. How much are you
+going to eat him? Are you going to eat him a
+
+little, some, or a lot?
+
+LAURA: (whispering) I want to suck his blood.
+
+TALIESIN: Okay.
+
+LAURA: A good amount of it. Not all of it.
+
+TALIESIN: Not all of it?
+
+LAURA: I'm going to leave him twitching. Success.
+One success.
+
+TALIESIN: One success?
+
+LAURA: Yeah.
+
+TALIESIN: That didn't count, because that hit
+paper. Ignore me. Boy, he did not see you coming.
+
+LAURA: He didn't?
+
+TALIESIN: Nope.
+
+LAURA: So I get to suck his blood.
+
+TALIESIN: Yeah, but only one point worth, because
+that was not a lot of success.
+
+LAURA: At least that's something.
+
+TALIESIN: He's very conscious and aware that
+something is on his neck right now, and he's
+
+freaking out. He's going to take a swipe at you.
+
+LAURA: Maybe I'm part of Ivan's game.
+
+LIAM: He's real big.
+
+TALIESIN: Yeah, he's a big guy.
+
+LAURA: He had a lot of blood.
+
+TALIESIN: He's currently wearing my jacket, too,
+so if you get any blood on my jacket, I'm going to
+
+be very upset.
+
+SAM: Is he wearing your jacket because you're
+dead?
+
+TALIESIN: No, he's wearing my jacket because I
+lent it to him at the end of Wednesday Club last
+
+week, and I haven't gotten it back yet.
+
+LAURA: You smell like Taliesin. Where's Taliesin?
+
+TALIESIN: That got weird. Thank you. So I'm
+figuring out how to do this. He's going to try and
+
+kick you off. Roll dex dodge, because he's going
+to try and take a swipe at you. Dex dodge, and if
+
+you want, you can burn willpower to roll the ones
+you don't like over again.
+
+LIAM: That's five. You get four, right?
+
+LAURA: I get five.
+
+LIAM: Three, plus?
+
+LAURA: Dodge. It's four.
+
+TALIESIN: Anything over a six?
+
+LAURA: One success.
+
+SAM and TALIESIN: Burn a will.
+
+LAURA: I don't even know what that means!
+
+TALIESIN: Do you see those little will dots? You
+burn one, and you can reroll any of the
+
+dice you like.
+
+TRAVIS: Are you marking it off?
+
+LAURA: And for each willpower, I reroll a dice?
+
+TALIESIN: You can reroll as many dice as you like
+on one roll, for one willpower.
+
+LAURA: Okay, I'll try it, because you're saying to
+do it. Two more successes.
+
+TALIESIN: That's all you needed. There's a rule
+that I forgot, but that's okay. I'll do it next
+
+time. I'll remember that. Succeed at a cost. I
+keep forgetting about succeed at a cost. It's
+
+really cool. Yeah, you slap him down, and you're
+right back in his neck, if you want to do a
+
+strength plus two for your vampire fangs.
+
+LAURA: Strength plus two?
+
+TALIESIN: Yeah, strength plus two dice.
+
+LIAM: Get that Big Gulp.
+
+LAURA: (chomping sounds) Ooh. Well, no. No
+failures, but one success.
+
+TALIESIN: One success? You get one more out of
+him.
+
+LIAM: Why did you hit the mouse again?
+
+TALIESIN: Why do you keep hitting my mouse, man?
+
+LAURA: Well, he's sitting right there.
+
+TALIESIN: Do you want to keep draining or do you
+want to back off?
+
+LAURA: No, I'm good. I'm going to let him live.
+
+TALIESIN: Are you going to back off or you just
+let go?
+
+LAURA: I'm going to push him forward against the
+table and back off really quickly.
+
+TALIESIN: Are you going to push him forward
+against the table?
+
+LAURA: Yeah. So he doesn't lunge at me as I back
+up.
+
+TALIESIN: (snorts) Yeah, fuck it. That's funny.
+I'm going to let that happen. He slips as you push
+
+him towards the table and he leaves his seat and
+falls off into the darkness. He falls like he fell
+
+off a building down.
+
+LAURA: Like he can't walk in the darkness like I'm
+walking?
+
+TALIESIN: He was on the table and you pushed off
+and pushed him off his seat and there's no floor
+
+apparently because he just dropped.
+
+LAURA: Whoops.
+
+TALIESIN: You seem to be standing on it fine, but
+it didn't work for him.
+
+LAURA: What? Ivan, hi.
+
+TALIESIN: "Hey, Laura. It's so good to see you.
+This is great."
+
+LAURA: You too, man. This looked like a pretty
+crazy game you're playing.
+
+TALIESIN: "I've been really excited. I've been
+wanting to get you in one of my games for a while.
+
+"This is the best one I've put together in quite a
+while."
+
+LAURA: Yeah, I remember Paranoia with you.
+
+TALIESIN: "That was fun. My whole game has gone
+to another level. I've had a really-- this has
+
+"been a good year. You want to play?"
+
+LAURA: No, you know what? I think I'm good.
+
+TALIESIN: "I think it could be worth your while."
+
+LAURA: Do you know what the deal is with that
+circle out by the Twitch door is?
+
+TALIESIN: "I do. I know a lot about what's going on.
+I have talked to so many people."
+
+LAURA: You have?
+
+TALIESIN: "Oh, yes I have. It's been
+fascinating."
+
+LAURA: How long has it been?
+
+TALIESIN: (sighs) "I feel you haven't earned that
+kind of information yet. Honestly, I feel that
+
+"this whole sneaking-up-on-my-game and trying to
+like-- honestly, costing Damion his turn. That's
+
+"just tacky."
+
+LAURA: I just thought we're on the same side
+here.
+
+TALIESIN: "There's no sides. We're all friends and
+it's just a game. You want to play the game?"
+
+LAURA: No!
+
+TALIESIN: "I'll make it worth your while. You win
+a little bit and maybe there'll be some answers in
+
+"here for you."
+
+LAURA: It didn't seem like it was possible to
+win?
+
+TALIESIN: "Well, here's what I'll say. I have so
+many cards that could be pulled and the cards they
+
+"pulled are already gone--"
+
+LAURA: Travis learned this lesson before.
+
+TALIESIN: "See, if you think about it though,
+Travis is really the reason this is happening
+
+"right now. The whole theory for this game is
+because of Travis. You should pull a card. He
+
+"really likes it when you pull cards."
+
+TRAVIS: I really do.
+
+TALIESIN: "Pulling cards makes the Father happy."
+
+LAURA: I kind of want to pull a card.
+
+SAM: Sure. Of course you do.
+
+TALIESIN: "Sit down."
+
+TRAVIS: Yeah! (laughs) Yes!
+
+SAM: Oh boy.
+
+LAURA: I will sit down if you answer a question as
+I sit down and then I'll pull a card.
+
+TALIESIN: "It entirely depends on the question."
+
+LAURA: Okay. I sit down.
+
+TALIESIN: You feel heavy as you sit down.
+
+LAURA: This is a stupid idea. Marisha sat down and
+had some tea. She died.
+
+TALIESIN: "Marisha drank the tea? Oh, he's not
+going to be happy. Why would she-- that's not smart."
+
+LAURA: I don't know. I wasn't there. I just know
+that she drank tea and then she turned into a
+
+mushroom.
+
+TALIESIN: "Yeah, that'll happen."
+
+LAURA: How come we were put in coffins and turned
+into vampires and some people are delicious?
+
+TALIESIN: "Oh, that's really complicated. That's a
+very complicated question. There's a lot happening
+
+"and I'm going to be honest with you. Not all of
+this was the plan. I specifically get the feeling
+
+"that a lot of this has gone a little off-track."
+
+LAURA: Yeah. It seems like it.
+
+TALIESIN: "It does, doesn't it? I'm doing what I
+can, but really, what can we do other than trying
+
+"to make some good content, you know?"
+
+LAURA: Right. Yeah. Just waiting for the door to
+open to the Twitch stage.
+
+TALIESIN: "That's a cute, clever puzzle. How are
+you doing on that?"
+
+LAURA: Well, we're doing pretty good. Pretty good.
+Looking for clues.
+
+TALIESIN: "What have you solved so far?"
+
+LAURA: I will answer that if you make sure I pull
+a good card. Beneficial card for me, not for you.
+
+TRAVIS: Oh shit!
+
+TALIESIN: Electricity crackles from the back of
+his spine and seems to make an arcing pattern
+
+through the darkness that's almost a circuit
+breaker. "Oh, heart and sun. Not bad."
+
+LAURA: Oh shit.
+
+SAM: He knows things.
+
+TALIESIN: "I'm running a game here. I got to be on
+top of it. If you're not on top of it, that's how you lose!"
+
+LAURA: I turned into a vampire, you're some weird
+electric thing! That's fun.
+
+(laughter)
+
+TALIESIN: (sighs) "It's just crazy, the sorts of
+people you work with here, isn't it?"
+
+LAURA: I know.
+
+TALIESIN: "Yeah. He'll be very happy if you take a
+card. You can yell for people, by the way. There's no
+
+"problem. This is a game for everybody."
+
+LAURA: Yeah, I did yell for him.
+
+TRAVIS: How loud?
+
+LAURA: Travis? About that loud.
+
+TRAVIS: That's-- I mean, you're way back there.
+
+LAURA: I know. But I don't know how quiet it is in
+the building.
+
+TALIESIN: And you do have--
+
+TRAVIS: I do have Heightened Senses! Can I hear
+her?
+
+TALIESIN: How loud?
+
+LAURA: Travis?
+
+TALIESIN: No. (laughs)
+
+TRAVIS: I mean, if you want to be a big girl about
+it. (laughs)
+
+LIAM: Can we lower the gain on the mic, though?
+
+TALIESIN: Yeah, no, that's fair. "I
+mean, we can call everybody over if you like."
+
+LAURA: I just feel like he's really going to want
+to pull a card and I don't know if he should. I
+
+feel like maybe, if this is a bad thing, then
+we'll-- this will be just me and then they will
+
+never know.
+
+TALIESIN: "All right."
+
+TRAVIS: This has been going on for a while.
+
+LAURA: Yeah.
+
+TALIESIN: Pick a card.
+
+LAURA: (yells)
+
+TALIESIN: Make a pull.
+
+LAURA: Is this one of those magician tricks where
+you're telling me to pull a certain one and I
+
+don't realise it?
+
+TALIESIN: Yes.
+
+TRAVIS: I'll say I pulled from the middle before
+and it was the Void.
+
+TALIESIN: There is no Void card in this set
+because this is not a Deck of Many Things. You
+
+pulled the Two of Swords. Oh dear.
+
+SAM: Which is?
+
+TALIESIN: Two of Swords is two bleeds. Suddenly,
+blood gets sucked straight out of your fingertips
+
+through the card into the base.
+
+LAURA: Oh no, I just got rid of these things!
+
+TALIESIN: Two more.
+
+LAURA: Shit! Ugh.
+
+TALIESIN: "That was a rough pull."
+
+LAURA: Yeah, dude. It was.
+
+TALIESIN: "But everything has a price and so for
+that, swords. Swords are about knowledge. So what
+
+"do you want to know?"
+
+TRAVIS: Ooh.
+
+TALIESIN: "If I can answer it, I will. I'll find
+something I can answer."
+
+SAM: (whispering) The puzzle!
+
+LAURA: How do I solve the-- hmm.
+
+TALIESIN: "That's too broad."
+
+LAURA: What coincides with the picture of the head
+on the puzzle?
+
+TALIESIN: Well, let me find out on my sheet.
+
+(laughter)
+
+TALIESIN: I made too many notes.
+
+LAURA: Am I still bleeding from my fingertips
+creepily? All things considered though, this isn't
+
+as bad as the spider or the shattering body.
+
+LIAM: Or a horse.
+
+TALIESIN: No, you did okay. So there are--
+
+LAURA: I'm holding my hands up so I stop
+bleeding.
+
+TALIESIN: Swords are about-- it's taken it.
+They've closed up. The card itself gave you paper
+
+cuts and sucked everything out and then they--
+
+LAURA: I hate paper cuts.
+
+TALIESIN: Right on the fingertips, too.
+
+TRAVIS: Like a surgeon.
+
+LAURA: Yeah.
+
+TALIESIN: "Heads are knowledge. They're the base of
+consciousness. You need to make an offering of
+
+"understanding. You need to find a symbol of
+understanding what's happening and what you are.
+
+"You need to find something that expresses that
+understanding."
+
+LAURA: That we know that we're vampires,
+basically?
+
+TALIESIN: "Yes, and you have to prove it now. So
+you have to find something that proves that you
+
+"know that you're vampires, something of
+intellectual proof of it. Now, I might know where
+
+"something is, but that's another question."
+
+LAURA: I think I'm okay.
+
+TRAVIS: I've made my way back to the back at this
+point. Hey. Hey, Ivan.
+
+LAURA: Ivan. He's made of electricity now.
+
+TRAVIS: That's fun.
+
+TALIESIN: "Things have gotten weird."
+
+TRAVIS: I gather.
+
+LAURA: Baby, I pulled a card.
+
+TRAVIS: You did?
+
+LAURA: Yeah.
+
+TALIESIN: "It made Father very happy. I think you
+should pull a card, too."
+
+TRAVIS: Yeah!
+
+LAURA: Okay, but you didn't see what happened with
+the other cards. There was a giant--
+
+TRAVIS: How bad could it be?
+
+LAURA: Amy rotated like she was made of glass and
+then shattered. Like gone.
+
+TALIESIN: "That card's only one pull, so that's
+fine."
+
+LAURA: And Sam got eaten by a giant spider.
+
+TALIESIN: "The other Sam."
+
+TRAVIS: You know what, Ivan, I'm a fan of card
+games. I am.
+
+TALIESIN: Have you sat down, by the way?
+
+TRAVIS: I haven't. I'm a fan of card games. I hate
+to rush into anything too hastily.
+
+LAURA: I'm so hungry.
+
+TRAVIS: Yeah, you don't look so great. Maybe we'll
+check out the rest of this floor real fast and
+
+then I'll come back.
+
+TALIESIN: "Hopefully I'll be here when you get
+back, but fine."
+
+LAURA: Can I get up?
+
+TALIESIN: "No, I need a player."
+
+TRAVIS: Do you need us to send in Chris or
+Arcade?
+
+TALIESIN: "I don't care who you send in. I just
+need a player."
+
+TRAVIS: Fair enough. Sam?
+
+LIAM: We're in the bathroom, right?
+
+SAM: Me Sam?
+
+TRAVIS: Yeah.
+
+SAM: Yeah, I think we're in the bathroom, right?
+
+LAURA: You just hid in the bathroom the whole
+time?
+
+SAM: No, I don't know--
+
+LIAM: No, we left off of us ages-- a while back.
+
+TALIESIN: The bathrooms are sadly the bathrooms,
+except more so.
+
+LIAM: There's nothing going on in the bathrooms.
+
+SAM: We didn't find anything in the walls?
+
+TALIESIN: You found some toilet paper.
+
+SAM: Anything to eat?
+
+TALIESIN: You found some toilet paper. You found
+the weird little ghost that hides in the-- have
+
+you ever seen the ghost on the pipe? You can pull
+that lever and see what happens.
+
+LIAM: We could keep going back around. There's
+conference rooms back there now, where they keep
+
+all the games where you shot The Slayer's Cake.
+
+SAM: Yeah, let's go search.
+
+LIAM: Those dragon torches are there, too.
+
+TALIESIN: You guys are going to go check out the
+library wall?
+
+SAM: As we go, I'm going to tell Liam: Listen, I
+convinced Laura that I'm on her side.
+
+LIAM: Did she believe you?
+
+SAM: Totally.
+
+LIAM: Are you sure?
+
+SAM: Yes. When she goes down, she's going to try
+to kick you or throw you down or trip you up, but
+
+I'm going to walk behind her, club her in the back
+of the head, and we're going to make off like
+
+bandits.
+
+LIAM: I know.
+
+TALIESIN: So, are you guys going as far as the
+bookcase? Are you guys going deeper in?
+
+SAM: The bookcase is literally the end of my
+knowledge of the way out of the building.
+
+LIAM: I will lead Sam-- unless we see something of
+note.
+
+TALIESIN: You want to take a look at the
+bookcase?
+
+LIAM: Sure. Do I see anything--
+
+SAM: Is there more building past the bookcase?
+
+LIAM: There is a little bit more. There's a couple
+of conference rooms. Glass doors, windows.
+
+TALIESIN: There was a map that you guys could
+find, but you're never going to find it, which
+
+makes me laugh really hard. But yes, there's a--
+
+LIAM: Yeah, we're walking past these shelves of
+tabletop games.
+
+TALIESIN: All right. You can do a perception
+investigation.
+
+LIAM: Yeah, sure.
+
+SAM: Perception investigation.
+
+TALIESIN: Or you can use occult, if that's a
+better number for you as well.
+
+SAM: I failed on a red.
+
+TALIESIN: You got a one on a red?
+
+SAM: Yes.
+
+LIAM: I also failed on a red.
+
+TALIESIN: You both failed on a red, but what was
+your score total?
+
+LIAM: Two successes, one fail on a red.
+
+SAM: One success.
+
+TALIESIN: You guys, you talk about looking at the
+bookshelf, but you're just talking to each other,
+
+and going back and forth talking about how foolish
+Laura was to trust you. Yeah, you're just doing a
+
+bit. You just keep doing a bit.
+
+LIAM: If we get through this, we have to record
+another episode of the podcast. And not one that
+
+we do at the convention, Sam--
+
+SAM: We recorded one at the convention and then I
+never edited it.
+
+LIAM: You never edited it, dumbass.
+
+SAM: Man, we have it right now. It's already
+done.
+
+LIAM: Yeah, we got to release that one.
+
+TALIESIN: Yuck, nope, nevermind. That didn't
+happen.
+
+LIAM: There's another one. Just you and me.
+
+SAM: With some other people. Yeah, we'll do that.
+
+TRAVIS: Laura.
+
+LAURA: What?
+
+TRAVIS: Why don't you stand up and come with me
+and we'll come back.
+
+LAURA: I can't.
+
+TALIESIN: "She can't stand up until I say so and I
+need a player."
+
+TRAVIS: Is that right?
+
+LAURA: I can try.
+
+TALIESIN: "You can try and stand up."
+
+LAURA: (straining)
+
+TALIESIN: Okay, you now see what's in front of
+you, once you're--
+
+SAM: Oh, god, what's going on?
+
+LAURA: I can't stand up. I'm so hungry.
+
+LIAM: She's nowhere near us.
+
+TRAVIS: Ivan's here and has electrical powers.
+
+SAM: Oh, okay.
+
+LIAM: Oh, the voided room is back here? Oh, I
+didn't realize where it was.
+
+TALIESIN: I feel like I'm the only one who's
+explored this entire building. There are some
+
+nooks and crannies, man.
+
+LIAM: I know what's in the actual building. I
+didn't know the void was back here.
+
+TALIESIN: Spend enough time back there and it's a
+real void. It's kind of intense.
+
+TRAIS: Apparently Ivan's made of electricity now
+and he has a card game for us to play, but he
+
+needs players.
+
+TALIESIN: "Come sit."
+
+LAURA: Sam, you want to come play this card game?
+
+LIAM: And do what?
+
+SAM: Why can't-- looks like you're playing.
+
+TRAVIS: How many chairs are there?
+
+TALIESIN: Three. Two. Two empty chairs along with
+her.
+
+TRAVIS: Of the three of us, only two others can
+play.
+
+TALIESIN: "Or once I have somebody else sitting
+down, somebody else can get up."
+
+LIAM: What, to fill the chairs? What kind of game
+is it?
+
+TRAVIS: You draw a card. She drew a card and
+learned something.
+
+LAURA: I did. I learned something about the
+thing.
+
+SAM: It seems like Travis should play. He's a card
+guy.
+
+LIAM: Straight up, do you think this is safe for
+me?
+
+TRAVIS: I don't know.
+
+TALIESIN: "Is anything safe? I mean, come on,
+people."
+
+LIAM: What do you feel? For me, I mean.
+
+TRAVIS: Given my general feeling of our
+environment, I think almost all this shit's fucked up.
+
+LIAM: Okay.
+
+TRAVIS: Just a fair bit of sprinkling of that,
+just about everywhere I look.
+
+SAM: Can we find someone else to play this game?
+
+TRAVIS: Yeah, I think so.
+
+SAM: Why don't we go find somebody else to play
+this game? Are there any others?
+
+TRAVIS: That's a good idea? Actually, Sam, why
+don't you go snag--?
+
+LIAM: Dani?
+
+TRAVIS: Max?
+
+LAURA: Did we see Max yet?
+
+SAM: Where's Max?
+
+TRAVIS: Max is back in the office. He's wearing a
+Drink Me sign. Why don't you go snag Max?
+
+SAM: All right, if I'm not back in 30 seconds...
+
+LAURA: That's a long walk.
+
+TALIESIN: Are you going to walk or are you going
+to jog?
+
+SAM: I'll run.
+
+TALIESIN: All right, well done, you. You go really
+fast.
+
+TRAVIS: Oh, two of them?
+
+LAURA: You have a power!
+
+SAM: I have a power. What's my power?
+
+TALIESIN: You go really fast.
+
+LAURA: Whoa.
+
+SAM: Celerity.
+
+LIAM: Is he a speedster now?
+
+SAM: Your body responds so quickly that the world
+around you seems to slow down.
+
+ALL: Whoa.
+
+TALIESIN: I was really hoping you were going to
+try and hit Arcade at some point and there was
+
+just going to be a fwap! But no, you were so
+nice.
+
+SAM: Oh wow. I go all over the place. Okay. All
+right, so I'm going to run back there.
+
+TALIESIN: If we burn that blood, you are back in
+seconds with Max. He doesn't even really quite
+
+register what happened.
+
+SAM: Burn that blood. What do I do? What's--
+
+TALIESIN: You just have an extra blood die now.
+
+LAURA: Max! Come sit down!
+
+TALIESIN: He is at the point where he is just
+going to do what he's told, so he sits down.
+
+TRAVIS: Max, sit down at the table.
+
+LAURA: Yeah. Can I get up?
+
+TALIESIN: Yeah, you can get up.
+
+LAURA: I get up.
+
+TRAVIS: Now, before we leave, I would like to see
+a card drawn.
+
+LAURA: Oh, okay. Max can pull one, then.
+
+TRAVIS: Yeah, Max, pull a card.
+
+TALIESIN: This is my best Max face. I don't know
+how well it's coming out.
+
+(laughter)
+
+TALIESIN: Max jolts and has a weird clarity to him
+for the first time in-- it seems like his eyes
+
+unpuffen and he just looks like a normal--
+moisture comes back to his face and he looks
+
+slightly healthier and he's got a moment of, "We've
+got to get out of here before that thing upstairs
+
+"comes down."
+
+TRAVIS: What's upstairs, Max?
+
+TALIESIN: "It's this creature. It's just teeth and
+claws and I'm not going to say wolf, but there's
+
+"something up there that's big and--"
+
+TRAVIS: Beast-like?
+
+TALIESIN: "It's been a lot. There's been a lot
+that's happened."
+
+TRAVIS: Max, the last thing we remember is leaving
+after the last game. How long have you been here?
+
+TALIESIN: "After the last game? That's the last
+thing you--" (sighs)
+
+LAURA: Max, what happened? How long has it been?
+
+TALIESIN: "It's been a long week."
+
+LAURA: It's been a whole week?
+
+SAM: Is it Thursday again?
+
+TALIESIN: "I haven't seen the sun in three days,
+four days? I don't know what-- no one knows what's
+
+"going on. Things have gotten very weird, but
+you've got to get us out of here."
+
+LAURA: Do people in the outside world know what's
+happening?
+
+TRAVIS: When I look at Ivan, does he look
+disappointed or pleased with the outcome of this
+
+card pull?
+
+TALIESIN: He's waiting for another player.
+
+TRAVIS: All right, Max, come with us.
+
+TALIESIN: "I can't get up."
+
+TRAVIS: I thought that might be happening. Yeah.
+I'll tell you what, Max, sit tight. We'll be back
+
+for you. Ivan, we'll try and find you another
+player.
+
+TALIESIN: "I, and I'll say, if you wanted to see
+if you can figure out a little bit more about
+
+"what's happening, can't win if you don't play."
+
+TRAVIS: I mean, he has a good point.
+
+SAM: Yeah.
+
+LAURA: That's true.
+
+TALIESIN: "Max, you want to pick another card?"
+
+TRAVIS: Tell him to pick another card.
+
+SAM: Make Max do it? No, we need to do it, so we
+know.
+
+TRAVIS: You're right. You're right, Sam.
+
+SAM: You want me to do it?
+
+TRAVIS: I mean, you had the inspiration. One of us
+should pick a card.
+
+LAURA: You should do it.
+
+TRAVIS: It's you.
+
+LIAM: You're certainly the most clever person at
+the table.
+
+LAURA: Yeah, you'll be able to solve it.
+
+SAM: If I sit down though, will I be able to get
+up again?
+
+TRAVIS: Yeah, as long as Max is at the table.
+
+TALIESIN: As long as Max doesn't get up.
+
+SAM: All right. I'll draw a card.
+
+TALIESIN: Sit down. Draw a card.
+
+SAM: What could possibly go wrong?
+
+LIAM: It can only go right.
+
+LAURA: What'd you get, what'd you get?
+
+SAM: The three of swords. More blood?
+
+LAURA: Three bloods?
+
+TALIESIN: Yeah, what are you at?
+
+SAM: I'm at three.
+
+LAURA: You have three bloods already?
+
+LIAM: Uh-oh. Spaghetti-Oh.
+
+LAURA: Oh no. You've maxed out your hunger.
+
+TALIESIN: You stand up. Actually, I'm not even
+going to bother with this. Ooh. Yeah, that's--
+
+okay. You, at a speed that no one can even grasp,
+you stand up, there's a blur, and before anyone
+
+can notice, you are at zero health. You are fine.
+Give me all your blood dice. Your blood is at zero.
+
+LIAM: You're not hungry any more.
+
+TALIESIN: You're not hungry at all.
+
+LIAM: At all?
+
+SAM: What happened?
+
+TALIESIN: You're not hungry.
+
+TRAVIS: How does Max look?
+
+TALIESIN: Max is very pale, and he's not moving.
+
+LAURA: (gasps) You killed Max.
+
+TRAVIS: You're fast as shit.
+
+LAURA: Sam, you killed Max!
+
+TRAVIS: Can I run over to Max and check his pulse
+with my fingers on his carotid?
+
+TALIESIN: The only reason Max isn't slumping over
+is he's still glued to the seat.
+
+SAM: (gruffly) I don't know what came over me.
+
+TALIESIN: Max is dead.
+
+LAURA: I'm going to take my dagger and try to stab
+Ivan while he's distracted with all of that.
+
+SAM: (yelling) It's on! Wait, I get a question, I
+get a question first!
+
+TRAVIS: We were going to get fucking knowledge
+first! We were supposed to get knowledge!
+
+TALIESIN: You go in and try and stab Ivan?
+
+LAURA: I'm going to try to stab Ivan!
+
+TALIESIN: All right. Let's do dex plus--
+
+TRAVIS: Max died for nothing!
+
+LAURA: He would have let you die! He wouldn't let
+you leave!
+
+SAM: What?
+
+LAURA: You would have been stuck here forever!
+
+LIAM: But we could have used him and gotten an
+answer.
+
+TRAVIS: He was already up out of the chair.
+
+TALIESIN: You still get a question. We'll see how
+it goes. Dex plus melee.
+
+LAURA: Dex plus melee?
+
+TALIESIN: Yeah.
+
+LAURA: Melee, not brawl?
+
+TALIESIN: No, you have a weapon.
+
+TRAVIS: You do.
+
+LAURA: Oh, really? That's so dumb.
+
+TALIESIN: Yeah, take it.
+
+LAURA: I didn't know that's what it meant.
+
+TALIESIN: I'll tell you what. What's your level
+two power?
+
+LAURA: Obfuscate. Unseen presence.
+
+TALIESIN: Oh, that's right. You're obfuscate.
+Never mind.
+
+LAURA: I could have done it before he realized
+what I was doing.
+
+TALIESIN: No. You can take a stab. See how it
+goes.
+
+LAURA: Cool. What? Strength plus melee?
+
+TALIESIN: I'm letting you do dex melee.
+
+TRAVIS: I like the impulse to violence.
+
+TALIESIN: I love it.
+
+SAM: But you know why she's doing this? It's
+because we made a pact to stick together. She's
+
+protecting me.
+
+LAURA: That's definitely why I'm doing it, Sam.
+Ooh! Three successes and a crit! Well, just one
+
+ten. Not technically a crit, but all three were
+successes.
+
+LIAM: (singing) Shot to the heart, and you're too
+late.
+
+LAURA: God! That's so many dice.
+
+TALIESIN: Three successes and crit? Two successes
+and a crit. Okay. So I'm going to give you
+
+success with point. You pin him with the blade to
+the table.
+
+LAURA: Oh, shit!
+
+TALIESIN: "That's uncalled for."
+
+LAURA: Well, you just seemed like you were
+probably kind of mean.
+
+TALIESIN: "This is really-- this is a lot. This is
+a lot."
+
+LAURA: I don't know what's going on, Ivan. I'm
+sorry.
+
+TRAVIS: Is he bleeding profusely?
+
+TALIESIN: No.
+
+LIAM: Is he bleeding at all?
+
+TALIESIN: No.
+
+TRAVIS: You know what they say about shit that
+doesn't bleed.
+
+TALIESIN: He's stuck to the chair, though.
+
+LAURA: Yeah, well, at least maybe, Sam, ask your
+question.
+
+TALIESIN: "I feel like there's things that need to
+be addressed before we get to a question. I want
+
+"to play the game as much as anybody, but--"
+
+LAURA: I mean, I'm just saying. The game is still
+going on. I totally interrupted the game. You
+
+know, we should just-- I just try to hold him on
+to the chair. I'm just going to keep holding on.
+
+TALIESIN: "No, can you help with this? This is a
+lot."
+
+LAURA: Yeah, no, I'm trying to let you go, but I'm
+definitely trying to keep him in the chair. I'm
+
+trying to let it-- you're not coming off of it.
+
+TALIESIN: "These prop replicas are really well
+made. This is not--"
+
+SAM: Can I get off the chair that I'm on or no?
+
+TALIESIN: Weirdly, the corpse is making it
+possible at the moment.
+
+SAM: Oh, okay. I'll stay there so we can ask our
+questions or whatever.
+
+LAURA: (whispering) Ask your question, quick.
+
+SAM: Oh, yes, my question! Can we--
+
+TRAVIS: Ivan, my wife is very careful about these
+things.
+
+TALIESIN: "I understand this has been a very
+stressful time for everybody, but let's--"
+
+SAM: I just killed Max.
+
+TALIESIN: "Yeah, you did."
+
+SAM: It's super stressful.
+
+TALIESIN: "That wasn't cool."
+
+SAM: Sorry.
+
+TALIESIN: "That was really uncalled for. Like,
+it's all fun and games, sure, and we poke you a
+
+"little bit here. I'm going to poke you, but come
+on! Jeez."
+
+LIAM: I'm going to come up behind Laura and press
+into her elbow and I'll press the blade in and use
+
+Awe again and say: Ivan, I mean it's really all
+about leverage, right? We need some information
+
+and I feel like we've earned it.
+
+TALIESIN: What's the roll for that?
+
+LIAM: Charisma plus persuasion.
+
+TALIESIN: This is going to be interesting. Is it
+versus anything?
+
+LIAM: No.
+
+TALIESIN: Okay, charisma persuasion.
+
+LAURA: Doesn't he have to take a hunger dice for
+it?
+
+TALIESIN: Oh yeah, he's going to take a hunger
+die.
+
+TRAVIS: You try to screw over your--
+
+LAURA: I know, I'm sorry.
+
+TALIESIN: Old habits, man.
+
+LAURA: I'm really bad.
+
+LIAM: Charisma plus persuasion and one hunger die.
+All right, what do we got here? Nice.
+
+LAURA: You just got to kill someone in order
+to--
+
+LIAM: I've got two successes.
+
+TALIESIN: Oh. Yeah, he critted against you.
+
+LIAM: Oh, that didn't work.
+
+TALIESIN: That didn't work, but you're still going
+to take your hunger die.
+
+LIAM: Yeah, all right.
+
+TALIESIN: "Come on, that's just not necessary.
+What do you need to know?"
+
+LAURA: What do you need to know?
+
+TALIESIN: "Let's just deal with this."
+
+SAM: What did we find out so far?
+
+LAURA: We found that in order for the head to be
+unlocked, we have to put something on it that
+
+proves we know we're vampires.
+
+SAM: What about the cross?
+
+LAURA: We don't know that one yet.
+
+SAM: What do we need to overcome the cross part of
+the puzzle?
+
+TALIESIN: "It's a sign of faith. Any kind of sign
+of faith. God, that one should be obvious. You
+
+"need some sort of sign of faith. There's a dozen
+answers to that one. That one's the easy one. I
+
+"mean, oh god, okay, that's, wow."
+
+LAURA: Does it hurt?
+
+TALIESIN: "What do you think? Does it look
+like--?"
+
+LAURA: It doesn't look like you're in a lot of
+pain, I can't tell.
+
+TALIESIN: "I'm upset. I'm angry. I didn't mean to
+take it out on you. Actually, you stabbed me, I
+
+"think you get a little bit of this."
+
+LAURA: Yeah. Sorry, Ivan.
+
+TRAVIS: Ivan are you like us?
+
+TALIESIN: "I mean, I think of myself as a very
+good roleplayer, so I'd like to think that."
+
+SAM: Are you a vampire?
+
+TALIESIN: "No."
+
+LAURA: What are you?
+
+TALIESIN: "Just me! I'm just clever and I want the
+best game possible!"
+
+LAURA: What's upstairs?
+
+TALIESIN: "That's a pull."
+
+TRAVIS: Can I go over to Max's corpse and pat down
+his pockets to see if he's carrying anything cool?
+
+TALIESIN: He's not carrying anything cool.
+
+TRAVIS: Damn it, Max.
+
+LIAM: You think we're at Burning Man right now,
+don't you?
+
+LAURA: I'm going to pull my dagger out of him, I
+guess.
+
+TALIESIN: It pops out, there's a little electric
+flash, a few spiders crawl out.
+
+(groaning)
+
+TALIESIN: "Don't mind that; it's mostly flair."
+
+TRAVIS: So aside from upstairs, we know pretty
+much everything.
+
+TALIESIN: "You guys have everything you need,
+let's be serious here. If you really want to know
+
+"another clue, I'd tell you that you've got a
+cross, you've got the head. You need something
+
+"cerebral, something grand, and you need something
+of faith."
+
+LAURA: Okay, yeah!
+
+TALIESIN: "And I'd do it soon if I were you. The
+sun's setting."
+
+SAM: The sun's setting? That's a good thing,
+though, that means we can go outside.
+
+TALIESIN: "Yeah, and also means other things can
+come in."
+
+LAURA: Come in?
+
+TALIESIN: "Let's remind you that if you see
+anybody, the table's open, and I'd really like
+
+"some new players."
+
+LAURA: You got it. Sorry about the stabbing.
+
+TALIESIN: "It happens."
+
+SAM: We'll send some more players down here.
+Thanks for your cooperation.
+
+TALIESIN: "Thank you for playing."
+
+TRAVIS: I make my way out of that room.
+
+LAURA: Ditto, quickly.
+
+TALIESIN: You come out, you pass the war room, the
+meeting room, you pass the bookshelf.
+
+LAURA: Did I see anything cool on the
+bookshelves?
+
+TALIESIN: Did you look in the bookshelf?
+
+LIAM: You didn't.
+
+LAURA: I didn't.
+
+TALIESIN: Take a perception investigation or
+perception occult.
+
+TRAVIS: Occult?
+
+TALIESIN: Yeah, whichever one strikes your fancy.
+
+LIAM: Hail Satan!
+
+SAM: Liam, did you see how fast I was?
+
+LIAM: I didn't see you!
+
+TRAVIS: Two successes.
+
+TALIESIN: There's some cool shit in the cage,
+man.
+
+LAURA: Four successes!
+
+TALIESIN: Four successes? There's some cool shit
+in the cage.
+
+LAURA: Five successes.
+
+TALIESIN: What's in the cage? Where's my cage?
+There's some stakes, there's a cross in the cage.
+
+LAURA: Ooh, get that cross!
+
+TALIESIN: You, on the other hand, with four
+successes--
+
+LAURA: Five.
+
+TALIESIN: Five? Well, four was the--
+
+TRAVIS: What you needed.
+
+TALIESIN: There's a very old-looking book on the
+top shelf that you don't recall seeing there
+
+before. It's a small, black leather book with a
+little bit of silver on it, and you can't make it
+
+out, but there's something about it.
+
+LAURA: I climb the shelves to get up to it.
+
+TRAVIS: I'll take the cage and open it up. There's
+a steak in there?
+
+TALIESIN: They've got a bunch of props from the
+last run--
+
+TRAVIS: Is it a real steak or a rubber steak?
+
+TALIESIN: It's Sagas of Sundry, and it's us, so
+it's much cheaper for us to use real stakes. A
+
+rubber stake, a rubber chicken.
+
+LIAM and TALIESIN: Chattering teeth.
+
+TRAVIS: I was going, "meat steak?"
+
+SAM: Just a big T-bone, sitting there in a cage.
+
+LIAM: We are in a Looney Tunes.
+
+TRAVIS: I will take that stake, and I will also
+take--
+
+LIAM: A cross in there.
+
+TALIESIN: There's a cross.
+
+LAURA: Take the cross.
+
+TRAVIS: Wait, can I take my shirt off--
+
+TALIESIN, LIAM, and SAM: Always.
+
+TRAVIS: And can I throw the shirt over the cross
+to try and pick it up?
+
+TALIESIN: Yes, you can.
+
+SAM: Oh, he's a vampire.
+
+TALIESIN: Clever. Interesting.
+
+LAURA: Smart. He knows all these vampire things
+because he watches werewolf movies, and vampires
+
+attack them.
+
+LIAM: I thought he was scared of scary stuff?
+
+LAURA: No, he's into it. He's scared of ghosts.
+
+SAM: He's seen The Lost Boys. I know that's true.
+
+TALIESIN: You can't tell if it felt weird because
+it felt weird, or felt weird because you expected
+
+it to feel weird.
+
+TRAVIS: Yeah. When my shirt is off, does my skin
+sparkle at all?
+
+TALIESIN: No more than normal. That body glitter,
+it's nuts. There's a book, and it's a small, black
+
+leather book.
+
+LAURA: What does it have in it?
+
+TALIESIN: On the cover is a skull with fangs.
+
+LAURA: Hey, I bet this is a thing!
+
+LIAM: It's a death note!
+
+LAURA: Skull book. Does it tell me how to be a
+vampire?
+
+TALIESIN: You open it up, and it is entitled, "The
+Telling of the Book of Nod."
+
+TRAVIS: Oh god.
+
+SAM: What's that?
+
+TALIESIN: It's prose, and it's long, and it's hard
+to read because it's been hand-inked, but there
+
+seems to be a lot of interesting information here
+about vampires, and about what they can do and who
+
+they are.
+
+LAURA: Do I learn anything cool about myself?
+
+LIAM: Step one: Eat bloods.
+
+TALIESIN: You can peruse it for a second.
+
+LAURA: Yeah, I want to peruse it.
+
+TALIESIN: Actually, let's do a fun one. Roll wits
+linguistics, just because I'm a jerk.
+
+LAURA: Wits and linguistics?
+
+TALIESIN: Yeah, because it's a little weird, and
+it's in old English. It's all left. See, you're
+
+getting it. Thank you. That mouse skeleton is very
+fetching, by the way. I like sitting here.
+
+TRAVIS: You look handsomer.
+
+LAURA: I shouldn't have said it was cocked!
+
+LIAM: She rolled a cocked dice and got another
+failure.
+
+SAM: Two failures?
+
+LIAM: Two failures.
+
+SAM: Both red.
+
+LIAM: One success. Both red. Two failures.
+
+TALIESIN: How much hunger are you at right now?
+
+LAURA: I'm at three hunger.
+
+TALIESIN: Okay. Oh, good. You keep hitting three
+hunger. Yeah, you read it, and there was something
+
+about your power, but you couldn't absorb any of
+the information. You actually are having a hard
+
+time reading, thinking.
+
+LAURA: I really need some food. You had to drink
+all of Max's blood?
+
+SAM: It was so good.
+
+TALIESIN: You are not hungry right now, by the
+way.
+
+SAM: It was so good!
+
+LAURA: I'm so hungry.
+
+SAM: It was like a Brunello di Montalcino wine.
+
+TALIESIN: At the moment, you're down three on
+academics, occult, or lore.
+
+LAURA: Oh god.
+
+TALIESIN: That's gone until you eat.
+
+LAURA: I'm down three, so I'm minus one on
+academics?
+
+TALIESIN: There's no minus. It's just nothing.
+
+TRAVIS: Does she gain an additional blood die, or
+anything?
+
+TALIESIN: Not for that one, because she did okay.
+Good for checking. You got the book, and you got a
+
+couple of things.
+
+TRAVIS: What did you find?
+
+LIAM: Nothing.
+
+SAM: Laura doesn't know how to read.
+
+TRAVIS: Babe, what did you find?
+
+LAURA: I'm so hungry.
+
+TRAVIS: But what did you find up there?
+
+LAURA: I found a book.
+
+TRAVIS: You found a book? What does it say?
+
+LAURA: I don't know. I'm so hungry.
+
+TALIESIN: You hear a little bit of noise and
+chattering from out in the front, but you don't
+
+know where from.
+
+SAM: There's chattering.
+
+LAURA: Does it sound like people I could eat?
+
+SAM: Let's get our weapons out and go face this
+threat head on.
+
+TRAVIS: Or we could try and solve this puzzle.
+
+LAURA: What, like I gave it to you?
+
+TALIESIN: Wits linguistics.
+
+SAM: Why don't we solve the puzzle now, Liam? We
+need a symbol of faith--
+
+LAURA: And the book, I'm going to put on the
+head.
+
+LIAM: Three successes.
+
+TALIESIN: Yeah, this is telling the story of
+several brothers, and it's telling the story of
+
+people disavowed by god, whose souls left their
+body, and several brothers who went out upon their
+
+own, and various families. It's a lot to take in.
+It's going to be tough, but you're starting to get
+
+the notion that this is an old story about the
+origins of vampires.
+
+LIAM: Here with the tabletop games on the wall of
+board games.
+
+TALIESIN: That's weird, isn't it?
+
+LAURA: I wander out into the kitchen, looking for
+somebody to eat.
+
+TALIESIN: You can listen really hard and see if
+you hear anything.
+
+LAURA: I listen real hard. Do I hear anybody?
+
+TALIESIN: Let's say perception awareness. I would
+start looking. I would think about willpower, at
+
+some point.
+
+LAURA: I forgot I had that.
+
+LIAM: I'm hungry, too. I'm going to help you
+look.
+
+TRAVIS: Sam and I will make our way out to the
+puzzle.
+
+LAURA: Ooh, that's good. Oh yeah, four successes.
+
+TALIESIN: That's really good. There's a scuttling
+sound upstairs in the Smart Girls offices. In Amy
+
+Poehler's Smart Girls offices, you hear a
+scuttling. A small scuttling.
+
+LAURA: I'm going to quietly walk up the stairs. I
+think it's a rat.
+
+TRAVIS: Laura, where are you going? Upstairs is
+dangerous.
+
+SAM: Yeah, we're about to solve the puzzle.
+
+LAURA: I need some food. I don't know where any
+food is around here.
+
+TRAVIS: In case it's dangerous, why don't we try
+and solve the puzzle first? See what happens.
+
+LIAM: I'm hungry, too, but could you wait for just
+a minute?
+
+TRAVIS and SAM: Wait.
+
+LIAM: Just a minute.
+
+TRAVIS: I'll take the cross covered with my
+t-shirt, and without touching it, dump it on the
+
+lower right-hand corner of the circle.
+
+TALIESIN: It bubbles and blackens, and the whole
+thing is humming even more.
+
+LAURA: Should we use the book on the other one? Or
+I could bust out one of my fangs.
+
+TRAVIS: Don't you need that to eat more disgusting
+rats with?
+
+LAURA: Are you judging me now?
+
+TRAVIS: The whole time.
+
+LAURA: Have you not had any rats yet? You've had a
+rat.
+
+TRAVIS: No, have you?
+
+LAURA: No, of course not.
+
+SAM: I ate a man.
+
+TALIESIN: And that was all I needed from this
+game. Thank you, everybody.
+
+TRAVIS: Try the book?
+
+LAURA: Okay, cool. Yeah, we should try the book.
+
+LIAM: Man, I'm hungry.
+
+LAURA: He said it's cerebral. The book is a
+cerebral thing.
+
+TALIESIN: It boils and bubbles, and all the blood
+burns off the door, and you hear a clank. The door
+
+may be open; it may not be.
+
+LAURA: See, I feel like I should eat before we go in
+there. What if there's something bad in there?
+
+TRAVIS: Okay, fair enough.
+
+SAM: Do you want me to do my super speed and go
+upstairs and see what that scuttling is?
+
+LIAM: Yeah, that's a good idea.
+
+TRAVIS: I also have a fair amount of hunger, so
+between Chris, Audrey, and Arcade: should we call dibs?
+
+TALIESIN: Wow, he turned so hard so quick.
+
+SAM: You're eating them?
+
+TRAVIS: They have a sign around their neck that
+says "drink me." It says "drink me."
+
+SAM: But if we beat the magic, they all come back
+to life, right?
+
+TALIESIN: There is the scuttling upstairs, still,
+from the Smart Girls office.
+
+LIAM: I feel like it would be good to have a
+snack.
+
+LAURA: What, one rat's going to feed us all?
+
+LIAM: Guys, snack, up.
+
+TRAVIS: How about Laura checks out the scuttling?
+
+LIAM: I'm all right with that.
+
+LAURA: Why are you doing this to me?
+
+TRAVIS: Well, I just want to make sure that we're
+safe.
+
+LAURA: Baby, don't you love me?
+
+TRAVIS: So much. Undying love.
+
+LIAM: Everybody knows Travis loves you. It's
+obvious.
+
+TRAVIS: Yeah. Give it a look. I'll be right behind
+you.
+
+SAM: I'll come with you.
+
+LAURA: Thanks, Sam.
+
+TRAVIS: Is this Warcraft sword made of silver, or
+anything?
+
+TALIESIN: Probably not. Blizzard's awesome, but--
+it bends a little bit, because it's steel. It's a
+
+wall-hanger. It's beautiful.
+
+LAURA: We walk upstairs quietly, stealthily. I'm
+not going to use my full Unseen Presence, but I'm
+
+going to Obfuscate.
+
+TALIESIN: That one, you have to be still. You're
+going to have to keep cover.
+
+TRAVIS: That was the fart, Liam.
+
+TALIESIN: Roll a d10 and tell me what you get.
+
+LAURA: Any d10?
+
+TALIESIN: Roll any d10.
+
+LAURA: Six?
+
+TALIESIN: You're fine, for the moment. There are
+two people hiding underneath desks up there.
+
+LAURA: (whispering) Do they smell good?
+
+TALIESIN: They smell amazing. They smell really
+good.
+
+LAURA: Wait. (quietly) Hello? Is anybody up here?
+
+TALIESIN: They peek out around the desk. It's a
+guy and a girl.
+
+SAM: Do we recognize them?
+
+TALIESIN: I've been waiting for this joke all
+night. It's the Smart Girls office. You have no
+
+idea who these people are.
+
+(laughter)
+
+TALIESIN: I feel so bad.
+
+LAURA: Hi. I don't know what's going on. I woke
+up. There's scary things everywhere. Can we hide
+
+in here with you?
+
+TALIESIN: Make a--
+
+LAURA: Performance?
+
+TALIESIN: Yeah, give me charisma performance.
+
+TRAVIS: Are we calling that a performance?
+
+LAURA: Shut up. You're a dick.
+
+TALIESIN: She books more than me, man. I ain't
+going to say shit.
+
+LAURA: See, there's so much risk every time I'm
+rolling my hunger dice.
+
+TALIESIN: I know.
+
+LAURA: I don't like rolling for anything now.
+
+TALIESIN: This is my favorite part of this game.
+
+LAURA: God dang it.
+
+LIAM: That's real good stuff. That's all success.
+Every single one.
+
+LAURA: Five successes.
+
+SAM: And one red fail.
+
+LAURA: One red fail.
+
+TALIESIN: One red fail is fine.
+
+LAURA: But a lot of success.
+
+TALIESIN: Yeah, the one red fail is... if you're
+thinking about eating them, it's going to take you
+
+a second to get your composure. You're really
+distracted, and you're having a hard time
+
+focusing, but they bring you in.
+
+LAURA: Hi. I crawl under the desk. Are they under
+separate desks?
+
+TALIESIN: No, they're both underneath the same
+desk.
+
+SAM: I'm coming in, too.
+
+LAURA: Oh, this is Sam.
+
+SAM: I'm a good person.
+
+TALIESIN: "Neither of us have ever seen either of
+you before in our lives."
+
+SAM: I'm a fan of your boss.
+
+LAURA: I huddle up next to the girl and act like
+I'm really scared, and I bite her.
+
+TALIESIN: You're going to have to make
+conversation for a minute because of that one red die.
+
+LAURA: Damn it. So anyway, you guys work at Smart
+Girls?
+
+TALIESIN: "We do. Actually, it's real interesting
+what we do--"
+
+SAM: Are you writing something or developing
+something?
+
+TALIESIN: "It's really complicated to explain, but
+we do a lot of stuff--"
+
+LAURA: And then I bite her.
+
+TALIESIN: Okay, thank you.
+
+(laughter)
+
+TALIESIN: Bless you.
+
+TRAVIS: Small talk, and then business.
+
+TALIESIN: Give me dex plus two for this one.
+
+TRAVIS: Do we hear a commotion?
+
+SAM: As Laura bites, I'm going to take my XLR whip
+and use it to subdue and put it around the neck of
+
+the other one. I'm not hungry.
+
+TALIESIN: Dex brawl.
+
+SAM: Dex brawl.
+
+TRAVIS: Can we hear any commotion?
+
+TALIESIN: Oh yeah. You hear thumping.
+
+LAURA: Three successes, one red fail.
+
+TALIESIN: One red fail? It works. It takes a
+second. You're not having an easy time with this,
+
+but you're in there.
+
+LAURA: I'm going to hold her down.
+
+TALIESIN: How much are you draining?
+
+LAURA: Well, I've got three hunger, so a lot.
+
+TALIESIN: Are you going to try to get rid of all
+three hunger? Roll a d10.
+
+TRAVIS: Don't look at us. Follow your heart.
+
+LAURA: Three.
+
+TALIESIN: Yeah. Give me all of your hunger die.
+
+LAURA: Oh god, I killed someone?
+
+TALIESIN: You killed someone who worked for Amy
+Poehler, and I want you to think about that.
+
+LIAM: I bet that smarts.
+
+(groaning)
+
+LAURA: Take a hunger dice.
+
+SAM: I rolled three successes for my garrotte.
+
+TRAVIS: (laughing) For your strangulation?
+
+SAM: I'm not trying to kill. I'm just trying to
+subdue. Is it a dude?
+
+TALIESIN: (strangled) It's a dude.
+
+SAM: I lift him up and march him down the stairs
+for my friends.
+
+TALIESIN: Give me strength athletics on that one,
+for rolling around, unless you want to burn some blood.
+
+SAM: What is it, Laura?
+
+LAURA: Don't tell anyone I killed this chick!
+
+SAM: (whispering) I won't.
+
+LAURA: Oh man.
+
+SAM: Clean your mouth.
+
+LAURA: I feel so much better.
+
+SAM: Three successes.
+
+TALIESIN: Oh yeah. You're dragging him down.
+
+SAM: Don't make a sound.
+
+LAURA: This is so dark!
+
+SAM: And I am not going to kill you. And I bring
+him downstairs and throw him at Liam. Have at him!
+
+LIAM: Wow, you love me.
+
+TALIESIN: Give me dex two.
+
+LIAM: Dex two?
+
+TALIESIN: Dex plus two dice. Yeah, sorry. I'm
+still figuring some of this out. I have way too
+
+many pieces of paper.
+
+LAURA: Oh no, Travis, are you still hungry?
+
+LIAM: Shit, shit! Two fails. One success, two
+fails. One's a red.
+
+TALIESIN: One red fail, and--? Yeah, you go for
+it, but you somehow slip and you don't quite get
+
+it together to get a good grab.
+
+LIAM: I feel so crazed!
+
+TALIESIN: Suddenly you start hearing a growling
+coming from the other end of the building.
+
+(snarling)
+
+TRAVIS: From the where? Other end?
+
+LAURA: From where?
+
+TRAVIS: The front of the building?
+
+TALIESIN: From the front of the building.
+(snarling)
+
+LAURA: We should get in the Twitch stage. We
+should go in.
+
+TALIESIN: As you walk, there's two, probably
+ten-foot tall wolves slowly making their way into
+
+the kitchen.
+
+TRAVIS: Bipedal?
+
+TALIESIN: They're quadripedic at the moment, but
+it seems like there might be the option, and one
+
+of them has some brilliant tattoo work up the
+front arms.
+
+LAURA: Oh my god, Rachel?! Rachel turned into a
+werewolf!
+
+LIAM: It's Romero!
+
+TALIESIN: The two of them are starting to make
+their way toward you.
+
+TRAVIS: Wait. Let's try and communicate!
+
+LAURA: Travis, they are going to kill us! We're
+vampires! Werewolves hate vampires. You've seen
+
+enough of those movies.
+
+TALIESIN: You guys better go quick.
+
+SAM: I'm going to take the Smart Girls boy and
+throw him on the floor in front of us.
+
+TALIESIN: Okay.
+
+SAM: And then run into the Twitch room.
+
+LAURA: Yeah, I'm going to run into the Twitch
+room.
+
+TALIESIN: You're going to run into the Twitch
+room? Everybody roll, because I've been wanting to
+
+try this, where did it go? There it is! Roll wits
+plus, where did it go? Roll, this is going to be
+
+weird, roll wits plus, I'm trying to find the
+thing to do with this. This is going to be weird.
+
+Wits plus athletics. I'm trying something
+interesting. Honestly, except for Sam. Sam doesn't
+
+have to roll anything because you are fast as
+fuck.
+
+LAURA: You have the best. Three successes. Triple
+sixes, creepy.
+
+LIAM: Two successes.
+
+LAURA: Oh no, what'd you do?
+
+SAM: You got no successes on yours?
+
+TRAVIS: Three successes and two fails, one of
+which is red.
+
+TALIESIN: Okay. The rest of you make your way into
+the room. Travis is, for some reason, still
+
+staring at that boy on the ground. The two wolves
+make a jump and grab the boy. And start tearing
+
+into him. Make a wits roll to get yourself out of
+there.
+
+TRAVIS: Another wits? Just wits? They're all red.
+That's a success, a ten, and a one.
+
+TALIESIN: What the fuck. Okay. Yeah, the door is
+jamming on you a little bit. I mean, you're there,
+
+you're on the door, it's jamming a little bit.
+They're having a bit of an argument over who gets
+
+to eat the kid, and there's a bit of a back and
+forth. It's like a meet-cute.
+
+TRAVIS: The wolf with the tattoos and the other
+one with the shaved sides?
+
+TALIESIN: Yeah, with the shaved sides, and they're
+having a bit of a run.
+
+LAURA: It's totally Ed and Rachel!
+
+TALIESIN: Yeah, your success and your failure.
+Yeah, give me a, boy. You can add wits athletics
+
+or wits survival, and I would recommend burning
+either some blood or some will or doing something.
+
+I keep rolling like shit.
+
+TRAVIS: I don't know how to burn will, but I'll do
+whatever.
+
+TALIESIN: You knock off a will. You can add
+athletics or--
+
+TRAVIS: I'll add athletics. Come on, athletics.
+
+LAURA: Muscle your way through the door. Much
+better?
+
+TRAVIS: Five successes and one red failure.
+
+TALIESIN: That's good enough. I'm going to say you
+get to the other side of the door but, man, you're
+
+not even going to look for a minute. You're going
+to sit at the other side of that door and listen
+
+as the two of them tear this poor kid to shreds.
+He is jerky.
+
+SAM: I love how he is a full adult male grown-up
+employee, but he's a kid now.
+
+TALIESIN: We're all kids once we're in the jaws of
+a werewolf, man. Everybody's a kid once you're a
+
+vampire. And you can hear the werewolves clawing
+at the door.
+
+LIAM: I grab Laura and say: Listen, he might die.
+He might die, and if he's gone, you and I are
+
+going to need each other. So you need to keep me
+alive so I can protect you. And I use Presence:
+
+Awe on her.
+
+TALIESIN: All right, roll it.
+
+LAURA: Don't you have to roll every time you use
+it? So you risk getting another hunger dice!
+
+TALIESIN: He gets a hunger dice if it works,
+yeah.
+
+LIAM: Four successes, one of which is a red die.
+
+TALIESIN: Ah, wow. That's a good plan! It was good
+enough that, let me double check.
+
+LIAM: There is no versus on the sheet.
+
+TALIESIN: Yeah. Actually, roll perception
+willpower. Yeah, you're a vampire.
+
+LAURA: Where's willpower?
+
+TALIESIN: You've probably burned one of them
+already. It's at the bottom left.
+
+LAURA: Oh, okay, so I have three willpowers. Okay.
+Success, success. Four successes.
+
+TALIESIN: How many were you at, Liam?
+
+LIAM: Four. One of them was red. It was a crit.
+Well, I need two crits.
+
+TALIESIN: I flipped a coin anyway because that's
+how I enjoy the moment. I've got these great coins
+
+and I'm glad I get to use them. Yeah, he makes
+sense.
+
+LAURA: Yeah, of course I'm going to make sure
+you're okay!
+
+LIAM: I mean if Travis doesn't come back, or if he
+does come back! It's wise to keep me alive so I
+
+can protect you.
+
+LAURA: This doesn't make any sense, but so much
+sense, at the same time. I will protect you, so
+
+you can protect me. Okay? That's how it always
+is.
+
+TALIESIN: Meanwhile, Travis comes back.
+
+TRAVIS: What are you talking about?
+
+LAURA: Liam said I need to protect him, so he can
+protect me. But the thing is, you're back, so you
+
+can protect all of us.
+
+TRAVIS: That's so funny, he kind of said something
+similar to me!
+
+LIAM: And you love Laura, so to keep her alive--
+
+TRAVIS: Can I use my Aura: Perception to
+understand what Liam is doing?
+
+LIAM: Reverse math?
+
+TRAVIS: It says "interplay of colors in an aura
+provides insight into the subject's emotions."
+
+TALIESIN: I'll say you can-- wait, I get to say
+it! You can certainly try.
+
+TRAVIS: Okay, you have to roll manipulation plus
+willpower versus my perception plus empathy.
+
+TALIESIN: It's that bottom left.
+
+LAURA: We should block the door so that Rachel and
+Ed can't get in here.
+
+SAM: That was Rachel and Ed?!
+
+LAURA: Yeah dude! Did you see the tattoos?
+
+SAM: Oh my god!
+
+LAURA: While they're doing this, I'm going to push
+one of the heavy things in front of the door.
+
+TALIESIN: All right, I mean, I would say make a
+strength check, but you guys probably together are
+
+going to have no problem finding things to move.
+
+TRAVIS: Four successes.
+
+LIAM: Three.
+
+TALIESIN: Three successes, four? You can read his
+aura.
+
+LAURA: What does that mean?
+
+TRAVIS: It means insight into his emotions,
+motives, and nature.
+
+TALIESIN: Yeah, so what insight would you like?
+
+TRAVIS: I'd like to know why he's asking everyone
+to protect him.
+
+LAURA: Because he wants to survive, man.
+
+TALIESIN: Why are you asking everyone to protect
+you?
+
+LIAM: I need to live!
+
+TALIESIN: There you go. I had a funny feeling it
+would work out that way.
+
+TRAVIS: You're asking my wife to look out for you if
+it comes down to it?
+
+LIAM: So I can protect her! Uh-huh.
+
+TRAVIS: What about me?
+
+LIAM: Well, you're stronger than me. How am I
+going to protect you? That's silly.
+
+TRAVIS: Right. Yeah. Makes sense. Where are we?
+
+SAM: We're inside of the Twitch.
+
+LAURA: We're inside the Twitch stages!
+
+SAM: We're here, we're in this room.
+
+LAURA: We're like, right here.
+
+TALIESIN: Yeah, we're about 30 feet away.
+
+TRAVIS: Can we take a look around?
+
+TALIESIN: Yeah.
+
+LAURA: I am going to Obfuscate.
+
+TALIESIN: That's smart. Let's give you a little
+bit of red.
+
+LIAM: Tal, I never got a penalty for what I did.
+
+TALIESIN: Yeah, you're going to get one right
+there. You get one there.
+
+TRAVIS: I'll use my heightened senses to--
+
+TALIESIN: Oh wow, yeah. There are no people in
+here, but all of the equipment is running and
+
+there are some lights on back at the Critical Role
+stage.
+
+SAM: Are we live on Twitch?
+
+LAURA: Oh, crazy. Are we like out there? How
+fucking creepy would it be if we walked out?
+
+TRAVIS: Fucking don't jump out and scare me. I
+will attack whoever comes out here.
+
+TALIESIN: That's good to know.
+
+TRAVIS: If you jump out on me, it's not going to
+go well for that person.
+
+TALIESIN: Are you going to look around at all
+other than like, as you walk over? There's little
+
+nooks and crannies.
+
+LAURA: I'm going to stay away from them so that I
+can be sneaky.
+
+TALIESIN: You're going to be sneaky. Which
+direction are you going to come from?
+
+LAURA: I'm going to go, well, there's really only
+one way around. I'm going to go around this back
+
+way, around that other stage so that, when they
+come up this way--
+
+TALIESIN: You do see a pile of corpses back
+there.
+
+LAURA: Oh shit.
+
+TALIESIN: They look like very competent corpses,
+the corpses of extremely competent people who make
+
+things work.
+
+SAM: Our crew.
+
+LAURA: Oh, god. Like, around the other side of the
+stage? Like they're hidden?
+
+TALIESIN: They're kind of piled in the shoebox at
+the moment. Also, make a perception check really
+
+quickly, a base perception check.
+
+LAURA: That's cocked, unfortunately. One success.
+
+TALIESIN: Everything's been manhandled.
+Everything's changed. Things have been moved
+
+around. Everything's a little shifted. The
+Wednesday Club table is leaning against the door
+
+back here. People have been moved around. That's
+my weird music.
+
+LAURA: Yeah, I couldn't tell! It sounded like the
+crew was making creepy noises!
+
+TALIESIN: The Talks set has been folded away and
+is in a little package. Everything's been strewn
+
+through and there's some new-- go ahead.
+
+LAURA: Can I look for my dice bag? My giant one
+that's as big as a head. So I can roll, like, dice
+
+on the ground if I need to.
+
+TALIESIN: You know where to find it, so you go
+look for it? As you open up the cabinet, there
+
+seems to be some sort of, I don't know, it looks
+like maybe it's a pyrotechnic device. It looks
+
+like something designed to explode in the
+cabinet.
+
+LAURA: Like, it's going to explode if I touch it,
+or I can take it?
+
+TALIESIN: Do you touch things that look like
+they're going to explode?
+
+LAURA: Not usually. Is it close by my bag that I
+need?
+
+TALIESIN: It's near it, but I would not make you
+roll to miss it, because it's far enough away.
+
+It's on a different shelf. But there's a little
+glowing light in there, connected to things that
+
+definitely resemble some sort of dynamite or C4.
+There's some sort of explosive device in here.
+
+LAURA: I'm going to take my bag.
+
+LIAM: Laura, where'd you go?
+
+TALIESIN: You're Liam'ed, man. No one can see you.
+You're the shade.
+
+LAURA: I said I took it.
+
+TALIESIN: You guys, where are you heading?
+
+TRAVIS: Which way did you go? To the left? Oh, you
+went to the right?
+
+LAURA: Well, I got my dice and I was going to go
+around, but I can come up this way.
+
+TALIESIN: And she saw the giant pile of Chief and
+Courtney.
+
+TRAVIS: Oh, we recognize a few of the corpses?
+
+TALIESIN: I mean, it depends on how-- Yeah,
+probably. It's a good pile.
+
+TRAVIS: I'll make my way toward the command center
+where all the computers and tricasters.
+
+TALIESIN: They're all running. There's somebody
+sitting at the head of the table, but you can't
+
+quite see. It's no one you recognize, and you
+can't quite figure out who it is. There's a little
+
+off-kilter.
+
+LAURA: You're making sure nobody's going to jump
+out at you?
+
+TRAVIS: Yeah, I was entranced.
+
+TALIESIN: Everything's a little off.
+
+TRAVIS: I keep going up more.
+
+TALIESIN: You see, painted in blood across the
+outside of the set--
+
+LAURA: This set?
+
+TALIESIN: This set. "Life needs things to live."
+
+LAURA: Oh my god, Taliesin's inside! Are you
+inside this set?
+
+TRAVIS: The person that I can't see. Hello?
+
+TALIESIN: You see hair. There's a little tuft of
+white hair and someone furiously writing notes.
+
+TRAVIS: Excuse me, we just made our--
+
+TALIESIN: "You made it! Oh, that's super." There
+in front of you is a pale, older gentleman with a
+
+bit of a beard and thin at the hair, but he's an
+older gentleman. Quite pale and porcelain skin,
+
+like he's definitely, I don't want to say "jolly"
+vampire, but there's something so charming about him.
+
+TRAVIS: Do we recognize his face?
+
+TALIESIN: Make an intelligence, oh, what would I
+call this? Either academics or occult.
+
+LAURA: Are you all walking in the set?
+
+SAM: Liam and I never said which way we had gone.
+
+LIAM: No.
+
+TRAVIS: That is two successes. Of three dice.
+
+TALIESIN: Yeah, no.
+
+LIAM: I think I would be a good ways behind big
+man, watching him work his magic.
+
+TRAVIS: I just rolled academics, nothing else.
+
+TALIESIN: "I'm so glad to meet you. This is great.
+I mean, there have been some problems, I admit it.
+
+"There were some things that didn't really go the
+way I wanted them to, but hey! Hey, you're here.
+
+"Where's everybody else?"
+
+TRAVIS: I'm sorry to interrupt you. Are you
+responsible for the puzzle lock on the door?
+
+TALIESIN: "Yeah, I mean, we're supposed to do a
+thing, and I really enjoy these kind of things.
+
+"Ivan was really happy to help, so we sort of--
+Actually, Ivan really helped put it together. He's
+
+"a smart kid."
+
+TRAVIS: My name is Travis--
+
+TALIESIN: "Oh yeah, I know. Hi. It's a pleasure."
+
+TRAVIS: Pleasure. And you are?
+
+TALIESIN: "My name's Gary. It's a pleasure. Gary
+Gygax. I'm a big fan. It's really nice to meet you
+
+"in person. This is great."
+
+TRAVIS: The Gary Gygax?
+
+TALIESIN: "I mean, that's fair to say."
+
+LIAM: Gary Gygax is no longer living!
+
+TRAVIS: Thanks, Liam! We found ourselves in a bit
+of a situation. Do you happen to know what's going
+
+on around here?
+
+TALIESIN: "Yeah! And I've been looking forward to
+you guys figuring out my puzzle and coming on in.
+
+"This is great. I'm so excited about the next stage
+of everything. This is really, super exciting."
+
+TRAVIS: Is there anyone else in this studio at the
+moment?
+
+TALIESIN: "Probably not at the moment. I've got
+some people outside, we're ready to load the
+
+"trucks. Everything's up to go. Everything is more
+or less set up. I've got some people, we've got
+
+"some things coming in and out. There's a lot of
+commotion. This is a big process."
+
+TRAVIS: Outside? Forgive me, this is all very new
+to me, but isn't the sun up outside?
+
+TALIESIN: "For a minute longer, and then of course
+Ivan can take care of that. He's very clever that
+
+"way. But we have people. I mean, you'll know this
+someday, you get to a certain point and you have
+
+"people who can do these things for you. It's
+really nice."
+
+TRAVIS: Right. Sam? Liam? Laura?
+
+SAM: I'm coming up and I'm going to say: Big
+fan--
+
+TALIESIN: "Thank you! See, the riddle was a double
+thing, because, you know, vampires come from a
+
+"box, and Dungeons & Dragons comes from a box! It's
+a double pun. I was really, it was actually Ivan
+
+"who came up with it, but I signed off."
+
+LIAM: Still not in, and I'm unscrewing two pipes
+for a microphone setup so I can have a bar in my hand.
+
+TALIESIN: It's smart to have.
+
+LAURA: I'm creeping around the side and stealthily
+peeking.
+
+TALIESIN: Make an investigation check.
+
+SAM: Is he on this set, or is he at the control
+board?
+
+TALIESIN: He's sitting right here. Make a
+perception investigation. I'm excited to see if
+
+you find this.
+
+SAM: I'm going to pull out my Wyrmwood gaming tray
+from under the table over there and hand it to him
+
+and ask him to sign it.
+
+TALIESIN: Oh, happily. He is into it.
+
+LAURA: Six successes.
+
+TALIESIN: There is a breeze coming from under the
+Wednesday Club table.
+
+LAURA: Like, here?
+
+TALIESIN: Yeah. If you look behind the Wednesday
+Club table, there is a tunnel going down
+
+somewhere. So it's maybe a minute before the sun
+goes down, but I'm saying someone's been getting
+
+in or out of here no matter what the sun says.
+Good find!
+
+TRAVIS: Mr. Gygax, I'm not really sure what comes
+next. Can you tell us a little bit about what we
+
+have to look forward to?
+
+TALIESIN: "Well, I was waiting till everybody was
+going to be here, but everybody I'm sure is still
+
+"having a time. It's a mess out there, I really
+apologize."
+
+SAM: You killed our dungeon master, so.
+
+TALIESIN: "I mean, he's going to be fine, though.
+He's going to be fine. "
+
+TRAVIS: He turned to ash in the sun.
+
+TALIESIN: "What?"
+
+TRAVIS: Yeah, unfortunately--
+
+SAM: Are you saying that once the magic is broken,
+everybody comes back to life again?
+
+TALIESIN: "No. What? Wait, where's Matt?"
+
+TRAVIS: Matthew Mercer opened a curtain near the
+front of the building and was struck by a ray of
+
+sunlight. Is that not reversible?
+
+TALIESIN: "I mean, I was aware that one of you
+might-- something bad might happen, but we need him!"
+
+TRAVIS: It's not just Matt.
+
+SAM: We do need him for the show.
+
+TALIESIN: "I mean, you guys ended everything! We
+worked really hard to make sure you can keep doing
+
+"this for as long as we need, and you let your
+dungeon master walk into the sun! You guys are
+
+"great. You're the best. God, ugh."
+
+SAM: Before you freak out--
+
+TRAVIS: I think it's past that a little.
+
+TALIESIN: "What are you doing now that Matt's
+gone?"
+
+SAM: I've run a one-shot! I know how to DM!
+
+TALIESIN: "That one-shot was, let's be fair, that
+was mostly math and you were riding on the talent
+
+"of your players. Let's be fair."
+
+SAM: Liam's done a couple! Liam's pretty good!
+
+LIAM: I'm not here. I'm quietly looking for Laura
+outside of the Critical Role table.
+
+TALIESIN: Is Liam dead too?
+
+SAM: No, Liam's alive!
+
+TALIESIN: "Or not, he's undead, apparently. We
+went to all this trouble."
+
+TRAVIS: Marisha turned to mushroom.
+
+TALIESIN: "Oh, for God's sakes."
+
+TRAVIS: There was tea, apparently, and she had
+some.
+
+TALIESIN: "Well, apparently you had some people
+working here who weren't entirely human, and
+
+"apparently we did our thing and things got weird.
+You have some weird people here, you know that? God!"
+
+SAM: We ate some of them, yeah.
+
+LIAM: (whispering) Twinnie!
+
+TALIESIN: "You know, you should never meet your
+heroes. This is very disappointing."
+
+TRAVIS: Was he calling us--?
+
+SAM: I think that's a compliment. Weird,
+backhanded compliment.
+
+TALIESIN: "I was happy for a while. I don't even,
+like--"
+
+LIAM: Twinnie! Laura!
+
+TALIESIN: I'm enjoying the fact that this is
+everything I ever wanted, right there. This is
+
+what it's like to be next to you, by the way.
+Stealthy. "We had a plan. We had an underground
+
+"bunker for you guys to shoot from. We were putting
+together a new crew. We had every-- Oh my god, the
+
+"money, and--"
+
+SAM: You had to pay for this?
+
+TALIESIN: "This was expensive, and I mean, there
+are rules about what you can do, and I have done
+
+"some things to make this happen that are a little
+questionable."
+
+SAM: A little? Well, you know, you could have
+asked us to come play! Hey, wait! Wait! You're a
+
+dungeon master! You could lead the game, right?
+
+TALIESIN: "This is nothing personal, Sam. I just
+really wanted to play with Matt."
+
+(laughter)
+
+TRAVIS: Dunked on by Gary Gygax! Posterized! The
+burn is real! Sunbeam!
+
+TALIESIN: He clicks a button on a remote. "Well,
+regardless, it was really nice to meet you. I have
+
+"something I'd love for you to sign. Well, you've
+got about 60 seconds, so I figure we might as well
+
+"get this done before everything goes."
+
+TRAVIS: What happens in 60 seconds?
+
+TALIESIN: "Well, I mean, we've got to clean up
+everything, so. You're welcome to go outside if
+
+"you like, but otherwise we're taking care of this
+right now."
+
+LAURA: I peek my head in right there where he
+can't see.
+
+LIAM: And I dive over to where she is. What do we
+do?
+
+TRAVIS: We would love to sign whatever it is.
+
+SAM: We need a silver Sharpie.
+
+TRAVIS: We're very particular about the metallic
+colors. It's right over by the computers.
+
+TALIESIN: "You're not trying to-- I mean, there's
+nowhere to go, is there?" He starts to get up, and
+
+he starts to grow claws.
+
+SAM: I'm going to speed-dash toward Laura and
+Liam.
+
+TALIESIN: He's starting to get a little Baba
+Yaga-y. There's claws coming out.
+
+TRAVIS: Now, Mr. Gygax, there's really no need to
+grow shit out of your hands. I merely want to sign
+
+whatever-- What do you have for me to sign?
+
+TALIESIN: He slowly reaches in and pulls out Matt
+Mercer's Vecna statue. "You'll sign that, and I'll
+
+"be taking it."
+
+TRAVIS: I think that will be fine. I grab the
+Vecna statue. You don't happen to have a pen on
+
+you, do you?
+
+TALIESIN: Let's flip. Oh! As he reaches for a pen,
+suddenly, at great speed, there's a blur that
+
+comes and smashes him against the side of the
+wall. He is briefly dazed as you see there's
+
+another vampire, teeth out, eyes blazing, holding
+him against the wall, and he turns and looks at
+
+you all, and Matt Colville says, "This is your
+moment! Run! Run!" and goes in and holds Gary
+
+Gygax against the wall.
+
+TRAVIS: Where?!
+
+SAM: Let's get out of here!
+
+LAURA: Outside! Tunnel, I've got a tunnel! There's
+a tunnel!
+
+SAM: Let's go out the tunnel!
+
+TRAVIS: No, he said there was a studio
+downstairs!
+
+LIAM: Blam, Blam, Blam!
+
+TALIESIN: They're starting to wrestle with each
+other.
+
+TRAVIS: We run down the tunnel!
+
+TALIESIN: You run? Man, just as you run down the
+tunnel, Gary Gygax breaks his hold on Matt
+
+Colville. They break apart and Gary makes a run
+for the tunnel.
+
+TRAVIS: Gary does, or Matt does?
+
+TALIESIN: Gary. Matt's against the wall.
+
+TRAVIS: I take the Vecna statue and I go, ah!
+
+TALIESIN: It's enough to distract. Just in a
+second if you all get underneath the Wednesday Club table--
+
+SAM: We're going in.
+
+TALIESIN: And you hear the flames as the air above
+you lights, as Geek & Sundry goes up in flames.
+
+And we'll be back next week with your subterranean
+adventures, now that you've killed two of the
+
+greatest DMs-- Three of the greatest DMs that have
+ever lived.
+
+SAM: Two Matts dead.
+
+TALIESIN: Two Matts dead, and a Gygax. Well done.
+
+SAM: Yes, but the three new best DMs in the world
+have survived, so.
+
+TALIESIN: I feel like Gary was quite clear on
+that.
+
+TRAVIS: I have not killed any humans yet.
+
+LAURA: Good for you, babe.
+
+TALIESIN: You know what you get for that?
+
+TRAVIS: What?
+
+TALIESIN: Hungry, fucker. What are you at?
+
+TRAVIS: That's five.
+
+TALIESIN: Oh yeah, next time you see one, it's
+going. Hey guys! I hope you enjoyed my-- I'm going
+
+to be a little bit more together next time. This
+was a little bit ramshackle.
+
+TRAVIS: You were great!
+
+TALIESIN: Thank you, I had fun. It's going to be a
+little different. I'm going to play a little bit
+
+more, we're going to have more fun with the social
+and maybe get into a little bit of the World of
+
+Darkness now that I feel like they've got a hang
+on things. I'm going to give everyone a little
+
+more power and a little more idea of what they can
+do. Shift things around. We may have a special
+
+guest. Maybe, maybe not, since it's only four of
+you. I may get one more for fun. We'll see. I
+
+haven't reached out yet because we have so much
+shit to do over the next 48 hours, all of us.
+
+LIAM: Yeah, everything else on pause.
+
+TALIESIN: It's nuts. Thank you all for tuning in
+to this. We are doing one more week of this insane
+
+run, and it's going to get weirder. Probably less
+evil? Maybe, I don't know. I'm so pleased. Thank you
+
+guys so much. This system is a lot of fun to play,
+and if you do get a chance, there's either the
+
+classic or the new edition or both. Wonderful
+treats. There's an alpha available to play with.
+
+There's all of the old books, and they used to do
+every city, every clan. I'd be very curious to see
+
+if anybody could start guessing what clans I've
+pushed everybody gently towards. Not that they
+
+know anything yet. And if anybody figured out what
+Ivan was, and if anybody figured out what was
+
+happening at the front of the Geek & Sundry
+offices, and anybody figured out what-- I think
+
+everybody figured out what happened with Ed and
+Rachel. They might have survived, I don't know.
+
+Werewolves are tough, man. Anyway, thank you guys
+so much.
+
+SAM: Thanks to our sponsor, Backblaze! Cloud-based
+subscription. They back up software. Get it,
+
+download it, and use backblaze.com/criticalrole to
+get special other things.
+
+TRAVIS: That's right. If you haven't tried it,
+give it a try.
+
+TALIESIN: And thank you to everybody at Geek &
+Sundry, Nerdist, Legendary, and Smart Girls for
+
+giving me permission. I've been running through
+the building all week going, Is it cool if I kill
+
+you? All right. Because there's a moment where a
+little bit of playful consensual violence can be a
+
+good time. Can feel good. Lets you relax. Not me,
+but maybe the rest of you. Good night, everybody.
+
+Stay safe, have fun, and is it Thursday yet?
+
+(evil laughter)
+
+[music]

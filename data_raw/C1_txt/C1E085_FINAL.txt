@@ -1,0 +1,8045 @@
+MATT: Hello everyone, and welcome to tonight's
+episode of Critical Role, where a bunch of us
+
+nerdy-ass voice actors sit around and play
+Dungeons and Dragons--
+
+ALL: (cheering)
+
+MATT: -- you assholes.
+
+MARISHA: Der 'n' Der!
+
+MATT: Welcome. Tonight should be an interesting
+episode, but, before we begin, let's go ahead and
+
+get through our announcements for the evening! So,
+welcome, and, first and foremost, tonight we are
+
+sponsored by our friends at Loot Crate.
+
+ALL: (cheering) Loot Crate!
+
+MATT: Thank you, Loot Crate, for being amazing
+sponsors.
+
+Sam, did you want to tell us a little
+about--
+
+SAM: Okay! I haven't done this in a while,
+so I'm falling back on
+
+an old crutch, an old beloved character--
+
+Rhodey Slater is back to do another round--
+
+MATT: (laughing) Oh my god.
+
+SAM: Gotta get in character.
+
+(in surfer voice)
+Yo-ho-ho, it's me, Rhodey Slater, with another
+
+message from our sponsor, Loot Crate. Whether
+you're dropping in on a party wave in Uluwatu or
+
+even Tamarindo, you won't look like a paddle-puss
+if you haul your tres gnarly gear from El Crate-o
+
+del Loot-o. This month's theme is Build,
+featuring sick brands like Power Rangers,
+
+hang ten; Batman, wax it up; Lego, mondo
+bitchin'; and Tetris, shaka.
+
+(all laugh)
+
+SAM: So don't get raked over
+by a wiper, point your nose to
+
+Lootcrate.com/CriticalRole and use promo code
+"criticalrole" for 10% off your subscription.
+
+You'll be radder than Tom Curren nailing a 360
+air reverse rodeo. You'll be cooler than a tight
+
+on-shore breeze at Malibu. You'll be more
+authentic than a sad voice actor searching for
+
+surfing terms on Yahoo Answers at 5 pm--
+
+(all laugh)
+
+SAM: -- when he should be really spending more
+quality time with his children, as their youthful
+
+lives pass by without their father, precious
+moments ticking away until one day they're adults,
+
+and you're standing at their wedding, thinking,
+"Oh my god, I missed so much, I missed so very
+
+much, and for what? A Loot Crate ad?"
+
+Anyway, ride that tube and subscribe today,
+
+(shouting) bonzai!
+
+(all laugh and cheer)
+
+TRAVIS: I mean, he's a whole new echelon.
+It's a whole new--
+
+TALIESIN: You just Inception'd a Loot Crate ad.
+
+MATT: Thank you for that!
+
+TRAVIS: Incredible!
+
+MATT: Sam.
+
+MARISHA: You took, like, a failed Californian
+sketch and turned it into Oscar-winning material.
+
+MATT: That is, thank you very much.
+
+LAURA: It hurts, it hurts.
+
+LIAM: I didn't know Rhodey's, Rhodey's a father,
+that's an interesting development.
+
+SAM: Yeah.
+
+MATT: Indeed.
+
+SAM: Many. Many.
+
+MATT: Just a heads-up, guys, we've done a couple
+of these and we're going to do a couple more of
+
+these upcoming For Honor streams, where a few of
+us are going to be guesting on here for a number
+
+of hours to play For Honor and beat the shit out
+of each other and other people, as various
+
+historical warriors of old. And then a number of
+us are actually, I think, a voice in the game.
+
+TRAVIS: Yeah!
+
+MATT: But yeah. So tomorrow, joining the Nerdist
+team from 9 am to 12 noon Pacific Time, we have
+
+Liam and Travis--
+
+TRAVIS: Woo!
+
+LIAM: Tarvis!
+
+MATT: --to jump in on there, and then, on
+Saturday, from 12 noon to 3 pm, that's going to be
+
+Travis, Taliesin, Sam, Marisha, and myself on
+there--
+
+MARISHA: Hey-oh.
+
+MATT:-- all playing the game, getting crazy.
+
+LAURA: Woah. Really?
+
+TRAVIS: Yep.
+
+LAURA: Why aren't I there?
+
+TRAVIS: 'Cuz you suck.
+
+LAURA: Oh man.
+
+LIAM: He's right.
+
+LAURA: I know it!
+
+LIAM: He would know. He would know.
+
+MATT: (laughs) So yeah, it'll be here on the
+Twitch, check it out, I'm really excited,
+
+I haven't played the game yet? And everyone I
+know who's talked about has said it's ridiculously
+
+fun and amazing. It's like, the upgrade of Dark
+Souls combat and I'm really excited about it.
+
+TRAVIS: I have to, like, show up an hour early and
+learn how to play, or we're going to get.
+
+We're going to get killed a lot.
+
+MARISHA: Yeah, I'm probably going to.
+
+TRAVIS: We've got to work on our death sounds.
+
+LIAM: What, I'm Leet, man, you're going down,
+and stuff.
+
+TRAVIS: (belches)
+
+LAURA: Leet!
+
+MATT: (accented voice) Going down.
+
+TRAVIS: No. No. You... are the one falling,
+in the opposite direction of up.
+
+LIAM: (in Christopher Walken voice) It's important
+to point out, we're not doing Walken anymore--
+
+(all laugh)
+
+LIAM: --we're doing our impression of Troy,
+doing an impression of Nolan doing Walken.
+
+MATT: Oh, wow.
+
+TRAVIS: It's a quad lay-up.
+
+MATT: The chain goes deep.
+
+LAURA: Yeah, it does.
+
+TRAVIS: (Walken voice) Quad. Lay-up.
+
+LAURA: Woah. Just woah. (laughs)
+
+LIAM: I don't even know what Walken sounds like,
+it's come through a daisy-chain of assholes.
+
+MATT: It's true, it's true. That's our next shirt.
+"Daisy Chain of Assholes." I'm okay with that.
+
+TRAVIS: Critical Role: It's About Scientology--
+
+MATT: Also, don't google that phrase!
+
+TRAVIS: -- and a Daisy Chain of Assholes.
+
+MATT: All right! Next up, we have (quieter) me,
+breaking my pen. Uh--
+
+LAURA: Oh, no.
+
+MATT: April 1st!
+
+TRAVIS: April 1st!
+
+MATT: WonderCon!
+
+TRAVIS: WonderCON!
+
+MATT: Save the date. We have--
+
+SAM: We're allowed to say the date now?
+
+MATT: We do now. That's all the information we
+have so far, but April 1st, WonderCon. Critical
+
+Role and Talks Machina live, in their--
+
+LAURA: Be there or be squared!
+
+MATT: -- big room, it's gonna be good.
+
+TRAVIS: Anaheim.
+
+MARISHA: Big room, did I say square?
+
+SAM: It is not an epic April Fools' Joke--
+
+MATT: No.
+
+SAM: -- this is really happening.
+
+TRAVIS: It's really happening.
+
+TALIESIN: It's really happening.
+
+SAM: Okay.
+
+TRAVIS: And it's going to be a big, big,
+rowdy room. So if you're like, "Aw, I don't want
+
+to go, there's not going to be any seats." 
+There gon' be seats.
+
+MATT: There's plenty of seats.
+
+LIAM: Yeah, it's--
+
+TRAVIS: Bring it, if you can.
+
+LIAM: --It's April Fools', we're not going to be
+there.
+
+TRAVIS: I can say that.
+
+SAM: You know what?
+
+LIAM: We're not going to do that.
+
+SAM: I will promise that I will play at least one
+April Fools' joke
+
+on one of you, during that panel.
+
+LAURA: Ooh.
+
+TALIESIN: I'm excited by this.
+
+LAURA: Can I vote for Brian?
+
+LIAM: I'm not.
+
+SAM: Sure, of course.
+
+TALIESIN: I think that's a great idea.
+
+TRAVIS: He's not listening to this right now.
+
+MATT: We should have a poll in the community for
+which member of the team Sam gets to prank.
+
+(all laugh)
+
+MATT: Don't actually do that, please. 'Cause we
+all know that's going to be--
+
+TALIESIN: I'm a big fan of Brian, I have a feeling
+that's a good bet.
+
+MATT: Also!
+
+MARISHA: Man, we're being so transparent.
+
+MATT: Isn't it, though? All right! Next up--
+
+LIAM: Wow.
+
+MATT: Signal Boost has returned. Marisha,
+if you want to talk about that.
+
+MARISHA: It has returned--
+
+TRAVIS: Oh, snap!
+
+MARISHA: Oh, my goodness, you guys! The amazing
+Darin De Paul, already. He kicked off the season.
+
+TRAVIS: DDP!
+
+LIAM: So good.
+
+TALIESIN: It was crazy.
+
+MARISHA: Yes. Yeah, he kind of set the bar really
+high.
+
+TALIESIN: It was crazy.
+
+MATT: He's awesome.
+
+MARISHA: You guys know Darin as the voice of
+Reinhardt from Overwatch,
+
+and many other things. But--
+
+MATT: He's also the main villain, Ardyn,
+in Final Fantasy XV
+
+and a bunch of other games. Super talented--
+
+LAURA: He's blowing up! He's in everything now!
+
+MATT: He's incredible.
+
+MARISHA: He's great.
+
+SAM: I don't care for him.
+
+(All laugh)
+
+TRAVIS: I think he's rude. And he smells funny.
+
+MATT: There you go.
+
+SAM: He didn't want to come on my show, Siggle
+Boost.
+
+MARISHA: (laughs)
+
+TRAVIS: Siggle Boost?
+
+SAM: Siggle Boost.
+
+MARISHA: Wow, I haven't heard of that one.
+
+TALIESIN: Do you guys just like draw weird
+circles?
+
+SAM: Yup. Yeah.
+
+TALIESIN: Right, okay. I was just checking.
+
+MATT: And people correct you for mispronouncing
+it.
+
+LAURA: It's called Sigil Boost.
+
+MARISHA: Sigil Boost.
+
+SAM: That's true, that's true.
+
+LIAM: Let's run the GIF (hard g) of that now,
+please.
+
+TALIESIN: It's pronounced siggle.
+
+MARISHA: Yes, it's back. You should watch it. Yup.
+
+TALIESIN: Yeah.
+
+MARISHA: People.
+
+MATT: Yeah, Erika Ishii just did hers--
+
+MARISHA: On Tuesdays.
+
+MATT: --and then Amy Dallen's up next, right?
+
+MARISHA: Amy Dallen is up next and--
+
+MATT: Awesome.
+
+MARISHA: Yeah. It's good people coming up.
+
+TALIESIN: Yeah, you drain Erika Ishii's blood.
+It's pretty great.
+
+MARISHA: Yes. We do. Yeah.
+
+LIAM: Yeah, but you can only do it once, though.
+
+MARISHA: Yeah.
+
+TALIESIN: It's a great trick. You can only do it
+once.
+
+MATT: Laura, do you have a merch update?
+
+LAURA: Do I? Do I? Do-
+
+TRAVIS: Do I?
+
+MATT: It's on the list.
+
+LAURA: We watched Galaxy Quest last night.
+
+TRAVIS: So great.
+
+LAURA: So good. Again. For, like, the hundredth
+time. You know, I mean, there's merch in the store
+
+right now. These dice bags that I'm holding in my
+hand. I literally just happened to be holding it
+
+as you asked me that, which is crazy. There's a
+very small amount of them left, I happen to know.
+
+SAM: In the hundreds? In the fifties? In the
+tens?
+
+TALIESIN: Baker's dozen.
+
+LAURA: In the barely hundreds.
+
+SAM: Wow.
+
+MARISHA: Yeah.
+
+TRAVIS: It's a lot.
+
+MARISHA: They went fast.
+
+LAURA: Which, you know, could be a lot or
+couldn't. Depending on if you want them.
+
+SAM: Wow.
+
+LAURA: There's also shirts! And hats! And patches
+and--
+
+MATT: (singing) Things, oh God!
+
+LAURA: -- other stuff coming up that I'm real
+excited about,
+
+and I'll show it to you when it's here.
+
+TRAVIS: Yep.
+
+MATT: (clicking dice) Such a beautiful sound.
+
+TRAVIS: (sniffing) Allergies. (groans)
+
+TALIESIN: You watched Galaxy Quest.
+
+LAURA: Yeah.
+
+TRAVIS: You don't need that-- he can have that
+many. You have too many.
+
+TALIESIN: You know they have the dubbed version of
+the alien language on the DVD?
+
+LAURA: No!
+
+TALIESIN: (alien noises) The whole movie,
+the entire movie-- You can watch it, if you're
+
+drunk enough.
+
+LAURA: It's just so good.
+
+MARISHA: (laughs)
+
+MATT: That's pretty great. All right!
+
+LIAM: I'm ready.
+
+MATT: Anything else anyone wants to talk about? Or
+are we good? I think we're good.
+
+TRAVIS: We're good.
+
+MARISHA: Yeah.
+
+MATT: So we're going to hop in, and start off
+tonight's episode of--
+
+LAURA: Oh God.
+
+MATT: Critical Role.
+
+(All cheer)
+
+MARISHA: That's right.
+
+[opening credits]
+
+MATT: Hello everyone, and welcome back.
+
+(all laugh)
+
+TRAVIS: Well done.
+
+MATT: So, to get you up to speed with our current
+story: Vox Machina, having just completed the
+
+destruction of the Chroma Conclave, a scourge of
+ancient chromatic dragons that have terrorized the
+
+countryside. They are victorious, yet in the
+process lost a couple of lives. Percy returned and
+
+Scanlan, his lifeless body brought back to
+Whitestone. They completed the ritual correctly,
+
+and he came to life; however, he remains
+unconscious in a pseudo-coma. They left him in
+
+Whitestone, hopefully to recover. While beginning
+to finish up some of their last business they've
+
+been unable to with the current rush of this
+current arc. They made a journey to Vasselheim,
+
+where they walked through the Abundant Terrace
+and into the Birthheart itself, the temple of
+
+Melora within Vasselheim, spoke with one of the
+various worshippers there, and buried a box of
+
+ashes, apparently, of Senokir's wife--
+
+MARISHA: "Apparently"
+
+MATT: --as a thank you for when you guys journeyed
+and met him in the City of Brass on the Fire
+
+Elemental Plane. Upon doing so, you then began to
+scatter about the city to do some business.
+
+One of the elements of which: Grog Strongjaw,
+along with Pike, made their way to the Trial
+
+Forge, which is the Kord section of the city.
+Returning to the Trial Forge, the temple to Kord,
+
+and upon walking to the center of the strangely
+empty temple structure, you saw, down in a once
+
+previously traversed sandpit, there stood
+Earthbreaker Groon, the high priest of Kord,
+
+who then turned to you--
+
+TRAVIS: My palms are really wet.
+
+LAURA: (laughs)
+
+MATT: --and asked you to "show him what you had
+learned." After slamming his feet into the sand
+
+and preparing himself for conflict, he beckons you
+towards him. And that is where we left off. So--
+
+LAURA: Oh god, oh god, oh god.
+
+MATT: --as you're standing up there on the edge of
+this pit, Groon just stands there with his hand
+
+beckoning towards you.
+
+TRAVIS: I reach into my Bag of Holding, and I pull
+out a small drawing of the letter "G". This.
+
+This is what I have learn-- That's not it.
+
+That's not what I wanted. And I take out
+the Dwarven Thrower and I jump into the sandpit.
+
+MATT: All righty. (jumping sound) (impact thud)
+There, as you land in the sand, the bottoms of
+
+your boots sinking but a couple of inches into the
+soft surface. Pike gets ready to leap down after
+
+and Groon puts his hand up. "No...."
+
+TRAVIS: Oh, shit.
+
+MATT: This fight is for us.
+
+LAURA: Oh, god.
+
+LAURA: Yeah, we're here, we're watching it,
+right?
+
+MATT: You guys didn't say if you were catching up
+with them last time.
+
+LAURA: Yeah, we said we came in the temple with
+them.
+
+MARISHA: Uh, no, we're totally watching this.
+
+TALIESIN: We're here, we're here.
+
+MATT: So then you guys rush in afterward,
+hoping that--
+
+Morpheus is fighting Neo, you guys--
+
+(all laugh)
+
+MATT: You all rush in on the outskirts here to
+watch. I'll put you in over here to keep an
+
+eye on the sidelines. Grog, I need you to roll
+initiative.
+
+LAURA: Oh my god!
+
+TRAVIS: (blows raspberry)
+
+SAM: Big roll, big roll.
+
+MARISHA: Big roll! Big money, no whammies.
+
+LIAM: Now we attack on the count of three.
+
+TRAVIS: I get advantage on my (mumbles)
+
+TALIESIN: Jenga.
+
+LIAM: Get 'im.
+
+TRAVIS: That's shit.
+
+LAURA: God, oh god.
+
+MARISHA: Come on, come on.
+
+TRAVIS: That-- that's one worse.
+
+TRAVIS: Five!
+
+LIAM: Oh!
+
+MATT: You're going second.
+
+TRAVIS: Hey! You can go away.
+
+LAURA: (laughs) You're in jail.
+
+MARISHA: You know, second has its advantages
+sometimes.
+
+MATT: (clears throat) So.
+
+MARISHA: Sometimes.
+
+TRAVIS: Mm-hm.
+
+MATT: As you land and ready yourself with the
+hammer at the side, knowing that all of your
+
+friends are up on the outer edges of this watching
+you, you look up at Groon, who just, his hands at
+
+the ready, puts them down at his sides and
+just.... (slow steps)
+
+TRAVIS: Awesome.
+
+MATT: Just walks up towards you... And just stands
+there. Your turn.
+
+SAM: Like a matador.
+
+TRAVIS: What a dick move! What a dick move! Right.
+(clears throat) I, uh. I bow.
+
+SAM: Oh!
+
+TRAVIS: And say... Kord's strength be with you.
+And I smash the Titanstone Knuckles together.
+
+MATT: All righty! (laughs) Off to a start.
+
+SAM: (sound of impact)
+
+LAURA: (whispers) Oh my god.
+
+I wish we had popcorn!
+
+MARISHA: Oh, yeah. Is
+there popcorn in the studio?
+
+DENISE: (off screen) No.
+
+LAURA and MARISHA: Damn it!
+
+MARISHA: Damn it, Denise.
+
+TALIESIN and LAURA: (laugh)
+
+DENISE: (off screen) Sorry!
+
+(all laugh)
+
+MARISHA: Always the bearer of bad news, that one.
+
+MATT: All right.
+
+TALIESIN: Don't say her name three times,
+then your rolls won't come true.
+
+TRAVIS: I would like to move backwards three
+squares.
+
+MATT: Okay.
+
+TRAVIS: That's my turn.
+
+MATT: All right. On his turn he stands there.
+
+LAURA: Ahh!
+
+MATT: He stares right at you.
+
+TRAVIS: Fucking knew it!
+
+MATT: Arms at the side--
+
+TRAVIS: What is-- It's a test already!
+
+MARISHA: Waiting for you to go first?
+
+TRAVIS: I hate the SATs! I hate Scantrons,
+I hate number two pencils, I hate all of it!
+
+(all laugh)
+
+LIAM: Don't blink, don't blink. Roll with it,
+player.
+
+TRAVIS: MM-hm, mm-hmm, mm-hmm.
+
+MARISHA: It's totally--
+
+TRAVIS: I start in that same distance from him,
+the same radial distance, I start walking to my
+
+right. My full speed.
+
+MATT: Okay.
+
+TRAVIS: That's my turn.
+
+MATT: He turns with you as you move and just
+rights himself and stares at you. Your turn.
+
+(all laugh)
+
+SAM: Worst chess game ever.
+
+LAURA: I know, right?
+
+LIAM: Smash cut to two hours later.
+
+(all laugh)
+
+MATT: I know.
+
+TRAVIS: All right. Okay.
+
+SAM: "What do you want me to do!"
+
+LAURA: "Are you hungry? I'm kind of hungry."
+
+TRAVIS: I would like to rage.
+
+MATT: Okay. (woosh) So--
+
+TRAVIS: And I do so by taking the...dwarven
+thrower and smashing it against my chest.
+
+And then I chuck it at him.
+
+MATT: All right. As you slam it into your chest,
+you can feel the impact, and there's that brief
+
+sharp bit of pain as the metal clashes against the
+muscle, slamming against the bone and your rib
+
+cage. And that pain just kind of shoots through
+you like exciting electricity and you harness the
+
+pain as your eyes blur for a moment as you feel
+the rage overtake you, your muscles flexing and
+
+tensing and with that fury now flowing through
+your body, you take the hammer. I need you to go
+
+ahead and make a wisdom saving throw.
+
+SAM: Oh no.
+
+LAURA: Oh shit.
+
+TRAVIS: (whispers) I knew it. (louder) I mean,
+I didn't know it.
+
+SAM: Oh no.
+
+TRAVIS: Which is a minus two, right?
+
+MATT: Yes.
+
+TRAVIS: That's a six.
+
+MATT: As you go to throw, the strength leaves your
+arm and it just hangs limp at the side.
+
+The attack is lost.
+
+TRAVIS: Any reason why?
+
+MATT: You don't know.
+
+TRAVIS: Not that I'd know. Cool. Do I have another
+attack?
+
+MATT: Yeah. You have two attacks.
+
+MARISHA: He just Jedi mind-tricked you.
+
+TRAVIS: I shake off the random numb arm,
+and I toss it over to the other hand like,
+
+"C'mon, Betsy!" And I throw it with that hand.
+
+(all laugh)
+
+MATT: Okay. Roll another wisdom saving throw.
+
+TRAVIS: I don't know D&D enough to know what the
+fuck's happening right now. Ooh! 16?
+
+MATT: Uh, 16, actually let me see this real fast.
+
+TRAVIS: I have a modifier of zero. Minus two.
+
+LAURA: Minus two.
+
+TRAVIS: I rolled an 18.
+
+TALIESIN: Monks are not in my wheelhouse.
+
+MATT: Monks are fun.
+
+MARISHA: I feel like this guy's special, too.
+
+TRAVIS: He's not even here. This is a dream.
+
+LIAM: Slowly, Raishan uncurls like a Xenomorph
+from the ceiling.
+
+MATT: What'd you roll?
+
+TRAVIS: 16.
+
+MATT: Nope. This time, you do manage to push
+through and throw the hammer, but you end up
+
+throwing it way wide. Like, 20 feet away from him.
+Like, you're looking at him and just go (whoosh)
+
+(all laugh)
+
+MATT: It comes back, and you catch it, and you're
+like, something's just messing with your mind.
+
+There's something about his presence right now
+that is
+
+oppressing your ability to actually attack
+towards him.
+
+TRAVIS: All right. All I have is my bonus action.
+
+MATT: Well, you used your bonus action to rage,
+right?
+
+TRAVIS: Oh I did, yeah. I don't have a bonus
+action. That's my turn.
+
+MATT: All right. He turns towards you. Walks
+forward--
+
+TRAVIS: No, I don't.
+
+MATT: --very, just, carefully and intently.
+That's his turn. You go.
+
+TRAVIS: God dang it!
+
+LAURA: Oh man. What does he want-a!
+
+TALIESIN: (whispering) Popcorn.
+
+LAURA: (whispering) He wants popcorn.
+
+TALIESIN:  (whispering) He wants popcorn.
+
+TRAVIS: I try and hit him with it with both
+hands.
+
+MATT: Okay, so you you're using both hands--
+
+TRAVIS: Yeah, both hands.
+
+MATT: Go for it. Roll a wisdom saving throw.
+
+(laughter)
+
+LIAM: Look at his little boy smile.
+
+TRAVIS: Six!
+
+MATT: You go to swing and he seems to blur for a
+moment, your eyes blink and as you swing with the
+
+hammer, you swung far to your left and it's almost
+like your arms are intentionally missing and
+
+almost fighting your directoral sense.
+
+LAURA: Shut up, Brian Wayne Foster!
+
+MARISHA: Awesome! Brian Fostah.
+
+TRAVIS: This is so stupid! Okay, I keep the hammer
+in one hand but I just try and punch him with the
+
+Titanstone Knuckles out of frustration.
+
+MATT: Okay. Make a wisdom saving throw.
+
+TRAVIS: What? No weapon in my hand?
+
+MATT: Mm-hm.
+
+TRAVIS: Nine!
+
+MATT: You go to punch and by the time it gets to
+his chest there's so little force behind it that
+
+your fingers just kind of unfold open against him,
+almost breaking your wrist in the process,
+
+and you pull back, and he's just staring right at
+you. "Show me you have the will to fight.
+
+Come at me!" Are you going to move or are you 
+going to stay where you are?
+
+TRAVIS: I'm going to stay within his attack range,
+but I'm going to 180 around him.
+
+MATT: Okay. That's easy enough to get around here.
+All righty.
+
+TRAVIS: And I'll stay there.
+
+MATT: All right. For his turn, he turns around--
+
+TRAVIS: No he doesn't. Come on. Come on.
+
+MATT: Your turn.
+
+TRAVIS: Oh, this is a nightmare. I just want to
+hit him!
+
+(all laugh)
+
+TRAVIS: All right. All right. Maybe it's all
+about love!
+
+And I try and give him a bear hug!
+
+MATT: Okay... make a wisdom saving
+throw.
+
+TRAVIS: No!
+
+LAURA: You got this.
+
+Natural 20.
+
+TRAVIS: That's a zero.
+
+(all laugh)
+
+TRAVIS: I rolled a two.
+
+LAURA: Two zero, exactly.
+
+MATT: You go to grab him, and you
+reach, and you feel this physical form in your
+
+grasp, and then your arms all of a sudden touch
+nothing, and you realize that he's standing where
+
+he was. You grabbed what was almost like a mirage
+or an illusion, it's almost like your brain is
+
+playing tricks on you. That's one attack.
+
+TRAVIS: (surprised grunt)
+
+LAURA: You can do it, Grog! I don't know 
+what he wants, but figure it out!
+
+TRAVIS: I look so pathetic right now.
+
+SAM: Yo, how does it look to the rest of the
+gang?
+
+MATT: It looks hilarious.
+
+(all laugh)
+
+LIAM: What did we just see?
+
+MATT: It's
+hilarious, and it's disconcerting, because you're
+
+watching as Grog, in the middle of his rage,
+most of his attacks are amateur, far too wide
+
+away from the target, or by the time they get
+close, he is holding himself back. And you don't
+
+know why. Something is messing with his will and
+preventing him
+
+from being able to follow through 
+with his attacks.
+
+TRAVIS: Okay. (sighs)
+
+MATT: Second attack?
+
+TRAVIS: Second attack. I just want to touch him
+with my finger. Just, like, a boop.
+
+MATT: Okay. You reach out and your
+finger touches his chest
+
+(cracking sound),
+and you feel--
+
+TRAVIS: He's real?! He's there?!
+
+MATT: He's real. The skin's there.
+
+TRAVIS: Thought you might be a dragon.
+Wisdom saving throw?
+
+MATT: That wasn't an
+attack.
+
+TRAVIS: Oh! I touched him!
+
+MATT: You touched him.
+
+LAURA: Great job, Grog!
+
+MARISHA: We believe in you, Grog!
+
+LIAM: Okay, now ramp it up!
+
+(all laugh)
+
+MATT: He smiles at you and goes,
+"And with gentleness there comes clarity."
+
+TRAVIS: (heavy breathing)
+
+SAM: I think
+you're going to have to fuck him, Grog.
+
+(all laugh)
+
+MATT: And that's your turn?
+
+TRAVIS: That's my turn.
+
+MATT: Okay.
+
+SAM: (quietly) What? With gentleness there comes--?
+
+MATT: "With
+gentleness there comes clarity." And he smiles
+
+through his big, white-grey beard. And then the
+smile fades, his eyes flash, and he is going to
+
+attack you with a flurry of blows.
+
+LAURA: Oh no.
+
+TRAVIS: Wait, I haven't learned the lesson yet. I'm still--
+
+MATT: The lesson's just begun.
+
+TRAVIS: Oh no.
+
+MATT: All right, that is-- ooh.
+33 to hit.
+
+TRAVIS: (squeaky voice) Mmm, yep.
+
+MATT: That is a 24 to hit.
+
+TRAVIS: (squeaky voice) Yep.
+
+MATT: That is a natural one.
+
+So that is a failure. And it's a 32 to hit,
+so he hits you three times.
+
+LAURA: Jeez Louise.
+
+MATT: So you're raging, so you take half damage
+from these, because they're bludgeoning,
+
+since he's punching you.
+
+TRAVIS: Mmhmm.
+
+MATT: His eyes flash, he rushes up and pummels
+
+you once in the chin, elbows you in the sternum,
+goes and grabs your shoulder and leaps over
+
+behind you and then kicks straight back into the
+middle of your shoulder blades and (pained gasp)
+
+you feel the breath almost get kicked out of you.
+
+That is 15 bludgeoning damage, halved to--
+
+TRAVIS: Seven?
+
+MATT: We'll say eight.
+
+TRAVIS: Eight? Yeah.
+
+MATT: That is nine, reduced to five,
+and that is 13 reduced to seven. There you go.
+
+TRAVIS: Oh shit, that's 20 points of damage.
+Cool.
+
+MATT: That's his turn. You're
+up.
+
+TRAVIS: Uh, yeah. Sweet, sweet anus.
+
+MARISHA: That's a really good British
+candy.
+
+TRAVIS: What do monks do? Can I, like,
+use my magic powers? And I want to keep my eyes
+
+closed, and I'm gonna swing around behind me,
+knowing that I just got kicked in the back there.
+
+MATT: Okay, go ahead and make an attack with
+disadvantage.
+
+TRAVIS: Oh! No wisdom saving
+throw?
+
+MATT: Nope.
+
+LAURA: With gentleness comes clarity.
+
+You touched him, maybe if you'd've shaken
+his hand.
+
+TRAVIS: With disadvantage?
+
+MATT: With disadvantage, because you have your
+eyes closed.
+
+TRAVIS: Uh, 23.
+
+MATT: That just barely hits.
+
+(all gasp)
+
+MATT: Go ahead and roll
+damage.
+
+TRAVIS: (mumbling) Okay, with a ten.
+
+SAM: So what did we learn from that?
+
+TRAVIS: I
+should've done it reckless. No, I don't want him
+
+rolling reckless, holy shit! God, I'll die in a
+second.
+
+MARISHA: His AC's 23.
+
+SAM: No, that-- close your eyes-- or, how
+does this... what?
+
+LIAM: It might be touch.
+
+SAM: I'm so confused.
+
+LIAM: You're unconscious.
+
+TALIESIN: You've got the touch.
+
+TRAVIS: That's 18 points of damage.
+
+MATT: 18 points of damage, gotcha.
+That's your first strike (hitting sound).
+
+You feel the weapon behind you make contact with
+a form, and (cracking noise), you see a little bit
+
+of sand out of your peripheral this side go
+(scattering sound) as his form gets pushed about a
+
+foot, kind of setting some of it off.
+
+TRAVIS: So
+it goes (low hitting sound). I close my eyes
+
+again. I swing around the other way, and I try to
+connect.
+
+MATT: Okay, roll again with disadvantage.
+
+TRAVIS: That's not bad. 14 and 20,
+uh... 29.
+
+MATT: That hits, yes.
+
+TRAVIS: Yes, okay. Damn, same thing, so
+18 points of damage.
+
+MATT: 18 points of damage. All righty.
+
+As he takes both impacts, kind of parrying them
+with his forearms with each impact. They're still
+
+hitting him, and he's still taking the brunt of
+the attack and the pain, but with each hit you can
+
+feel the force of his forearm is almost stopping
+still the hammer blow as you're throwing it behind
+
+you, and you can see him gritting teeth with each
+impact, but he's just staring right at you again
+
+as you kind of spin around, open your eye again to
+see what you did.
+
+He kind of gives you a bit of a
+narrowed glare--
+
+TRAVIS: Stink eye?
+
+MATT: Little bit of a stink eye.
+
+TRAVIS: Fuck.
+
+MATT: But like an intentional kind of connecting
+point and just says--
+
+TRAVIS: Pink eye?
+
+MATT: No, that's a whole different--
+that's a different monk path.
+
+(all laugh)
+
+LAURA: Like that little hobbit.
+
+TRAVIS: Be nice.
+
+MATT: Let's see
+here.
+
+TRAVIS: I'm a student here.
+
+LAURA: What's the lesson? What's the lesson?!
+
+MATT: Okay,
+he's going to go ahead and attack you twice.
+
+(punch sound) Two punches, straight to your back
+of your shoulders and neck as you're turning
+
+around to look at him. That is a 17, misses.
+No, that does hit.
+
+TRAVIS: That hits, yeah, it's my AC.
+
+MATT: And a 23.
+
+TRAVIS: Yeah.
+
+MATT: So both hit you. That is... 
+16, so eight damage.
+
+TRAVIS: Okay.
+
+MATT: And that is ten, so five damage.
+
+TRAVIS: Okay.
+
+MATT: And he's going to spend three ki.
+
+TRAVIS: Three ki?!
+
+MATT: Yeah, three ki points. 
+So, the first punch hits you across
+
+the chin. The second one, he slams his fingers,
+curled up, right into your sternum as you turn
+
+around to face him (whack), and as it hits you,
+you feel these kind of vibrations, ripples,
+
+carry through your body, and then slowly fade
+inside. And you feel this tingling, this very
+
+faint, brief numbness that just kind of lingers
+throughout your body. You can feel it gathering at
+
+the edge of fingertips and toes, almost like
+ripples through a lake, and he steps away.
+
+You get to make an attack of opportunity if you'd
+like.
+
+TRAVIS: (strained) I would.
+
+MATT: Don't forget, you can use your reaction to
+get an attack back because of
+
+your retaliation ability.
+
+TRAVIS: Yeah, I've totally forgotten that,
+I'm just totally stunned at this point.
+
+That's good, that's 32.
+
+MATT: 32 hits.
+Go ahead and roll damage.
+
+TRAVIS: (sing-songy noises) That's a ten.
+
+LAURA: Yeah.
+
+LIAM: All
+these sounds are in game, in character.
+
+TRAVIS: So 20, 25.
+
+LAURA and LIAM: (gibberish)
+
+MARISHA: (laughs) When Grog becomes Popeye.
+
+MATT: All righty, and he just stands across the way,
+and just kind of beckons you towards him.
+
+Your turn.
+
+TRAVIS: And I feel all shake-weighty
+at the moment, right?
+
+MATT: Yeah. You're not quite sure.
+
+You don't feel bad, it's just this
+kind of uneasiness in your body.
+
+TRAVIS: Can I take a step towards him?
+
+MATT: Mm-hm, take a
+step forward.
+
+TRAVIS: Does anything happen? Do I
+shit my pants?
+
+MATT: Nope.
+
+(all laugh)
+
+MATT: Not yet.
+
+TRAVIS: Can I take the other four steps
+
+of the five step exploding heart point technique
+thing?
+
+MATT: Seems fine.
+
+TRAVIS: Cool.
+
+MARISHA: What would you have done if you shat
+your pants on that fifth step?
+
+LAURA: Oh my god,
+that would have been amazing.
+
+TRAVIS: Just
+explosive shat. I'd be, like, kill me now.
+
+Kill me now, take it away.
+
+MARISHA: Just lost
+your bowels.
+
+MATT: (laughs) I'd have to bring
+out the cone template for that.
+
+MARISHA: Like a
+very dedicated marathon runner.
+
+LAURA: (laughs) Area of effect?
+
+TRAVIS: Can I close the rest of
+the distance to him?
+
+MATT: Sure.
+
+TRAVIS: I want to try the bear hug again.
+I want to grapple him.
+
+MATT: Okay. So, go ahead. And I think it's your
+athletics versus his--
+
+TRAVIS: So I can touch him
+now.
+
+MATT: (mumbling) Acrobatics, I'm pretty
+sure.
+
+TRAVIS: The wisdom saving throw was
+something in the beginning.
+
+LAURA: Yeah, I think it was,
+
+you have to shake his hand or do
+something, like, gentle to him.
+
+LIAM: I like the idea that it's silent in here and
+we're just hearing sand get kicked around
+
+and Grog breathing like a bull.
+
+LAURA: I like to think that Earthbreaker
+Groon has, like, mood music for his fights.
+
+MARISHA: Agreed, yeah.
+
+TRAVIS: There's
+frustrated grunts happening.
+
+LAURA: He's got a sound system.
+
+MATT: So, make an athletics check.
+
+TRAVIS: Okay.
+
+MARISHA: Like war drums, yeah.
+
+TALIESIN: Like taiko. (low drum sounds)
+
+LAURA: Ooh! That'd be sick.
+
+MARISHA: (joins in on the drum sounds)
+Totally.
+
+TRAVIS: 24. Plus 16 plus
+eight.
+
+MATT: Yeah, okay, so you go to grab him and he
+just (fwish) slips out.
+
+TRAVIS: Damn. My
+athletics versus his? Judo?
+
+MATT: He just kind of like parries it to the side,
+
+ducks under and
+rights himself, just out of your grasp.
+
+TRAVIS: Cool, that was nice. Do I have a second
+attack?
+
+MATT: Yeah.
+
+TRAVIS: Two-handed great weapon master, please.
+
+MATT: Okay, go for it.
+
+TRAVIS: That's not going to hit. 24.
+
+MATT: 24 hits.
+
+TRAVIS: Oh, it does?
+
+MATT: Yeah.
+
+TRAVIS: Oh, 23, that's right.
+
+LIAM: 23 was the threshold.
+
+TRAVIS: Thank you, god. No it doesn't, 24 minus
+five.
+
+MATT: Oh, minus five. So, as you go to swing,
+both of your hands on the hammer, (grunts) giant
+
+downward arc. As it slams downward, you see his
+form (whoosh) shift, and suddenly he's two feet to
+
+the right. He moved so fast with the side step,
+and you slam it down into the sand. You guys
+
+watch as this crater emerges (boom), and the sand
+shoots off the sides from the impact of Grog's
+
+blow on the ground. Groon seemingly unaffected.
+
+TRAVIS: That ends my--
+
+MATT: You're not frenzied yet, right?
+
+TRAVIS: Nope. That ends my turn. Yep.
+
+MATT: Okay. At the end of your turn, he's going to
+go ahead and make an unarmed attack on you.
+
+TRAVIS: Unarmed attack?
+
+MATT: That's just his punch as a part of his
+legendary action here. That is a 27 to hit.
+
+TRAVIS: Oh, that hits.
+
+MATT: You suffer another ten points of bludgeoning
+damage, reduced to five.
+
+TRAVIS: Okay.
+
+MATT: Now it's Groon's turn.
+
+TALIESIN: Two lair actions.
+
+MATT: He's gonna go ahead and make another series
+of attacks on you. That is an 18?
+
+TRAVIS: Yeah, that hits.
+
+MATT: 17.
+
+TRAVIS: Hits, also.
+
+MATT: All right. So that is nine plus eight.
+That'd be 17.
+
+So, say nine points of bludgeoning.
+
+TRAVIS: Nine?
+
+MATT: And then--ooh! 18. So another nine points of
+bludgeoning damage. I need you to go ahead and
+
+make a constitution saving throw.
+
+TRAVIS: Damn, Gina.
+
+LIAM: Nice pull.
+
+SAM: I don't get it.
+
+TRAVIS: 21.
+
+MATT: 21, okay. As his first hit is a long round
+haymaker punch across the chin, he comes from
+
+underneath and goes for an uppercut that hits you
+right in the jaw. Right at the side where usually
+
+it would snap and really mess with somebody's
+ability to stay either conscious or control their
+
+atmosphere. You just manage to maneuver out of the
+way where it hurts, but the impact doesn't hit its
+
+intended place, and you resist the effect.
+
+TRAVIS: What was the effect?
+
+MATT: You don't know.
+
+TRAVIS: God damn it.
+
+SAM: Diarrhea.
+
+LAURA: Instant knockout.
+
+TRAVIS: I'll shit my pants before this fight is
+over with.
+
+LAURA: The button.
+
+TRAVIS: On the button?
+
+LAURA: It's the button.
+
+TRAVIS: It's the brown note.
+
+MATT: It's your turn.
+
+TRAVIS: My turn. I am so tired of this slippery
+shit. I go into a frenzied rage!
+
+MATT: Okay.
+
+(unenthused cheering)
+
+TRAVIS: Yeah, thank you. I would like to Great
+Weapon Master
+
+try to hit him with the Dwarven Thrower.
+
+MATT: Go for it.
+
+TRAVIS: Not reckless.
+
+No. (crying) I don't know what the lesson
+is. 32 minus five is 37.
+
+MATT: 27?
+
+TRAVIS: 27!
+
+MATT: That hits.
+
+TRAVIS: Yeah. 32 minus five is 37! 35.
+
+MATT: Okay. This one cracks him right across the
+side of his shoulder and pec area (wham),
+
+and you watch as for the first time since this
+battle started, he loses his footing, and he has
+
+to catch himself behind. His head looks back and
+he turns around towards you and a big smile goes
+
+across his face as he goes, "Good. Keep showing
+me."
+
+TRAVIS: I was encouraged until he got creepy with
+the talking.
+
+LAURA: Maybe he just likes getting hit.
+
+TRAVIS: All right, I hit him again!
+
+MATT: Go for it.
+
+TRAVIS: That's gonna hit. That's a 31 minus five
+is 26.
+
+MATT: Yeah, go ahead and roll damage.
+
+TRAVIS: 22... 32.
+
+MATT: 32. Nice.
+
+LAURA: He's got like 5,000 hit points. More than
+last time.
+
+TRAVIS: Last one. Reckless.
+
+MATT: Okay.
+
+LAURA: (gasps)
+
+TRAVIS: What's life without a little spice?
+
+MATT: Sure.
+
+MARISHA: Ask him.
+
+TRAVIS: 18, not quite. 34 minus--29.
+
+MATT: That hits, yeah.
+
+TRAVIS: Yeah. Close to what I wanted. This is 33.
+
+MATT: Okay, cool. All right, so, as you unleash
+your next series of blows against him, you saw him
+
+topple from the first hit. The other two,
+he pulls his arms in and takes them, one to the
+
+shoulder, and the other one hits him in the
+stomach (air getting knocked out) and he grabs
+
+your arm, and pushes off. Jumps in the air and
+lands about five feet from you.
+
+TRAVIS: Is he bruised? Is there a slap mark? I
+mean, is there any blood? Anything to tell me that
+
+I might be doing a good job?
+
+MATT: He looks, more so than the previous fight that
+you had with him,
+
+it looks like he's starting to take some hits.
+
+TRAVIS: Good! Yeah.
+
+MATT: He's gonna use Legendary Action to take a
+hit on you.
+
+LIAM: A Legendary Action?
+
+MATT: That is a 30.
+
+TRAVIS: (squeaks) Hits.
+
+MATT: Actually it's with advantage because--
+
+TRAVIS: Yep.
+
+MATT: So that is another nine points of
+bludgeoning damage.
+
+TRAVIS: Sweet.
+
+MATT: Not halved. That is what it is halved.
+
+TRAVIS: Okay. Because it's legendary--
+
+MATT: Because it would be 18, yeah.
+
+TRAVIS: Right.
+
+MATT: Okay. His turn. He slowly walks around you.
+And says, "Your size is useful for those who know
+
+not how to use it against you." And he rushes
+down, beneath your large standing form, and goes
+
+into a series of strikes against the inside of
+your knees and your legs
+
+and we'll see how the last blow hits.
+
+TRAVIS: I've been forgetting to roll my enlarged
+damage.
+
+MATT: That's a 30 on the first hit.
+
+TRAVIS: Yep.
+
+MATT: That is a 21 on the second hit.
+
+TRAVIS: (high pitched) Yeah, sure.
+
+MATT: That is a 29 on the third hit.
+
+TRAVIS: (laughs) How many hits are there?!
+
+LAURA: Four.
+
+MATT: And natural 20 on the fourth.
+
+LIAM: Natural 20 to the gooch.
+
+LAURA: To the chode hit?!
+
+TRAVIS: Wow, had to Reckless, huh?
+
+MATT: Yeah.
+
+TRAVIS: Cool.
+
+TRAVIS: Vegas is a short trip this time.
+
+MATT: So that is 18 reduced to half; that's nine.
+
+TRAVIS: Okay.
+
+MATT: 14 reduced in half is seven.
+
+TRAVIS: Okay.
+
+MATT: That is a nine reduced in half is five.
+
+TRAVIS: Okay.
+
+MATT: And final strike is a 20. Reduced in half,
+that is ten.
+
+TRAVIS: Can I use my Stone's Endurance on that
+last one?
+
+MATT: Sure! Go for it.
+
+TRAVIS: All right.
+
+LAURA: Nice.
+
+TRAVIS: That's 12. Plus my constitution,
+which is five, so 17.
+
+MATT: And I would like you to make another
+constitution save.
+
+TRAVIS: Shit! So do I add 17 hit points back?
+
+MATT: No, you reduce the attack, which was 10
+damage?
+
+TRAVIS: Yeah, so just wipe it out?
+
+MATT: Yeah, it does none.
+
+TRAVIS: Okay, cool. I'm getting down there.
+
+LAURA: Really?
+
+SAM: He's down to triple digits now.
+
+TRAVIS: Constitution saving throw. 18.
+
+MATT: 18.
+
+TRAVIS: Ten plus ten minus two is 18.
+
+MATT: Okay. You feel from that impact, all of your
+muscles seize up. He goes for the same strike zone
+
+on the other side of the chin and hits and you
+kind of (groans) as you pull back. And then,
+
+feel all of a sudden this pulse (throbbing
+sound). The pulse (louder throbbing sound) and all
+
+your muscles tense up. You're stunned until the
+end of your next turn.
+
+TRAVIS: Shit! (laughs)
+
+LAURA: What does being stunned do? You can't
+move?
+
+MATT: Can't move, can't do anything, you're
+considered incapacitated.
+
+TRAVIS: He Vulcan Pinched my ass.
+
+LIAM: Groon's in Vegas and your ass just came up
+pineapples.
+
+LIAM & TRAVIS: (slot machine ringing)
+
+LAURA: I'm gonna pull an arrow out and just stand
+there and get ready in case Groon does anything.
+
+MATT: Okay. Groon is thinking to go ahead and step
+back to there.
+
+TRAVIS: What?
+
+MATT: Which would be there.
+
+LAURA: He's waiting for you to become unstunned.
+
+TRAVIS: Okay.
+
+MATT: And as he darts back, you guys watch as he
+runs to the back. As he does, his feet barely
+
+touch the sand (fast, light footsteps). You see
+these very faint little plumes behind each
+
+footstep, as this giant man has almost no weight
+across the ground--
+
+TRAVIS: Like a jackrabbit.
+
+MATT:--as he runs with such speed. And as he lands
+and finds his footing (loud boom), the weight
+
+seems to kick in once more, and you watch as the
+sand (scattering sound) shoots out behind him.
+
+He stands his ground and crosses his arms,
+and just watches. So Grog, it's your turn.
+
+You're stunned. You end your turn, you're no
+longer stunned. It's now back to him.
+
+TRAVIS: (whispers) Fuck.
+
+MATT: He puts his hand up. Puts it up towards
+you.
+
+SAM: Oh, no.
+
+MATT: Closes his fingers
+
+TRAVIS: Oh, no, I've seen this before.
+
+MATT: And you feel this (pulse) in your chest,
+right in the sternum right where he hit you
+
+earlier. I need you to go ahead and roll a
+constitution saving throw again.
+
+TRAVIS: 23 minus two, 21?
+
+SAM: Ooh?
+
+MATT: 21!
+
+SAM: Ooh!
+
+TRAVIS: Constitution I have a lot of. For my
+saving throws.
+
+MATT: That (pulse) sound ripples out (rapid
+impacts) and you feel the muscles begin to tear,
+
+the ligaments begin to burn from the inside.
+You manage to, through the sheer force of
+
+physical constitution, shrug off what would've
+been immensely more deadly circumstance,
+
+but you still do take 10d10 necrotic damage.
+
+(everyone groans)
+
+SAM: It would've been 20d10?
+
+MATT: No, you would've dropped to zero hit points.
+
+LAURA: Oh shit.
+
+TRAVIS: Is that the palm thing?
+
+MARISHA: Quivering Palm?
+
+MATT: It's the Quivering Palm. He's not holding
+back this time.
+
+LAURA: Oh no!
+
+TRAVIS: Oh, I mean, don't make any special
+exceptions on my part. Fuck.
+
+LIAM: Vax is watching; he just leaked a little
+bit.
+
+LAURA: Gross!
+
+MATT: 18... 26.
+
+SAM: (whispers) Quivering Palm...
+
+LAURA: No one will ever notice, the armor already
+stinks.
+
+MATT: Take 51 points of necrotic damage.
+
+TRAVIS: 52?
+
+MATT: 51 points of necrotic damage.
+
+TRAVIS: 51. Okay.
+
+LAURA: How much damage?
+
+MATT: 51 points of necrotic damage.
+
+TRAVIS: I'm out of the triple digits guys.
+
+LAURA: (gasps)
+
+SAM: Oh, man.
+
+LAURA: Does Grog look all bloody yet, or is he--
+
+MATT: You guys watch as Grog is standing there,
+his body shakes and shimmers, and you watch
+
+various veins that usually bulge in his rage and
+enhance blood flow of his combat just (bursts and
+
+splatters) bursts in places. And blood just seems
+to spray out of him from multiple positions on his
+
+body.  And you see the blood now leaking all over
+him. He's just covered in his own crimson.
+
+He slowly turns around, prepares himself for the
+next round of combat.
+
+LIAM: That is some North Star shit.
+
+MARISHA: Oh, my god.
+
+TALIESIN: Nice.
+
+TRAVIS: Yeah. Yeah. Okay. (exhales) Good deal.
+Tight. Wow, distance doesn't help. Okay.
+
+LAURA: Can you talk to him? (louder) Can you talk
+to him?
+
+TRAVIS: I just look up, covered like Carrie,
+in the movie. Just dripping with fake blood.
+
+LAURA: Never mind! You're doing great, Grog! Keep
+going. (whispers) He looks like shit.
+
+MARISHA: (whispers) He does.
+
+SAM: Sometimes music calms the savage beast.
+You could sing to him.
+
+TRAVIS: I would try Intimidating Presence,
+but he'll just shrug it off because he's amazing.
+
+LIAM: It's fine, it looks like he's going to
+rally. Here it comes.
+
+TRAVIS: I just take off straight for him.
+
+MATT: Okay, you turn around--(counting) You just
+get into melee with him.
+
+TRAVIS: Cool. Awesome. I am going to take all
+three attacks at Great Weapon Master at him.
+
+NOT Reckless.
+
+MATT: Okay! Go and make your attacks at
+disadvantage.
+
+LAURA and TRAVIS: Why?!
+
+TRAVIS: Because I'm covered in blood?
+
+MATT: No. Because he used his Patient Defense.
+
+SAM: Patient Defense.
+
+MATT: Essentially with each blow that you--
+
+LAURA: Oh, that's fun.
+
+MATT:--swing towards him, he's just prepared
+himself from a defensive position, to prepare
+
+himself. And he's using your own momentum against
+you to sway every attack away from him. So make
+
+all of your attacks at disadvantage.
+
+TRAVIS: So that's pretty smart. I threw that
+literally into the holder and it was on an edge.
+
+Shit. That's a natural 20 that's going to be
+replaced by a not as great (inhales sharply).
+
+23 minus five. So, it'll be a dud.
+
+MATT: Nope. So the first blow swings wide.
+He grabs the actual side of the hammer with both
+
+hands and just (whooshes) throws it off to the
+side.
+
+TRAVIS: Okay, okay. 31 minus five. 26.
+
+SAM: Ooh.
+
+MATT: 26. He attempts to parry this one, however,
+your sheer force of strength manages to push past
+
+his grasp, and you bring the hammer down towards
+his clavicle. Go ahead and roll damage.
+
+TRAVIS: (exhales) Oh, thank god. (high pitched) I
+like it when I hit them. (normal voice) That's 28
+
+plus enlarge. Which I've been forgetting. 20.
+
+MATT: 20!
+
+LAURA: 18 and 10? Because of your--
+
+TRAVIS: 18 plus 10 for Great Weapon Master. 28.
+30.
+
+LAURA: 30? You said 20.
+
+TRAVIS: I said 20 I meant 30.
+
+LAURA: It's 30.
+
+MATT: You mean 30.
+
+TRAVIS: My apologies. He is hitting me really,
+really hard.
+
+LAURA: Yeah. And your brain is already so little.
+
+TRAVIS: It's actually large, it just doesn't do
+much.
+
+MATT: And if you're using your bonus action,
+you can get one more strike in.
+
+TRAVIS: I would like to. At disadvantage.
+
+MATT: Go for it.
+
+TRAVIS: That's a one.
+
+MATT: Nope. So, the second one does hit the
+clavicle, and it cracks and he (grunts).
+
+You see a little bit of blood spill out the
+corner of his mouth down his chin. And he looks up
+
+at you, and for a second there, the whites of his
+eyes seem to almost dim ever so slightly into a
+
+moment of humanity you haven't seen in him yet.
+He's been this godlike entity and this is the
+
+first point where you see that pain show just a
+hint of any sort of weakening. And he kinda looks
+
+right up into you. "Good. Good." And as you go for
+your third strike he literally puts up his hand
+
+and (heavy impact) catches the hammer in place.
+
+TRAVIS: Oh, god, it's so awesome!
+
+MATT: He just holds it there as he stares at you.
+
+TRAVIS: (groans) Yeah, I'm checking reflexes.
+
+MATT: Good.
+
+TRAVIS: I want you to know I'm not afraid to go
+down.
+
+MATT: That is the first lesson. Let's see if your
+words can be put into practice.
+
+TRAVIS: Oh shit.
+
+MARISHA: Good night!
+
+LAURA: No! No!
+
+MARISHA: We'll see you in the morning, sleep well
+friends.
+
+TRAVIS: I hope you get a popcorn kernel in your
+teeth.
+
+MATT: He is going to, let's see...
+
+LIAM: Go Cobra Kai on your ass.
+
+TALIESIN: Cobra Kai.
+
+TRAVIS: Sweep the leg, Johnny!
+
+TALIESIN: Never dies.
+
+LIAM: Put him in a bodybag!
+
+MATT: Yeah, he's going to go into a flurry of
+blows against you. That's a natural 20.
+
+TRAVIS: (groans)
+
+MATT: That is a 18?
+
+TRAVIS: Yeah.
+
+MATT: That is a 26.
+
+TRAVIS: Okay, all hit!
+
+MATT: Yeah, those all hit, okay. So the first one
+is 18, reduced to half, is nine.
+
+TRAVIS: Nine, okay.
+
+MATT: That is a nine, reduced to half, five.
+
+TRAVIS: Okay.
+
+MATT: That is a 12 reduced to six.
+
+TRAVIS: Okay.
+
+MATT: And that is a 13 reduced to seven.
+
+TRAVIS: Sweet. Real excited.
+
+MATT: And he's just going to go ahead and rotate
+around you to the opposite side. As he turns
+
+around (punch sounds), hitting you as he goes with
+each hit.
+
+TRAVIS: (grunts, spurting blood noise)
+
+MATT: I need you to go ahead and make a strength
+saving throw.
+
+You have advantage on these because
+you're raging.
+
+TRAVIS: Yeah, I know. But I still have minus two
+to them.
+
+MATT: This is true.
+
+LAURA: Minus two?
+
+LIAM: It's going to knock the beard off your
+face.
+
+TRAVIS: That's better. 23 minus two, 21.
+
+MATT: 21, okay, yeah. So, the last blow,
+as he comes round (punch noise), does a
+
+roundhouse kick and brings back and goes for a
+huge double-fisted
+
+kind of earth-side punch into
+your torso.
+
+TRAVIS: Not the double fist!
+
+MATT: It's about to push you backward, but you dig
+in your feet (grunts)
+
+and resist it and hold your place.
+
+LAURA: Yeah!
+
+TRAVIS: Look who's catching who now.
+
+MATT: Now it's your turn.
+
+TRAVIS: He didn't have a quip back for me, okay.
+Right. I would like to turn so I'm facing him.
+
+MATT: Okay.
+
+TRAVIS: I want to pick him up and try and bodyslam
+him.
+
+MATT: Okay! Go ahead and make an athletics check.
+
+TRAVIS: Okay. 24.
+
+MATT: No, that's a 30 acrobatics.
+
+(everyone gasps)
+
+MATT: You go to grab, and he steps back with his
+arms still crossed, leaps onto your hands as you
+
+reach out for him, and just jumps in the air,
+looks down at you before he comes landing right
+
+on top of your hands (bam), forcing your fists
+into the dirt.
+
+What are you going to do for your
+next attack?
+
+TRAVIS: I almost drop out of my rage because that
+was a real dick move, just dunking on me.
+
+LAURA: He's jumping and crossing his arms--
+
+TRAVIS: He did the Kill Bill on my hands.
+I want to try one more time.
+
+MATT: All right, roll again.
+
+TRAVIS: 20.
+
+MATT: Remember, you have advantage on these
+because you're raging.
+
+TRAVIS: It doesn't matter.
+
+MATT: Okay, that's a 24 acrobatics. As you pull
+your hands up out of the dirt reaching out for him
+
+with these giant Titanstone gauntlet-encrusted
+fingers (groans), and the sand burst goes upwards,
+
+you reach, and find nothing but sand. And as the
+sand fades, he uses his-- Is this the end of your
+
+turn, because you still have a bonus action.
+
+TRAVIS: I still have a third one, yeah.
+
+MATT: Okay, so as the sand is still cascading,
+now you can see his shape through it, what are
+
+you doing with your third strike?
+
+TRAVIS: I just want to try and grab a hold of the
+slippery bastard.
+
+MATT: Okay, one more time.
+
+TRAVIS: Yeah. Strength, advantage or just natural
+roll?
+
+MATT: Advantage on your athletics.
+
+TRAVIS: Okay.
+
+LIAM: God, it probably looks like he's running in
+circles to us.
+
+TRAVIS: 26.
+
+MATT: He only rolled 24.
+
+LAURA: (gasps)
+
+MATT: With the sand there, kind of coming down
+from the impact of you pulling your fists out,
+
+you reach out and finally they find purchase on
+the sides of his arms. And doing so, you (boom)
+
+pull him in, and grasp him right to your chest.
+The hammer still clutched in your right hand,
+
+and you watch as he (grunts) gets pulled in now,
+and he is firmly in your grasp,
+
+he is currently grappled.
+
+TRAVIS: Cool. I don't say anything, I'm just
+really stoked that I actually got him.
+
+(everyone laughs)
+
+TRAVIS: I'm like, take a picture! Whatever that
+is!
+
+LAURA: Draw it! Draw it! Quick, Percy! Should I
+flash him? Should I flash him?
+
+TALIESIN: It couldn't hurt.
+
+MATT: You want to make this into a bodyslam?
+
+TRAVIS: Could I?
+
+MARISHA Couldn't hurt the rest of us, either!
+
+MATT: I'll let you, sure. Okay.
+
+TRAVIS: I was thinking initially I'd like to
+remove one of his five hits that he takes on me,
+
+but, four, who gives a shit.
+
+MATT: We'll say for the purposes of this,
+since your intent was to bodyslam him, go ahead
+
+and roll an attack with disadvantage.
+
+TRAVIS: Okay, attack with disadvantage. That's not
+that great. Oh, regular attack!
+
+MATT: It's without your weapon bonus. It's minus
+3.
+
+TRAVIS: Yeah, 22.
+
+MATT: 22. You grab him and you lift, and it's like
+he's anchored to the ground. He's much smaller
+
+than you, and you can lift things far larger and
+denser than him, but for some reason, he won't
+
+budge an inch. He's just staring up at you,
+with his arms pressed to his sides.
+
+MARISHA: I want to learn that trick.
+
+TRAVIS: I've still got him grappled at least.
+That's it.
+
+MATT: All right.
+
+LAURA: You have to be crouched down in order to be
+grappling him?
+
+TRAVIS: Yeah.
+
+MARISHA: It's like the possum trick.
+
+TRAVIS: Let's just assume that I picked him up.
+I'm just holding him grappled.
+
+Or am I squatting?
+
+MATT: You're squatting down and grappling him.
+
+You went to lift him up but (grunts) he wouldn't
+budge.
+
+TRAVIS: Hugging Santa's little helper.
+
+LIAM: He's friggin third Hokage, man. He's not
+going anywhere.
+
+MATT: As you're holding him, he closes his eyes.
+
+TRAVIS: He closes his eyes?
+
+MATT: And you watch as this kind of warm
+orange-ish white energy begins to just emanate--
+
+LARUA: (gasps) He's going super saiyan!
+
+MATT: --from various parts in his body. Just here,
+in the middle of the forehead a little glimmer
+
+opens here, a little glimmer in the shoulder--
+
+MARISHA: He's over 9000!
+
+MATT: --his various chakra points begin to glow.
+And you watch as many of the bruises and
+
+bludgeons that you put upon his body, and cuts
+begin to heal up.
+
+LAURA: Shit.
+
+LIAM: I want to be at level 21.
+
+SAM: That's 20 more levels.
+
+LIAM: Four more years of this.
+
+MATT: (laughs) And he can't move, he's currently
+grappled. All right, so that's his turn.
+
+You go ahead.
+
+TRAVIS: I still have him grappled?
+
+MATT: You still have him grappled.
+
+TRAVIS: I still want to try to get him to the
+ground. I want to try and get him prone.
+
+Can I try a leg wrap, so I'm gonna wrap my right
+leg around his, and dive forward. Trying to push
+
+him off-balance on to his back.
+
+MATT: I'll say go ahead and make another athletics
+check.
+
+TRAVIS: Okay. 24.
+
+MATT: 24, he got a 21. So we'll say for this,
+you go ahead, you'll be releasing the grapple,
+
+but you slam him on the ground and make him
+prone. So you manage to just (grunts) rip him off
+
+of whatever weird center of gravity he's forced
+himself into, lift him over your head, and just
+
+pile-drive him into the ground.
+
+TRAVIS: Great.
+
+MATT: (boom) Once again, you see sand and dust
+kick up, and then you see these two legs sticking
+
+up as you've basically planted him in the ground
+like a carrot.
+
+And he is currently prone on the
+ground, yes.
+
+TRAVIS: Great! When he's prone, do I get advantage
+on attacks?
+
+MATT: When he is prone, attack rolls against the
+creature have advantage
+
+if you're within five feet, so yes you do.
+
+TRAVIS: Great. Great Weapon Master, dwarven
+thrower, and I say
+
+I want to know the answer to the lesson!
+
+(everyone laughs)
+
+TRAVIS: 29 minus five, 24?
+
+MATT: 24, that hits.
+
+TRAVIS: Okay.
+
+LIAM: Get him, big man!
+
+MARISHA: Give him the chair!
+
+TRAVIS: 35.
+
+MATT: 35.
+
+TRAVIS: Plus the enlarge damage.
+
+MATT: Nice! Okay, that's your second attack.
+
+TRAVIS: Uh, 28 minus five, 23.
+
+MATT: 23 just hits.
+
+TRAVIS: 9, 24, 34, 38.
+
+MATT: 38, oof! All righty. So as you're shouting
+this the first blow comes down (whack), you're not
+
+even seeing him or seeing the impact, all you're
+seeing is sand and fury. The second and final
+
+blow, you bring up, and as you bring it down you
+feel something (crack) crack underneath.
+
+And you watch as you pull the hammer up again,
+he pushes off, and he's gonna actually use it at
+
+the end of your turn-- are you going to move?
+
+TRAVIS: (laughs)
+
+MATT: It's up to you, you can stay where you are.
+
+TRAVIS: No, I would be right there, just entranced
+that he's actually in the ground.
+
+MATT: Okay. So at the end of your turn he's going
+to go ahead
+
+and use a legendary action to attack you.
+
+TRAVIS: I meant 'I run'!
+
+MATT: It's a 30. So it hits you. All right,
+that's 18, halved to nine,
+
+take nine points of damage.
+
+TRAVIS: Okay.
+
+MATT: And I need you to make another constitution
+saving throw.
+
+TRAVIS: Okay. Natural 20!
+
+MATT: Sick, okay! As you pull up from the hammer,
+you can see now, there's quite a bit of blood now
+
+out of his mouth, and there's a part of the chest
+where it's pushed in, and you can see where the
+
+impact has caused heavy bruising and parts of the
+skin have broken open from impact. So now he's
+
+bleeding in places. You're bleeding all over the
+place.
+
+TRAVIS: Yeah, yeah!
+
+MATT: So it's just this mess of two somewhat
+dressed humanoid men
+
+covered in their own blood. It's delightful.
+
+TRAVIS: And blood and sand.
+
+MATT: Yeah, blood and sand. It's encrusted
+everywhere.
+
+MARISHA: Be careful, that's how blood diseases are
+transferred!
+
+TALIESIN: Very filthy.
+
+MARISHA: Be careful!
+
+SAM: Sepsis!
+
+MATT: He pushes off and manages to hit you in the
+sternum once again, the same place where the
+
+vibrations hit. However this time you grab his
+hand as it gets there, and it still hits you,
+
+but the gauntlets absorb the impact and prevent
+it from spreading through your body. That ends
+
+your turn. It's now his turn. He stands up from
+prone.
+
+TRAVIS: Goddamn, he did that to me on my turn.
+
+MATT: Yeah.
+
+TRAVIS: (laughing) That's fucked up.
+
+(everyone laughs)
+
+TRAVIS: Holy shit. Natural 20 on my turn,
+saved my life.
+
+MATT: Okay, he's going to go ahead and hit you
+twice (punch sounds). That is an 18?
+
+TRAVIS: Hits.
+
+MATT: And a 20. So yeah, so the first one--I need
+you to make a constitution saving throw.
+
+TRAVIS: Okay.
+
+MATT: And you take 14 reduced to half, seven
+points of bludgeoning damage.
+
+TRAVIS: Uh, 13 on my constitution saving throw.
+
+MATT: 13.
+
+TRAVIS: What was the damage? I'm sorry.
+
+MATT: Seven.
+
+TRAVIS: Seven.
+
+MATT: You feel your muscles lock up once more,
+and you're stunned now.
+
+TRAVIS: Awesome.
+
+MATT: That allows his attack, and since you are
+stunned, attacks against you have advantage,
+
+and you are incapacitated, so hits that are
+against you are technically all crits.
+
+TRAVIS: Oh, fuck!
+
+MATT: So the next hit that went against you is six
+plus eight--
+
+TRAVIS: Can I smile before he hits me?
+
+MATT: Sure, you go. So you feel as your body locks
+up, the next hit (whack) goes right into the same
+
+place where he keeps hitting you in the sternum.
+You can feel the bruising, now you hear the
+
+(crack) crack inward as you feel the cartilage
+there pop inward. That's the second hit.
+
+He goes in for two more strikes now as you're
+stunned. (whoof) The next one, the third one,
+
+that's going to be a 27? That is eight plus
+eight, you take eight damage because it's halved.
+
+So take eight bludgeoning damage. And his final
+hit, that is going to be a 30. That is going to be
+
+a 6, 12, 20, reduce that to ten bludgeoning
+damage.
+
+TRAVIS: Cool! Great!
+
+LIAM: Still standing.
+
+TRAVIS: My math is probably wrong but I'm getting
+down there.
+
+MATT: Okay. He's going to stand right there.
+Your turn.
+
+TRAVIS: He is.
+
+MATT: Yep.
+
+LAURA: Oh my god.
+
+MATT: What are you going to do?
+
+TRAVIS: Did he just stand there, and he had a
+turn?
+
+MATT: He just went. He got up from prone,
+that's half his movement, and he's not going to
+
+move around you, he's staying right where he is.
+What do you do?
+
+MARISHA: Show him what you've learned! None of us
+know what you learned though! We can't help you!
+
+TRAVIS: I feel like he's doing that Patient
+Defense thing again. Yeah, fuck it. I'm going to
+
+go for broke. Because we're pretty close anyway.
+I'm gonna make
+
+all three attacks reckless, Great Weapon Master.
+
+MATT: Okay! Go for it.
+
+LIAM: Tripling down on the barbarian.
+
+TRAVIS: (laughing) I don't know any better,
+I don't know.
+
+MATT: Oh no, actually, you're stunned this turn.
+
+TRAVIS: Oh!
+
+MATT: I just remembered that.
+
+LAURA: Fuck!
+
+MATT: So, you grin, and then (grunts) your body
+just won't respond.
+
+TRAVIS: Is there a small fart at least?
+
+LIAM: (high-pitched fart noise)
+
+MATT: It's about that.
+
+TRAVIS: Yep. It's not even like something to be
+proud of. Just a little squeaker.
+
+LAURA: Oh, did you just poop your pants?
+
+LIAM: You turtle a little bit?
+
+TRAVIS: (Scottish accent) A little turtle head
+poking out. (Normal voice) So I'm stunned--
+
+MATT: You're stunned until the end of your turn.
+Your turn ends, at the end of your turn he's
+
+going to use one of his legendary actions to use
+Like The Wind, and he gets to move his speed
+
+without attacks of opportunity.
+
+LAURA: What does he want from you?
+
+TALIESIN: For you to show him what you learned.
+
+MATT: He just (whoosh) slips back and he's on the
+opposite side, and just goes.
+
+TRAVIS: Cool. I look back, and do this.
+
+SAM: Ooh! He learned to be a dick!
+
+(everyone laughs)
+
+MATT: That's your turn?
+
+TRAVIS: Yeah.
+
+MATT: Okay. He begins to rotate. Over there...
+and that's his turn.
+
+SAM: You have a healing--
+
+MARISHA: Everyone is doing their Keanu
+impressions.
+
+TRAVIS: I have no healing anythings.
+
+SAM: Awesome.
+
+TRAVIS: I do if I
+short rest, but that's it. All right--
+
+SAM: Ooh, take one.
+
+LIAM: I do to Keyleth.
+
+TRAVIS: How
+far can I throw this fucking thing? Long range of
+
+60 feet. The long range of 60 feet means that it
+would be a disadvantage throw?
+
+MATT: Correct.
+
+TRAVIS: That's not great.
+
+MATT: Short range
+is 20?
+
+TRAVIS: Yeah.
+
+MATT: Just get up within 20 feet of him.
+
+TRAVIS: Yeah, let's be honest.
+Could I get to him in 50 feet?
+
+MATT: You wanna try?
+
+TRAVIS: Yeah, I'd like to try.
+
+MATT: (counting) You just barely get up to him.
+
+TRAVIS: God! I just wanna keep staring back at
+him but I don't-- There's no point to it.
+
+I can't do anything. It's not like I can psych
+him out or--
+
+LAURA: Tell him what you learned!
+
+(all laugh)
+
+MATT: What are you gonna
+do?
+
+SAM: Vague words of encouragement!
+
+(all laugh)
+
+TRAVIS: Yeah, going for broke again.
+Reckless, great weapon master, all three.
+
+MATT: Okay.
+
+TRAVIS: Okay.
+
+MATT: You have
+disadvantage on them because of his Patient
+
+Defense, so they're just straight rolls.
+
+TRAVIS: Spatial-- Patient Defense.
+
+MATT: Patient Defense, yes.
+
+TRAVIS: Also known as
+spatial defense in the barbarian world.
+
+LAURA: Totally. (gasps)
+
+TRAVIS: Natural 20.
+
+MARISHA: Ooh.
+
+MATT: Okay.
+
+LIAM: Just two more of those, please.
+
+TRAVIS: So I double the damage die-- or I 
+roll two more damage dice after this.
+
+LAURA: Are you supposed to roll
+10's or 12's?
+
+MATT: 10's for the hammer.
+
+LAURA: Okay.
+
+TRAVIS: 42.
+
+MATT: 42 points of
+damage on the first one, ooh.
+
+LAURA: (quietly) That's good, that's good.
+
+TRAVIS: Second one.
+
+MATT: Second attack.
+
+TRAVIS: That's a 31 minus five, 26?
+
+MATT: 26 hits.
+
+TRAVIS: (counting) 35.
+
+MATT: 35 points
+of damage?
+
+TRAVIS: Yep.
+
+MATT: Oof.
+
+TRAVIS: Last one.
+
+LAURA, SAM, and MARISHA: (clap)
+
+MATT: Last attack.
+
+TRAVIS: I'm buying a ticket to the
+no pants dance after this. 20, 22.
+
+MATT: 22, no.
+
+LAURA: (groan)
+
+TRAVIS: Oh no no, that's not
+minus five-- it is minus five.
+
+MATT: Yeah,
+it is minus five. So, you go bounding up towards
+
+him (boom boom boom). He just sits there waiting,
+his arms up. The first strike, he goes to parry
+
+but as you hit (crack), his arm gets knocked out
+of the way, preventing him from parrying the
+
+second strike as it comes down right across the
+side of the face (boof), hitting him, you watch as
+
+blood (splattering sound) across the sand and you
+see his jaw's kinda momentarily dislodged,
+
+his beard just kinda crusted in his own blood.
+As you come up with a giant over-the-head blow
+
+and as it comes down, he (crack) slaps it from
+both sides and stops it mid-action. You see his
+
+hands shaking as he's holding it, and he just
+kinda looks up in your face,
+
+"Good. Good."
+
+TRAVIS: You keep saying that!
+
+LIAM: That
+was so metal.
+
+MATT: It's now his turn. As he throws the hammer
+back over your head, which puts you off-balance,
+
+he's gonna go into his first two strikes. The
+first one is a 21 to hit?
+
+TRAVIS: (strained) Yes, I believe that hits.
+
+MATT: That is gonna be ten, reduced to five.
+
+TRAVIS: Okay.
+
+MATT: Second one, uh-- on the first one, I need
+you to make another constitution saving throw.
+
+TRAVIS: Okay, same damage?
+
+MATT: Same damage, yeah.
+
+TRAVIS: Okay.
+
+MATT: But he's gonna do--
+
+TRAVIS: 23.
+
+MATT: 23.
+
+TRAVIS: Nope, 21.
+
+MATT: 21, that's right, yeah. So you manage
+to resist, the effect of the stunning strike.
+
+He's gonna go for the secondary attack.
+
+TRAVIS: Okay.
+
+MATT: Which was seven plus 13,
+it's 20, so that still hits you.
+
+TRAVIS: Yeah.
+
+MATT: You take 18, reduce that to nine.
+
+TRAVIS: Oof (laughs).
+
+MATT: Make another
+constitution saving throw.
+
+TRAVIS: Cool (laughs). We in the single digits,
+kids.
+
+(all gasp)
+
+MARISHA: (quietly) No.
+
+TRAVIS: 22 minus two is 20.
+
+MATT: 20, you just barely shrug off
+the effect of the stunning strike.
+
+(all sigh in relief)
+
+SAM: Clutch.
+
+MATT: He is gonna go in for his flurry of blows 
+'cause he knows you're on the edge.
+
+LAURA: No!
+
+MATT: He knows you're on
+the edge.
+
+SAM: He just has to miss four.
+
+TRAVIS: Yeah, yeah.
+
+MATT: That's a
+natural 20.
+
+(all gasp)
+
+MARISHA: No.
+
+TRAVIS: (laughs)
+
+SAM: Just has to miss three.
+
+MATT:That is 16 plus 8, that is 24 points of damage
+reduced to half to 12.
+
+TRAVIS: I am unconscious,
+but! I use my relentless rage.
+
+SAM: (growls)
+
+MATT: Right! Oh shit, okay.
+
+MARISHA: You're coming back.
+
+MATT: I forgot about that.
+
+TRAVIS: Which, it's a flurry of blows,
+and he only did it on the first one.
+
+(all laugh)
+
+TRAVIS: So, I'm like (long groan,
+rewind noise) Oh shit! (long groan).
+
+(all laugh)
+
+MATT: Well, you need to make a
+constitution saving throw.
+
+TRAVIS: I do, yes.
+
+MATT: The DC of 10.
+
+TRAVIS: I do.
+
+MARISHA: C'mon.
+
+SAM: Phillip!
+
+TRAVIS: If I can't make a DC of 10, I don't know.
+
+LAURA: Go Phillip!
+
+LIAM: Phil!
+
+TRAVIS: Uh, 21.
+
+MATT: Okay, so the third hit, the first couple
+just kinda loosen you up (pop pop)--
+
+TRAVIS: This is gonna get interesting.
+
+MATT: The third hit, he leaps in the
+air, kinda Troy style (whack)
+
+and hits you right square in the face--
+
+LAURA: Superman
+punch!
+
+MATT: -- up in the air and (ringing punch sound)
+you kinda pull back as you feel
+
+your vision
+begin to darken, and then you feel that surge of
+
+white hot rage in the back of your skull (crack)
+bring you back, and you (grunt) pull back up as he
+
+lands, and you watch as his expression goes (huff)
+and he darts downward and goes for a low to high
+
+ground uppercut dragon punch style.
+
+LIAM: Look out, Guile, look out.
+
+MARISHA: Oh god.
+
+MATT: That's gonna-- oh, that's an 18 plus 13,
+that's a 31.
+
+(all groan)
+
+MATT: You take nine points, reduced to five.
+
+TRAVIS: (electronic
+shut down noise)
+
+LAURA: No!
+
+(all laugh)
+
+MATT: (boom) Hits you right underneath the chin,
+now make--
+
+TRAVIS: However, I use my relentless rage, now at
+a DC 15.
+
+MATT: Correct.
+
+SAM: Whaat?
+
+LAURA: Ooh, shit.
+
+MARISHA: Come on, come on.
+
+LAURA: C'mon, c'mon, c'mon, c'mon,
+c'mon.
+
+LIAM: Game that system, do it.
+
+SAM: Come on, come on.
+
+LIAM: Pull out a squeaker, Travis,
+c'mon.
+
+TRAVIS: 27.
+
+SAM: Ohh!
+
+MARISHA: (claps)
+
+LAURA: (cackles)
+
+MATT: 27. As it knocks you into the air, 
+almost onto
+
+your feet but you manage to catch yourself and
+(groans) right back up as he lands (cracks) turns
+
+around and looks at you and goes,
+
+TRAVIS:
+Good?
+
+MATT: "I see what you've learned."
+
+(all laugh)
+
+MATT: It's your turn.
+
+TRAVIS: It's my turn?
+
+MATT: It's your turn.
+
+SAM: Kill him.
+
+TRAVIS: All three, reckless, great weapon
+master! Chewing my tongue off while I do it!
+
+(all laugh)
+
+MATT: Go for it.
+
+LIAM: (deep voice) Show
+me what you've learned.
+
+TRAVIS and MARISHA: (deep voice)
+Show me--
+
+TRAVIS: 29 minus five, 24.
+
+MATT: 24 hits.
+
+TRAVIS: Yep. So the first one is... 23, 33, 34.
+34 points of damage, first one.
+
+MATT: Okay.
+
+TRAVIS: Second one, nine, damn it.
+
+TALIESIN: (high-pitched
+groan)
+
+MARISHA: (whispering) Kill him.
+
+LAURA: 22.
+
+TRAVIS: No, but it's minus five so it's
+20.
+
+MATT: 20.
+
+TRAVIS: Misses.
+
+MATT: So the first one hits (whack), it hits him
+
+in the side of
+the head, the other side, it rights his jaw
+
+strangely but knocks him down onto three points.
+He's down on his hand and his two knees in the
+
+ground, his other arm's still up, clenched in a
+fist.
+
+He's breathing heavily, like he's on the edge.
+
+TRAVIS: Oh.
+
+MATT: Second strike,
+you go--
+
+LAURA: Get him, Grog!
+
+MATT: -- to swing down and he rolls out
+of the way
+
+(fwish, crack), hits the ground with no effect.
+You're going for your third and final strike.
+
+TRAVIS: I am, yeah.
+
+MATT: Go for it
+
+MARISHA: Come on, come on.
+
+LAURA: C'mon, c'mon, c'mon.
+
+TRAVIS: (strained) That's pretty good. That's a
+30, minus five is 25.
+
+MATT: 25
+hits. Roll damage.
+
+(all cheer)
+
+MARISHA: Come on, come on.
+
+TRAVIS: Fuck you, Master Splinter.
+
+LIAM: Oh man, Vax is just--
+
+TRAVIS: Yeah, I haven't forgotten
+it now--
+
+LIAM: -- perched on the wall, pulling feathers
+out.
+
+TRAVIS: -- 23, 33, 37.
+
+LAURA:
+Oh!
+
+MATT: Okay, how do you want to do this?
+
+(all cheer and clap)
+
+LIAM: That was Vox Machina's
+real reaction.
+
+TRAVIS: Okay, so the first one hits, right?
+
+MATT: The first one hits, the second one, he
+rolls out of the way and you pull back--
+
+TRAVIS: Right, I reach back for the third
+one and I go, who's good now? (whack)
+
+MATT: (crack) You guys watch as he knocks 
+him clean 15 feet in the air
+
+from the blast of the blow. He ends up 
+landing on top and the outside--
+
+TRAVIS: Yes! (laughs)
+
+MATT: -- of the arena (boom) landing strewn across
+the steps that lead to the edge of the sand pit,
+
+and there's just quiet in the chamber.
+
+TRAVIS: (heavy
+breathing)
+
+MATT: As he stands there breathing heavily,
+covered in blood.
+
+There's spatters of blood all across the sand and 
+Groon's just lying there, unconscious, breathing.
+
+LAURA: We're just
+screaming our asses off.
+
+MATT: You guys are yelling.
+
+MARISHA: Aaaah!
+
+TRAVIS: Wait, wait,
+wait, wait, wait. Stay there.
+
+LAURA: What?
+
+MATT: At this point, there's the opening at
+the top of the temple.
+
+TRAVIS: Right.
+
+MATT: There's... a rumbling sound, a
+(rumble), from up above. And there's a small spark
+
+of energy that (cracks) up above, (cracks) streaks
+down and hits Groon--
+
+LAURA and MARISHA: (gasp)
+
+MATT: -- like a very faint lightning bolt,
+just (pfft) out of the sky and Groon rises up on
+
+the side, his eyes just vibrant bright, almost
+glowing, and he stands back up, and he's still
+
+covered in his own blood, he's wrecked. You can
+see parts of his body where the muscle is swollen,
+
+one arm appears to be almost ruined, but he lands
+right in front of you.
+
+TRAVIS: Little bit of pee comes out.
+
+MARISHA: Uh-huh.
+
+LAURA: (laughs)
+Everybody's peeing.
+
+LIAM: Join the party.
+
+MATT: "You've learned much... and Kord smiles
+upon you."
+
+As you look up and you hear the roiling again,
+and two bolts come streaming out of the top of
+
+the temple down towards Grog. And slamming into
+your body, you instinctually pull down and hunker,
+
+as an animal in a thunderstorm would, but you
+feel the warmth as your gauntlets all of a sudden
+
+flash with electrical energy. And you look down as
+the runes on all the sides, and the chains are now
+
+glowing with divine energy.
+
+SAM: You're a magician!
+
+TRAVIS: Awesome!
+
+MATT: As the roiling kinda comes to a close you
+hear the (thunder noises) of thunder begin to
+
+subside, and you feel the smell of burnt sky and
+ozone around you begin to subside, still looking
+
+down at the energy pulsing through the gauntlets.
+Groon is still standing there,
+
+looking up at you, and just goes:
+
+"Continue with your journey."
+
+And just looks at you, waiting for some kind of
+response.
+
+TRAVIS: I walk over to him. I bow. And then I
+reach out one of the Titanstone Knuckles.
+
+Kord's strength to you.
+
+MATT: And (slamming noise) slams and pulls you in,
+and with an intensity you feel his fingers crack,
+
+even through these newly-imbued gauntlets you feel
+the tension as his grip is still, strangely...
+
+You expect he could be powerful enough to crush
+the gauntlet with his bare fingers. He just pulls
+
+you in from your giant form. The strength is
+immense and you (grunt) kinda pull down into his
+
+form. He looks you straight up, face to face,
+but an inch away.
+
+"What have you learned?"
+
+TRAVIS: That without the love of my friends,
+life has no meaning, and I would be nothing.
+
+MATT: And how will you utilize this knowledge?
+
+TRAVIS: I will make their strength mine,
+and my strength their own, and in turn,
+
+I will try to make the world a better place than
+I found it.
+
+MATT: His grip pulls off, and he withdraws his
+arm, and he releases you
+
+back to your full standing pose.
+
+Now, at your enlarged form, gargantuan in the
+center of this temple space, his once very
+
+intimidating form, diminutive by comparison to
+Grog's full structure, looks up and nods.
+
+"I thank you."
+
+GROG: I mean, I really-- I thank you.
+
+(all laugh)
+
+TRAVIS: I've never gone that far in a battle
+before. I didn't even know that was possible.
+
+This was incredible. I'm talking a lot,
+aren't I? I have a bit of a man crush--
+
+MATT: Yes. Yes you are.
+
+TRAVIS: Okay. Uh. Thank you.
+
+And I turn, and I walk back to my friends.
+
+MATT: As you make your way back, Groon steps and
+leaps back out onto the opposite side, and you can
+
+see, on the opposite end of the platform,
+of the sand pit, there is a silver, somewhat
+
+tarnished, but still functional, bell. And he
+walks over to the side of it, grabs the rope,
+
+and just-- (tolling of a low bell). And you
+watch, from all the different corners of the empty
+
+temple, all the priests of Kord begin to wander
+back in, who had exited previously, as was the
+
+request, it seems, of Earthbreaker Groon,
+knowing that you were coming.
+
+LAURA: (whispers) Oh my gosh.
+
+MATT: They all just silently enter and kind of nod
+and bow in your direction as you make your way
+
+towards your friends. You acknowledge it,
+but it doesn't slow you, doesn't stop you,
+
+they are still your focus. And you guys watch as
+
+Grog approaches, bloodied, beaten, barely 
+conscious,
+
+one eye, the lid is kinda drooping a bit.
+And even though he's strong in his stride,
+
+there's still a shake with his knees, but he
+doesn't show that weakness. He keeps pushing
+
+towards you with a slight smile through his
+bearded face.
+
+TRAVIS: Guys-- (cough) if we could just make our
+way out of here, in as cool a way as possible...
+
+If I fall, just pick me up like Weekend at
+Bernie's, okay?
+
+(all laugh)
+
+LAURA: Pike stands next to him and says,
+Don't worry, you won't fall. And she casts, um,
+
+Cure-- whatever, fucking--
+
+(all laugh)
+
+LAURA: I don't fucking know what the spell is.
+
+MATT: Cure, Cure Things!
+
+LAURA: I'm not even looking at them-- Cure--
+
+MATT: You have the spell!
+
+LAURA: He-- no, no, no, I gave them back to
+Ashley!
+
+MATT: No, I mean--
+
+TRAVIS: Vex.
+
+MATT: Vex has the spell.
+
+LAURA: Yeah, but as Pike, Cure-- okay, but Pike,
+she can do it better than Vex can.
+
+TRAVIS: You have the spell!
+
+MATT: Sure, I rolled it for you. You heal eight
+hit points.
+
+LAURA: That way you're standing and you don't have
+to wobble out.
+
+TRAVIS: I'm back at nine.
+
+LIAM: Let's get you some ale, big man.
+
+TRAVIS: That sounds great.
+
+LAURA: Grog.
+
+TRAVIS: Yeah?
+
+LAURA: That was fucking amazing.
+
+TRAVIS: Right? I mean, I got struck by lightning,
+guys.
+
+LAURA: Wait! Look at your gauntlets!
+
+TRAVIS: What?
+
+LAURA: They're glowing!
+
+TRAVIS: Oh shit, they are.
+
+LAURA: What does it mean?
+
+MARISHA: Is that lightning available to you all
+the time?
+
+(all yell)
+
+SAM: Piece of paper.
+
+LIAM: Just for clarification, that all took place
+in Super Nintendo graphics, right?
+
+MATT: Oh, yeah.
+
+LIAM: 16-bit.
+
+MARISHA: As we walk out, Keyleth throws a little
+gust cantrip to kick up the dust behind us.
+
+It just looks really dusty and epic as we walk
+off into the sunset.
+
+MATT: As you guys walk off, the silhouetted
+most-of-Vox-Machina with one giant Grog form
+
+stepping through. You exit the Trial Forge into
+the rest of Vasselheim. We'll take a break there.
+
+TRAVIS: Wow.
+
+LAURA: What's it do, what's it do?
+
+MATT: Yeah, what does it do?
+
+TRAVIS: In its Exalted form, my strength now
+becomes 26, so plus eight, right?
+
+MATT: Yeah.
+
+TRAVIS: And when I use Enlarge now, I gain
+resistance to
+
+fire, cold, lightning, for ten minutes.
+
+LAURA: Oh shit, imagine if we had done that before
+we went after the dragons.
+
+LIAM: You should've fought that guy before the
+dragons.
+
+TRAVIS: Hey, you know?
+
+(all laugh)
+
+TRAVIS: A little drama's good for everybody.
+
+LIAM: You barely eked out that victory, by the
+way.
+
+TRAVIS: I know, and double damage.
+
+MARISHA: Wait, fire, lightning, and what?
+
+TRAVIS: And cold.
+
+MARISHA: Lightning, fire, and cold, and double
+damage?
+
+TRAVIS: Yeah, so --
+
+MATT: Well, not double damage.
+
+TRAVIS: Double damage on objects and structures.
+
+MATT: He had that previously.
+
+TRAVIS: But that's a lot of resistance to a lot of
+things. And 26 is... that's really strong.
+
+MATT: 26 is good. It's two more than what you had,
+so everything goes up plus one damage to hit.
+
+LAURA: Damn.
+
+LIAM: My armor does that too, but it only makes me
+smell bad, it doesn't affect me.
+
+TRAVIS: That was awesome.
+
+MATT: All right, guys. We're gonna take a quick
+break, hit the restroom, get some snacks,
+
+and we'll be back here in a few minutes.
+Thank you again. See you in a second.
+
+[break]
+
+MATT: Hello everyone, and welcome back to Critical
+Role.
+
+(all laugh)
+
+MATT: So, picking up where we left off, Vox
+Machina is now exiting the Trial Forge into the
+
+Braving Grounds, Grog with the recently reinforced
+Titanstone Gauntlets by the strength of Kord
+
+through your duel with Earthbreaker Groon.
+
+TRAVIS: Yeah!
+
+LAURA: Sick!
+
+MARISHA: What do they do Grog? What do they do?
+
+TRAVIS: I dunno. You know what, we'll probably
+have to fight somebody to find out, let's find
+
+the first person outside of here.
+
+MARISHA: Well, I mean, okay
+
+SAM: Sure to one-hit them.
+
+LAURA: Maybe we can find an old building and you
+can just destroy it.
+
+TRAVIS: I'm at nine.
+
+TALIESIN: It's just a kitten going-- (mimes
+punching a kitten)
+
+LIAM: Old woman!
+
+MATT: Red mist.
+
+(all laugh)
+
+TRAVIS: (exploding noises) Oh shit.
+
+MARISHA: And that's how Grog was beaten to death
+by a purse.
+
+TALIESIN: It is technically one point. He may go
+down.
+
+MARISHA: Yeah, an old lady trying to cross the
+street and takes out Grog.
+
+TRAVIS: I'm at nine hit points.
+
+TALIESIN: Nine hit points?
+
+LIAM: He did just take down an old man so our
+streak against the elderly is going strong.
+
+(all laugh)
+
+MARISHA: You have the hit points of a kitten right
+now.
+
+TRAVIS: Right, well, I do-- I am fond of cats.
+
+MATT: I'm pretty sure a kitten has less hit points
+than that.
+
+MARISHA: Yeah, like five.
+
+TALIESIN: Five.
+
+MATT: Who would've had a level one character with
+less hit points then a kitten. That would be the
+
+saddest thing ever.
+
+(all laugh)
+
+TALIESIN: We worked it out at one point.
+We worked out the math at one point.
+
+MARISHA: Yeah.
+
+LIAM: Five is way too many. At level one you can
+have five hit points as a person.
+
+TALIESIN: It's like two hit points, it's going to
+be a very tough kitten.
+
+LIAM: It'd be like 0.1.
+
+MARISHA: I mean if you're a wizard.
+
+MATT: What we're saying is 'kitten' is the
+baseline hit point counter in Dungeons and
+
+Dragons, everybody.
+
+SAM: Can we count hit points in kitten strength
+for now?
+
+MATT: All right, I'm going to use three hit dice,
+I'm at 12 kittens.
+
+LIAM: Jewels, gems, golds and kittens.
+
+And that's what the air machines run on.
+
+TRAVIS: Man. Thanks for not jumping in on that.
+It was very personal.
+
+LAURA: It was really hard to not.
+
+TALIESIN: Anytime. You're welcome.
+
+TRAVIS: Yeah, thank you.
+
+LAURA: For a second there, Grog. For a second.
+Well, a couple of seconds.
+
+Well, no, I did, did you not see?
+
+TRAVIS: I missed it.
+
+LAURA: Your back was turned for so much of the
+time.
+
+TALIESIN: It was amazing.
+
+TRAVIS: Encore!
+
+LAURA: Well, I mean, we're outside. All right.
+
+TRAVIS: Don't.
+
+(all laugh)
+
+TRAVIS: I'm so sad Scanlan wasn't here for this.
+
+LAURA: I know, he would've loved that.
+
+TRAVIS: Yeah seriously. (sniffs)
+
+LAURA: I feel like we should go celebrate and
+drink, but it wouldn't feel right without him.
+
+TRAVIS: No, I need like a million potions,
+and maybe some attractive naked women to heal me
+
+back to my full health.
+
+LAURA: Right.
+
+MARISHA: It has been a while for you, hasn't it,
+Grog?
+
+TALIESIN: Potions or women?
+
+TRAVIS: Yeah. Yeah. I'm real cranky so I need
+bandages,
+
+and maybe some bondage, and just all the women.
+
+LIAM: Bandages upon bondages.
+
+MARISHA: Those things go together!
+
+TRAVIS: Good!
+
+MARISHA: That's great.
+
+TRAVIS: Like a B & B right?
+
+MARISHA: Yeah.. that's exactly what B & B means.
+
+TRAVIS: That's what the letters for those words
+are.
+
+(all laugh)
+
+LIAM: How long has Scanlan been out for?
+
+MATT: Uh, at this point in time Scanlan's been out
+for almost a day.
+
+SAM: (making dying noises in the background)
+
+LIAM: Gosh. I'd like to go get him, but I really
+want him to wake up on his own accord.
+
+MARISHA: I mean, we can try head back to
+Whitestone and get Grog
+
+healed up and check up on Scanlan.
+
+LAURA: I think that would be good. Maybe get some
+potions before we head out here, because
+
+everyone's low. I'll just stop by the store and
+pick some health potions
+
+from where we got them before.
+
+TRAVIS: There are nice stores here, and we haven't
+even proper shopped in a while.
+
+MARISHA: It's true. Vasselheim hasn't been
+touched, right?
+
+LIAM: Yeah. That's good thinking.
+
+MATT: From what you know of the Conclave, no.
+
+LAURA: I mean we've got fucking shit to sell--
+
+MARISHA: (sneezes)
+
+TALIESIN: Bless you.
+
+MARISHA: Sorry.
+
+LAURA: -- and stuff to buy, but that's kind of a
+thing.
+
+TRAVIS:  Or we should check out the stuff that we
+got out of the den where Raishan was.
+
+MARISHA: We should definitely do the research.
+
+LAURA: That creepy-ass book we need to look at.
+
+LIAM: Is Scanlan sleeping it off? I mean,
+we're in Vasselheim, we've just bamfed across
+
+miles and miles. We're here.
+
+TRAVIS: Yeah.
+
+(all laugh)
+
+MARISHA: I know!
+
+SAM: Hmm, yeah, it's fine.
+
+LAURA: No, yeah, it's fine, it's fine, I'm just
+fucking sitting here, no big deal.
+
+SAM: No, it's fine, I'm having a great dream.
+
+TALIESIN: I wonder what Scanlan would say if he
+were here right now?
+
+SAM: Fucking come back and get me!
+
+(all laugh)
+
+TALIESIN: Yes, yes.
+
+MARISHA: He's asleep.
+
+TALIESIN: Very asleep.
+
+SAM: (snores)
+
+MARISHA: In a coma.
+
+LAURA: Shit.
+
+TALIESIN: Do quick shopping and then head home and
+look at all the things.
+
+LAURA: A quick buying of potions, I just wanna see
+if I can get some stuff.
+
+MATT: Make an investigation check.
+
+LAURA: I should've just shaken that instead of
+just--
+
+TRAVIS: Yeah.
+
+LAURA: Yeah. 14.
+
+MATT: Okay, with a cursory glance of the area of
+the Quad Roads which you previously went to for
+
+the acquiring of various tonics and salves and
+healing liquids, you do find a new nice
+
+establishment that's just recently been built.
+And as you enter to check in, the gentleman at
+
+the front looks up at you, and is familiar
+looking, and he goes
+
+"Can I help you-- No! You are not welcome. Leave.
+Now. Out. Please." (snaps fingers)
+
+SAM: Who's this guy?
+
+MATT: And these two bouncers kind of step--
+
+LAURA: Are you the cart guy? Fucking who--
+
+MATT: Please. No. Not her. Please!
+
+LAURA: I didn't abuse him. Everyone else abused
+him. I was very kind to you.
+
+MATT: Your business is not welcome here, goodbye.
+
+TRAVIS: Excuse me, has anyone seen my friend Ve--
+You.
+
+MATT: You?
+
+TRAVIS: -- beautiful salesman, carrier of all
+delightful things.
+
+LAURA: See! We're friends, we're all friends
+here.
+
+TRAVIS: Was he uncomfortable seeing you or
+something?
+
+LAURA: Yeah. Said he didn't like me very much.
+
+TRAVIS AND LAURA: I can't imagine why?
+
+MATT: What do you want from me?
+
+LAURA: Just some potions.
+
+MATT: We don't have many.
+
+TRAVIS: Whatcha got?
+
+MATT: We can do business. We cannot.
+
+LAURA: All right, I'll just stand next to him
+while you do business with him.
+
+MATT: You're not welcome in my establishment.
+
+TRAVIS: I'm really hard of hearing. Like,
+I've been working--
+
+MATT: I can yell!
+
+LAURA: Could you understand that?
+
+TRAVIS: It was like (mimics Matt)
+
+MATT: (groans)
+
+LAURA: Yeah, yeah, it's just muffled, it's just
+muffled for him.
+
+MATT: (huffs) "Well, our stocks have been running
+low since last time you came through,
+
+we don't have much!" He puts up a small leather 
+case and opens it.
+
+TRAVIS: It is such a shame. Did you tell him
+already that we have a whole kingdom's worth of
+
+jewelry and gold to spend, and I'm really tired
+of carrying it.
+
+LAURA: Stuff to sell.
+
+MATT: Blah, blah, blah, blah.
+
+LAURA: It is so unfortunate. We are saviors of
+Emon,
+
+saviors of the world, really, and he doesn't
+even care.
+
+TRAVIS: I thought I'd lighten this backpack a
+little.
+
+MATT: I really don't care. I have four healing
+potions and one greater. That is all I have.
+
+LAURA: Oh, is it?
+
+MATT: That's it. You want it? No? Then good day.
+
+LAURA: You know, I don't like him, I don't even
+want to buy it from him.
+
+MATT: Perfect.
+
+TRAVIS: You go ahead and leave.
+
+MATT: Please!
+
+LAURA: No, Grog, please don't. Don't shop without
+me.
+
+TRAVIS: I'm just gonna yell at him really loud.
+
+LAURA: No, no, I'm standing here. I can't let you
+do this.
+
+MATT: Could you please just escort them out--
+
+TRAVIS: No, no, no, we'll take it. We'll take it.
+How much?
+
+For the four healing potions and the
+one greater?
+
+MATT: 1500 gold pieces.
+
+TRAVIS: Cool!
+
+LAURA: I don't know, me personally, if that is a
+good amount. But Vex would know, is that a good
+
+amount or is that a shit amount?
+
+MATT: Based on your previous dealings with this
+individual,
+
+the fact that you are getting a price
+at all--
+
+LAURA: Yeah.
+
+MATT: --is good.
+
+LAURA: But it's not a good price.
+
+MATT: It's not a good market price, but it's also
+a buyer's market right now.
+
+TRAVIS: I know how to do this. I take a bag of
+gold--
+
+LAURA: No, Grog! Grog, Grog, Grog.
+
+TRAVIS: -- pour it onto the desk. Just a pile of
+gold.
+
+LAURA: Grog, do not do this. Please, please,
+please.
+
+TRAVIS: 1500 gold pieces.
+
+LAURA: I just scoop it back into your little--
+hold out your pouch.
+
+TRAVIS: Do you not want healing potions, or what?
+
+LAURA: Huh?
+
+MATT: He starts putting them back into the leather
+case. (huffs)
+
+LAURA: I don't want his healing potions.
+I think those aren't even real healing
+
+potions, I think those are probably water
+colored--
+
+TRAVIS: Well, I mean, clearly I have to say they
+have worked.
+
+MATT: Probably yes, you're right. They are colored
+liquid of no particular worth. You're right,
+
+leave. Begone.
+
+LAURA: Right.
+
+TRAVIS: They've worked every time.
+
+LAURA: But we can-- Grog, please.
+
+TRAVIS: Vex. We are so rich.
+
+LIAM: I lean in the door and say, you've been in
+there long enough to pay rent, what is going on?
+
+TRAVIS: Vax, will you come in here a minute?
+
+LIAM: Uh, yeah.
+
+TRAVIS: Will you please tell your sister that we
+have enough money to fund several townships,
+
+and that this guy wants 1500 gold for four
+healing potions and we have almost none.
+
+LAURA: And a greater healing potion! Five healing
+potions really.
+
+LIAM: Is she being a pain in the arse?
+
+TRAVIS: Yeah, I mean, c'mon, Vax.
+
+LIAM: We're not begging in Stillben. Will you give
+the guy some fucking coin
+
+so we can get the fuck out of here?
+
+LAURA: Yeah, but this guy's mean!
+
+LIAM: My time is valuable. Will you pay him so we
+can go, please?
+
+TRAVIS: You're also royalty, so you should show
+peasants how to act.
+
+You know, stiff upper lip, pip-pip.
+
+TALIESIN: So glad I'm not in this room.
+
+LAURA: That's true.
+
+MARISHA: My time is valuable.
+
+LIAM: That was Liam.
+
+MARISHA: I know, I know.
+
+LAURA: I am a lady, and ladies treat merchants
+well, and they don't hold grudges, I hear,
+
+because they are ladies and they are above it.
+So here. Take this 1500 gold. I'm going to count
+
+it out for you, Grog. It's below him, it's beneath
+him to count this gold, he's also a Lord.
+
+There you are. C'mon Grand Poobah.
+
+LIAM: All he hears is fart noises, and I grab her
+by the mouth and I drag her out the door.
+
+LAURA: Oh my god.
+
+MATT: He hands the potions over to Grog.
+"Very well. Enjoy your day, and I'd be wary of
+
+keeping her as your business contact. She's a bit
+abrasive."
+
+TRAVIS: Yeah, I noticed. You've moved up in the
+world, this is really nice.
+
+MATT: I'm sharing it with a few folks, it's sort
+of a partnership, but yes.
+
+TRAVIS: Is it working out for you?
+
+MATT: Well, I've had to hire bodyguards,
+if that's any indication.
+
+TRAVIS: If I wanted your name, like if I wanted to
+call on you later, 'cause it seems like-- As far
+
+back as I can remember, we've run into you quite a
+bit, and I'm kind of fond of this--
+
+LAURA: No, just a couple of times. Just a couple
+of times.
+
+TRAVIS: Yeah. Do you have a name?
+
+MATT: Cidrick Gillsman.
+
+TRAVIS: I will not remember that.
+
+MARISHA: Oh, this guy.
+
+TRAVIS: By the way, did you have any--
+
+LAURA: It's the guy. That took advantage of Grog
+
+MARISHA: That took all the money from him?
+
+LIAM: It's why I'm saying nothing.
+
+TRAVIS: --limited exclusive items and, like,
+top shelf. Your most elite, (clicks tongue)
+
+paying customers only?
+
+MARISHA: Did you say 'a leek'?
+
+MATT: I just generally run the realm of healing
+balms and salves.
+
+TRAVIS: Right.
+
+MATT: My partner does a bit more than that,
+but he is out currently picking up a shipment and
+
+will be back in a few days. Try back then.
+
+MARISHA: Where's his shipment from?
+
+SAM: Are you there?
+
+MATT: Who are you?
+
+MARISHA: Did he come out? I thought he came out.
+
+ALL: No.
+
+LIAM: No, he walked into the door with Vex.
+
+MARISHA: No, sorry.
+
+SAM: You're at the window. When's he coming back?
+
+TRAVIS: Where's he getting his shipment from? Do
+you trust your partner? This new guy?
+
+MATT: I do, and I don't trust you enough to tell
+you this information.
+
+TRAVIS: I give him ten gold for the information.
+
+MATT: Thank you, that is very generous. I don't
+know.
+
+TRAVIS: Oh.
+
+MATT: He gives the ten gold back.
+
+TRAVIS: Oh! I thank you for your time, Poobah out.
+And I leave.
+
+(all laugh)
+
+MATT: All right.
+
+TRAVIS: Look, I know that was hard for you.
+
+LAURA: Grog.
+
+TRAVIS: He was very apologetic.
+
+LAURA: Was he?
+
+TRAVIS: Yup. He was-- yup.
+
+LAURA: Grog, he took advantage of you before--
+
+TRAVIS: No, he didn't.
+
+LAURA: -- and I didn't like that.
+
+TRAVIS: No, look, his hands were on that side of
+the counter the whole time.
+
+LAURA: Oh?
+
+TRAVIS: Yeah.
+
+LAURA: Really?
+
+TRAVIS: Mm-hm.
+
+LAURA: Well, all right then.
+
+TRAVIS: Yeah, here, these are for you.
+
+LAURA: Thanks, darling.
+
+TRAVIS: Yeah.
+
+LAURA: Which one do you want?
+
+TRAVIS: No, I don't want any, I need more of the
+hands-on healing, you know what I'm saying?
+
+LAURA: I cast Cure Wounds on him. Level four,
+bitch!
+
+MATT: All right.
+
+LAURA: Whoa.
+
+MATT: 4d8
+
+(all laugh)
+
+TRAVIS: 4d8?
+
+MATT: 4d8 plus your wisdom modifier.
+
+LIAM: What does that mean?
+
+TALIESIN: It's like if you gave him an ice cream,
+you see me running around on a sugar high for the
+
+rest of the day. Never gonna burn that off.
+
+LAURA: 14, 19.
+
+MARISHA: Yeah, the Makey Mace-- the Mickey
+Mouse-shaped one?
+
+TALIESIN: Forgot the ears.
+
+MARISHA: Those were great, with the ears.
+
+LAURA: 22.
+
+TRAVIS: 22
+
+TRAVIS: 31 hit points.
+
+LAURA: So... who needs the greater?
+
+MARISHA: I'm all right. Give it to others.
+
+TRAVIS: I mean, we could take a short rest and let
+me heal up for a second. Once we land somewhere.
+
+LAURA: Yeah, yeah, yeah.
+
+MARISHA: We're going home, right?
+
+LIAM: You wanna rest in the tavern?
+
+TRAVIS: I mean, maybe.
+
+LIAM: For an hour?
+
+TRAVIS: But didn't you need to go somewhere?
+
+LAURA: Percy. Greater?
+
+TALIESIN: Thank you.
+
+LAURA: Then I pass out the other healing potions
+between--
+
+LIAM: Where I have to go is a little more
+involved.
+
+TRAVIS: Oh.
+
+LIAM: Yeah.
+
+MARISHA: Are you gonna slide by the temple?
+
+LIAM: I scoop you by the arm and take you off for
+a minute. You know, I want to come back here,
+
+sometime. One, I would love to go to the Velvet
+Cabaret again. You know, just like a date night.
+
+MARISHA: Oh, that was great. Yeah, that was fu--
+
+LIAM: Yeah, but without somebody trying to kill
+us.
+
+MARISHA: -- oh my gosh, that was before we were
+together. That was good times.
+
+(all laugh)
+
+LIAM: I'd like to go back without somebody trying
+to murder any of us, though.
+
+MARISHA: Right, yeah.
+
+LIAM: That aside, I do have to go to the temple,
+but I don't want to go.
+
+MARISHA: Why are you saying it like you have to go
+to the toilet?
+
+LIAM: 'Cause that's kind of what it's like.
+
+MARISHA: Does it feel like that? Yeah. Okay.
+Yeah.
+
+LIAM: Yeah, there is another shoe that's gonna
+drop, probably, eventually.
+
+TALIESIN: You should probably pass that, I think.
+
+LIAM: I wanna get back to--
+
+MARISHA: (laughs) As Percy walks by.
+
+TALIESIN: No, I don't walk by. I just-- I'm amazed
+that no one remembers
+
+that we can hear everything
+over these earpieces.
+
+LAURA: No, you have to be touching your ear.
+
+LIAM: No, you have to hit send, my friend.
+
+MARISHA: (laughing) You have to hit send.
+
+TALIESIN: Carry on, carry on.
+
+(all laugh)
+
+LIAM: Her other shoe is gonna drop, eventually.
+And I'm not ready for that.
+
+MARISHA: What are you afraid of? What do you think
+she's gonna ask of you?
+
+LIAM: I don't know.
+
+MARISHA: You think she's gonna cash in on that
+bargain?
+
+LIAM: Why wouldn't she?
+
+MARISHA: I thought you already considered paid up
+in a way. I don't know.
+
+LIAM: I don't know.
+
+MARISHA: Sure.
+
+LIAM: But I feel like being a little selfish and
+taking a little time, and when she wants me--
+
+'cause she's not talking to me at the moment--
+when she wants me,
+
+she'll call. So I'd like a little time.
+
+MARISHA: Okay. What are you asking of me right
+now?
+
+LIAM: Just to come back, down the road.
+
+MARISHA: Later?
+
+LIAM: Yeah.
+
+MARISHA: Do you wanna go now?
+
+LIAM: No.
+
+MARISHA: While we're here?
+
+LIAM: No.
+
+MARISHA: You're sure?
+
+LIAM: Very sure.
+
+MARISHA: So, just getting this straight.
+What you're proposing is a Raven
+
+Queen-slash-Velvet date night visit back to
+Vasselheim?
+
+LIAM: Well, I don't know what's gonna happen at
+the--
+
+MARISHA: Like, you go to church and then we go to
+the casino?
+
+LIAM: I'd probably do it the other way around?
+
+MARISHA: Sure.
+
+LIAM: Because I don't know what's gonna happen at
+church. I'm talking months. Unless she rings,
+
+okay? I just want to spend some time with you,
+before I have to do whatever the fuck she wants.
+
+She's going to collect.
+
+MARISHA: Mm-hm.
+
+LIAM: My sister is walking around and breathing.
+Still.
+
+MARISHA: Okay.
+
+LIAM: Shocking as that is.
+
+MARISHA: I mean, the fact that any of us are still
+doing that is impressive at this point.
+
+LIAM: Anyway.
+
+MARISHA: Okay, so that will be-- that's a good
+date night to look forward to.
+
+Let's go home, I guess.
+
+TRAVIS: Yeah. Let's at least go see if little
+lover boy has woken up.
+
+LAURA: Yeah, we've got our potions.
+
+LIAM: Way down the line.
+
+MARISHA: Way down the line.
+
+LIAM: Way down the line.
+
+MARISHA: Sure. Are you sure you don't wanna just
+hop in the Raven's Spa, tonight?
+
+LAURA: Hey, Keyleth?
+
+MARISHA: Uh-huh?
+
+LIAM: Jesus.
+
+LAURA: Sorry, I just--
+
+LIAM: Who is that?
+
+LAURA: -- finished buying those potions.
+
+MARISHA: Yeah.
+
+LAURA: So, do you wanna get back to Whitestone?
+
+MARISHA: Are you okay? You're a little-- you look
+a little sweaty.
+
+LAURA: No, I'm fine. I'm fine. I'm fine.
+
+LIAM: That little vein on the side of your
+forehead--
+
+LAURA: You know what? We've made a lot of money,
+and--
+
+MARISHA: Yeah, you've got the Julia Roberts vein
+going. (laughs)
+
+LIAM: Who?
+
+LAURA: (laughs)
+
+MARISHA: Don't worry about it.
+
+LAURA: I really do get that thing, though,
+I really do. But no, I'm okay. We're fine.
+
+Everything's fine. Except Scanlan's still
+unconscious,
+
+so maybe we should go see if he's all right?
+
+MARISHA: You're right, you're right, all right.
+
+LAURA: All right.
+
+MARISHA: Let's go. Let's go. Everything's fine
+here too, by the way.
+
+LAURA: Good, good, you guys didn't seem awkward at
+all while I walked up.
+
+MARISHA: No, we're never awkward.
+
+TRAVIS: How do we get back?
+
+LAURA: Maybe we should go.
+
+MARISHA: Huh?
+
+LAURA: Tree. A tree? Can you still do a Tree
+Stride?
+
+MARISHA: I could do a tree.
+
+LAURA: Let's do a tree.
+
+TRAVIS: We gotta leave the city, though,
+right? Out of respect.
+
+LAURA: No, I don't think we have to.
+
+TRAVIS: Oh.
+
+LAURA: Druid magic's different.
+
+MARISHA: Huh?
+
+LAURA: It's not like-- It's not like showy wizard
+magic.
+
+TRAVIS: These rules confuse me, but okay.
+
+LIAM: The wizard magic is like Broadway musicals?
+
+LAURA: Yeah. It's like jazz hands. And druid magic
+is like modern dance.
+
+TALIESIN: Community theater.
+
+MARISHA: Yes, yes.
+
+LIAM: Brechtian theater. (pained groans)
+
+MATT: (laughs)
+
+MARISHA: If wizardry is Bob Fosse, druidism is
+Twyla Tharp.
+
+MATT: There you go.
+
+TALIESIN: Wow. We went there.
+
+TRAVIS: That was good.
+
+MARISHA: I might know my modern choreographers.
+Okay? Let's go back to Whitestone.
+
+TRAVIS: Yeah.
+
+MATT: All righty. So you find your way back to the
+Abundant Terrace,
+
+where you find a similar-sized tree,
+
+to what you arrived in. Using Transport Via
+Plants, you transport yourself back to Whitestone,
+
+stepping out of the Sun Tree. Make your way--
+
+LIAM: Pfft.
+
+MATT: Where else, you would like to within
+Whitestone?
+
+MARISHA: It does not make that sound. That's what
+you're trying to do. It does not sound like that.
+
+LAURA: Like a little fart?
+
+MARISHA: That is not canon.
+
+LIAM: Trees don't fart out here?
+
+MARISHA: They don't. Trees don't fart, they poot,
+okay.
+
+LAURA: I just start heading--
+
+LIAM: (loud pooting sound)
+
+LAURA: -- towards the castle.
+
+MATT: It's the air ashari, man. So what were you
+saying?
+
+LAURA: I start heading towards the castle.
+
+TRAVIS: On the way there, I ask Percy, Percy!
+Percy.
+
+MARISHA: The Cantrip Gust.
+
+TRAVIS: I know this city's, like, being rebuilt
+and everything--
+
+TALIESIN: Yes.
+
+TRAVIS: -- but do you think there will ever be
+like a pleasure hall, or a house of, you know,
+
+bosoms. I mean, I just want to put out like a
+couple ideas as a city, bound up.
+
+TALIESIN: Of course it has one. Do I happen to
+know where it is, or do I not?
+
+MATT: I mean, it hasn't been--
+
+TRAVIS: Nope, yeah, it's pretty empty right now,
+I know this.
+
+MATT: -- really functional for a while.
+
+TALIESIN: I feel like it would be the sort of
+thing
+
+that would have just existed for fuck all ever.
+
+TRAVIS: No, no, no, yeah.
+
+MATT: Whitestone has had-- there's generally--
+There were two brothels, one was destroyed,
+
+in the Briarwoods' run.
+
+MARISHA: Is one called the House of Bosoms?
+
+SAM: Better be.
+
+MARISHA: It's like the House of Cards of porno.
+
+MATT: As one of the titled masters of Whitestone,
+it could very well in the near future. Just tell
+
+me so I can add it to the campaign guide.
+
+(all laugh)
+
+TRAVIS: I'll come up with something better.
+
+SAM: International House of Bosoms
+
+TRAVIS: Yes.
+
+(all laugh)
+
+TALIESIN: Thank you.
+
+TRAVIS: With all the flags on it.
+
+TALIESIN: Would I possibly know this?
+
+TRAVIS: And six different syrups to choose from in
+each room.
+
+SAM: Ahh, the silver dollars.
+
+TALIESIN: I don't even know if I would know this.
+
+MATT: You know what? Make a history check.
+
+TALIESIN: A history check? That's so-- okay.
+A natural twenty.
+
+TRAVIS: Is it really?
+
+TALIESIN: Yeah.
+
+MATT: Okay.
+
+TALIESIN: That's a natural twenty, with my history
+is--
+
+SAM: Whore check!
+
+(all laugh)
+
+TALIESIN: -- is a 30. That's a 30.
+
+LAURA: Percy knows knows.
+
+MATT: You've never been to it, but you recall one
+of your older brothers who is of age did return
+
+and tell stories of a house of--
+
+MARISHA: IHOB
+
+MATT: -- flesh and pleasure.
+
+TRAVIS: Thank god.
+
+MATT: You don't recall its name, but you know that
+it existed somewhere on the western side of this
+
+city, and within a short period of time,
+you could lead him to it.
+
+TALIESIN: Okay.
+
+SAM: And also that they serve a pancake with--
+
+(all laugh)
+
+TALIESIN: There's a pancake brunch.
+
+TRAVIS: Smiley face?
+
+SAM: -- some chocolate chips and a smiley face.
+
+LIAM: The ancient Sumerians would pay for sex with
+silver dollars.
+
+TALIESIN: I'm honestly not sure, Grog. I really
+have to think about it.
+
+I don't know if such a thing exists.
+
+TRAVIS: But I'm just saying, you know, if you need
+to lean on me to develop that sort of the economy
+
+again, I'm here for you buddy.
+
+TALIESIN: That's good to know.
+
+TRAVIS: Okay.
+
+TALIESIN: That's good to know. Excellent.
+
+TRAVIS: Let's go find Scanlan.
+
+(all laugh)
+
+TALIESIN: I wonder if he's awake yet.
+
+SAM: Search for him. Wherever he might be.
+
+LAURA: Where did we leave him, again?
+
+TRAVIS: I think strapped up and covered in
+mayonnaise.
+
+TALIESIN: Pudding. Pudding.
+
+TRAVIS: Pudding.
+
+LIAM: "Pudding."
+
+MATT: So you guys find your way back to castle
+Whitestone, upwards to Scanlan's room. The door's
+
+partially ajar. On the inside you see Kaylie is
+actually asleep. She's sitting on a stool next to
+
+the bed and her head's down, and she's very
+lightly snoring. And there, in the bed, as you
+
+left him, is Scanlan.
+
+LAURA: His arms are still up?
+
+MATT: Well, he's been turned.
+
+LAURA: Okay.
+
+TALIESIN: We've had people taking care of that.
+
+LAURA: Jeez.
+
+TRAVIS: And Kaylie's sitting in the chair,
+or is she leaning back on?
+
+MATT: No, she's leaning back in a chair and is
+passed out. Scanlan is still on the bed.
+
+TRAVIS: Can I please knock the legs of the chair
+out?
+
+TALIESIN: There's seven children in this family,
+I think they're used to some tomfoolery.
+
+LAURA: It's up to you, Grog.
+
+TRAVIS: Yeah. I walk over and I just kick the back
+leg of the chair out so she falls down.
+
+MATT: (falling sound) (yelps)
+
+TRAVIS: Oh my god, these chairs are so old.
+Are you all right?
+
+MATT: Oh, I'm gonna remember that.
+
+TRAVIS: Oh right, I forgot, you'll speed bag my
+nuts later, sorry.
+
+LAURA: How you doing, Kaylie?
+
+MATT: She looks groggy and slightly hung over and
+is like,
+
+"All right. So, you've all come back? He hasn't
+really done nothing"
+
+And she kinda smacks him in the side of the face
+and wipes some of the pudding off. You hear,
+
+just ever so faintly, as you kinda are coming out
+of your stupor, you hear what sounds like voices
+
+muffled, and it comes to, you hear what sounds
+like Grog, and then what sounds like Kaylie,
+
+and then something hits you in the cheek and you
+feel a slight tinge of pain like a flick.
+
+But your eyes begin to blink, and you guys watch
+as Scanlan begins to stir.
+
+LAURA: How long has he been like this?
+
+LIAM: Why is he covered in pudding?
+
+LAURA: Who did this to him?
+
+TALIESIN: I have no idea.
+
+SAM: What's going on?
+
+MARISHA: Keyleth takes a little bit of the gunk
+off and what is it?
+
+LAURA: Gross.
+
+MATT: It's like a vanilla custard.
+
+LIAM: Thank God.
+
+LAURA: That's fucking foul, Keyleth.
+
+MARISHA: Look. How do you think druids discover
+things, okay? Someone has to figure out what's
+
+poison and what's not.
+
+LIAM: Sour.
+
+TALIESIN: They lick them apparently.
+
+MATT: It's a little sour.
+
+MARISHA: This is funny. This is funny, was this
+you? This is funny!
+
+SAM: Hello. Hello?
+
+MATT: You guys hear Scanlan talking.
+
+SAM: Hello? What's going--
+
+LAURA: Scanlan! (gasps)
+
+SAM: Hi.
+
+LIAM: Hey, buddy.
+
+LAURA (sing-songy) Welcome back!
+
+SAM: What-- where am I?
+
+TALIESIN: You missed all the fun.
+
+SAM: What's going on, where am I?
+
+LIAM: This is the afterlife, Scanlan, you've gone
+to the good place.
+
+MATT: Your hands are bound up over your head
+currently, and you are dressed in a nightgown and
+
+your room and yourself are, there's spatters of
+pudding everywhere.
+
+SAM: What's going on? Why am I like this? Where am
+I?
+
+LAURA: You don't remember?
+
+SAM: No. Is the dragon alive?
+
+LAURA: No, you killed it, and then we all
+celebrated, and you had a big orgy.
+
+TRAVIS: Yeah, you proposed to this woman
+downstairs and this was your bachelor party.
+
+MARISHA: You clearly have some very intense
+dreams, Scanlan.
+
+SAM: I feel like you're fucking with me.
+
+(all laugh)
+
+MATT: And you hear Kaylie's voice,
+
+"Oh, you think that? Probably right true."
+
+SAM: What are you doing here?
+
+MATT: Well, apparently your friends brought me
+along to
+
+make sure that you woke up nice and right.
+
+SAM: They brought you here?
+
+MATT: Aye.
+
+SAM: Where are-- are we in Whitestone?
+
+TRAVIS: Yeah.
+
+LIAM: We're in Whitestone.
+
+LAURA: Yeah.
+
+TALIESIN: And the dragon is very dead. Very,
+very dead.
+
+LAURA: But you are not. And that's very important.
+
+SAM: Kaylie, could you excuse us a moment?
+
+MATT: "Aye, but at the very least--"
+
+And she reaches over and undoes the bindings on
+your wrists. Your fingers are a little numb.
+
+You pull back and kind of rub them instinctually.
+She goes,
+
+"Don't take too long. I've a mind to speak to you
+in a minute."
+
+LAURA: Kaylie?
+
+MATT: Aye?
+
+LAURA: Thank you.
+
+MATT: "Sure." She just kind of storms past and
+pushes, a little gnome figure pushing through the
+
+crowd of Vox Machina, and out of the room.
+
+SAM: I'm sorry I... fell again. Can someone answer
+me one thing, though?
+
+Who got Kaylie? Who brought Kaylie here?
+
+TRAVIS: Vex did.
+
+LAURA: I sit down on the bed with you.
+
+Well, it just seemed like the logical thing
+to do, dear.
+
+SAM: Why the fuck would you do that?
+
+LAURA: Right. Well, 'cause you said that--
+
+SAM: I promised her that I wasn't going to die,
+and you showed her my dead body.
+
+You thought that was a good idea?
+
+LAURA: What! Would you rather she just discover it
+on her own? This way she--
+
+SAM: No! I'd rather she never know.
+
+LAURA: Scanlan. She came here. She helped bring
+you back. You know what that means, right?
+
+SAM: Yes, I do, unfortunately.
+
+LAURA: You think it's bad that she cares about
+you?
+
+SAM: I think it's bad that she thinks that I'm an
+oathbreaker,
+
+that I am weak, that I failed in my
+promise to her.
+
+LAURA: Scanlan.
+
+SAM: That everything she thought of me when she
+found me is confirmed now. That I can't be
+
+trusted, and I can't protect her.
+
+LAURA: Scanlan. She thought nothing of you when
+you met her, all right? The fact that she showed
+
+up here and saw that you gave your life for a
+greater cause? That's so much more important than
+
+any promise you made.
+
+SAM: I hope that's true.
+
+LAURA: I think it is. She didn't run away.
+And after the fact
+
+she stayed here and looked after you!
+
+LIAM: You should have heard her play.
+
+SAM: I did. I think. I heard music. I heard Pike.
+
+LAURA: Wait. You heard?
+
+SAM: I heard voices. I heard Pike saying a poem.
+I heard someone playing music.
+
+TRAVIS: Was that it?
+
+SAM: Yes.
+
+LIAM: All your daughter knows is that you stood
+against great evil overtaking an entire continent.
+
+That's nothing to sneeze at, Scanlan.
+
+SAM: She also knows that I fell and that my
+friends thought it would be funny to put me in a
+
+fucking nightgown and spread pudding all over me.
+
+TALIESIN: That was me.
+
+SAM: And bring back my lifeless body and show her
+how weak her father is. That's what she saw.
+
+I made a promise, and I broke it, and you proved
+it to her. And I wish you hadn't meddled in my
+
+affairs. I don't have... I don't have many things
+that I care about,
+
+and I don't have anything that cares about me.
+
+LAURA: That's a lie.
+
+TRAVIS: That is bullshit.
+
+MARISHA: Definitely not true.
+
+LIAM: That's full bullshit.
+
+SAM: What? You think you care about me?
+
+TRAVIS: Yes.
+
+LIAM: Yes, asshole! Yes.
+
+SAM: Yes, I'm sorry, you're right. You like me
+because I make jokes, and I play songs, and I give
+
+you a warm place to stay at night, and I feed you
+fucking chicken, and I heal you in battle.
+
+But you don't really care about me. Come on.
+Let's be honest with each other. You don't really
+
+give a shit about me.
+
+LIAM: I've changed my outlook on life because of
+you! What the fuck are you talking about? Of
+
+course we all love you--
+
+SAM: Prove it.
+
+LIAM: -- you could crush me in a second.
+
+SAM: Prove it.
+
+LIAM: How?
+
+LAURA: What do you want us to do?
+
+SAM: We traveled into the fucking nine hells to
+get Pike a set of armor. We went and battled a
+
+city of vampires so Percy could feel good about
+his name. We fought goliaths for Grog. We've
+
+traveled across planes of existence so you could
+fix your fucking daddy issues. But you've never
+
+done anything for me. Ever! You've never risked
+anything, you don't know me, you don't know
+
+anything about me. What's my mother's name? What's
+her name? Easy question. Died in front of me.
+
+Killed by a goblin. Biggest part of my life.
+What's her name? My father. Is he alive or dead?
+
+How old am I? Where's my fucking dog?
+
+LAURA: We did get the dog.
+
+SAM: You don't care about me.
+
+LAURA: We did get your dog.
+
+SAM: Did you?
+
+TRAVIS: No, we didn't.
+
+LAURA: We did, I searched--
+
+LIAM: I've asked your age.
+
+LAURA: I thought I did the magic search.
+Fucking hell.
+
+SAM: It's fine. I'm just a little hungover from
+being dead, and I just have been thinking for a
+
+while, and, you know. Grog has Pike. Vax has
+Keyleth. Percy has Vex. But Scanlan has no one,
+
+and I had one chance at one real relationship
+with my daughter, and I feel like you've gone and
+
+fucked it up, too. Because you don't really know
+me, and you don't really know what my relationship
+
+is with her, and what I've promised her,
+or anything, really. And it's fine. When I met
+
+you all, I was just a funny little man playing
+songs, and that's all I'll ever really be.
+
+And that's okay, because I can take care of
+myself.
+
+LAURA: You don't have to, Scanlan. Nobody knew
+that any of this was going on. How many times have
+
+we asked you if you're all right and you just
+laugh and joke? We can't help you if you don't
+
+tell us what's going on.
+
+SAM: I don't need your help.
+
+LAURA: Well, apparently you do, darling.
+
+SAM: I don't like that very much at all.
+
+LAURA: Get used to it. Nobody likes needing
+someone.
+
+MARISHA: Scanlan, do you think any of us could
+have gotten here without each other? I thought you
+
+knew that more than the rest of us. Maybe we just
+thought
+
+you didn't need us as much as you felt
+like we didn't.
+
+LIAM: I thought you were the only one who had
+everything figured out.
+
+MARISHA: I did too.
+
+SAM: Well then, I must be a very good liar.
+
+MARISHA and LAURA: You are.
+
+LIAM: I thought for months, what haven't I got
+figured out that Scanlan has got figured out? I've
+
+been trapped in the mud for months, wondering what
+I could do to get where you are. Scanlan,
+
+you fucking saved the world with us. If your
+daughter can't see that,
+
+then she can't see anything.
+
+SAM: Yeah. If you really respected me, you
+wouldn't pick me up like some sort of dwarf and
+
+pick me up and put me down and take off your
+fucking armor and treat me like a fucking child.
+
+LIAM: You've thrown some of us like baseballs.
+I don't know what that is.
+
+MARISHA: Scanlan. Do you wish we wouldn't have
+brought you back? Should we not have done that?
+
+SAM: I just wish you wouldn't have brought her
+into this.
+
+MARISHA: Scanlan--
+
+SAM: I had one shot with her, and now how will I
+ever show her that I can be trusted? How will I
+
+ever show her that I can protect her?
+
+LAURA: Well, maybe you should fucking talk to
+her.
+
+MARISHA: Yeah, you're a better father than most of
+us have ever had.
+
+SAM: You're right. I should talk to her.
+
+LAURA: You should!
+
+SAM: I should! I should. And I will.
+
+LAURA: Don't treat her like a fucking sacred
+object, treat her like a daughter, Scanlan.
+
+SAM: Fine. You're right. I will. I will.
+I'll talk to her. Listen. I don't know what
+
+adventure we're going on next, but I think you
+should go without me.
+
+TRAVIS: Really?
+
+SAM: Vex is right. I should talk to her.
+I should be here for her. I don't know why I
+
+wasn't with her in the first place. I didn't need
+to go with you to kill the dragons. I should've
+
+just been with her in the first place. Probably
+just scared to.
+
+I should just be her father and stay.
+
+TRAVIS: Can I ask you a question?
+
+SAM: Yeah. No, I will not go whoring with you one
+more time.
+
+TRAVIS: No. I was gonna ask you what your mother's
+name is.
+
+SAM: It was Juniper.
+
+TRAVIS: I'm sorry I didn't know that.
+
+SAM: Thank you for asking.
+
+LAURA: Is your father still alive?
+
+SAM: I don't really know. He makes things.
+Made things, I don't know. His name is Vicou.
+
+TRAVIS: I'm glad you're back. Whatever you want to
+do now that you are... it's up to you, mate.
+
+MARISHA: I'm sorry if we had selfish intentions.
+
+TRAVIS: We did have selfish in--
+
+MARISHA: Yeah. Grog knows what I'm trying to say.
+
+TRAVIS: We didn't think about those things.
+We didn't. We thought about what you meant to us.
+
+It may not feel like much, to us it feels like a
+bit, but now that you're here...
+
+MARISHA: Scanlan, as much as you can say that you
+were just the funny guy who played music and made
+
+jokes, I don't think you realize how desperately
+we need that. That's nothing to scoff at,
+
+that's not a talent that many of us naturally
+possess. You've taught me so much about the
+
+brightness of the world, and to look at the light
+side of things.
+
+SAM: I guess it's just easier to laugh at the
+world when you don't care about it.
+
+MARISHA: That's not true. You do care.
+
+SAM: I know.
+
+LAURA: That's why he's an asshole now.
+
+LIAM: We've never had one conversation, you and I,
+about my mother. Where my sister and I came from.
+
+Did you know Thordak killed her?
+
+SAM: I think that's come up.
+
+LIAM: We've never talked about it. Not once.
+Because I didn't want to talk about it.
+
+I didn't push into your private life. If you
+wanted to talk to me, and you did, about your
+
+daughter. We did. We talked in the sewers of
+Westruun about your daughter because you wanted to
+
+talk about her. We love you, Scanlan, and if you
+want to talk about your mother or your father,
+
+we will. You have not been exactly forthcoming.
+
+SAM: That's fair. I haven't been. But I also
+don't-- I don't have anyone.
+
+I have to take care of myself. That's all.
+
+LIAM: We have survived a fucking hellscape.
+All of us.
+
+SAM: (quietly) I didn't.
+
+LIAM: You are standing before me, talking to me.
+You did.
+
+SAM: I did not. I died. Twice.
+
+LIAM: That's fucking semantics, Shorthalt.
+
+SAM: In a row.
+
+LIAM: You've been brought back. You're standing
+here. Your daughter is there and needs you.
+
+SAM: I'm being kept alive by some fucked-up weird
+magic. Before I met you people, I would have
+
+never-- the worst I would have gotten in is a bar
+fight. And I would have won. 'Cause I would have
+
+been a liar and a cheater. And now, I didn't help
+any of you in the last fight. I didn't do
+
+anything. The fight before that, I didn't do
+anything--
+
+LIAM: What about the fight before that?
+
+SAM: -- I'm useless!
+
+LAURA: (tiredly) No, you're not.
+
+SAM: -- I'm out of my league. I'm out of my
+league. Listen, it was fun. It's fun. It really
+
+has been fun to travel with six legends. It's fun.
+It's fun to say
+
+that your friends are legendary fighters. 
+It's fun!
+
+LIAM: Excuse me! Speaking as someone who has been
+fucking depressed for a long time-- Look me in the
+
+eye. I was shit for months. And you are one of the
+main reasons I am out of that now. We would be
+
+dead, all of us, if it weren't for you. The first
+time we fought Raishan, we would all be dead.
+
+You are in a pity party right now, and I know
+you're hurting, and I'm sorry you're hurting,
+
+and I love you. But you are lying to yourself,
+that you have been no use to us. You are lying to
+
+yourself.  If you wanna retire, if you wanna go
+off with your daughter, that's fucking wonderful.
+
+I encourage you to do it. But don't lie to
+yourself.
+
+SAM: Well, that's just it. I'm a really good
+liar.
+
+LIAM: (pleading) Scanlan.
+
+SAM: Just give me some time.
+
+MARISHA: (timidly) Hey-- hey, guys? We're friends,
+right? Are we friends?
+
+TALIESIN: Worse, family.
+
+LIAM: Family.
+
+MARISHA: That's fair.
+
+TALIESIN: And for fuck's sake, sir, I will say I
+died in that fight too.
+
+SAM: It's not fun, is it?
+
+TALIESIN: No. And let me tell you something.
+Whatever lie you were trying to feed your
+
+daughter out there about the man she thought you
+might be, that you just thought you could tell her
+
+and then she would walk away and never actually
+meet you or get to know you. So that maybe she
+
+would never see what a shit you can be. And you
+can be a shit. That fucking girl out there is a
+
+shit too. She's a miserable, lying shit.
+And for fuck's sake, the thing that brought her
+
+back here was the things about you that you don't
+like about yourself. And don't think that they
+
+don't count, either. You're a shitty person,
+we know! That's not the fucking point. The point
+
+is for just one moment-- one moment-- once in a
+blue bloody moon... You come through in a way that
+
+others can't. And you do it, and we love you for
+it, and you are worthwhile, there's a reason we
+
+just nearly went mad trying to bring you back.
+And it was not pity. And we didn't bring her-- we
+
+brought her here so that maybe she would snap you
+out of wherever the fuck you were going to.
+
+And I know you're not out of there yet,
+I've been where you are and I know it's shit.
+
+And I would really recommend, as somebody who
+misses an awful lot of people, that you are honest
+
+with that girl and maybe discover that she
+actually likes you. As a person. Because you are
+
+actually likeable as a person! I know, it's coming
+out of my mouth. I can feel the shit from it but
+
+it's true. And for fuck's sake, get to know her
+and stop making false promises that you can
+
+protect her, and you'll always be there.
+'Cause you can't and you won't. No one can.
+
+And you're fucking lying! And it's sick.
+Be a man. Be a man. I've seen you be a man,
+
+I know you can fucking do it. And when you're done
+with that, and we will leave you with that fucking
+
+shit girl, I would like you to look up my parents'
+name. You can find it on every fifth hallway in
+
+this fucking city. And then I'm out.
+
+MATT: (hoarsely) You leave the room?
+
+TALIESIN: Mm-hm.
+
+MATT: (clears throat) Okay. As you push the door
+open-- it's still partially ajar-- and as you push
+
+it open, leaning against the wall just by the door
+is Kaylie,
+
+and you can see she has tears streaming
+down her face.
+
+TALIESIN: I give her a big hug, a kiss on the
+forehead--
+
+MATT: She doesn't let you. As soon as you go for
+it, she just kind of smacks it away--
+
+TALIESIN: (makes an air kissing noise)
+
+MAT: --turns into the room, and just kind of walks
+past everyone and grabs her bag off the ground.
+
+Slings it over her shoulder, grabs her violin
+case. "So, you coming?"
+
+SAM: ...Yeah.
+
+MATT: "Grab your things. Be waiting for you
+downstairs." And she walks out.
+
+LAURA: Really? Just like that?
+
+SAM: I have to.
+
+MARISHA: Where're you going to go? What're you
+going to do?
+
+SAM: I'm just gonna be a Shorthalt for a while.
+And I'm just gonna figure out what that means.
+
+And... it's great being part of a team,
+but you gotta know who you are first. So I gotta
+
+go figure that out. And I gotta go figure out what
+she is, too. And when I do, I'll come back and
+
+find you. And if you really need a place to stay,
+I'll advise you to buy some tents, 'cause you
+
+won't have a mansion anymore. I know you'll be
+fine 'cause you all have each other, but for now,
+
+I just need to have me for a while. I love you
+all. I even love Percy... and his parents,
+
+Frederick and Johanna. And I'll go with Kaylie.
+
+TRAVIS: Wait. I reach into the Bag of Holding and
+I grab my salt-lick rock and I toss it to Scanlan.
+
+SAM: What's this?
+
+TRAVIS: It's yours now. When you miss us-- I know
+you will-- give it a lick.
+
+SAM: (choked) All right, I will.
+
+LAURA: I grab the Gatestone off the end table
+where
+
+we left it with him and hand it over to you
+as well.
+
+SAM: You'll need this.
+
+LAURA: I'd rather it go to you.
+
+SAM: When Vex tries to give you something,
+you take it. All right. Don't die.
+
+LIAM: Scanlan... We'll miss you.
+
+SAM: (exhales) I hope so. And... well, you said I
+was right. Let's pick up that conversation later.
+
+I'll go out the door.
+
+MATT: Okay. As he walks down the hall, you hear
+his feet across the stonework echo quieter and
+
+quieter until you can't hear it anymore,
+and you all
+
+stand in stunned silence in the chamber.
+
+LIAM: (draws in a breath) Fuck.
+
+LAURA: I just pick up a pillow and throw it at the
+door.
+
+MATT: It opens slightly. The pillow lays on the
+ground smattered with vanilla pudding.
+
+TRAVIS: Did he take all his things with him?
+
+MATT: I would say he would've grabbed his things
+as he left, yeah.
+
+LAURA: Well, that didn't go like I thought it
+would.
+
+MARISHA: No. No it didn't.
+
+LAURA: Kinda wish we would've gone drinking in
+Vasselheim now.
+
+TRAVIS: We might've missed him if we had.
+
+LIAM: (wearily) We saved the continent, why does
+everything feel like shit?
+
+TRAVIS: He's alive. That's what really matters.
+
+LIAM: But he's our liar, Grog.
+
+LAURA: (tearily) And he hates us, now.
+
+MARISHA: He doesn't hate us.
+
+I just... think we've all just discovered
+that maybe we have a lot more secrets about
+
+ourselves than we've all ever let on.
+
+TRAVIS: He needs time. We have that.
+
+LAURA: (angrily) Fuck him! Fuck him for not saying
+anything sooner.
+
+MARISHA: I dunno.
+
+LAURA: And fuck us for not asking. (sniffs)
+
+MARISHA: I think Percy's right. We're worse than
+friends, we're family. And family leaves.
+
+LIAM: Yes. They do.
+
+MARISHA: Can we not be family? Can we, like,
+redact that?
+
+LIAM: I don't think so. I think it's too late.
+
+TRAVIS: I step out into the hallway. Do I see
+Percy at all?
+
+TALIESIN: I'm around the corner, up on the--
+
+MATT: Yeah.
+
+TALIESIN: I'm outside of-- If you went far enough,
+you'd see me.
+
+MATT: You eventually find Percy, yeah.
+
+TRAVIS: Hey.
+
+TALIESIN: Hi.
+
+TRAVIS: Rough one, that. Question:
+
+TALIESIN: Yeah.
+
+TRAVIS: Do you have any, like, sneaky people in
+your employ here in the castle.
+
+TALIESIN: 'Course.
+
+TRAVIS: Wouldn't you feel better if we had
+someone just keeping an eye on them? Bit
+
+explosive, the two of them together.
+
+TALIESIN: I'm torn. I don't know if he'd like
+that.
+
+TRAVIS: I don't know if I care. (laughs)
+
+TALIESIN: I don't know if I do, either. I keep
+thinking, I could just shout right now and half a
+
+dozen guards would stop them.
+
+TRAVIS: Yeah. It'd be half a dozen dead guards,
+though.
+
+TALIESIN: Well, what's half a dozen dead guards
+these days?
+
+TRAVIS: Good point.
+
+TALIESIN: There's tale of a brothel in the west
+end of Whitestone. I don't know if it still exists
+
+but I'm sure if you go drinking in that area,
+you might find something. Sorry.
+
+TRAVIS: No, yeah. Yeah. I'll go give it a look.
+
+TALIESIN: When you're in the mood.
+
+TRAVIS: Now's good. Yeah, I'll be back after
+nightfall. Gonna go out for a bit.
+
+TALIESIN: Grog.
+
+TRAVIS: Yeah.
+
+TALIESIN: I know we don't always agree, and I know
+that I can be unkind but...
+
+you know you're family, right?
+
+TRAVIS: I don't know much, but I do know that.
+
+TALIESIN: It's nice having an older brother again.
+
+TRAVIS: I leave.
+
+MARISHA: So what, just-- the half-elves are left
+alone in a room covered in pudding?
+
+MATT: Yeah.
+
+(all laugh)
+
+MATT: Yeah, basically.
+
+TALIESIN: Way to paint a tableau.
+
+MARISHA: Crying.
+
+MATT: Yeah. Crying in your pudding.
+
+MARISHA: Angry.
+
+TALIESIN: I think 'crying in your pudding' is
+actually a British saying.
+
+MARISHA: Do you think that if we would've not
+covered the room in pudding,
+
+that he would have stayed?
+
+LAURA: I start cleaning it up.
+
+Well, he seemed
+pretty pissed that I went and got Kaylie,
+
+even though he ran away with her at the first
+chance he had.
+
+MARISHA: And you had to stay in a shitty BnB,
+a brothel and-- (laughs)
+
+MATT: You see that Pike is still kinda shaking her
+fist in the corner right now. She doesn't say
+
+anything during this whole exchange.
+
+LIAM: Pike--
+
+LAURA: Pike, are you okay?
+
+LIAM: How you doing, Pickle?
+
+MARISHA: Oh, right, Pike. Right.
+
+MATT: He needs to do this... Right? He needs to do
+this.
+
+LAURA: He says he does.
+
+MATT: What do we need to do?
+
+LAURA: I have no fucking clue.
+
+MATT: I need to get a drink.
+
+MARISHA: Yeah. We could always go back to
+Vasselheim and pick up on that little drinking.
+
+LAURA: I'm not gonna go anywhere, Keyleth.
+
+MARISHA: Yeah.
+
+LIAM: I don't wanna go back to Vasselheim.
+
+MARISHA: I mean, we can drink anywhere. Vasselheim
+doesn't have to be in that equation.
+
+MATT: Where else do we have to go? Away from here.
+I just want to be away from here.
+
+LIAM: Pike--
+
+MARISHA: I have to go to the water ashari.
+I have to.
+
+LIAM: And before too long, we have a demon who
+wants you and I
+
+dead in the night. We have to deal with it.
+
+MATT: All right. Anything else?
+
+MARISHA: Pike, you know the Ozmit Sea. You've
+sailed it, yeah?
+
+MATT: It's been a while, but yeah.
+
+MARISHA: We might need you for the water ashari.
+
+MATT: I can do that.
+
+MARISHA: Seems like-- I guess all of us are
+picking up on
+
+our own individual paths from here? I guess.
+
+MATT: Why can't we still help each other out?
+
+LIAM: We can. Of course we can. Pike...
+
+MATT: His path is his own. He has to do his thing
+alone. We don't have to be alone.
+
+LIAM: No. No, we don't. We just wanna slow things
+down for a while.
+
+It's been a long couple of months.
+
+MARISHA: Is Scanlan right? Have we become too
+close to each other? Do we need to all take our
+
+individual time like we've done in the past?
+
+LIAM: No, we just need to not have our lives on
+the line every day. For a little while. Or ever.
+
+Retirement's not a terrible idea. I mean,
+what's the takeaway here, from Scanlan? Can't
+
+hold anything in. Fuck. You know that I've always
+looked up to you, for everything? That I've tried
+
+to model myself after you. Do you know that? And
+you.
+
+You know that she's my best friend,
+right? You know that.
+
+MARISHA: 'Course.
+
+LIAM: You know that I'm madly in love with her,
+right? You know that, right? We don't need to
+
+joke about it or dance around it anymore.
+You know that I'm in love with her, right?
+
+LAURA: Obviously.
+
+LIAM: Obviously.
+
+MARISHA: What are you getting at, Vax?
+
+LIAM: I just don't-- He left because he felt like
+we didn't know him. I'm scared to death about what
+
+I have to give to a fucking god, eventually.
+I'm scared of that. I don't want to do that,
+
+but it's going to happen, and it's destiny.
+I'm scared about that. There. That's out.
+
+Do you have anything that you're holding in?
+You're in love with Percival. We all know that,
+
+right? It's plain as day, right?
+
+LAURA: My take-away from Scanlan is that we all
+talk too much. And I leave the room.
+
+MARISHA: And then I look at Vax and Percy,
+and say--
+
+TALIESIN:  Oh, I'm not there.
+
+MATT: Percy's not there
+
+MARISHA: Oh, sorry. Vax and--
+
+MATT: Pike.
+
+MARISHA: --Pike, and say: And my takeaway is that
+maybe we were forgetting who we were before we all
+
+banded together. And then I leave the room.
+
+SAM: They're all individually going to the room
+next door.
+
+(all laugh)
+
+MATT: Yeah, they're all just congregating in the
+next chamber.
+
+LAURA: And that's where Scanlan's waiting.
+
+TALIESIN: It's like a Black Mirror episode
+
+SAM: Everyone's reading highlights.
+
+LIAM: Crack out the aerator, yo.
+
+TRAVIS: Highlights.
+
+LAURA: Blacklight.
+
+MARISHA: It's the basement in Westworld.
+We all just go catatonic.
+
+MATT: Pike kinda walks up to you as they walk out
+of the room and puts her gauntleted hand on your
+
+shoulder and just says, "We all make mistakes,
+I make 'em a lot."
+
+LIAM: Yeah.
+
+MATT: You have a lot of other people to look up
+to, aside from just me.
+
+LIAM: I've learned that.
+
+MATT: His path is his own. And he'll come back.
+Right?
+
+LIAM: I don't know. But he's our friend.
+I like having him around.
+
+MATT: Me too. (sighs) Let's get a drink.
+
+LIAM: What?
+
+MATT Let's get a drink.
+
+LIAM: Let's get a drink. You wanna go in town?
+
+MATT: Yeah.
+
+LIAM: All right.
+
+MARISHA: I chase down Vex, and we do the same
+thing.
+
+MATT: You guys all individually find your way
+through the rest of the afternoon to discuss,
+
+cope with and ruminate on the separation of
+Scanlan. Going through all the different emotions
+
+you feel that are necessary, and whatever
+
+activities you proceed to distract yourself with.
+Grog.
+
+LAURA: (laughs) Crying in a corner.
+
+LIAM: (mock-crying)
+
+TRAVIS: Crying on bosoms. (mock-crying)
+
+(all laugh)
+
+TRAVIS: I'll pay for this.
+
+MATT: Yes, you will. That's extra.
+
+(all laugh)
+
+MATT: And strangely not uncommon.
+
+LIAM: He's wrapping up the show, I can tell.
+So I came to give Sam a hug.
+
+LAURA: He's not! No, he's not!
+
+MATT: He's not, actually. I don't know where you
+got that idea.
+
+LIAM: Well, I was just getting in a mid-game hug.
+
+MATT: There you go! (laughs)
+
+TALIESIN: This is awkward.
+
+MATT: You guys still got shit to do.
+
+LAURA: Guys, no. Stop it.
+
+MATT: You guys made promises, you're still on a
+timeline for some things.
+
+TRAVIS: Yeah.
+
+MATT: You still have things to do.
+
+MARISHA: No, we know.
+
+TALIESIN: We know.
+
+LIAM: We know.
+
+MATT: Don't take that as Sam closing the curtain
+here. Still got shit to do.
+
+LIAM: I know, but... I craved that, so I took it.
+
+MATT: No, that's okay. Cross-table hugs are fine.
+
+TALIESIN: That was weird.
+
+MATT: The next morning comes around, you're all in
+various states of hungover; should you have chosen
+
+to imbibe with the rest of the party.
+
+LIAM: Heavily.
+
+MATT: Grog eventually wanders in, less hungover
+but more meek about how his previous day was.
+
+TRAVIS: Not my best night.
+
+MARISHA: I see Vax the next morning and I say,
+Look, your sister gave me one of her blue
+
+feathers. It's because this is the darkest
+timeline.
+
+LAURA: I come back and I take that off. I'm like,
+No, Keyleth, you took that from me when you were
+
+drunk last night, actually.
+
+MARISHA: It's because this is the darkest timeline
+and I stole it from you.
+
+LIAM: Pike and I come in wearing fun buns,
+hungover. My face hurts.
+
+LAURA: How is everyone?
+
+MATT: She slaps you.
+
+TRAVIS: Amazing.
+
+MATT: Does it still hurt?
+
+LIAM: Yeah, and also my face hurts as well.
+
+MATT: Good.
+
+LAURA: Percy.
+
+TALIESIN: Good morning.
+
+LAURA: Morning.
+
+MARISHA: What did you do last night?
+
+TALIESIN: Worked.
+
+MARISHA: Worked? You were productive.
+
+TALIESIN: Well...
+
+MARISHA: You made the rest of us look and feel
+like shit?
+
+TALIESIN: I think we all have our ways of
+coping.
+
+MARISHA: What did you make?
+
+TALIESIN: Just some sketches.
+
+MARISHA: Did you bake a cake? I hope you baked a
+cake.
+
+TALIESIN: There's no cake.
+
+MARISHA: I really want coffee cake right now,
+Percy.
+
+TALIESIN: There are people for that.
+
+LIAM: You look like me.
+
+LAURA: Squish-squish. Squish-squish.
+
+LIAM: You look like me. Why do you look like me?
+
+LAURA: You're still drunk. Sober up. It's a new
+day.
+
+LIAM: That's boring.
+
+LAURA: (laughs) Oh, shit! He could've broken his
+nose just then, I swear. Oh my god.
+
+MARISHA: Is it a new day?
+
+LAURA: It is.
+
+MATT: It is.
+
+MARISHA: I thought it was still yesterday.
+
+TALIESIN: Oh hey, I've got all my hit dice back.
+That's nice.
+
+MATT: Yeah, spells are back, you guys are healed.
+
+MARISHA: My staff is charged.
+
+LAURA: You're up from nine points.
+
+TRAVIS: Yeah.
+
+LAURA: Hey, wake up, fuck. Wake up. It's a new
+day. Open your eyes. Hey.
+
+MATT: Pike casts Restoration on Vax.
+
+LAURA: Hey, you're not drunk anymore, look at
+that.
+
+LIAM: I feel good.
+
+(all laugh)
+
+TRAVIS: All right. So, what? First step is the
+most important one, right?
+
+TALIESIN: Well, as far as I know we have three
+things still on our plate.
+
+MATT: Which ones?
+
+TALIESIN: We've got a hand.
+
+LIAM: Hotis.
+
+TALIESIN: We've got the ashari, and we've got a
+demon.
+
+MARISHA: We also have research we have to look at
+that we got from that lair of Raishan's.
+
+TRAVIS: What's the hand?
+
+LAURA: We have to give Ripley's hand to those guys
+in Marquet. I think that's the easy one.
+
+LIAM: That seems like the quickest.
+
+MATT: That's definitely the quickest.
+
+TRAVIS: Let's try that.
+
+LIAM: My mental acuity's on point.
+
+MARISHA: I feel like if I teleport I'm gonna
+puke.
+
+MATT: Pike grabs a bucket.
+
+(all laugh)
+
+TALIESIN: I run to the kitchen. I put together
+something that is not quite, but probably a hot
+
+sauce, with half a raw egg, and shot of something
+that is quite possibly
+
+but not quite some sort of
+fantasy variant of tequila.
+
+MARISHA: You are not--
+
+TALIESIN: Swirl it all up.
+
+MARISHA: -- frat-boy one-shotting me this.
+
+TALIESIN: This is a thing.
+
+LIAM: That's science. Listen to Percy. That's
+science, you need that and you need a traditional
+
+Whitestone breakfast.
+
+LAURA: It's super good, Keyleth, really.
+
+TALIESIN: Yeah, just get it down, just get it
+down.
+
+MARISHA: Why this?
+
+TALIESIN: Don't look at it.
+
+LIAM: Just listen to the science guy and
+chug-a-lug.
+
+TRAVIS: Bottoms up.
+
+TALIESIN: I was kidding. You shouldn't actually
+drink that.
+
+MARISHA: Fuck you, motherfucker!
+
+TALIESIN: Can I get a roll damage?
+
+(all laugh)
+
+TALIESIN: I've done something very similar to that
+on many a morning.
+
+MARISHA: We need to look at this research.
+We need to figure out what Raishan had going on.
+
+LAURA: My brain hurts from crying so much
+yesterday.
+
+MARISHA: I know. Are my eyes puffy?
+
+TALIESIN: Yes.
+
+MARISHA: Do I have bags under my-- thank you.
+
+TALIESIN: You're welcome.
+
+LIAM: You wear it well.
+
+MATT: So what's the plan. What's up first?
+
+TALIESIN: Let's take a quick look at what we got
+from the cave.
+
+LAURA: Maybe bring Allura and Gilmore in here,
+because
+
+we have that book that seemed very
+nefarious.
+
+MARISHA: I help Percy figure things out.
+
+MATT: Okay. From the things that you gathered
+off, a lot of them were candle-holders, there were
+
+various reagents, some of them rotted or dried
+out, a number of books and tomes, some that deal
+
+with poisons, various alchemy. Actually, a similar
+book to the one that you found earlier in your
+
+travels, but an older version of it. And there is
+the one large tome that you acquired that had the
+
+more nefarious-looking leather-bound exterior,
+the thicker piece.
+
+TRAVIS: I'll read this.
+
+LAURA: No, don't touch it, Grog, I don't trust it.
+I want Allura or Gilmore to look at it first.
+
+MATT: The easiest person to find here would
+probably be Allura, in the castle. Well, no,
+
+because Allura's off in Emon helping with the
+destruction. Gilmore would be the only one you
+
+could really speak to currently.
+
+LAURA: Or Eskil.
+
+MATT: Or Eskil. But he's a little wary of you at
+the moment. (laughs)
+
+LAURA: I just keep making people wary of me.
+
+MATT: All right, so you go ahead and you bring
+Gilmore in?
+
+MARISHA: Yeah.
+
+MATT: Okay. And it's easy enough to bring in.
+He's just waking up. (yawns)
+
+"So, what can I help you with?"
+
+LAURA: Hi.
+
+TALIESIN: We found this. Be careful, it was with
+Raishan.
+
+MATT: He takes it, he sits down and places it on
+his lap, and tugs on his braided goatee.
+
+"This smells like shit."
+
+TALIESIN: Several things have died on top of it.
+
+LIAM: I give my armor a sniff.
+
+MATT: Smells-- different kind of shit, but shit
+nonetheless. He takes a look over it.
+
+"This has a very faint magical essence to it. 
+Let me go ahead and--"
+
+He looks over it for a second, his eyes glow with
+that same
+
+arcane purplish energy that flares when he does 
+the Identify spell. Looks over it.
+
+"This is an evil book. Reading this would be
+informative, but would certainly have a cost."
+
+TRAVIS: Like, money?
+
+MATT: Soul-money.
+
+LAURA: Soul-money.
+
+TRAVIS: Do we have any of that in the bag of
+holding?
+
+LAURA: I don't think we do. Not anymore.
+
+MATT: Wouldn't recommend it, Grog.
+
+TALIESIN: What do you recommend we do with this
+book?
+
+MATT: Well, if you ever feel like you want some
+light reading. Or find somebody who's foolish
+
+enough to read it. Or at least has the willpower
+to push through
+
+its dark enchantments. I have no idea.
+
+TRAVIS: Oh, shit.
+
+LAURA: Let's just keep that in a--
+
+TALIESIN: Going to vault that for the moment.
+
+LAURA: Yeah.
+
+TRAVIS: You're saying somebody could read it,
+but they'd
+
+have to make it all the way through the end.
+
+MATT: I don't want to look into it, I'll put it
+that way. But somebody with a strong enough mental
+
+aptitude to be able to not be corrupted by its
+dark magics.
+
+It's my recommendation at the very least.
+
+TALIESIN: Not anyone in this room, is what he's
+saying.
+
+TRAVIS: Right. What else have we got?
+
+TALIESIN: I say hand. It's simple, to the point.
+
+LAURA: I agree.
+
+LIAM: I agree. One and done.
+
+TALIESIN: And we can find the ashari on the way
+back.
+
+MARISHA: Yeah, we can.
+
+TRAVIS: All right.
+
+LAURA: This feels wrong.
+
+TRAVIS: It feels different.
+
+LIAM: Ah, it feels wrong.
+
+MARISHA: That's not on us, though, it's on him.
+
+LAURA: Can you scry?
+
+MARISHA: Me?
+
+LAURA: Yeah. See where he is, what he's doing.
+
+MARISHA: I pull out the scrying eye. Can I hold it
+out in front--
+
+this is kind of flavor-- and I let it
+levitate in front.
+
+MATT: It locks itself in place and slowly
+rotates.
+
+MARISHA: Can I open it like a fortune-teller's
+spying sphere type of crystal--
+
+LAURA: And just like project it on the wall behind
+her so we can watch it like that movie.
+
+MATT: The vision comes to you. It doesn't quite do
+that.
+
+MARISHA: That would be really awesome.
+
+TRAVIS: Can I make it Imax?
+
+MATT: I want that HD download, not the SD.
+
+MARISHA: 5.1 Dolby digital surround.
+
+LIAM: Whoa, it's all around me!
+
+MARISHA: Oh my god, so many lagging issues.
+
+TRAVIS: What's he rolling for?
+
+LAURA: To see if he senses it, maybe.
+
+LIAM: You don't know.
+
+MATT: So what's your wisdom modifier?
+
+SAM: Me?
+
+MATT: Your wisdom saving throw.
+
+SAM: Negative two.
+
+LAURA: Wait, what did you roll?
+
+MATT: What'd you roll?
+
+SAM: I got a two total. But I get advantage
+against magic.
+
+MATT: You do.
+
+SAM: That's a 17.
+
+MATT: Plus your-- what's your wisdom saving throw
+bonus?
+
+SAM: I mean, that's 19, my wisdom is negative
+two.
+
+MATT: Oh, minus two. Got you. And your spell DC
+is--
+
+MARISHA: Oh, I'm spying on those bitches.
+
+MATT: Okay, so. You get a brief view of what looks
+to be Scanlan,
+
+wearing his regular outfit and armor now.
+
+MARISHA: He took his armor off? He's just regular
+clothes?
+
+LAURA: No, he walked out in a fucking nightgown.
+
+MATT: He walked out in a nightgown.
+
+MARISHA: Oh, right, yeah.
+
+MATT: Through this whole emotional circumstance,
+he was in a nightgown. But he is currently,
+
+he's walking through the Parchwood Forest that
+surrounds Whitestone. He is on the path south.
+
+MARISHA: South of Whitestone?
+
+MATT: Yeah. South of Whitestone. To his left is
+Kaylie, and they're both with their sacks over
+
+their shoulders, and they're just hiking through
+the forest. They're, at the moment, not talking,
+
+but they're both slightly smiling. Just kind of
+enjoying the journey, and the company. And you
+
+just watch them walk for a little bit through the
+thick tree canopy above, the well-worn path that
+
+heads south and out of the Parchwood.
+
+MARISHA: He looks content. Happy, even.
+
+LAURA: That's good.
+
+LIAM: Yeah, good on him.
+
+TRAVIS: Can you yell at him?
+
+MARISHA: I feel like he's like flicking off a
+bunch of trees now.
+
+I don't know. He was always an odd one.
+
+LIAM: To be fair, he did that about seven times a
+day.
+
+(all laugh)
+
+MARISHA: He did, yeah.
+
+LIAM: For no reason.
+
+MARISHA: I never knew his animosity toward trees.
+
+MATT: You never know.
+
+SAM: Just in case.
+
+MARISHA: I don't know.
+
+(all laugh)
+
+LIAM and LAURA: Just in case.
+
+MARISHA: Just really hates oaks.
+
+LIAM: Raven Queen, demons, you never know who's
+looking over your shoulder.
+
+LAURA: We should've invited Kaylie to come with
+us. They could've stayed--
+
+LIAM: They don't want that.
+
+MARISHA: I have a feeling there's little chance we
+could talk him out of it. Well! All right.
+
+He's living a nice, happy, content, low-key life
+now. Let's continue on.
+
+LIAM: Yeah, and why shouldn't he, he earned it.
+
+TRAVIS: Yeah.
+
+MARISHA: Yeah, he did
+
+LIAM: He earned it.
+
+TRAVIS: (quietly) Dick. (louder) Sorry, what?
+
+LAURA: Yeah, right.
+
+MARISHA: He saved the world, what more could we
+ask of anybody?
+
+TRAVIS: Let's go. What clears the brain better
+than travel? (sniffs) Or sex.
+
+LIAM: Wait, stop, stop. I was about to say you
+sounded very wise, don't fuck it up. Just, period.
+
+TRAVIS: Period.
+
+LIAM: Travel and sex. Done.
+
+MARISHA: You know, there's merit to that.
+All right, let's go.
+
+LAURA: As we head to the tree, I pull Grog aside,
+and I ask him: Are you all right, Grog? I mean,
+
+I know, I know you got your lady favors out of
+the way and all that, but... Scanlan was your
+
+bestie, right? Outside of Pike.
+
+TRAVIS: Yeah, I'm just bummed, because I'm glad
+he's alive--
+
+LAURA: Well, yeah.
+
+TRAVIS: I think that's what keeps us from being
+terrible. But like-- (sniffs) I only trust like a
+
+few people in the world. You, Scanlan, and Pike.
+And now it's just you and Pike.
+
+LAURA: Me and Pike?
+
+TRAVIS: No, I mean I trust the others, right,
+but like... I know you on a more intimate level.
+
+LAURA: Cause you saw my titties?
+
+TRAVIS: Pretty much.
+
+LAURA: Yeah.
+
+TRAVIS: Yeah. Um.
+
+MARISHA: That's literally it. I don't know if
+they've ever had, like, an in depth conversation.
+
+(all laugh)
+
+TRAVIS: So.
+
+LAURA: Right.
+
+TRAVIS: That's all. I just-- I just feel a little
+more sad on the inside. But I'm all right.
+
+LAURA: I'm sorry, Grog.
+
+TRAVIS: Yeah. I'm glad he's okay.
+
+LAURA: Me too.
+
+MARISHA: Show him your titties again.
+
+LAURA: Do you want to see them? Would that make
+you feel better?
+
+TRAVIS: No, it's not right, right now.
+
+LAURA: Yeah, no, it didn't feel right, I just
+wanted to... all right.
+
+TRAVIS: Yeah, you know. It's... mmm. You know.
+
+(all laugh)
+
+TRAVIS: I appreciate the offer.
+
+MATT: As you walk your way down to the center of
+Whitestone, to the Sun Tree--
+
+LIAM: It's so touching and ridiculous at the same
+time.
+
+MATT: I know. You recall that in the center of the
+city itself, Ank'harel, as it acts as one of the
+
+largest oases in the center of the central Marquet
+desert, there are a number of larger trees of
+
+various types, and there's one not too far from
+the Suncut Bazaar, that you recall. You make that
+
+your designated tree, and upon casting the spell,
+you watch the Sun Tree, tear open the doorway,
+
+and you step across--
+
+MARISHA: As I cast the spell, I just say, Hey,
+Sun Tree? Watch over Scanlan and Kaylie,
+
+okay? And then go though.
+
+MATT: You step through. Okay. You all emerge on
+the outskirts of the Suncut Bazaar. At this point
+
+in time, it would be the beginning of-- just past
+dusk. The sun has gone down in Ank'harel.
+
+But you can still see the oranges and reds and
+purples of the recent sunset in the distance.
+
+The city is bustling. Lanterns are alight all
+throughout. The bazaar itself and all the various
+
+multicolored towers and structures and buildings,
+the beautiful city just stretch up in all
+
+directions around you. You can see the bazaar
+itself is lively with carts that are open,
+
+shouting as various barkers are peddling their
+wares. It's a very upbeat atmosphere, and one
+
+that's a stark change to the Whitestone you just
+stepped away from.
+
+LIAM: And the sun is going down, you said?
+
+MATT: The sun has already gone down.
+
+LIAM: After we just woke up.
+
+MATT: Yes.
+
+LIAM: Jet lag.
+
+LAURA: We fucked up.
+
+MATT: Yeah. Other part of the world.
+
+TALIESIN: Jet lag.
+
+LIAM: Yeah. What?
+
+TALIESIN: Tree lag.
+
+MARISHA: Tree lag.
+
+LIAM: It's a bitch.
+
+MATT: (laughs) Tree lag.
+
+MARISHA: It's the worst.
+
+MATT: You guys begin making your way toward 
+the Debt's Respite, which is the tavern
+
+that housed the Scarbearers. This is where Treev 
+Bonebreaker was when
+
+you last discussed the return of Ripley's
+hand--
+
+LAURA: Right.
+
+MATT: -- as the assassin that killed one of their
+own. And you're returning this hand to absolve
+
+yourselves of implication in this murder.
+
+MARISHA: Yes.
+
+MATT: Since you discovered the body.
+
+TALIESIN: I'm, for the record, not wearing the
+cloak when we do this.
+
+MATT: Okay.
+
+LAURA and MARISHA: Hey!
+
+MATT: Good point!
+
+TALIESIN: And just for the record, I know I'll get
+yelled at for twitter on this. I have informed my
+
+sister where I'm going and what's going on.
+Not just going willy-nilly.
+
+MATT: Right, right, Cassandra is aware. All right.
+You guys walk through, you catch a few eyes as
+
+you are not just outsiders walking through
+Ank'harel,
+
+but you're all adorned in, you know,
+beautiful artifact armor--
+
+LAURA: Right, we didn't put on our--
+
+MATT: Magical weapons--
+
+LIAM: God wear.
+
+MATT: God wear, essentially. And as you walk
+toward the Debt's Respite tavern, on the
+
+outside you can see, there's what looks to be an
+eight-and-a-half-foot tall, humanoid, golem-like
+
+metallic construct. It looks similar to a golem,
+but it's smaller. Like the iron golems you've
+
+fought before, but it's smaller in scale.
+
+LIAM: Like the one we fought in J'mon's.
+
+MATT: Yeah, J'mon's, but much smaller. It's less
+bulky, and more just a functional, tall,
+
+metallic humanoid-type construct.
+
+LIAM: Protocol droid.
+
+MATT: Yeah. You see it's clutching--
+
+MARISHA: (gasps) It's basically the Vision?
+
+MATT: A little more ramshackle in construct.
+
+MARISHA: Ah, okay.
+
+MATT: It's clutching a leather tome in one hand
+that is open, and is holding what looks to be a
+
+quill in the other, and it's just standing there
+quietly. To the front of it you see, almost
+
+waiting outside the tavern in the process of
+thumbing through some satchels, you see a handsome
+
+human male. Late 30s or so, with shoulder length,
+feathered, dirty blond hair and blue-green eyes,
+
+a well groomed goatee adorning his dashing smirk
+as he turns and looks across you and very quickly
+
+the eyes very overtly take in and categorize your
+decor, your dress, your stature. And the smile
+
+grows even wider. His frame is svelte, he's
+adorned a set of polished, immaculate breastplate
+
+armor with numerous satchels all around him,
+and he carries a silver helmet under his arm that
+
+shines with many, many embedded gems: diamonds,
+opals. Just an opulent-looking figure who's
+
+wearing what looks to be barely used, or at least
+very well-kept armor and jewelry and adornments.
+
+Immediately catches their attention.
+
+SAM: You there!
+
+LAURA: (gasps)
+
+SAM: You lot! Hello! Wow! Who are you all? Look at
+this, magical items from head to toe. Why,
+
+I've never seen anything quite like it.
+
+LIAM: Pouring it on a little thick, friend.
+What's up?
+
+SAM: Doty, come here, will you? Take this down.
+
+MATT: (stomping and creaking sounds) And you watch
+as the giant construct takes a few steps forward
+
+and begins writing into the book.
+
+SAM: In my travels through--
+
+LAURA: Fuck! It's a kleenex, it doesn't work! You
+piece of shit!
+
+LIAM: God dammit.
+
+MARISHA: That couldn't have been more uncanny!
+
+LAURA: Fuck! I didn't want to throw something hard
+at him.
+
+MARISHA: Hoooly shit.
+
+LIAM: Fucking. Hell. (bangs table)
+
+SAM: Doty. Doty, take this down: In my travels in
+Anh'karel, I have never seen so many magical items
+
+in one place. But then I saw them, walking up to
+me, and I knew I had met some very special people.
+
+That's it for now. Hello! Nice to meet
+you all. The name is Taryon Darrington.
+
+(all laugh)
+
+MARISHA: Darrien Darriton?
+
+Sam: Tary-ann-- Taryon Darrington.
+
+MARISHA: Darrington.
+
+SAM: My friends just call me Tary. And I'm a bit
+of an adventurer. I've been traveling around this
+
+continent for a while, trying to tick off things
+off of my list, and I've had a few scraps and
+
+scrapes. And I'm looking for more adventure.
+I was travelling with a band of ne'er do wells
+
+that I had hired and, well, let's just say many of
+them were killed. Heh. SO. I was looking to employ
+
+a ragtag group of people, elves, whatever you
+are.
+
+To accompany me, sort of be my side men,
+if you will.
+
+LAURA: (disgruntled) Oh.
+
+SAM: How much would a band like you cost for a
+day?
+
+LAURA: 50,000 gold.
+
+SAM: Oh. That's nothing. Would you--
+
+TRAVIS: An hour.
+
+SAM: I'm sorry?
+
+LAURA: 50,000 gold an hour.
+
+MARISHA: It's like our retainer fee.
+
+LAURA: (quietly) Good thinking, Grog.
+
+SAM: Well, I tend to employ people on a
+month-by-month basis, and you get a cut of the
+
+treasure as we go, of course. We can work out the
+particulars, but are you in fact, guns and-- or,
+
+not guns. Swords-for-hire?
+
+TRAVIS: What, are you going after treasure?
+
+SAM: I'm going after many things. I have a long
+list of things I want to tick off.
+
+TRAVIS: Are you famous?
+
+SAM: Of course I am. You haven't heard of...
+Well, you haven't heard of me yet because my book
+
+hasn't come out yet. Doty here is recording my
+legendary
+
+adventures as I travel around the continents.
+
+TRAVIS: How thick is the book?
+
+MATT: It's pretty thick. Make a perception check.
+
+TRAVIS: (surprised) Oh.
+
+LAURA: Wow.
+
+TRAVIS: 18!
+
+MATT: Okay. It's a pretty thick book, but it looks
+like Doty is maybe a third into it. A fourth.
+
+TRAVIS: Lots of scribbles in that book.
+
+SAM: Yes, I haven't settled on a title yet.
+It will either be-- "Tary's Adventures". It's sort
+
+of lame, sort of lame. Or it could be "Daring
+Adventures of Darrington" or it could be "Tarry On
+
+with Taryon". Or something like that, I'm working
+on the title, I have a while to finish it.
+
+LAURA: (sarcastic) They're all very clever.
+
+TALIESIN: The Daring Trial and Tribulations of
+Tary Darrington.
+
+SAM: That's fantastic! Doty, please write that
+down.
+
+MATT: (creaks and squeaks)
+
+SAM: I knew you were special when I ran into you
+all, my goodness.
+
+LIAM: Hey, buddy boy, we have to go to the Nine
+Hells
+
+in the not too distant future, are you down
+for that?
+
+SAM: Well.  Hold on, let me check my list....
+that is on the list. It was... lower down, but,
+
+it's another thing I have to tick off before I'm
+a real adventurer!
+
+So, I'm up for anything if you are.
+
+LIAM: Hm. I do not like you.
+
+MARISHA: This fucking asshole, am I right? This
+fucking asshole.
+
+TRAVIS: Can I insight check Asshole?
+
+MATT: Yes, you may.
+
+LIAM: Look at this willing accomplice
+motherfucker!
+
+MARISHA: I know!
+
+LAURA: You piece of shit, both of you.
+
+MARISHA: You're all pieces of shit.
+
+LAURA: I'm so angry at everything right now.
+
+TRAVIS: Is it perception or what on that?
+
+MATT: Insight.
+
+TALIESIN: It feels weird. New dad is wearing old
+dad's skin,
+
+and trying to do an impression of him and--
+
+MARISHA: (yelling) I don't like change!
+
+LIAM: Who cares about the whisper, what's going 
+on, Sam?
+
+MARISHA: Bullshit.
+
+TALIESIN: Tell us about the LootCrate, Sam! Tell
+us about the LootCrate.
+
+LAURA: How dare you, Samuel? (gasps) He has a new
+character sheet. I'm going to cry, again.
+
+TALIESIN: Ah! Mother lied. Ah.
+
+LAURA: I'm going to cry again. Nope. I hate Tary.
+He's a dick.
+
+TRAVIS: We are actually--
+
+MARISHA: You're going to make Laura cry.
+Look what you've done.
+
+TRAVIS: We are currently under--
+
+TALIESIN: Dick.
+
+MARISHA: (yelling) Fuck you, Ryan Green! Fuck
+you!
+
+LIAM: This show is breaking apart because of you,
+Sam!
+
+MARISHA: You were part of this too!
+
+LIAM: Show me on the character sheet where the bad
+DM touched you.
+
+MATT: So, bringing it back to current conversation
+at hand.
+
+TRAVIS: We are currently employed right now.
+We're on a very, very dangerous mission.
+
+LAURA: A super important mission.
+
+TRAVIS: However, it ends here. So, if you have the
+coin, and maybe if you prove yourself not to be
+
+too much of a lag-behind.
+
+Percy, what do you feel like--
+
+TALIESIN: I'm just saying, look, it's not like we
+don't have business right now. You seem...
+
+what does he seem like?
+
+MARISHA: Yeah, what do you do, Tary?
+
+SAM: I'm an adventurer!
+
+TRAVIS: He's an adventurer.
+
+(all laugh)
+
+TALIESIN: You seem like a person, and that's
+great.
+
+TRAVIS: Like Kenneth Branagh in Harry Potter.
+
+LIAM: He seems like a prat.
+
+TALIESIN: I'm trying not to judge at the moment,
+and--
+
+LIAM: That's what you do.
+
+TALIESIN: I know. I've had a bad day.
+
+MARISHA: We trust you to judge.
+
+TRAVIS: What does he do?
+
+SAM: That's my biographer, Doty.
+
+TRAVIS: Does he just write stuff?
+
+SAM: If I tell him to. He also has other skills.
+
+LAURA: What does he have?
+
+SAM: Many things. I can grant powers to many
+people.
+
+For instance: you, Little Elf Girl, 
+what's your name?
+
+TRAVIS: (laughs) (quietly) I'm gonna move over
+here.
+
+MARISHA: Hell no. Oh-ho-ho-ho.
+
+TALIESIN: I take it back, I like him.
+
+LIAM: Wait, I'm stealthing.
+
+MATT: Flames on the side of my face. Fire.
+Heaving breaths.
+
+MARISHA: Keyleth uses a fog cantrip and just fades
+into the alleyway.
+
+LIAM: I rolled a 33 on stealth, I'm gone!
+
+TALIESIN: And I just hex into the shadows.
+
+MARISHA: It's like we're in a Western when they
+cut back to the tavern and everyone's gone.
+
+MATT: Basically.
+
+LAURA: I walk up to him. What kind of adventurer
+are you
+
+if you've never heard of Vox fucking
+Machina?
+
+SAM: Ooh! Is that a band of evildoers, is that a
+roving goliath horde?
+
+LAURA: Where the fuck have you been? Who are you?
+No really, who the fuck are you?
+
+SAM: My name is Taryon Darrington, I am an
+adventurer,
+
+and I have more recently set out on my
+journey, that is true.
+
+LAURA: This armor looks very new.
+
+SAM: I have not seen so many real battles yet,
+but I have fought many beasts.
+
+LAURA: Mm.
+
+SAM: There was one, it was a smallish beholder,
+and my men took it out into a field for me and
+
+sort of roughed it up for me, and then when the
+time was right for the kill, they said "Come on in
+
+and kill it!" And I came in and used my powers and
+killed it and I checked it off the list.
+
+LAURA: Oh, I see.
+
+SAM: Yes. It was so thrilling.
+
+TRAVIS: Your men, are you--
+
+LAURA: The ones that died.
+
+TRAVIS: Oh.
+
+LAURA: Right?
+
+SAM: They also perished, that was a different
+group, yes.
+
+LAURA: Wonderful.
+
+SAM: But they were well-paid before they went,
+and I'm sure they sent some of the money home.
+
+Some of them, I think they do that, typically.
+
+TRAVIS: What else is on your list, what're you
+looking for?
+
+SAM: I've got a long list of beasts and animals
+I'd like to slay--
+
+TRAVIS: Just give me one.
+
+SAM: Uh, naga, I think that's how you say it.
+
+LAURA: That is how you say it.
+
+TRAVIS. It's actually nah-jah.
+
+SAM: Okay.
+
+MARISHA: (laughs) Nah-jah!
+
+SAM: I've already gotten a smaller beholder.
+Someday I'd like to see a dragon, maybe have a
+
+crack at it or two.
+
+LAURA: Oh, I'm sure you'd take it out in no time,
+dear.
+
+TALIESIN: Right.
+
+MARISHA: Man, I fucking hate this guy.
+
+SAM: I feel like you're condescending to me! I'm
+not, I'm not a dullard, here. I can do a lot of
+
+things! My wealth has bought me many different
+artifacts from my travels,
+
+and they all do majorly magical things.
+
+TRAVIS: What kind of weapons does he have on him?
+
+SAM: I have a rod.
+
+LAURA: An Immovable Rod?
+
+TRAVIS: Is it movable?
+
+SAM: No, it's whatever I want it to be. Sword!
+
+MATT: You watch as the rod all of a sudden
+transforms into this sudden liquid, metal-like
+
+visage, and then solidifies into a longsword.
+
+SAM: Fire!
+
+MATT: It bursts into flames.
+
+TRAVIS: Now that is fucking great.
+
+SAM: It's fucking cool, isn't it?!
+
+LAURA: How much money did that cost?
+
+SAM: Oh, like, 400,000 gold or something? It was a
+lot of money. I don't quite... Doty keeps the
+
+facts and figures. Doty, can you show me that
+piece of the book?
+
+MATT: (mechanical squeaks, pages turning,
+squeaks). Turns it around.
+
+SAM: That's embarrassing.
+
+MATT: Shows the page to you and you glance through
+it, and the actual construction of the item cost
+
+you upwards around 65 to 70,000 gold.
+
+LAURA: That's it?!
+
+MATT: It's a lot of money.
+
+LAURA: Well I know, but--
+
+TRAVIS: So wait, you want to come with us,
+or you want us to come with you?
+
+SAM: I don't have a current adventure right now.
+Fire off.
+
+Still getting used to some of the
+contraptions.
+
+LAURA: Tell you what, Tary? 50,000 gold and you
+can follow us right now as we finish this very
+
+adventurous errand we're running.
+
+MARISHA: What! Vex!
+
+TRAVIS: Yeah!
+
+MARISHA: What?!
+
+LAURA: 50,000 gold. Small fee.
+
+SAM: What kind of adventure is this, again? You
+mentioned
+
+you're going to do something very dangerous.
+
+LAURA: It's so dangerous.
+
+TRAVIS: So dangerous.
+
+LAURA: We're going into this dangerous--
+
+SAM: Can you tell me what it is?
+
+LAURA: I'm afraid I can't, it's very--
+
+TRAVIS: It's a test of your reflexes, on point,
+how you handle things you're not quite ready for.
+
+SAM: I could limber up, sure.
+
+LIAM: I stealth up behind Keyleth and rest my chin
+on her shoulder and just say
+
+Whaaat the fuuuuck.
+
+(all laugh)
+
+MARISHA: And I just say
+
+I knoooow. 
+Um, Vex.
+
+LAURA: What?
+
+TALIESIN: One moment, sir. Huddle.
+
+MARISHA: Huddle. Is 50,000 dollars worth dealing
+with this annoying piece of shit?
+
+LAURA: While we go drop off a hand?
+
+MARISHA: Look, it just feels like when your guinea
+pig dies as a kid and then you immediately get
+
+another guinea pig to replace it? This doesn't
+feel good.
+
+TRAVIS: You don't like him, right?
+
+LAURA: You think he's replacing Scanlan?
+
+MARISHA: No! I just, I don't want another guinea
+pig!
+
+LAURA: This piece of shit would never replace
+Scanlan.
+
+MARISHA: He's a fabricator! He gets ghostwriters
+to write all of his books, I bet he does!
+
+LIAM: He's a schmuck.
+
+TRAVIS: He probably does. Keyleth, you don't like
+him very much, right?
+
+MARISHA: I don't like new people right now,
+as of yesterday!
+
+TRAVIS: But like, 50,000 gold and we have ourself
+a very flamboyant distraction if we need it.
+
+LAURA: Think about it, for 50,000 gold, we're only
+15,000 gold away
+
+from getting one of those fucking
+flaming swords!
+
+SAM: While they're talking, I'm working on my rod.
+Battleaxe!
+
+LAURA: Look at how fucking cool that rod is!
+
+TRAVIS: He's in. He's fucking in.
+
+MARISHA: No!
+
+TRAVIS: Look at the battle axe! Holy shit!
+
+MARISHA: You guys, he's like the worst alter-ego
+version of Percy!
+
+He's a rich kid who just buys all of his
+cool toys. No offense, Percy.
+
+TALIESIN: None taken.
+
+(all laugh)
+
+MARISHA: It's true though! He's not legit!
+
+LIAM: I don't like him either, but I'll just say
+two words: Hotis bait.
+
+TALIESIN: Yes, that's my thought.
+
+LAURA: Maybe he is Hotis.
+
+MARISHA: Oh yeah, what if he is Hotis?
+
+TRAVIS: He's not.
+
+MARISHA: How do you know, Grog?
+
+LIAM: He hasn't tried to seduce me.
+
+TRAVIS: I'm a dark wizard.
+
+LAURA: I've always known.
+
+TRAVIS: Yeah.
+
+TALIESIN: I'm not going to pretend I'm not mildly
+entertained by the distraction at the very least.
+
+We just have to drop off a hand.
+
+MARISHA: And then he's gonna take credit for
+dropping off a hand,
+
+like it's some crazy, miraculous thing!
+
+LAURA: Let him take credit for the hand.
+
+TALIESIN: Do you want credit for dropping off a
+hand?
+
+MARISHA: No! I don't care. It's the principle of
+the matter!
+
+TRAVIS: Is there a fighting arena in Marquet,
+or anywhere
+
+we could find a scrap if we wanted to?
+
+MATT: I mean, I believe there is. Let me find the
+name of it real fast.
+
+TALIESIN: We also could report in to a certain
+dragon about things that have happened.
+
+LAURA: We actually need to because we promised
+Jarett we would talk to J'mon.
+
+LIAM: So many things to do.
+
+TALIESIN: Let's just--
+
+LIAM: While Grog's thinking about that, I pull him
+aside and say
+
+Did I ever show you I know how to
+summon a dragon, d'you know how to do that?
+
+TRAVIS: No.
+
+LIAM: Watch and learn from my hand symbols.
+What do you think of that, big guy?
+
+TRAVIS: And I grab his hands with the Titanstone
+Knuckles--
+
+LIAM: Ow! Ow!
+
+TRAVIS: -- and squeeze.
+
+LIAM: Jeepers creepers, you've killed my dragon!
+
+MARISHA: Grog! Grog!
+
+TRAVIS: Don't --
+
+MARISHA: Grog! Grog!
+
+TRAVIS: -- summon the dragon. Uh, what?
+
+MARISHA: Grog, no, no, let go, Grog drop it,
+Grog drop --
+
+TRAVIS: -- baby dragon
+
+MARISHA: Drop it, drop it, good boy!
+
+LIAM: See if I ever do anything nice for you
+again! Jeez!
+
+TRAVIS: Well, I thought you were being taken over.
+D'you need me to make sure you're all right?
+
+TALIESIN: Very proud of you Grog.
+
+LIAM: Will you kiss it? I thought so. And I walk
+away.
+
+MARISHA: Grog.
+
+TRAVIS: He comes. C'mon.
+
+LIAM: We are fucking slap-happy.
+
+TALIESIN: C'mon then.
+
+TRAVIS: Besides I wanna see him get in a fight,
+let's audition him at least.
+
+TALIESIN: Vex, let's let the money tag along.
+
+LAURA: Yeah.
+
+TALIESIN: It'll be fine.
+
+MARISHA: Okay, but I'm--
+
+LAURA: C'mon, pretty boy, let's go.
+
+MARISHA: -- gonna be pouty about this.
+
+SAM: Doty, take this down. As the group turned
+around, I knew I had them.
+
+(all laugh)
+
+SAM: And our adventure was about to begin.
+End chapter.
+
+(all laugh)
+
+LAURA: I hate him so much!
+
+MARISHA: I hate him so much!
+
+TRAVIS: I love him.
+
+LIAM: I miss Scanlan!
+
+(all laugh)
+
+MATT: As you guys decide against your better
+judgment to
+
+accept your companion for the time being--
+
+LIAM: Don't like that word!
+
+MATT: -- you make your way into the Debt's Respite
+Tavern to meet with
+
+Treev Bonebreaker and deliver the right hand.
+
+LAURA: Wait, wait, I wanted that gold up front!
+
+SAM: Oh! I don't carry 50,000 gold with me on my
+person!
+
+LAURA: Well, you carry platinum, how much do you
+have?
+
+SAM: I-- not--
+
+LAURA: Doty, how much platinum does he have on him
+right now?
+
+SAM: Doty, go ahead and speak.
+
+MATT: No response.
+
+SAM: Go ahead, Doty, speak.
+
+LAURA: Doty!
+
+SAM: Oh, that's right, Doty can't speak.
+Doty's a machine.
+
+LAURA: Doty, show me the ledger. How much platinum
+does he have on his person right now?
+
+MATT: There's no response.
+
+LIAM: (robot beeping sound effects)
+
+SAM: Doty only listens to me. If you had some sort
+of a pet, you would understand.
+
+TRAVIS: (gasps) Oh, I'm gonna love Tary so much!
+
+MARISHA: Vex! Vex, kick his ass!
+
+TRAVIS: I'm gonna love him so much.
+
+MARISHA: Kick his ass, Vex!
+
+LAURA: Gold up front or you don't join us.
+
+SAM: How about this? I'll give you a little
+present, just for you, little elf girl. And I flip
+
+her a silver coin that I have put a spell into.
+I've put--
+
+LAURA: I don't catch the coin.
+
+MARISHA: You're like all the bad things about the
+internet as a character.
+
+LAURA: It's a piece of shit silver coin,
+I don't need your stupid silver coin.
+
+SAM: It's a special coin, you should pick it up.
+
+TALIESIN: Did he flip the coin at her?
+
+MATT: He did.
+
+TALIESIN: I was thinking of intercepting it anyway
+so--
+
+MATT: Okay. It would be easy to do with your
+Gloves of Missile Snaring.
+
+TALIESIN: Yeah, I have Gloves of Missile Snaring.
+I intercept it.
+
+SAM: Well, that was for the elf girl but all
+right, sure, you can use it too. When you need it,
+
+if you just hold that coin up, you'll turn
+invisible.
+
+TRAVIS: Seriously? An invisible-making coin?
+
+MARISHA: No! Grog, no! Do not show satisfaction in
+the things he says.
+
+TRAVIS: This is just my gut reaction though.
+
+MARISHA. Even if you're impressed, we pretend like
+we're not. Pretend like you're not impressed.
+
+TALIESIN: I'm not saying I can't be bought--
+
+LIAM: You said that very loud.
+
+SAM: Hey, big man.
+
+TRAVIS: Yeah.
+
+SAM: Look at this. Heavy crossbow!
+
+TRAVIS: It's the most amazing thing!
+
+MARISHA: Grog!
+
+TRAVIS: I mean, hold on! Not impressed.
+
+SAM: You can shoot it!
+
+TRAVIS: I wanna shoot it!
+
+(all laugh)
+
+TRAVIS: (bvvm!)
+
+MATT: (tsoo!)
+
+TRAVIS: Yeah, oh shit, take it back.
+
+MATT: You have no idea where it went, it arced way
+out of your line of sight.
+
+SAM: That was pretty good.
+
+TRAVIS: That's cool.
+
+SAM: Yes!
+
+TRAVIS: He stays.
+
+TALIESIN: Let's get the hand to its final
+destination.
+
+LAURA: Ugh!
+
+TRAVIS: Or you can kill him and take the weapon
+later.
+
+LAURA: I will.
+
+LIAM: He's slow. None of the rest of us like you,
+so fucking watch it, all right?
+
+LAURA: We're such dicks!
+
+SAM: And with that we embarked on our new
+adventure! The adventures of, what was it again?
+
+TALIESIN: (sighs)
+
+LIAM: What a dillweed!
+
+SAM: This is going to be fun, fun, fun!
+
+(all laugh)
+
+MATT: As you walk into the Debt's Respite Tavern,
+we're gonna end tonight's session there and pick
+
+this up next week.
+
+(all cheer, groan, yell)
+
+LIAM: You break our hearts and then pull that
+asshole out?
+
+LAURA: You asshole! How dare you? How dare you?
+
+TALIESIN: Unbelievable!
+
+MATT: Oh, it's beautiful.
+
+LAURA: I am so angry at you!
+
+MARISHA: You were on the Critical Role wikia last
+night weren't you?
+
+TRAVIS: Tary berry.
+
+TALIESIN: Yes, he was, he has it all--
+
+SAM: Tary Darrington.
+
+LIAM: You ain't know all our characters' mothers'
+names, you motherfucker.
+
+SAM: I know all of your parents' names.
+
+LIAM: After Googling that shit!
+
+SAM: Because I love you!
+
+LAURA: Whatever!
+
+SAM: I love you so much!
+
+LAURA: Sam you're the least-- you don't care about
+any of it!
+
+SAM: I am the most sincere!
+
+LAURA: You're a dick!
+
+TRAVIS: That was amazing.
+
+LIAM: It was amazing, it was amazing.
+
+TALIESIN: I love that-- I wish that everyone could
+see that the crew is in
+
+utter revolt behind us right now.
+
+MARISHA: Yes! Get him! Get him!
+
+TALIESIN: And they've all got nerf guns!
+
+LAURA: Get him! Get him! He deserves it!
+
+LIAM and TALIESIN: You're tearing this family
+apart!
+
+SAM: No, I'm Tary-ing this-- Tarying this--
+
+MATT: Tary-ing this family apart, oh my god!
+
+(all laugh)
+
+MATT: Thank you Loot Crate for sponsoring us.
+You guys are awesome. Much love to you guys,
+
+have a wonderful week. We'll see you soon.
+Is it Thursday yet?
+
+TALIESIN: Big hand for Sam Riegel, holy shit!
+
+[ART]

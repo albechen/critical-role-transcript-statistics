@@ -37,13 +37,29 @@ def extract_lines(raw_lines):
                         cont_line = line
                     else:
                         cont_line = line
+                else:
+                    cont_line += ' ' + line
             elif org_list == []:
                 pass
             else:
-                cont_line = cont_line + ' ' + line
+                cont_line += ' ' + line
         else:
-            split_line = split_name_speech_count(cont_line)
-            org_list.append(split_line)
+            if ':' in line:
+                colen_index= line.index(':')
+                if colen_index <= 30:
+                    split_line = split_name_speech_count(cont_line)
+                    org_list.append(split_line)
+
+                    split_line = split_name_speech_count(line)
+                    org_list.append(split_line)
+                else:
+                    cont_line += ' ' + line
+                    split_line = split_name_speech_count(cont_line)
+                    org_list.append(split_line)
+            else:
+                cont_line += ' ' + line
+                split_line = split_name_speech_count(cont_line)
+                org_list.append(split_line)
 
     ep_df = pd.DataFrame(org_list, columns =['name', 'speech', 'count'])
 

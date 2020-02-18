@@ -1,0 +1,7220 @@
+MARISHA: Hi, everyone, and welcome to tonight's
+episode of Critical Role! Trinket's Honey Heist!
+
+Oh my god. I would like to start off by saying
+that this is terrifying. And that's it! So, let's
+
+get to our announcements really fast. I believe we
+have a sponsor, right, Sam Riegel?
+
+SAM: We do have a sponsor tonight. Our sponsor
+tonight is Marvel Puzzle Quest, friends of the
+
+show. Now, here's the thing. I was so excited
+about the Honey Heist and having Marisha Ray as
+
+our DM, I forgot to write an ad for Marvel Puzzle
+Quest. Don't worry, though. We're in good hands. I
+
+prepared for such an event. A long time ago, I
+recorded a generic ad, so we'll just play that in
+
+its stead, because I didn't write anything
+original. So guys, go ahead and roll that generic
+
+ad. Here it comes. Little delay. It's going
+great.
+
+OFF-SCREEN VOICE #1: Hey big bro, what you doing?
+
+OFF-SCREEN VOICE #2: You're such a dweeb, little
+bro. You haven't heard of--
+
+SAM: Marvel Puzzle Quest!
+
+#1: Sounds awesome, but wait. What's--
+
+SAM: Marvel Puzzle Quest!
+
+#2: Dude, it's the best--
+
+SAM: Video game!
+
+#2: --I've ever--
+
+SAM: Played!
+
+#2: --It's so killer-diller, because it's got--
+
+SAM: Features some of your Marvel teams, like
+X-Men, Avengers, and Guardians of the Galaxy!
+
+#1: No way!
+
+#2: Way! And also--
+
+SAM: You can recruit Thor, from Thor: Ragnarok,
+and Nightcrawler!
+
+#2: --which is way radical!
+
+#1: Sounds tubular! Can I try your--
+
+SAM: Marvel Puzzle Quest!
+
+#2: Whoa, whoa, I don't let doofuses touch my--
+
+SAM: Marvel Puzzle Quest!
+
+#2: --get your own!
+
+#1: Me? But how? I'm not made of money!
+
+#2: You don't need to be, you dingus! You can
+get--
+
+SAM: Marvel Puzzle Quest!
+
+#2: --for the low price of--
+
+SAM: It's free.
+
+#1: Hold up! It only costs--
+
+SAM: It's free.
+
+#2: That's right, nerd-face! The price is--
+
+SAM: It's free.
+
+#1: Whoa! That's so--
+
+SAM: Affordable.
+
+#2: I know! So get some--
+
+SAM: Marvel Puzzle Quest!
+
+#2: --for yourself at your local--
+
+SAM: Apple Store, Google Play, Amazon App Store,
+and Steam!
+
+#1: Oh, you know I will, big bro!
+
+#2: Righteous, little bro!
+
+#1: Sweet!
+
+#2: Boo-yah!
+
+#1: Dope!
+
+#2: Ch'yeah!
+
+#1: Whoomp, there it is!
+
+#2: Fucken!
+
+#1: Phat!
+
+#2: Gettin' jiggy!
+
+SAM: This goes on for a while. Let's cut it
+there!
+
+#2: Talk to the hand!
+
+#1: Ch'yeah!
+
+#2: Yeah!
+
+#1: Ch'yeah!
+
+SAM: Sorry about that. It's a long one, guys.
+
+TALIESIN: You were so prepared. I don't feel well
+anymore.
+
+BRIAN: I hope that the audio of that stuff didn't
+end up on the stream, and they just saw you going,
+
+"Marvel Puzzle Quest!"
+
+SAM: That would be amazing. Sorry it took so long,
+Marisha.
+
+MARISHA: No, anything to delay my impending doom.
+Okay. Merch! Laura knows what's up, isn't that
+
+right--? Oh, Matt, you want to do merch?
+
+MATT: Hi! I mean, the big news is that today,
+available, we have the art book!
+
+SAM: Oh my god!
+
+LIAM: It's so beautiful.
+
+TALIESIN: It's full of stars.
+
+LIAM: Oh hi, Sam, have you seen our art book?
+
+SAM: No, I haven't!
+
+LIAM: I can't open it now.
+
+TALIESIN: We cannot open the art book.
+
+SAM: You still can't even open it, now?
+
+LIAM: We're not going to show the audience the
+insides! Oh my god!
+
+MATT: Show them one page?
+
+LIAM: One page? I don't know. We'd have to have
+clearance or something, isn't that how it works?
+
+MATT: I will provide clearance right now. For
+one page! It's on sale today, come on!
+
+LIAM: Okay, okay.
+
+BRIAN: They can sue Matt Mercer.
+
+LIAM: I guess, I guess. Shit, man. Let's do this
+Percy page, this bomb-ass double Percy spread. Ooh!
+
+(yelling)
+
+MARISHA: Pretty bomb-ass!
+
+LIAM: Look at this gorgeousness!
+
+SAM: Security's coming down, they're going to shut
+us down. Close it, close the book!
+
+LIAM: Sorry, Rachel.
+
+MATT: I'll take the heat for it. Yeah, so that's
+up.
+
+TALIESIN: These are now available for order.
+They're beautiful and amazing and fabulous.
+
+MATT: I heard there was a bit of an issue earlier
+today? A kerfuffle with international shipping?
+
+But that has since been fixed.
+
+TALIESIN: Yeah, we have more or less evened that
+out now, so there's currently a standard rate, I
+
+believe, for international shipping.
+
+MATT: And for people who've already paid, I
+believe we're getting that fixed. Most today, and
+
+some tomorrow.
+
+TALIESIN: Yeah, there's a few that are a little
+tricky.
+
+MARISHA: Why does it get so weird about books?
+
+TALIESIN: It's weird. They were showing me charts
+and graphs to explain what happened this morning,
+
+and it was all very complicated, but it basically
+boiled down to our standard Benny Hill
+
+ridiculousness.
+
+MARISHA and TALIESIN: (singing Yakety Sax)
+
+BRIAN: We have this shirt.
+
+SAM: Oh yeah! That's Matt Mercer with white
+sunglasses!
+
+MATT: No flesh!
+
+TALIESIN: An absence of Matt Mercer.
+
+BRIAN: The coolest Kanye West sunglasses on you've
+ever seen.
+
+MATT: They're a little broken, but they work fine
+for the image.
+
+TALIESIN: We also have the scarves, although none
+of us have the scarves on right now.
+
+BRIAN: You will see the scarves during the break.
+
+TALIESIN: And many other things.
+
+LIAM: Yeah, go to the shop. There's lots of shit.
+
+BRIAN: The d20s are in. The new Vox Machina d20s
+are in the shop.
+
+SAM: Don't forget to watch Brian's stupid show,
+every Tuesday night.
+
+BRIAN: Don't forget to watch Brian's stupid 
+show before it gets canceled.
+
+MARISHA: Yeah. Oh, we have a weird announcement
+that came up pretty fast, as of yesterday. We are
+
+married.
+
+MATT: We did get married. That's a thing.
+
+MARISHA: That didn't happen that fast, though.
+That was very long. That was a lot, but we're
+
+married now.
+
+(Sam clinking his mug)
+
+MATT: No, I cannot--
+
+TALIESIN: That's a deep cut inside joke, right
+there.
+
+MARISHA: Force Grey is coming up.
+
+MATT: Yes, not this Saturday, but the Saturday
+after that. November 18th, I think? Yes. We're
+
+doing the Force Grey finale for season two in New
+York. Tickets are available. You can go to the
+
+official Dungeons & Dragons Twitter, or my
+Twitter, for information. With fantastic guests
+
+like Deborah Ann Woll, Joe Manganiello, which
+you've seen here on the show, Dylan and Utkarsh
+
+are going to be back from the series, and we have
+our fifth player to announce!
+
+MARISHA: I'm jumping in as of yesterday! Yeah!
+
+BRIAN: I didn't think they had that kind of
+budget!
+
+MARISHA: We need one more person! We're down a
+player! So I am playing a tortle named Clarapin
+
+the therrapin. Pretty stoked. Or maybe it's
+terrapin, I don't know. It's still new. I'm still
+
+working it out in my head. But I think we have a
+picture of Clarapin. There's no vetting monitor,
+
+nothing, over there. Ooh! Aah! That's good old
+Clarapin! She's a bard!
+
+LIAM: They just ran a picture of Squirtle.
+
+MARISHA: Yeah, they totally could have. Teenage
+Mutant Ninja-- And moving on from that, the
+
+Critical Role podcast is up to episode 70. You can
+get it on Amazon Echo, Echo Dot, Echo Plus, as
+
+well as Alexa-enabled devices, as well as other--
+I should've read the top of that, "Is now
+
+"available through Amazon Alexa." That was the top
+part of that. Vox Machina: Origins is still out.
+
+LIAM: We're coming up on another issue pretty
+soon.
+
+MATT: Next few weeks, issue three is going to be
+out.
+
+TALIESIN: But hey, there's a comic book. We're in
+it. That's a thing.
+
+MARISHA: We have our big Critical Role wrap-up on
+the 14th.
+
+BRIAN: Yes, that is going to air on the 14th,
+which is a Thursday night, at 7:00, in this very
+
+timeslot, on these very networks. Both Twitch and
+Project Alpha. We will be breaking up the Vox
+
+Machina journey into five sections. So we
+announced on Tuesday night that the first posts
+
+are up if you want to submit questions for
+episodes one through, I believe it's 23. In the
+
+wrap-up episode, we're going to discuss all kinds
+of stuff. We're going to let you guys ask Matt all
+
+kinds of things. You guys are going to get to ask
+each other. We're going to squeeze as many secrets
+
+out of this delicious man's body as we can, by any
+means necessary. I have ordered many medieval
+
+torture devices. Gummy bears. All kinds of good
+stuff.
+
+SAM: Oh my god, she left. Couldn't take the heat.
+
+LIAM: Hole in the studio floor. She went down it.
+
+BRIAN: So yeah, submit questions on the Reddit or
+at the Talks Machina Twitter account, or Facebook
+
+page, or the Alpha forums.
+
+MARISHA: Correct. And then, of course, me,
+Taliesin, Matt, and Liam are going to be at PAX
+
+Unplugged next Friday. Wednesday Club, still a
+thing.
+
+TALIESIN: Still a thing. We haven't actually
+decided what we're doing next week yet, because it
+
+all depends on who's going to be joining us. We
+have a couple invites out to people, so we're
+
+waiting to hear. It'll be fun no matter what.
+
+BRIAN: When's the Moon Knight episode?
+
+TALIESIN: Never. Yeah, no, we'll do a Moon Knight.
+You want to do a Moon Knight episode?
+
+BRIAN: I would come on for a Moon Knight episode.
+
+TALIESIN: I'll talk about Moon Knight. I love Moon
+Knight.
+
+LIAM: What about Spider Ham?
+
+TALIESIN: Oh, Peter Porker? The Spectacular
+Spider-Ham? We can do a full animals episode. That
+
+would be a lot of fun.
+
+MARISHA: That would be great. You sang in a
+Blizzard promo for a new expansion.
+
+MATT: An upcoming Hearthstone expansion. Kobolds
+and Catacombs, which references another cool game
+
+that sometimes people play.
+
+MARISHA: Not today, though.
+
+MATT: No, yeah, of course. But yeah, they had me
+sing the announcement trailer, which you can check
+
+out online and poke fun at me being a silly
+voice-in-the-void minstrel bard about making your
+
+way through catacombs filled with kobolds. So
+check it out.
+
+TALIESIN: Your response via text when we texted
+you that that was happening was adorable. "Oh,
+
+"that's what that was. I suppose that's happening
+now."
+
+MATT: Yeah, I didn't know they were announcing it
+at BlizzCon. It was just like, oh, on the opening
+
+ceremonies screen.
+
+BRIAN: Were you in there when they did that?
+
+MATT: We were driving at the time. I was like,
+"What is going--?! Oh."
+
+TALIESIN: Eric and I were at the Overwatch arena.
+We were sitting, listening, and we both started
+
+squealing really loudly.
+
+BRIAN: Yeah, that looked really fun. I saw they
+brought in Darin De Paul on a big throne that they
+
+were all carrying.
+
+MARISHA: He is the mayor of BlizzCon.
+
+MATT: Blizzard can afford it.
+
+MARISHA: I think that's pretty much it. Last but
+not least, I would love to thank Joana, a.k.a.
+
+@_sleepyjane, for doing the wonderful bear art.
+And then I would like to give a huge shout-out to
+
+Grant Howitt, who is the writer and the producer
+of Honey Heist, as well as several other silly RPG
+
+one-shot games. You can get this for free. That's
+the amazing thing about this. He publishes all of
+
+his games for free. You can support him, which we
+highly recommend you do, at patreon.com/gshowitt.
+
+MATT: H-O-W-I-T-T.
+
+MARISHA: Yeah, and if you can join his Patreon,
+you get some cool stuff that you might see. So
+
+yeah. Anyway. I think, oh my god.
+
+TALIESIN: I know, it's weird! It feels weird,
+doesn't it?
+
+BRIAN: Say it!
+
+MARISHA: What do you say? Like, "Without further
+ado"?
+
+MATT: I don't know, you've only seen it every week
+for the past two and a half years!
+
+MARISHA: Without further ado, let us now jump into
+this Trinket's Honey Heist version of Critical Role!
+
+[dramatic music]
+
+MARISHA: Welcome back.
+
+SAM: Serious, serious.
+
+LIAM: We're bears.
+
+MARISHA: Where we last left off, didn't happen. So
+we'll jump right in.
+
+MATT: Any rules to go over?
+
+MARISHA: Oh! Should I go over rules now?
+
+MATT: I figured, that way we can go right into the
+narrative.
+
+MARISHA: Yeah, where we last left off was rules--
+
+SAM: Stop backseat DMing!
+
+MATT: I'm trying to help! It's her first time--
+I'll shut up.
+
+MARISHA: Before we jump in, Honey Heist is a super
+simple game. Everyone is a bear. The bear has a
+
+special skill. We'll see that as we go along. You
+will eventually be getting roles. You're trying to
+
+heist the mother lode of honey heists. So you have
+two stats: your bear stat and your criminal stat.
+
+You start the game with three points in each of
+the stats. This is a d6-based game, so whenever
+
+you do anything remotely bear-related, you're
+going to roll your bear stat. You want to try and
+
+get the number equal to or under how many points
+you have in bear. Criminal is anything, basically,
+
+not related to being a bear. That's quite
+literally, actually, what it says, "Not to do
+
+"anything directly related to being a bear." Same
+thing. Equal to or under. Right? If the plan's
+
+going well, I can reward you with a point in
+criminal. You move a point from bear over to the
+
+stat. Conversely, if you start getting a little
+aggravated, or the plan starts not working out in
+
+your favor, you might move a point from criminal
+into bear, the more frustrated you get. If you
+
+reach six points in either stat, you either turn
+into an insane criminal mastermind, betray the
+
+party, and decide to bounce, or you go completely
+feral as a bear and can't really function being a
+
+criminal anymore, and you're out. So you don't
+want that to happen.
+
+SAM: Is there any other way to die? Like, if you
+fall off something, do you die? What happens?
+
+MARISHA: Just don't jump off any cliffs is my
+recommendation.
+
+MATT: You get more frustrated from jumping off
+a cliff. You become more bear-like. Cliffs can't
+
+kill bears.
+
+MARISHA: No. It's very cartoonish. Cartoon
+physics. Just don't look down if you decide to
+
+walk off a cliff.
+
+BRIAN: Do forest fires kill bears?
+
+MATT: No, they don't. That's why he has to keep
+telling us to fight them.
+
+MARISHA: If you feel like you're starting to get a
+little too bear-y, you can flash back to a
+
+criminal planning sequence in order to move a
+point from bear into criminal. If you're feeling a
+
+little too shady, you can eat a nice little snack
+of honey to move a point from criminal back into bear.
+
+LIAM: Do we have a Batman belt with honey stashed
+on it?
+
+MATT: Nope.
+
+LIAM: We have to find it and eat it? Yeah.
+
+MARISHA: That's what you guys are good at. All
+right, I think we get started.
+
+SAM: (bear roar) Ease into it.
+
+MARISHA: No wookiees. Hereby ban on wookiees.
+
+BRIAN: Oh, I should go.
+
+MATT: Well no, it's my plan to die in the first
+half of the show.
+
+MARISHA: This isn't the zombie apocalypse. All
+right. It's autumn, two years after the defeat of
+
+the Chroma Conclave, in Westruun.
+
+SAM: Wait, we're in Westruun?
+
+MARISHA: We're in Westruun.
+
+LIAM: Those fucking assholes.
+
+MARISHA: The air has that perfect, crisp breeze
+indicative of the chillier months to come. The
+
+scent of deep-fried festival foods and fermented
+alcohols radiates heavily from the center of the
+
+town square in the Opal and Market Wards. The
+distant sound of string quartets and laughing
+
+townsfolk pick up in your ear. Trinket, the
+immense sense recall spawns the memory in your
+
+head, and you know: this is the Happy Food
+Festival time. This is your favorite time. But for
+
+some reason, Vex is walking you away from the
+festival, and toward the Bramblewood Forest! "I
+
+"know, buddy, but listen, I need you to stay here.
+Look, I can't have you risking sneaking away and
+
+"giving in to your temptations again."
+
+MATT: (sad bear growl)
+
+MARISHA: "Pike would kill me, and she's already
+upset at you for clearing out the Slayer's Cake
+
+"honey stash the past two times. I know. But look,
+I promise you, if you do this for me, buddy, I'll
+
+"come back with a whole load of festival treats!
+All right? All right, darling? Okay. Be good.
+
+"Don't get into any trouble. Okay? Happy bear." And
+she walks on down the road.
+
+MATT: Where am I at, right now?
+
+MARISHA: You are currently on the edge of the
+Bramblewood Forest, up on a mountain. You can kind
+
+of see Westruun in the distance.
+
+MATT: So looking down at the city from a distance?
+Okay.
+
+MARISHA: You can see far off that the city is
+dressed up in autumn colors and reds, and there
+
+are wagons being pulled into the city. You
+recalled Vex mentioning something about the
+
+Slayer's Cake competing in a competition. Seems
+like they've got a lot of competitions. They are
+
+entering Keyleth and Pike's prize honey. Mm-hmm.
+So you know there's a lot of honey. As you turn
+
+around, you hear a few cracks of branches. There's
+a crowd of other bears. Seem to have been watching
+
+the whole time. There's a panda that waves.
+
+SAM: Can we speak English?
+
+MARISHA: Yeah, you can speak to each other. You
+can kind of mumble through words to humans. Yeah,
+
+you can, kind of.
+
+MATT: Hey, you.
+
+SAM: Yeah?
+
+MATT: What's your name?
+
+SAM: Oh, me? I'm Peddy Tuxpin. I'm new to these
+parts. I come from, you know, somewhere else. But
+
+I've been walking around. Checking it out. I like the
+place.
+
+MATT: All right, you seem a little fish out of
+water.
+
+SAM: What's your name?
+
+MATT: They call me Trinket.
+
+SAM: You a girl?
+
+MATT: I am a member of Vox Machina, saviors of
+this land, Tal'Dorei, and beyond. You show me some
+
+respect.
+
+SAM: I look at his junk. Hey, he's not a girl.
+
+MATT: Who are you untrustworthy lot, too, to be
+with this guy?
+
+LIAM: Hey, my name is Cookie. I am a bear. This is
+my brother, Waffle.
+
+TALIESIN: How you doing? Yeah, we just rolled into
+town, picked up this guy along the way. We don't
+
+speak for him, not going to give him any credit
+right now. Seems like an okay guy.
+
+MATT: You guys are all hanging out here at the
+edge of the Bramblewood for no reason?
+
+LIAM: Well, man, we heard this town's got the good
+shit.
+
+MATT: You may have heard right. All right. Three
+new bears. Three large-sized, normal bears.
+
+SAM: There's another guy. There's one more guy.
+
+MATT: I look around, and I only see the three
+bears.
+
+SAM: There's one more.
+
+BRIAN: I'm a little smaller.
+
+MARISHA: He peeks out from behind Peddy Tuxpin.
+
+BRIAN: I'm not really a bear. I'm a honey badger.
+My name is Liam Las Vegas. I'm on a bender. That's it.
+
+SAM: A honey bender?
+
+BRIAN: I'm on a honey bender. I'm here with you
+lads, strictly for the honey.
+
+TALIESIN: Don't let his personality defects fool
+you. He's a top man, knows his business.
+
+LIAM: I mean, he's a total asshole, but he's
+really good at his work.
+
+TALIESIN: He's good at what he does, when he can
+do it.
+
+BRIAN: Started out as a bottom man, now I'm a top
+man.
+
+TALIESIN: Worked his way to the middle, mostly.
+
+BRIAN: Middle man.
+
+TALIESIN: Top of his field, as a middle man.
+
+BRIAN: Top of the middle.
+
+TALIESIN: Worked his way from the bottom.
+
+BRIAN: Started from the bottom, now we at the
+middle man.
+
+TALIESIN: Top of it.
+
+MARISHA: As you hear the music in the background
+press on, all you can keep thinking about,
+
+Trinket, is that massive stash of honey hiding
+right behind the walls of the Hazel Festival.
+
+MATT: I look out. Do I still see Vex, or is she
+far enough away?
+
+MARISHA: She's pretty far gone, at this point,
+over the mountain. She doesn't seem to be paying
+
+any attention to you.
+
+TALIESIN: I'm going to try and sense honey.
+
+MARISHA: Okay, roll a bear.
+
+TALIESIN: Double die.
+
+MARISHA: You get advantage, yeah.
+
+TALIESIN: Nope. Wait, is this--? Nope.
+
+MARISHA: All right, right now, there's a lot of
+fried foods. You know at ren faire, when that mead
+
+smell and dirt? Kind of like that. That's all
+you've got right now. It's a little too much right now.
+
+LIAM: We probably want to get closer in before we
+start using the, you know.
+
+TALIESIN: No no, the nose ain't picking nothing up
+right now. No.
+
+MARISHA: You begin to make your plan.
+
+BRIAN: We should obviously get drinks.
+
+MATT: I was going to say, first and foremost, like
+I said, my name's Trinket. I'm an adventurer. I've
+
+been through dungeons of all sorts and kinds. Used
+to scaring things off that are dangerous, in my
+
+way. I have no idea what the hell you're all
+capable of. You, panda bear.
+
+SAM: The name's Peddy.
+
+MATT: Peddy.
+
+SAM: Peddy Bear.
+
+(muffled laughter)
+
+MATT: Tell me. If we're going to go into this city
+and we're going to reap the rewards of this honey
+
+festival contest, and I know where it is, what do
+you have to bring to the table, anyway?
+
+MARISHA: Peddy, why don't you go ahead and roll a
+d6? This will determine your role.
+
+SAM: One.
+
+MARISHA: Peddy. Peddy Tuxpin, you're the muscle of
+the group.
+
+SAM: Let me lay out a day in the life of Peddy
+Tuxpin for you. I wake up. I eat. Bamboo, mostly.
+
+About 10:00am, I eat. 12:00, I eat.
+
+BRIAN: What do you eat at 12:00?
+
+SAM: Bamboo. 1:00 through 4:00 is naptime. 4:00 to
+bedtime is eating. Now, I lay this all out for you
+
+because I want you to know, what I do with those
+calories is I crush skulls. I break bones. I rough
+
+up people who haven't made their payments. I,
+well, we can arm wrestle if you really want a
+
+sense of what this Tuxpin's all about.
+
+LIAM: Peddy, don't hurt him.
+
+BRIAN: He seems quite serious.
+
+MATT: As a fellow bear who has immediately stared
+at my junk, I feel it is only right and fair that
+
+I accept your challenge.
+
+SAM: Oh, we're going to do this! Paws up!
+
+MATT: (collision sounds)
+
+MARISHA: I'd say, roll a bear-off. You get
+advantage, Peddy.
+
+TALIESIN and MARISHA: Paw-wrestling.
+
+SAM: Oh, okay, a one is my better stat.
+
+MATT: No, I don't. I have a four.
+
+MARISHA: Without fail, Peddy, like a sprig of
+bamboo, snaps all the way back.
+
+SAM: Oh shit! You okay?
+
+MATT: All right, we need some muscle. You've
+proven yourself worthy. Do I move a point for
+
+failing the roll?
+
+MARISHA: Do you feel aggravated? You agreed to it.
+You're fine. Not yet.
+
+TALIESIN: Pandas, they're fighters, not lovers.
+
+MATT: So, we got muscle. What do you two brothers
+got at the table?
+
+MARISHA: Roll d6s.
+
+TALIESIN: One.
+
+MARISHA: Do you want to still also be a muscle, or
+would you like to re-roll?
+
+TALIESIN: No, let's roll that. Four.
+
+MARISHA: All right. Cookie, you're the brains of
+the group.
+
+LIAM: Of course I am.
+
+MARISHA: Waffle, you're the hacker.
+
+(laughter)
+
+LIAM: A hacker bear!
+
+SAM: What do we need a hacker for?!
+
+MATT: Do we write our roles down on our sheet?
+
+MARISHA: Yes, write your roles down.
+
+LIAM: Let me tell you, we've hit all the biggest
+places. We've hit Vasselheim. We have hit Stilben,
+
+okay. We've been to the Briarwoods' home turf, and
+we got all their fucking honey. We're going to get
+
+this honey because this fucking guy is going to
+hack the system.
+
+TALIESIN: I can hack anything. Anything you need.
+I can hack doors! I can hack people! I can hack
+
+cities, hack right through them.
+
+BRIAN: Even with those stubby fingers?
+
+TALIESIN: Hey man, you know how to hack? Then
+don't be talking to me about my business.
+
+MARISHA: What do you know how to do, Liam Las
+Vegas?
+
+TALIESIN: What exactly do you do, honey badger?
+
+BRIAN: Two.
+
+SAM: Re-roll.
+
+BRIAN: No. No. No. Yeah! Three.
+
+MARISHA: You're the driver.
+
+BRIAN: Yeah! Yeah, all right! I'll be the driver.
+
+SAM: What's your deal?
+
+BRIAN: I'm the driver!
+
+LIAM: Where's our ride at? What are we taking this
+time?
+
+BRIAN: Well, we've got a horse and buggy.
+
+MARISHA: You're going to have to pick up a ride.
+
+BRIAN: We're going to pick up a ride. Don't worry,
+I have super high criminal-risma.
+
+MARISHA: All right, Trinket, you're the last one.
+
+MATT: So it looks like we got a nice selection of
+abilities, here. So let me tell you what I have to
+
+offer. One, I know where the honey is. Two, I know
+the people probably around it. Three--
+
+MARISHA: It's anything-- A five? You're a thief.
+
+SAM: Well, that makes sense.
+
+BRIAN: Just like your mom!
+
+MATT: Let me tell you. I've learned a few tricks
+from the two that raised me, so that honey's going
+
+to be as good as ours.
+
+SAM: I feel like now would be a good time for me
+to confess that I don't really like, I've never
+
+had honey. I eat bamboo, mostly.
+
+BRIAN: Is it a gluten thing?
+
+SAM: No no, I just haven't had it. Just don't have
+it much where I come from.
+
+LIAM: You take the bamboo and you stir it around
+in the honey. You have them together.
+
+SAM: That would be good? Okay.
+
+LIAM: It's like celery and peanut butter. Don't
+knock it.
+
+BRIAN: Did you bring any bamboo with you, in a
+sack or something?
+
+SAM: Did I?
+
+MARISHA: Did you bring any bamboo? Mm, nah.
+
+SAM: I ate it on the way here. I eat a lot.
+
+MARISHA: You also like to eat anything that kind
+of remotely resembles bamboo.
+
+TALIESIN: He's going to get hangry. You're not
+going to like him when he's hangry.
+
+LIAM: All right. Our newfound friend, Trinket.
+What can you tell us about this town? Where the
+
+honey is? What are we working with, here, buddy?
+
+MATT: All them banners you see out there beyond
+the walls? This is a goddamned celebration.
+
+There's a contest in there. My ears picked it up.
+In the middle of that contest area, I can smell
+
+it, there's all the honey we could ever hope for.
+Possibly even some bamboo. Keep your eyes open.
+
+Now all we have to do is get inside, so, if you're
+the brains, what do you suggest?
+
+LIAM: We need some kind of distraction. We're
+going to dress as people. That's the plan.
+
+SAM: Dress as people? How's that going to work? We
+all look giant.
+
+MARISHA: Trinket, your ears pick up in the
+distance: "Hats! Get your hats!"
+
+MATT: I'm going to immediately go: I think you're
+onto something! Cookie, Waffle, Liam Las Vegas,
+
+Peddy Bear, let's go get us some hats.
+
+MARISHA: He's about a hundred yards away, entering
+into the south entrance of the city, about to
+
+cross the threshold.
+
+MATT: Okay. Do we want to try and quickly and
+quietly make our way up behind?
+
+SAM: Well, what do we see?
+
+BRIAN: I would technically be the smallest,
+correct? Being a honey badger rather than a bear?
+
+I could maybe, if I need to slip by unnoticed, to
+grab a couple of things and bring them back to you guys?
+
+LIAM: That's right, here's what we're going to do,
+okay? Cookie and Waffle, we're going to fuck shit up,
+
+all right? We're going to get in the garbage,
+we're going to start fucking with people's shit. I
+
+might even scare a little kid. When that
+happens, you're in. You grab as many fucking hats
+
+as you can, and you skedaddle back. We meet up
+together and then we choose which hats we're going
+
+to wear, and which makes us look most human, or
+elf, or halfling in your case.
+
+BRIAN: Okay, but one question. Let me know any
+size preferences or style before. I don't want to
+
+come back and then have a big argument, and then I
+got to go back again.
+
+MATT: Mr. Las Vegas, surprise us.
+
+BRIAN: All right. I can do it.
+
+MARISHA: All right, Liam, you--
+
+LIAM: Oh, shit. Sorry.
+
+MARISHA: Las Vegas.
+
+MATT: We'll call you Vegas. You're Vegas.
+
+MARISHA: Goddamn you.
+
+BRIAN: Vegas strong, baby.
+
+MARISHA: Vegas, you skitter on down past, using
+the rocks and the fauna to dodge as you get up
+
+close behind the guy. Cookie and Waffle, were you
+guys--?
+
+TALIESIN: I say we split up. You take the bottom
+of the road, I take the top.
+
+LIAM: Okay, what I'm going to do is I'm going to
+scare a bunch of little children. I want you to
+
+start tearing down the festive decorations that
+you see.
+
+TALIESIN: You want me to hack those decorations?
+
+LIAM: Hack the decorations the fuck off the walls
+and make a lot of noise, Waffle.
+
+TALIESIN: All right, it's going to be a loud hack.
+
+SAM: Boss, you need me to do anything?
+
+TALIESIN: If anyone tries to stop us--
+
+LIAM: You got a suggestion, Trinket?
+
+MATT: I'm just going to say, be careful about too
+much mayhem. We don't want people to suspect
+
+there's bears running wild around the city. They
+might shut down the festival. Then the honey is--
+
+So if you're going to do a scare, do it and get
+out.
+
+MARISHA: All right. Waffle and Cookie? Flank from
+the sides. As you start getting up to the wall of
+
+the city, you see two guards standing at the
+entrance, nodding and greeting people, letting
+
+them go in as they go. You see a few banners hung
+up along the wall. Few flowers.
+
+TALIESIN: I'm going to hack a couple banners down.
+We have a brief disguise. Going to hack a couple
+
+banners.
+
+LIAM: You said there's a couple of soldiers,
+guards?
+
+MARISHA: Couple of guards, yeah. Couple of
+shields.
+
+LIAM: Are there any kids in sight?
+
+MARISHA: There's maybe one or two coming in,
+families coming in and filtering into the city for
+
+the festival. Most people seem to be inside.
+
+LIAM: Between me and them? Or are the kids open
+season, you know what I'm saying?
+
+MARISHA: Kids are currently open season, yeah. You
+see a mom and dad, two kids, typical looking
+
+family out for a nice day. You see another kid
+going along in with one of the vendors. They've
+
+got some vegetables on their back.
+
+TALIESIN: We wrap ourselves in these banners that
+I've pulled down. Then they won't know that we're
+
+bears. We'll just be giant flying banners.
+
+LIAM: They might think we're ghosts.
+
+TALIESIN: They might be ghosts, and then they'll
+be prepared for ghosts. They'll never see us
+
+coming.
+
+LIAM: Yeah. They'll try to turn us and it won't
+work.
+
+TALIESIN: Nope, ain't going to do a thing.
+
+MARISHA: Liam Las Vegas, as this is happening, you
+get up right behind. You follow in. You're about
+
+maybe five feet out from the back of Theobald the
+Bold, the best hat vendor in town. Theobald the
+
+Bold, is because his hat's the boldest. He's a
+little halfling dude with scrappy clothes, but
+
+his hat looks way overpriced in comparison to
+everything else. He's hunched, he's got a
+
+pull-behind wagon piled with hats.
+
+TALIESIN: Really leaning into it, isn't he?
+
+MARISHA: "Get your hats! Festival hats!"
+
+SAM: Go, Las Vegas! Go!
+
+TALIESIN: I'm going to hack the banners.
+
+MARISHA: All right, as this is happening, you
+start hacking the banner. Roll for criminal.
+
+That's a double if you're a hacker.
+
+TALIESIN: Yeah! Two.
+
+MARISHA: All right, you're a little tangled in
+them. The pendants are getting in your face a
+
+little bit. What are you doing, Cookie?
+
+LIAM: While I get covered up, I'm going to start
+running towards the kids and yell as loud as I can
+
+like this (intimidating scream).
+
+MARISHA: The kids (terrified screaming).
+
+LIAM: I'm going to take a shit and then I'm going
+to slap it at the grownups' heads that are with
+
+the kids. (screams)
+
+MARISHA: About this time, the dad goes, "Guards!
+Bears! Get help!" About this time, one of the
+
+guards looks over at the other one and goes, "Aw
+Glennon, we have a bear attack!" They start running
+
+after you, banging their shields against the
+spears going, (yelling) "Get away!"
+
+LIAM: I start flinging shit at them!
+
+MARISHA: "Aw, they're those shit-flinging bears,
+Glennon!" (yelling) they're trying to block it.
+
+Roll for criminal.
+
+LIAM: Criminal is for flinging shit?
+
+MARISHA: Roll for bear. I guess you are being more
+of a bear than the brains right now.
+
+LIAM: This is the smartest idea that any bear has
+ever had. It's a two!
+
+MARISHA: You successfully fling shit. As the
+guards try to duck and cover, one gets hit right
+
+in the right eye and he's like, "Aw!" And they
+start jabbing at you guys with spears.
+
+LIAM: We're out!
+
+TALIESIN: Let's take them out. We're leading them
+away from the hats.
+
+MARISHA: They chase you off, probably a good 50 or
+so yards off around the corner.
+
+TALIESIN: We'll go into the woods, where you're
+supposed to poop.
+
+LIAM: Right. As we're running, I yell: Hack the
+system!
+
+MARISHA: "I think those bears were rabid. Pretty
+sure, but we probably should have put them down."
+
+They slowly walk back. In this time-- how many
+hats?
+
+BRIAN: How many do you think I could carry? Ten?
+
+MARISHA: You could probably do a few darts and
+hide a few in this time. Roll for criminal.
+
+BRIAN: Okay. Four. No good.
+
+MARISHA: About this time, in the distraction--
+
+BRIAN: Have I gotten any away yet?
+
+MARISHA: Yeah, you got a nice, solid haul. As
+you're trying to go for your bonus hats, Theobald
+
+turns around and goes, "Rats! There's bears and
+rats! Get out!"
+
+BRIAN: I'm not a rat, you piece of shit!
+
+MARISHA: He stomps at you. "Aw, look, he knocked
+over my hats." Starts scooping up the ones.
+
+BRIAN: I have claws, right?
+
+MARISHA: Little bit.
+
+BRIAN: Just want to get him in the butt.
+
+SAM: Oh right, attack?
+
+MARISHA: Oh, you're attacking?
+
+BRIAN: Just going to (boing).
+
+MARISHA: Roll 2d6 and roll for the lowest under
+bear. You have carnage.
+
+LIAM: Are you going to poke him in the gooch?
+
+MATT: A one and a two!
+
+MARISHA: Okay! Theobald goes (yelps) and takes off
+running. A few more fall off and you take the
+
+extra hats.You guys all slowly get back. You
+reconvene. That actually went off pretty well,
+
+considering, so you guys each put a point into
+criminal. Waffle, Cookie, and Liam Las Vegas.
+
+LIAM: Do we take it away from bear when we put it
+into criminal?
+
+MARISHA: Take one away from bear, put it into
+criminal.
+
+MATT: As they're approaching him, I'm talking to
+Peddy. There's not a whole lot of space in the
+
+necklace, it's pretty cramped. At least I have a
+pretty good view; it's like a tiny television.
+
+They're here! All right. How'd it go?
+
+LIAM and BRIAN: We got hats!
+
+MATT: You got hats and you smell like shit.
+
+BRIAN: Does a bear shit on the Pope? I got hats of
+every kind you want. We got big ones, I don't know
+
+what I got.
+
+MARISHA: Everyone roll a d8! A d8 please!
+
+BRIAN: I need to borrow one. Oh wait, I have
+Marisha's Wyrmwood.
+
+TALIESIN and BRIAN: Six.
+
+SAM: Oh, we got three sixes.
+
+MARISHA: Three sixes. You two sixes reroll because
+this is the one hat that I only have one of.
+
+BRIAN: Five.
+
+TALIESIN: Eight.
+
+LIAM: Two.
+
+MARISHA: You roll twice, you get two hats!
+
+MARISHA: Peddy, this fez looks real attractive to
+you.
+
+TALIESIN: There's a second fez!
+
+LIAM: That's the best one!
+
+TALIESIN: It's inside the other hats. It's in one
+of the top hats.
+
+MATT: Taliesin, do you want a fez and another hat
+then?
+
+MARISHA: You'll get a fez and one more hat, so
+roll again. What did you roll, five? Two.
+
+TALIESIN: I rolled an eight again. It's me! I'm
+just going to roll the highest possible over and
+
+over again.
+
+MARISHA: What color top hat would you like?
+
+LIAM: Oh my god, what are my options?
+
+MARISHA: Black, green, and a leathery tan.
+
+LIAM: Holy shit, I'll take leathery tan.
+
+TALIESIN: There's a gray one, too.
+
+LIAM: Oh my god!
+
+MATT: That's a Willy Wonka hat!
+
+LIAM: Holy fuckballs, I am a happy bear. Woohoo!
+
+MARISHA: Trinket, you get a trilby. What did you
+roll again, Liam Las Vegas?
+
+BRIAN: Five.
+
+LIAM: That is so confusing.
+
+BRIAN: I did it just to fuck with you.
+
+MARISHA: Which cowboy hat do you want?
+
+BRIAN: Holy fucking shit, you give me that one in
+your left hand right this moment.
+
+TALIESIN: I get a second hat?
+
+MARISHA: You get a second hat.
+
+TALIESIN: I rolled an eight again. So now I rolled
+a six.
+
+MARISHA: Roll again because a six is still a fez.
+
+TALIESIN: I rolled an eight again.
+
+MARISHA: Roll again.
+
+TALIESIN: I rolled a three.
+
+MATT: So you can put three hats on?!
+
+TALIESIN: I was just going to keep rolling eights
+until something else happened.
+
+MARISHA: What color bowler?
+
+TALIESIN: The green bowler. Been a while.
+
+MARISHA: You get to wear a hat on a hat if you
+want!
+
+TALIESIN: I'm going to wear a fez on a bowler.
+
+MARISHA: Fez on a bowler, there you go.
+
+MATT: A fowler.
+
+MARISHA: A fowler?
+
+SAM: That works.
+
+LIAM: Jeez, you're that guy in a western.
+
+SAM: You just hacked that hat.
+
+TALIESIN: There we are.
+
+MARISHA: You guys are feeling pretty good about
+your hats.
+
+MATT: This is worth the price of admission, right
+here.
+
+LIAM: Somebody get an organ grinder, stat!
+(sings)
+
+BRIAN: Sam looks like Beary Busey!
+
+(laughter)
+
+MARISHA: That's a good code name.
+
+MATT: Hey Vegas.
+
+BRIAN: Yeah?
+
+MATT: Good job. With these hats, there's no way
+anybody in the town of Westruun would think that
+
+we're bears.
+
+BRIAN: Had to poke a little butt to get them, but
+in the end--
+
+MATT: Haven't we all?
+
+BRIAN: The butt went away.
+
+LIAM: I have another brilliant idea.
+
+MATT: What you got, Cookie?
+
+LIAM: We ripped down these banners. My brother hacked
+the system. They're really big. I can tear this
+
+shit with my claw and make each of us a cloak to go
+with our hats. Then we'll look even more human.
+
+SAM: You are smarter than the average us!
+
+LIAM: Three years in bear college, my friend!
+
+SAM: Oh wow!
+
+BRIAN: Wait, how many years?
+
+LIAM: Three.
+
+BRIAN: Wow!
+
+SAM: Getting hungry.
+
+MATT: That's right, we've got some honey to get
+to. Come on, guys.
+
+MARISHA: With that confidence, you stroll right on
+up. See if you can test your luck with the guards,
+
+I guess.
+
+LIAM: Here's your cloak. Red cloak. Red cloak.
+We're going to be the black cloaks.
+
+MARISHA: They're like giant pendants that you put
+holes in, so you've got nice little ascots now.
+
+Very distinguished! Very festive!
+
+MATT: Stand up on our hind legs as vertical as we
+can.
+
+TALIESIN: We are hirsute gentlemen!
+
+MARISHA: As you walk by, the one guard was like,
+"Aw, jeez, do I still have shit in my eye? Oh,
+
+"welcome to the Hazel Festival, sirs. Go on in.
+Jeez, can we go get Wet Wipes?"
+
+LIAM: Keep it moving! Bidet!
+
+MATT and TALIESIN: (growling) Bidet!
+
+MARISHA: "Were those goliaths? Okay, let's go take
+a break." You successfully enter the city. Is my
+
+music going?
+
+MATT: It's going, yeah! I hear it.
+
+MARISHA: As you get closer into the city, you can
+smell wonderful foods. You can see people bringing
+
+in prized vegetables and they're entering them
+into competitions. There's string quartets and
+
+people dancing in the streets. Mead vendors out in
+the open. As you get closer, you actually see a
+
+three-story-tall, really derpy-looking statue of a
+Westruun man with a cowboy hat, he's wearing a
+
+button down that looks a lot like the Texas state
+flag. He's got a shitty voice box saying, "Welcome
+
+"to the Hazel Festival! Welcome to the Hazel--" and
+it repeats every 30 seconds or so. Things are
+
+decorated around it.
+
+LIAM: You're in a Johnny Cab!
+
+MARISHA: Cookie, Waffle. You notice the scent of
+honey wafting through the air. Peddy Tuxpin, you
+
+notice the scent of bamboo in the air. It's a
+little dried out and as you look down, you notice
+
+these little wooden bamboo sample spoons that have
+been discarded all over the floor.
+
+SAM: I'm going to pick them up and eat them.
+
+MARISHA: It tastes like it's got honey residual on
+it. It's scraps, but there's some little drops of
+
+honey in sample cups.
+
+MATT: Peddy, people don't eat spoons off the
+floor.
+
+SAM: Oh people, we're people, right.
+
+MATT: We're people. Just grab them, hold them, and
+we'll find a corner for you to have a feast.
+
+SAM: I pick them up. I pop one in my mouth like a
+sucker.
+
+MARISHA: All right. You guys taste some.
+
+LIAM: Everybody act casual.
+
+SAM: It's like a cigarette.
+
+MATT: I can't pinpoint the source of the honey.
+Any of you boys?
+
+TALIESIN: I'm going to try to pinpoint the source
+of the honey.
+
+LIAM: Same. I smell gold.
+
+MARISHA: Roll for bear.
+
+TALIESIN and LIAM: Nope.
+
+TALIESIN: I'm frustrated.
+
+MARISHA: Are you getting a little frustrated?
+
+TALIESIN: Yep.
+
+MARISHA: Then take and put a point into bear. It's
+got to be lower than bear.
+
+LIAM: We're in trouble there.
+
+TALIESIN: There's a lot going on. We got to get
+close to the source. There's too much happening.
+
+Bamboo's getting in there, it's mucking up the
+system, man. This is a delicate instrument.
+
+SAM: Guys, is this plan off the rails already?
+Should I be worried? I'm freaking out!
+
+BRIAN: We got these great hats.
+
+SAM: These people are looking at us funny!
+
+MARISHA: About this time, you see an old couple
+run by going, "Help! Has anyone seen any cows? We
+
+"lost our prized steer!" She's like, "Gerald, I
+told you you should have tied them up!"
+
+LIAM: What the fuck is this shit?
+
+MARISHA: As they run by, you see Pike way off in
+the distance. She's saying, "Anyone would like a
+
+"honey sample? Honey sample! Anybody? This is from
+the Slayer's Cake! Vote for the Slayer's Cake!"
+
+LIAM: Holy shit, we eat the gnome and then we get
+the honey.
+
+MATT: Nobody is eating the gnome!
+
+SAM: But she's so little!
+
+LIAM: She's covered in honey!
+
+MATT: She will destroy you, trust me.
+
+BRIAN: Is she poisonous if you bite into her?
+
+MATT: Sure, we'll go with that.
+
+MARISHA: On the other side, you see Reginald's
+daughter. What was her name? Aleria? It's
+
+somewhere in my notes. But it's Reginald's
+daughter and she's going, "Honey samples! Try it
+
+"from the Reginald farm! Honey samples!"
+
+MATT: That one we could go towards.
+
+SAM: And kill her?
+
+MATT: I'm going to approach and tell the other
+guys to come along.
+
+SAM: We're going to talk to her? I'm freaking
+out.
+
+MATT: It's all right, just suck on your spoon.
+
+SAM: I might just kill her.
+
+MATT: As I approach Reginald's daughter--
+
+MARISHA: Still really trying to find her. Damn, I
+just wrote down Reginald's daughter. Ameera or
+
+something? Aleria, or Amelia? We'll call her
+Amelia.
+
+MATT: I approach with my big bear arms at the
+side, my cloak over my armor and my delightful
+
+cap. Get close to the honey and (sniff).
+
+MARISHA: She looks at you a little confused and
+goes, "Hello?"
+
+MATT: (bear voice) Thank you.
+
+MARISHA: She turns around to a friend and is like,
+"I'm not one to judge, but--" She shuffles away, a
+
+little uncomfortable.
+
+MATT: I took a bite of it, a little bit. I take
+the rest of it and hold it out and say: One of you
+
+bears, please, find the source of this goddamn
+honey.
+
+BRIAN: Why did you give it to him?
+
+SAM: He said bears.
+
+BRIAN: Oh!
+
+LIAM: (groaning) It's good!
+
+TALIESIN: It's not bad!
+
+LIAM: I like you, city bear. I like you.
+
+TALIESIN: We're going places.
+
+LIAM: We could do big things together. I smell
+honey, Waffle, I smell it!
+
+TALIESIN: Oh, I taste it.
+
+MARISHA: About this time, you see the last and
+third contestant in the honey competition,
+
+wandering on the opposite side of the fountain.
+He's going, "Yes! Vote for me! It's Victor! V
+
+"stands for voting! It's a secret recipe! Try my
+secret recipe!" Trinket, you get this waft in the
+
+air and you're looking at the honey, it's got this
+grayish tint to it. You recognize: this is the
+
+same smell that comes out of Percy's boom-boom
+tube.
+
+MATT: Oh no. How many people are in the audience?
+
+MARISHA: A decent amount!
+
+MATT: Oh no!
+
+MARISHA: A decent amount, people are all over the
+place, they're mixing in. They're going to Pike
+
+and then they're going to Victor, then they're
+going to Reginald's daughter, they're jumping
+
+around.
+
+MATT: First and foremost, considering the utility
+of that honey, I'm going to take a sample and pack
+
+it under my bear pit for later.
+
+MARISHA: "Vote for V!"
+
+MATT: (bear voice) Thank you!
+
+TALIESIN: I got an idea. I'm going to try
+something. I'm going to wander up to Victor.
+
+MARISHA: "Hello there, hairy fellow! Would you
+like some honey?"
+
+TALIESIN: I dip my paw just a little bit and go,
+Mm!
+
+MARISHA: "Oh! You like it a lot, big guy? Okay!"
+And he starts scooping it into the hat.
+
+TALIESIN: I'm going to fill the fez with honey.
+With gunpowder honey.
+
+LIAM: That's about a hogshead worth.
+
+TALIESIN: About a hogshead worth. Easily have a
+hogshead there.
+
+MARISHA: "Remember, vote for me, though! The V
+stands-- vote for me!"
+
+TALIESIN: (amenable growling)
+
+BRIAN: Don't spill it!
+
+TALIESIN: We're in.
+
+MATT: Nobody jostle any of these townsfolk too
+hard. They're probably a little sensitive at the
+
+moment.
+
+LIAM: Little gassy, you think?
+
+MATT: You'll see. We don't want that honey, we
+have enough there. The prize honey is what that
+
+little one had earlier. Or (squishing) where this
+came from.
+
+BRIAN: My goodness.
+
+MATT: I didn't think about my hat at the time. I
+don't have pockets. I'm storing it in my bear pit.
+
+TALIESIN: That's Whitestone wildflower, touch of
+Feywild star iris. That's good. That's real good.
+
+MATT: All right, lead us on.
+
+TALIESIN: (sniffs)
+
+MARISHA: Which direction are you guys going?
+
+LIAM: Wait a minute. You got a whole hatful of
+honey. Can I have a little honey?
+
+MARISHA: You may certainly have honey.
+
+LIAM: I'm going take a little bite of this honey.
+
+TALIESIN: We're going to need this for later.
+
+MATT: As he's putting it in his mouth, I grab the
+edge. Are you sure about this?
+
+LIAM: (swallows)
+
+MARISHA: It's good, all things considered. It's a
+little smoky taste to it. Still tastes like honey,
+
+just a little sulfury.
+
+LIAM: I've had honey with jalapeno in it, a little
+bit of hot pepper.
+
+MARISHA: It's gritty. It's got a little bit of
+crunch in your teeth.
+
+BRIAN: Someone relieve themselves in the batch?
+
+MATT: More or less.
+
+LIAM: Texture. Does that put me back towards bear,
+though?
+
+MARISHA: Huh?
+
+LIAM: I had some honey; don't we get towards bear
+if we have honey?
+
+MARISHA: You have to have a nice pawful. You've
+got to get a-- a sample's not going to work
+
+LIAM: All right.
+
+MARISHA: Once again, you might want to stockpile
+some honey. It's not a bad idea. You hear a
+
+carnival barker come out on the stage built
+temporarily on the town square. He goes, "Welcome,
+
+"everyone, the Fire Ashari cultural dance troupe!"
+(drumbeat) Fire spinners come out and start doing
+
+fire poi. Fire breather comes out! Over the crowd.
+Everyone's like, "Yeah!" They go rushing up to the stage.
+
+BRIAN: I run up and start dancing with all of
+them, my drape flying everywhere.
+
+MARISHA: Drunk people are like, "Yeah, look at
+this little guy!"
+
+SAM: I can't be here right now! No!
+
+MATT: Listen! You guys. We have to get those fire
+dancers out of here or get the rest of these
+
+villagers out of the center here or we're all
+dead. That honey you got right there, that touches
+
+any of that boom boom fire stick, we all go boom.
+
+TALIESIN: My god.
+
+BRIAN: I run back over. You guys! You got to come
+up, oh man, it's crazy up front! Oh man, the
+
+honey's blue up there!
+
+SAM: I can't go up there, I'm scared of fire!
+
+MARISHA: You see a roaming, free-wandering chicken
+that comes up and you can tell it's eating any and
+
+all trash that it comes across on the floor. As a
+spark of ash, a piece of flint flies off the fire
+
+dancers and falls in front of it. Chicken eats it
+mindlessly. (squawk) It explodes and bursts into a
+
+poof of feathers. Everyone turns, looks over in
+your direction.
+
+MATT: I got a plan. Do you have a direction where
+the honey's from that I gave you earlier?
+
+TALIESIN: I'm going to try to smell it again.
+
+MARISHA: All right.
+
+MATT: Please, for the love of god.
+
+TALIESIN: Yes! Yes I do! That way!
+
+MARISHA: You can smell that it's coming from the
+Opal District a little bit, a really nice tavern
+
+called the Sun Kissed Inn in that direction.
+
+MATT: You guys start heading that way. I'll catch
+up to you in a minute, I know where the Sun Kissed
+
+Tavern is. I'm going to try to save some lives.
+
+MARISHA: You bears split off into a back alleyway
+and start following Cookie and Waffle.
+
+LIAM: I was liking that guy, but I don't know. We
+don't need any martyrs in this group.
+
+MATT: As the townsfolk are gathering around this
+fire troupe, I'm going to try to step between the
+
+threshold of where the various honey-eating folk
+and the fire spinners are. Step into that central area.
+
+LIAM: What's the range on the Vex necklace?
+
+MATT: I don't know where she is, so we'll find
+out.
+
+MARISHA: Yep, neither do I! She's real busy right
+now. People are dancing and they're cheering,
+
+they're eating the honey. Really stoked.
+
+MATT: As they begin to encroach, I shake my head
+for a second, pull my hat and cloak off, and
+
+(roar) towards all of the townsfolk, away from the
+fire dancers. Attempting to use my terrify special skill.
+
+MARISHA: Roll 2d6 under bear and take the lower.
+
+MATT: Two and a three!
+
+MARISHA: Kids immediately get snapped out of their
+dancing trance. Drunk people instantly sober.
+
+Everyone screams and takes off running into the
+other direction.
+
+MATT: I turn around to the fire dancers.
+(growling)
+
+MARISHA: You can tell a low level one person goes
+(groaning) and makes flame, but nothing really
+
+comes out.
+
+MATT: I throw the cloak back over my shoulder,
+take one of the fire sticks. Bidet! And start
+
+heading in the direction of the Sun Kissed
+Tavern.
+
+MARISHA: (yelling) She screams and runs off.
+
+MATT: Do I have to move a point anywhere for
+that?
+
+MARISHA: That was a successful criminal action, so
+point from bear to criminal.
+
+TALIESIN: Good grabbing the stick.
+
+MATT: I'm holding the flame stick with me now.
+
+MARISHA: You see Pike, off in the distance, start
+looking and moving people out of the way.
+
+MATT: I get as low as I can.
+
+MARISHA: "What do you mean, a bear? What did the
+bear look like?" She is demanding from other
+
+people that are screaming in panic right now. You've
+successfully wreaked havoc. You hear a few guards
+
+call out, "Those bears got in the city! Damn it,
+O'Donnell!" Keep moving. The rest of you bears,
+
+you sneak off, go around, heading your way towards
+the tavern.
+
+LIAM: You got a bead on it?
+
+TALIESIN: Yeah. I think I can hack it.
+
+LIAM: We're going to stick to the alleyways, we're
+going to make our way there quietly. All right?
+
+TALIESIN: Quiet.
+
+LIAM: Little guy?
+
+BRIAN: Huh?
+
+LIAM: Vegas.
+
+BRIAN: Yeah!
+
+LIAM: Take point!
+
+BRIAN: How many?
+
+LIAM: 15 HB.
+
+BRIAN: Okay. What else?
+
+LIAM: Just get ahead of us, look around the corner,
+see if anybody's coming. If there's anybody there--
+
+BRIAN: Kill them immediately.
+
+LIAM: You're two feet tall; don't kill them
+immediately, just give us a signal!
+
+BRIAN: And then they get on the ground, and then I
+go at the neck.
+
+LIAM: It's a good thing you're a good at pulling
+thorns out of our paws, I'm telling you, Vegas.
+
+BRIAN: Suck poison out, too, if I really needed
+to.
+
+LIAM: Get up there, earn your fucking keep.
+
+BRIAN: Okay! I run over and crawl down to the
+thing.
+
+TALIESIN: Damn honey badger don't need any lip.
+
+BRIAN: Eh, shut up.
+
+MARISHA: Peek around a corner, look left, look
+right. You see a discarded wheelbarrow, a few
+
+discarded carts, some trash.
+
+BRIAN: I want a cart. I'm the HB Driver.
+
+MARISHA: You veer off, you take a closer look. One's
+a little pull-behind cart that has shoulder
+
+straps. It'd be one of the bigger ones.
+There's a wheelbarrow. Looks tinier, made of wood,
+
+but you might be able to maneuver it. It looks
+like a little kid wagon, is basically what it is.
+
+SAM: Vegas, what you got up there?
+
+BRIAN: I'm looking for one that looks like the
+A-Team van!
+
+SAM: I don't know what that-- no! I'm not from
+around here. I'm an out-of-towner.
+
+LIAM: Bee-Team, come on!
+
+BRIAN: There's some carts and a wheelbarrow!
+
+SAM: A cart?
+
+BRIAN: Yeah!
+
+SAM: I can lift a cart.
+
+BRIAN: Okay. Take the cart.
+
+MARISHA: You push on the cart a little bit. Wheel
+falls off and collapses. Looks like it's been
+
+there for a while. As it collapses, behind that is
+a shiny, chrome metallic, little black detailing
+
+racing stripes on the side-- It's like a little
+Radio Flyer wagon.
+
+LIAM: Does it say de Rolo on it?
+
+MARISHA: It, in fact, does say de Rolo on it.
+
+BRIAN: Okay, so there's some really shiny shit
+here. I'm going to use extreme caution bringing it
+
+down the hallway. I'm going to move all the shit
+out of the way and pull it down.
+
+TALIESIN: Vegas, are you sure you can maneuver
+this thing? You seen something like this before?
+
+MARISHA: Roll a criminal check as you're trying to
+be stealthy.
+
+TALIESIN: This thing looks complicated.
+
+LIAM and BRIAN: How big is it?
+
+TALIESIN: Bigger than a honeypot?
+
+MARISHA: It's bigger than a honeypot. It's a Radio
+Flyer, it's a little wagon!
+
+LIAM: So it's big enough for Vegas, but not for a
+bunch of bears.
+
+MARISHA: Yeah.
+
+BRIAN: Success.
+
+MARISHA: Success? You shift some things aside. You
+hear a rustle from the house. Don't move for a
+
+second. "George! George!"
+
+BRIAN: Who the fuck's George? Do we know who
+George is?
+
+MARISHA: "Goddamn my piece of shit husband." She
+wanders off. You can continue.
+
+BRIAN: (low scraping).
+
+MARISHA: (squeaking) Liam Las Vegas comes back.
+
+BRIAN: Guys, look! Behold!
+
+SAM: What we do with that?
+
+BRIAN: We can put honey in it! And if someone
+gets injured, we could--
+
+SAM: What?
+
+BRIAN: Put their honey in it so they can focus
+on walking!
+
+SAM: That's really smart!
+
+TALIESIN: I put my honey in the wagon.
+
+LIAM: Yeah, smart.
+
+TALIESIN: Yeah, that really frees me up. Good
+thinking.
+
+MARISHA: You're all stealthing, keep moving down the
+alleyways.
+
+TALIESIN: The wagon with a fez full of honey.
+
+SAM: I'm looking for anything that looks like
+bamboo.
+
+MARISHA: You're eating the trash along the way.
+There's a few foliage and trees that look
+
+bamboo-y.
+
+SAM: I'll eat them!
+
+MARISHA: There's a few cattail rods and fronds
+that are not too bad.
+
+LIAM: We don't have the city bear back yet,
+right?
+
+MARISHA: Not yet. Actually, about this time, as
+you guys come around the corner you run, coming
+
+down the alleyway, right into Trinket.
+
+LIAM: What's up, big guy?
+
+SAM: What happened? There was a lot of commotion
+back there!
+
+MATT: Don't worry about it. We need to get to
+the tavern. I look down and see the fez in the
+
+cart and I hold the fire rod away.
+
+SAM and BRIAN: What's wrong?
+
+MATT: Safety tip: this doesn't touch that.
+
+TALIESIN: That's an important safety tip.
+
+SAM: Get that thing away from me; I don't like
+fire.
+
+TALIESIN: He's wearing a fez, too, you don't want
+to get that anywhere near that. It's very
+
+flammable.
+
+MATT: I point again and say, this also doesn't
+touch that.
+
+SAM: What?
+
+LIAM: Well, I don't like to burn.
+
+MATT: Remember that chicken?
+
+LIAM: Uh-huh. What, are you saying there's a
+correlation?
+
+BRIAN: You ate the--
+
+MATT: Don't worry about it. Sun Kissed Tavern.
+Keep leading us on with that beautiful nose of yours.
+
+TALIESIN: Here's a question: How do you spell Sun
+Kissed? And I can't read.
+
+MATT: Shit.
+
+SAM: Let's keep following the smell.
+
+MATT: Maybe it's got pictures.
+
+MARISHA: Out of one of the side alleys, as you
+guys are having this conversation, you hear
+
+(clopping). See that, I'm fucking Dee Bradley
+Baker up in here.
+
+SAM: Did you just self Dee Bradley Baker
+yourself?!
+
+MARISHA: Yeah, I did! I didn't plan those, I
+didn't practice those ahead of time. It's not too bad.
+
+LIAM: That's a joke for 83 people.
+
+TALIESIN: I don't feel good about that.
+
+BRIAN: That was up there with all of Dee Bradley
+Baker's monsters for sure.
+
+MARISHA: Totally!
+
+LIAM: I give that joke five bear claws out of
+five. Very nice!
+
+MARISHA: You see two silhouettes coming out of the
+shadows, also wearing hats. One has horns coming
+
+out of it. Two cows, also trying to pass as
+civilians, come up to you and go, "Well, well,
+
+"well! What do we have here? It looks like we got
+ourselves a couple of wise bears!" They're holding
+
+a stick like it's a tommy gun, but it's definitely
+a stick.
+
+TALIESIN: Careful kids, they've got sticks.
+
+LIAM: Hey, friend. Let me ask you something. Are
+you one of those cow-cows or one of those
+
+people-passing-themselves-off-as-cows? Just to
+avoid confusion.
+
+MARISHA: "Look, wise guy. I'm a prize cow. Do you
+know who we are? We're the blue ribbon winners
+
+"here at the Hazel Festival. Yeah, that's right.
+And you know what? Me, oh, this here is Bonnie."
+
+She goes, "Hi! You tell them, Cow!" He goes,
+"That's Bonnie and I'm Cow. We're tired of living
+
+like second-class livestock, you hear?"
+
+SAM: Point of clarification: They're holding
+sticks?
+
+MARISHA: They're holding sticks. Like tommy guns.
+
+SAM: Yeah!
+
+BRIAN: I'm pulling a Radio Flyer!
+
+SAM: You have digits!
+
+BRIAN: I do, but still. Cows can carry things.
+
+MARISHA: It's balanced. It's tucked up under.
+
+TALIESIN: It's a Far Side cartoon, just go with
+it.
+
+LIAM: Beefcake! I don't think we have a problem
+here. There's not a lot of overlap: you guys like
+
+grass, you guys like ribbons.
+
+MARISHA: "Oh, do we? Do we like grass? Are you
+going to start telling me about myself now? Look
+
+"at these guys, Bonnie." "Yeah, you tell them,
+Cow!" "Yeah!"
+
+BRIAN: You also like to be milked.
+
+MARISHA: "All right, you know what? You bears, you
+get to enjoy your honey. You get to enjoy all
+
+"these fruits and all these bamboos. And we get
+stuck with hay. And I'm just here to say we're tired of
+
+"it! Aren't we, Bonnie?" "Yeah!"
+
+SAM: I step forward and crack my bear knuckles and
+say: If you're so sick and tired of it, why don't
+
+you make a move? Come on, let's end this right
+here. Let's settle it.
+
+BRIAN: Take a shit on them, Peddy!
+
+SAM: I don't shit where I eat!
+
+BRIAN: Well, then shit on the one you're not going
+to eat!
+
+SAM: Okay! That makes more sense!
+
+MARISHA: "Is that a threat? Is that supposed to be
+some sort of hamburger threat? I get it! I'm a
+
+"cow, I've heard them all! All right. You want to
+throw down? That honey's ours. All right, let's
+
+"throw down!"
+
+SAM: Let's do this!
+
+TALIESIN: Did the cow just drop his stick?
+
+MARISHA: He did!
+
+MATT: Here's my question. How much like bamboo do
+those sticks look?
+
+MARISHA: They look pretty good. They look like
+some pretty tasty-looking sticks. They're still
+
+green. He dropped it on the floor.
+
+MATT: I lean over to Peddy and say: Disarm them.
+
+SAM: I pounce with panda speed!
+
+BRIAN: Yes!
+
+SAM: I throw myself on the stick and I bite it in
+half!
+
+LIAM: Fuck 'em up, Peddy!
+
+MARISHA: As you bite down on the stick--
+
+BRIAN: Gnaw on that knob, Peddy!
+
+MARISHA: --you realize there's actually something
+a little bit different about this stick. It has a
+
+shimmer to it, it's not as easy to bite through.
+You realize this is actually a magic stick.
+
+SAM: What?! Is this true?!
+
+MARISHA: Yeah!
+
+SAM: Like, now?
+
+MARISHA: You can certainly try.
+
+SAM: This is a spell I can do?
+
+MARISHA: It's a stick that, when you use it, it
+turns into a giant whacking trunk. Yeah.
+
+SAM: Wait, that's this, yeah? When I use this
+stick, I become two bears?
+
+MARISHA: No. Wait, what? Oh, I gave you the wrong
+one! That's what you needed.
+
+SAM: This makes much more sense! But I don't have
+to use it now, but have this item.
+
+MARISHA: You now have it.
+
+SAM: Okay, great. I can't bite it in half! I'll
+just hold onto it with my digits that I have.
+
+MARISHA: Bonnie and Cow go, "Moo!" and start
+trying to stampede you all. What do you do?
+
+TALIESIN: I take off my cloak and I'm going to try
+and bull them out into one of the buildings.
+
+MARISHA: Roll for criminal.
+
+TALIESIN: This is all criminal.
+
+MARISHA: Roll for being a cow hacker. You're cow
+hacking.
+
+TALIESIN: Bovine hacking. Classic. I rolled a
+four, I do not hack.
+
+MARISHA: He doesn't fall for it. He tramples right
+over you. You get knocked prone on the ground. You
+
+get aggravated and take a point in bear.
+
+LIAM: I'm going to grab Las Vegas by the scruff of
+the neck off the Radio Flyer and I'm going to try
+
+to chuck him on top of Cow.
+
+MARISHA: All right!
+
+BRIAN: I'll get on there and I'll start going
+carnage, yeah.
+
+MARISHA: Do fastball special, land on top of him,
+get a nice little foam going in the mouth. It's
+
+good. Roll 2d6.
+
+LIAM: You're the driver; steer that shit!
+
+BRIAN: One and two!
+
+MARISHA: You start tearing at the throat of Cow.
+Poor Cow didn't know what was coming to him.
+
+Scruff is getting--
+
+BRIAN: Eat more chicken!
+
+MARISHA: He goes down pretty good. Bonnie turns
+and goes, "What?! No! You monsters!" and she turns
+
+and goes for you, Trinket.
+
+MATT: As she rears towards me, I get down and be
+as imposing a grizzly figure as I can, and give a
+
+very focused, centered roar right in her
+direction. (roars)
+
+MARISHA: Roll for terrify.
+
+MATT: Yeah, with a two. I only have two bear right
+now.
+
+MARISHA: She goes, "You'll pay for this."
+
+MATT: Take your wounded boy, and don't cross a
+bear in a hat ever again.
+
+MARISHA: She grabs Cow and starts trying to drag
+him off. It's going to take time.
+
+SAM: It's going to take a while.
+
+MARISHA: It's pretty sad, actually.
+
+BRIAN: Are there any sticks left?
+
+MARISHA: Just the one stick. There is another
+stick. It is just a stick, though.
+
+SAM: I'm going to eat the second stick.
+
+MARISHA: Okay. I'd say you get a point in bear for
+that. You did some pretty good bear stuff this
+
+go-round.
+
+MATT: Do we also move a point into bear?
+
+MARISHA: You would move a point into criminal, and
+you would also move a point into criminal because
+
+your plan succeeded.
+
+MATT: For using a special skill. That's right.
+That's not good.
+
+TALIESIN: Say, Trinket. You've got a great singing
+voice.
+
+SAM: Boss, I know she's within earshot, but
+shouldn't we leave no witnesses? Do you want me to
+
+take her out of commission?
+
+LIAM: She's a fucking cow. Do you think she's
+going to go to the city council and report a bunch
+
+of bears? We need to keep on the task at hand: get
+the honey and get out.
+
+MATT: As she turns away, I take a quick glance to
+look at the back of her shoulderblades to see if I
+
+notice any familiar branding.
+
+MARISHA: You actually do recognize this branding.
+This is from the old couple that Vox Machina saved
+
+their bears from being eaten from rocs.
+
+MATT and SAM: Their cows.
+
+MARISHA: Their cows, yeah. What did I say?
+
+SAM: You said bears.
+
+MARISHA: Oh, sorry. Cows.
+
+LIAM: We got it.
+
+MARISHA: The same old couple that you saw earlier,
+running through looking for their lost cows.
+
+MATT: I turn to Peddy and say: wait, I know these
+cows. We've talked to these cows. These cows are
+
+assholes.
+
+SAM: You want me to show them what-for?
+
+MATT: Finish them off.
+
+SAM: All right! I'm going to go up and take my
+stick and knock Bonnie in the head with it.
+
+MARISHA: Okay, you use the stick, and as you rear
+it back, it turns into a giant tree trunk,
+
+basically, that comes toppling down right on her
+head. Roll for criminal.
+
+SAM: Oh, I've got to roll well. Two!
+
+MARISHA: Wait, no. Bear.
+
+SAM: Either way, I succeed.
+
+MARISHA: Okay. (impact) A little blood
+splatters--
+
+SAM: She's dead?
+
+MARISHA: She had a tree fall on her. And then
+after a second, it goes back to a stick.
+
+MATT: Okay, I thought it was a stick. That's on
+me.
+
+SAM: This is amazing! I've got a stick that makes
+trees.
+
+TALIESIN: Who would've thunk it.
+
+LIAM: Trinket, I'm going to make a proposal to
+you.
+
+MATT: Does it involve honey? I'm starting to get real
+twitchy.
+
+SAM: Boss!
+
+LIAM: Yeah?
+
+SAM: Did you hear the part where this turns into
+trees?!
+
+LIAM: It doesn't make any sense. I'm doing
+business, all right? Sit tight.
+
+SAM: I feel like this is a more momentous thing!
+
+LIAM: It doesn't seem that important in the grand
+scheme of things.
+
+BRIAN: Didn't it used to be a tree, anyway?
+
+LIAM: Keep your mind on honey, all right, Peddy?
+
+SAM: All right.
+
+BRIAN: I know you're not used to holding things
+that size in your hand, but you need to focus.
+
+LIAM: Las Vegas.
+
+BRIAN: Yo.
+
+LIAM: You're the best at what you do, bud, but
+hold on. The big bears are talking business.
+
+BRIAN: All right.
+
+LIAM: You seem like a hard motherfucker to me.
+Once we get the honey, I get the sense that you've
+
+got ties to these people.
+
+MATT: More or less, yeah.
+
+LIAM: What say you run free with us? We could hit
+Vasselheim. We could get all the fucking honey of every
+
+temple in that city. The good stuff, after this.
+
+BRIAN: We've got a cart to pull it in, and
+everything.
+
+TALIESIN: The Slayer's Take's got to have fingers
+in dozens of bakeries all over town. Their honey
+
+pots are sweet.
+
+MATT: Looking as how I'm five points into criminal
+right now, I start nodding slowly, and go: all
+
+right, I hear what you're saying. You all seem to
+be a fairly functional lot. We'll see how this--
+
+most of you seem like a functional lot. Let's
+see how this goes down. When all's said and done
+
+and we've enjoyed our just desserts, you might be
+onto something.
+
+LIAM: I like this guy, Waffle.
+
+TALIESIN: Yeah, there was a honey pun. That's
+good. Yeah.
+
+MARISHA: You peek down the alleyway a little bit.
+People are still pretty cleared out of the town
+
+square from where everyone was looking for a giant
+bear that's now running loose in the town. You see
+
+a few knocked-over jars of the sample honey. It
+would be risky, but there's some honey not too far.
+
+MATT: That's worth the risk. I've got to keep my
+eyes focused. My brain right now is caught up with
+
+the ideas of all the various other heists we could
+throw, and I've been a good person so far, a good
+
+bear, in my life. I can't deter too far from that
+path. I'll be right back. And I rush up to try and
+
+grab one of the canisters and bring it back.
+
+SAM: Why's he always leaving us like that?
+
+MARISHA: Roll for criminal.
+
+MATT: I make it.
+
+MARISHA: You scoop up as many as you can.
+
+MATT: I'm jamming it into my mouth directly.
+
+MARISHA: Move a point from criminal to bear, and
+I'd say you can probably bear-handle two more jars
+
+of honey, awkwardly.
+
+MATT: I come back and put it into the Radio Flyer.
+
+BRIAN: Can I eat some of it as I help him?
+
+MARISHA: Sure. Move a point. Does anyone else want to
+eat anything? You good?
+
+LIAM: I'm all right. I'm feeling pretty in
+control, so let those in need scoop the honey first.
+
+SAM: I'm more of a bamboo person, honestly. I
+don't really-- I'm fine.
+
+MATT: Dip your spoon in it. Try it.
+
+SAM: Oh yeah, I have those sample spoons.
+Delicate. Nice odor. Has a forward nose. Jammy,
+
+but new-world jammy.
+
+BRIAN: Jammy? I heard jimmy.
+
+SAM: Yeah, it's got a steely-oaky feel.
+
+TALIESIN: What are the notes, man?
+
+BRIAN: How old would you say it is?
+
+SAM: 12 years, aged in barrel. Good mouthfeel. I
+like it! Hey, this stuff is pretty good. You know
+
+what this is like? Liquid bamboo.
+
+LIAM: You know how you can tell a panda bear is a
+vegan? It never fucking stops telling you about it.
+
+BRIAN: Yeah, and the ones that do Crossfit.
+
+(laughter)
+
+SAM: What's Crossfit?
+
+BRIAN: It's when they run up and down the thing,
+and they're always talking about the shirts.
+
+LIAM: No, Vegas, we do Bee-90X.
+
+BRIAN: Yeah, Bee-90X.
+
+MATT: Focus! We've got honey hiding somewhere
+right now. I don't want you buffoons ruining our
+
+chance. They know there's bears around now, and I
+bought us a little bit of time, but we've got to
+
+hurry it up.
+
+LIAM: He talks a lot of sense. Come on. We've got
+to keep our eyes on the prize. We've got to get to
+
+this inn.
+
+MATT: All right. You've got the nose, you've got
+the brains.
+
+LIAM: You got a scent on it, Waffle?
+
+TALIESIN: Do I still got a scent on it?
+
+MARISHA: Yeah, I'd say you've still got a pretty
+good scent on it.
+
+TALIESIN: Yeah, it's this way. Bring the cart
+around!
+
+BRIAN: (squeaking wheels)
+
+MARISHA: You hear a few guards in the distance,
+shouting. It's kind of inaudible. "Clear!" Seems
+
+people are definitely looking.
+
+LIAM: Snake? Snake!
+
+MARISAH: You've definitely put the city on high
+alert, for sure. Everyone roll a criminal check as
+
+you stealthily move through the city.
+
+SAM: Succeed.
+
+MATT and BRIAN: Succeed.
+
+LIAM: I failed big time. I rolled a six.
+
+MARISHA: All right. What about you, Waffle?
+
+TALIESIN: I was going to roll, but first, I was
+going to think about the last time we were in a
+
+tricky situation like this.
+
+BRIAN: Ugh, here comes one of grandpa's old
+stories.
+
+TALIESIN: No, I remember we were doing a roll
+through Whitestone. There was high alert.
+
+MARISHA: Flashback! (flashback noises)
+
+TALIESIN: We were trying to book our way through
+the main square towards that big tree.
+
+LIAM: Goddamn tree.
+
+TALIESIN: The tree can give you a little coverage,
+but not nearly enough. That cart came by, and we kept
+
+walking right behind the horses on the cart. No
+one suspected a thing. They were sitting there,
+
+minding their own business, making noise like,
+"Bears! Look out, bears!" They didn't see a damn
+
+thing coming.
+
+LIAM: Farted the whole way there. Smokescreen.
+Done. Out. Honey got.
+
+TALIESIN: Ba-da-bing. Can I get a point of
+criminal?
+
+MARISHA: You can get a point in criminal back.
+
+LIAM: Does that save all of us, or just him?
+
+MARISHA: Just him. I'd say, if you want to switch
+a point, since you were part of that, go ahead.
+
+LIAM: So it goes...
+
+MARISHA: From bear to criminal.
+
+TALIESIN: Flashback, you go bear to criminal.
+Honey: criminal to bear. Don't know why I'm
+
+still-- boy.
+
+MARISHA: And it actually gives you a pretty good
+idea, Waffle. Since the town is kind of empty
+
+right now, you walk by a little news stand that
+has tobacco and hand-rolled cigarettes.
+
+TALIESIN: Sweet syrup, I got me an idea. Hold on. I
+walk up. Just trying.
+
+MARISHA: Okay.
+
+TALIESIN: Pull a cigar together, basically. Trying
+to stealthily grab a couple cigars.
+
+MARISHA: Okay. I'll allow it to just happen. Just
+because of the ridiculousness.
+
+TALIESIN: I'm going to light a couple.
+
+MATT: I go to get the fire staff from the ground,
+pull it back, pull my cloak back up.
+
+MARISHA: It's an obnoxiously large flame for what
+you're trying to do, but--
+
+TALIESIN: That's fine. It's fine. Now--
+
+LIAM: Last time you did this, you got stoned for
+three days on the outskirts of Kraghammer. I had
+
+to talk you out of that tree. Took me three
+fucking days!
+
+TALIESIN: But it worked, didn't it?
+
+LIAM: Do you have yourself in control?
+
+TALIESIN: I'm fine. Right now I feel (grunts).
+
+LIAM: Moderation. Moderation.
+
+TALIESIN: Feeling good. Feeling fine. So... now?
+
+MARISHA: Go ahead and put another point into
+criminal from bear. It's pretty good. It feels
+
+pretty good.
+
+TALIESIN: Yeah. No, smoking. Honey blazed.
+
+MARISHA: You guys keep moving, doing pretty good.
+As you come around a corner, down an alleyway, you
+
+see a little kerfuffle going on and you see two
+bigger kids just sucker-punching on this little
+
+kid and they're taking honey samples and smearing
+it in his hand. A lot of it, it's Victor just
+
+smearing it into his hair. You hear the kid
+screaming, "Hey! Hey! Stop it! Stop it, you guys!
+
+"Seriously, my dad's going to kick your butt!"
+
+BRIAN: I run over there and smack one of the kids
+in the back of the head.
+
+MARISHA: He was like, (sneering) "Ah!" Turns
+around.
+
+BRIAN: Stop it!
+
+MARISHA: "Shit, you guys! Hey Jordan. Jordan, look,
+it's a ferret! Let's capture him!"
+
+BRIAN: I'm not a ferret, you piece of shit! Get
+away from him!
+
+MARISHA: The kids start trying to capture you.
+
+BRIAN: Oh, that's fine. I just start fucking--
+
+SAM: Killing?
+
+MARISHA: Roll for carnage.
+
+BRIAN: Carnage.
+
+LIAM: I'm going to run out and help him. I'm going
+to jump the other kid.
+
+BRIAN: (shouting) I don't like bullies! It's a
+four.
+
+MATT: Oh, you have advantage because it's
+carnage.
+
+BRIAN: Yeah, then you have advantage.
+
+MARISHA: Go ahead, roll for bear plus one.
+
+BRIAN: I fail. Does that mean I fail? Yeah.
+
+LIAM: I failed hard.
+
+MARISHA: Oh shit.
+
+BRIAN: We both failed.
+
+LIAM: Son of a bitch!
+
+MARISHA: (laughs) The kid grabs you successfully.
+The other kid turns, sees you. He's like, "Oh
+
+"shit! Shit, Jordan, it's those bears!" And starts
+taking the wooden play sword that he got at the
+
+festival and just starts beating you with it.
+
+TALIESIN: I'm going to hack that sword in half! I'm
+going to come running up and hack that sword in half.
+
+MARISHA: Take a point in bear. Also take a point
+in bear. As the kid's holding you and you're just
+
+(struggling sounds).
+
+MATT: I just sit back and watch with Peddy,
+smoking the cigarette that Waffle gave me.
+
+TALIESIN: I'm going to hack that sword in half.
+
+BRIAN: This is not how it went in the after school
+special.
+
+MARISHA: How are you going to hack that sword?
+
+TALIESIN: With my claws. I'm going to hack it in
+half.
+
+MARISHA: You're really pushing that hacker thing,
+aren't you?
+
+TALIESIN: That's what you gave me, man!
+
+MARISHA: You know, once again, I'll allow it based
+on the shitty English language.
+
+TALIESIN: Thank you. That's how I get away with
+almost everything in my life.
+
+MARISHA: Two dice, under bear.
+
+TALIESIN: Two dice, under bear. I do it! I hack
+the sword.
+
+MARISHA: Okay. The sword breaks in half. He's
+like, "Oh, shit, it's the other bear!"
+
+TALIESIN: You've been hacked.
+
+MARISHA: "What? I feel like--"
+
+TALIESIN: Say it! Say you've been hacked! I hacked
+you! Say it!
+
+MARISHA: "George, what's he trying to say?"
+
+TALIESIN: (bear sounds)
+
+MARISHA: As he's distracted--
+
+LIAM: Do I have a kid on my back, by the way?
+
+MARISHA: Oh, the other kid that was being bullied
+comes up with his prop sword and he goes (whack)
+
+and comes down right over the top of the first kid
+who is holding you. He turns to the second kid.
+
+They're like, "Aw, shit, man. Come on, let's get
+out of here!" And they take off.
+
+LIAM: I trip one of them as they run.
+
+MARISHA: "Ugh! You just scraped my knee!"
+(crying)
+
+LIAM: Run, you stubborn prick, you! (manic laughter)
+
+MARISHA: "Mum!"
+
+SAM: We're dicks.
+
+MARISHA: As you flick the cigarette, you see one
+of Victor's sample cups go--
+
+MATT: No!
+
+MARISHA: --(ignition sounds). It goes (sparking
+sound), like a bottle rocket.
+
+MATT: Right. Point of order. No one flick
+cigarettes. Especially if there are kids with it smeared in
+
+their hair. I'm so sorry. Which, the kid sees a
+giant hat-wearing Trinket going (bear sounds).
+
+MARISHA: He's got this cowlick-- he's sore and
+he's like--
+
+MATT: I hold the torch away.
+
+MARISHA: "Wow. You know, I really feel like you
+guys are trying to talk to me. This is great! You
+
+"guys saved me! Oh, I got saved by bears! No one's
+going to believe me."
+
+MATT: (grunts)
+
+MARISHA: "That's right, fuzzy bear. Hey, are you
+guys-- you guys want some honey?"
+
+BRIAN: Yes?
+
+MARISHA: "I know where there's a lot of honey."
+
+TALIESIN: That's the only word of English I know.
+
+BRIAN: Tell us.
+
+MARISHA: "Okay. See, my dad is the head of
+security."
+
+BRIAN: Congrats.
+
+MARISHA: "He's the head of-- so he knows where all
+the honey is hiding and he told me that there's a
+
+"code and he made me collect a bunch of fish for it
+and it wasn't very fun. But there's a secret code!
+
+"I can tell it. I can show you where my dad is!"
+
+LIAM: Kid, how would you like to be an official
+bear bandit? (bear sounds)
+
+MARISHA: "It's so cool having bear friends! Okay,
+if you go around the corner and go up there, right
+
+"next to the Sun Kissed Inn. My mum likes drinking
+there a lot. If you go over, next to the Sun Kissed
+
+"Inn, there's an alley behind it and there's a
+door that goes up to the side, and that's where
+
+"the head of security is."
+
+LIAM: This kid. I like this kid.
+
+SAM: Boss, you know--
+
+MARISHA: "Okay. Have fun. Bye!" And he runs off.
+
+MATT: Kid, wash your hair!
+
+MARISHA: (giggling) "Mum!" And he runs off.
+
+SAM: Do you want to rub him out? No witnesses,
+right?
+
+LIAM: No, you had your fun for the day, all
+right?
+
+BRIAN: Did you say rub him out? I have to say no.
+
+TALIESIN: It got weird.
+
+SAM: Vegas.
+
+LIAM: I remember this one time in Las Vegas...
+
+SAM: Oh, are you doing a flashback right now?
+
+(laughter)
+
+TALIESIN: No.
+
+LIAM: All right. You got the smell of honey in
+your nose, and we're going to the Sunkist Inn. We know
+
+the head of security is up a side stairway.
+What the fuck do we do with that?
+
+TALIESIN: I don't know. You're the brains.
+
+BRIAN: I don't think we can take the cart up the
+stairs.
+
+MATT: I think we can with the right muscle.
+
+BRIAN: Oh. Yeah.
+
+SAM: I can carry a cart.
+
+BRIAN: A cart full of honey?
+
+SAM: Sure. Yeah.
+
+BRIAN: Could you carry me too, like the old days?
+
+SAM: Why would I-- what?
+
+BRIAN: Remember when I was hiding behind you in
+the beginning?
+
+SAM: Yeah.
+
+TALIESIN: (flashback sounds)
+
+(laughter)
+
+TALIESIN: Everyone go back to eight minutes 
+into the video.
+
+SAM: Are we going to do a flashback to that
+moment?
+
+MARISHA: If you would like to.
+
+BRIAN: Yeah!
+
+SAM: Yeah. There's another guy. There's another
+guy here. You said three bears but there's another
+
+guy. Why don't you come out from behind me there,
+friend?
+
+BRIAN: Hey, it's me! I don't remember what I said.
+
+MARISHA: Flashback. (flashback sounds) And you're
+back.
+
+TALIESIN: Someday we're all going to look 
+back on this and laugh, right there.
+
+MARISHA: Go ahead and put a point from bear into
+criminal.
+
+SAM: I think you did that wrong, friend. No, it's
+bear to criminal.
+
+BRIAN: I was hoping it was gonna take a thing--
+
+MARISHA: Well, you can always eat the honey.
+
+BRIAN: Oh yeah.
+
+MARISHA: And then you also take a point from bear into
+criminal.
+
+BRIAN: I'll eat some more honey too.
+
+MARISHA: Okay. Now you can move that point
+back.
+
+MATT: How many more servings of honey do we have
+in the cart?
+
+MARISHA: You've got a jar and a half.
+
+TALIESIN: Are they eating the hat honey?
+
+MATT: Is it a half a jar per serving?
+
+MARISHA: I'd say yeah, three more.
+
+TALIESIN: Don't eat the hat honey.
+
+MATT: All right, don't eat the hat honey. We only
+got three proper servings left so we have to be
+
+sparing.
+
+LIAM: How close are we to this tavern?
+
+BRIAN: Well, we're going to go get a fuckton more.
+
+LIAM: Waffle, what does your nose tell you?
+
+TALIESIN: (sniffs) I don't know. I have no real
+perception of distance that is actually capable of
+
+being communicated to a bunch of other bears.
+
+MARISHA: It's close.
+
+LIAM: Is it like three glens or five?
+
+TALIESIN: It's close. No, it's like two glens
+tops.
+
+LIAM: Two glens over?
+
+TALIESIN: It's close.
+
+MARISHA: That sounds accurate.
+
+TALIESIN: A glen. Maybe half a hill and a dale.
+
+LIAM: Okay. Well, let's get close. I want your
+nose and my nose. I have a pretty good nose. The
+
+best noses. You'd be surprised! We get outside
+that tavern and try to figure out where in that
+
+building that honey is, it's probably in the
+tavern, probably in the basement of the
+
+tavern, probably in the back in the larder-- but
+let's check it out. Come on.
+
+MARISHA: And with that, we will take a break. As
+always, stay tuned for the wonderful Brian
+
+Foster's codeword so you can win some shit. I
+don't know what you're going to win, but you're
+
+going to win some shit.
+
+BRIAN: It's going to be a beautiful deck box.
+
+MARISHA: And we're going to take a break and we'll
+be right back, I guess.
+
+SAM: Woo-hoo! Marisha Ray!
+
+(cheers and applause)
+
+[break]
+
+MARISHA: Welcome back... to Trinket and Peddy
+Tuxpin's Honey Heist. We have a winner for Brian's
+
+wood, which is HawkWinter01.
+
+MATT and MARISHA: HawkWinter!
+
+BRIAN: Sounds like a born winner.
+
+MARISHA: Yeah. Sounds like a Marvel character.
+
+MATT: We drink to your honor.
+
+MARISHA: Sponsored by Marvel Puzzle Quest. Got to
+catch them all. And then you, Sam, quick catch-up
+
+announcement?
+
+SAM: Yeah, so next week, I will be hosting a
+one-shot. I will be in the Marisha seat, and my
+
+special guests will be: Amy Vorpahl, from Geek &
+Sundry. Stefanie aka Sofia Woodburn. Yuri
+
+Lowenthal, voice of things. Noelle Stevenson,
+writer of things. Molly Ostertag-- I hope I'm
+
+saying that right-- also writer of things. And
+back for more: Jon Heder! They will be having fun
+
+adventures and fairytale romance on the high
+seas.
+
+MATT: I'm so excited.
+
+TALIESIN: I am genuinely so pleased that all of
+this is happening.
+
+ALL: Be pleased.
+
+TALIESIN: Yeah, and if you've got time tomorrow
+night, we got the confirm that we're going to be singing
+
+and drinking on Gather Your Party tomorrow night,
+so we're going to be having a pub sing. You get to
+
+hear me sing.
+
+MATT: Forgot to mention One Night Only on
+Saturday. We're doing GM Tips. Me and Satine are
+
+hosting a GM Tips One Night Only, this Saturday at
+8PM, I believe.
+
+MARISHA: We've got some pretty awesome people who
+are going to be on it.
+
+BRIAN: I told Satine. She's on board.
+
+LIAM: Some bad breaking news. This just in: Laura
+and Travis actually tripped and fell into a giant
+
+vat of Tim Tams in Australia and were smothered to
+death.
+
+SAM: Oh no. They tried to get out, but Vegemite
+was poured on top.
+
+MATT: They have to slam their way out of there.
+It's the only way to do it.
+
+LIAM: There was no coffee nearby.
+
+BRIAN: It looks like Travis went mud-wrestling
+again, but unfortunately, that's not mud.
+
+MARISHA: You can donate to Oxfam to help them out.
+No.
+
+MATT: So?
+
+MARISHA: All right. Criminal bear posse.
+
+SAM: We're right back in it.
+
+MARISHA: You're right back in.
+
+TALIESIN: Our cloaks, our hats...
+
+MARISHA: Your cloaks, your ascots, your hats.
+
+LIAM: Our miniature Superman capes.
+
+MARISHA: Your pull-behind de Rolo Roller.
+
+MATT: Taking inventory here. Three sources of
+honey, an explosive honey hat.
+
+TALIESIN: A fez of explosive honey.
+
+MATT: And a fire staff and a tree stick.
+
+MARISHA: Not doing too bad.
+
+MATT: Not a bad haul.
+
+BRIAN: A cart!
+
+MARISHA: And a cart.
+
+LIAM: This could be yours, Trinket, forever and
+ever and always.
+
+MATT: I'm thinking about it, but still. You've
+proved to me that you're useful, and you've proved
+
+to me that you're partner material. Come on,
+brains. Lead us to this tavern. Follow your
+
+brother there. See if you can get us inside this
+security door.
+
+BRIAN: (wheels squeaking)
+
+(laughter)
+
+LIAM: Hold up. I take a whiz on the wheels to
+silence them.
+
+MARISHA: Roll for bear?
+
+(laughter)
+
+LIAM: I do it!
+
+MARISHA: You successfully pee on wheels.
+
+LIAM: Yeah.
+
+BRIAN: I move the cart to change the wheels so he
+can keep a steady stream going.
+
+LIAM: How's it sound now?
+
+MARISHA: Much better. You are leaving a bit of
+tracks, but it dries in a while. It's good.
+
+LIAM: The people do that here.
+
+MATT: Yeah, it's Westruun. It smells like piss
+everywhere.
+
+MARISHA: All right, you guys keep moving, ducking
+down alleyways, turning and looking like bears and
+
+people as you need to. At one point, in the
+distance, you hear: "Oh no! We found the Jamesons'
+
+"lost cows. Hey, can we get a really big wagon?"
+That happens in the background. It has people
+
+distracted for a little bit, it seems. You keep
+moving. As you come around the corner, you
+
+see, across one of the main thoroughfares, the Sun
+Kissed Inn.
+
+BRIAN: That looks familiar.
+
+MATT: I can't read, but it looks like an inn.
+Sun's out. Feeling pretty kissy.
+
+MARISHA: Looks pretty fancy. Looks nice. You're in
+the Opal Ward right now.
+
+LIAM: Is there a picture of the sun on the sign?
+
+MARISHA: It's got a nice glow coming up over the
+logo.
+
+LIAM: This is it.
+
+SAM: Let's go get us some honey. I'm going to go
+right through the front door.
+
+LIAM and TALIESIN: Whoa!
+
+SAM: What? This is where the honey is, right? Come
+on!
+
+BRIAN: Yeah, but you can't just waltz right in.
+She said we've got to go see the head.
+
+SAM: Who's she?
+
+LIAM: Peddy. Peddy, I love you, but this is not
+your natural environment, even. You're not even a
+
+bear that's from these parts.
+
+SAM: All right, I know. I'm from out of town, all
+right? Don't make me feel like-- fine.
+
+LIAM: You're the strongest bear in the group. We
+love you. We need you. But come on, let's take it
+
+one bear paw at a time, all right?
+
+TALIESIN: One. Just one. I know you've got four.
+Just one.
+
+LIAM: Listen, when we need you to crush somebody's
+skulls, who are we going to ask? This guy? No.
+
+You! Only you.
+
+MATT: Actually, he's pretty much already almost 
+killed one creature, but I get what your point is.
+
+BRIAN: Cows do not like me. They do not like me.
+
+TALIESIN: You apparently don't like them.
+
+BRIAN: When someone calls me a ferret...
+
+LIAM: We don't insult your integrity. What are we,
+animals?
+
+SAM: What are you, though, seriously? Are you a
+mongoose or something?
+
+BRIAN: No, I'm not a mongoose. Do I have gills? Do
+I look like I have gills? I'm not a mongoose.
+
+SAM: You're right. I should have seen: no gills.
+
+BRIAN: I'm a honey badger!
+
+MATT: It's a valid point.
+
+BRIAN: I'm a honey badger. I'm a little bit
+smaller. I wish I was a little bit taller.
+
+(off-screen laugh)
+
+(laughter)
+
+SAM: That's your audience. One person.
+
+LIAM: All right, cool your jets, Johnny Cash.
+Let's case this joint, okay? Waffle! Where's the
+
+honey smell coming from in this place?
+
+TALIESIN: (sniffs) I'm trying to pinpoint the
+location of the honey.
+
+MARISHA: You're getting some pretty strong wafts
+right through the front door of the Sun Kissed
+
+Tavern, for sure.
+
+TALIESIN: I think we've come to the right place.
+
+SAM: Hey, Waffle?
+
+TALIESIN: Yeah?
+
+SAM: There's an exposed pipe here. Maybe you
+should sniff right there. You know, hack into the
+
+mainframe?
+
+TALIESIN: Don't tell me how to do my business.
+
+SAM: Sorry.
+
+TALIESIN: Can I hack the mainframe?
+
+(laughter)
+
+BRIAN: Don't tell me how to do what I was just
+about to do.
+
+MARISHA: Yeah. Roll for hacker. Roll for criminal.
+It's under criminal.
+
+LIAM: The last five years of video games have
+prepared me for this moment.
+
+TALIESIN: I do it.
+
+MARISHA: All right. You get a good sniff, a good
+waft. It's a little musty.
+
+SAM: You're huffing it?
+
+TALIESIN: No, my whole face is in the
+pipe!
+
+MARISHA: A little bit of fresh laundry, dryer sheets.
+You go over and see rat droppings down one side.
+
+SAM: He can see through the smell?! No, I love
+it!
+
+MARISHA: I'm painting a picture here!
+
+SAM: No, I love it! Keep it coming!
+
+MARISHA: You go through, and the smell comes from
+this dank air passageway over in the corner, but
+
+your scent leads you in another direction, and it
+jettisons to the left, and it goes up to the
+
+right, and you see up in this attic loft a
+security room.
+
+TALIESIN: Oh, there's a firewall.
+
+MARISHA: And that's all you can see, and it snaps
+you back into reality.
+
+TALIESIN: They've got a firewall. I don't think
+they got me.
+
+BRIAN: Don't take the hat near the firewall.
+
+TALIESIN: No, we're going to keep it very safe.
+
+LIAM: Point of order. Excuse me, BM. BM?
+
+SAM: Bear master? Beast master?
+
+LIAM: Bear master, bee master. Take your pick.
+
+MARISHA: I'll take beast master.
+
+LIAM: Can you please paint a picture of the
+outside of this building for us humble bears?
+
+MARISHA: You've got a main thoroughfare in front
+of you. Off to your left, you've got the town
+
+center, where you guys were harassing and
+terrifying people. There's a nice fountain in the
+
+middle of it.
+
+LIAM: Where we did our expert plan. Yeah, okay.
+
+MARISHA: Fall foliage in the water of the
+fountain. Still pretty rough-looking from where
+
+there was a mass clearing out of people from the
+bear attack, according to the guards. And then off
+
+the main road, there's the Sun Kissed Inn. It's a
+nice white building; looks like it's been pretty
+
+well-kept. On the bottom floor, there's a tavern.
+On the upstairs, there's a little inn you can stay
+
+at, a little bed-and-breakfast. It's got nice
+white columns. A little swinging wood sign says
+
+Sun Kissed Tavern, with a sun rising up over top
+of the title.
+
+LIAM: What about a side entrance to the security
+guard?
+
+MARISHA: When you keep looking down the main road,
+you see another alley-- no, wait. It's this way.
+
+You see an alley that jettisons off to the left of
+the tavern that looks in the direction that his
+
+hacker sense was taking him.
+
+LIAM: I didn't smell that. I wasn't there.
+
+TALIESIN: I think we've got to go around the side.
+I think that's our best bet.
+
+LIAM: All right.
+
+MARISHA: You've got a catty-corner dart.
+
+MATT: I wipe the huff coloring off the sides of
+Waffle's face.
+
+SAM: Gold spray paint?
+
+(laughter)
+
+MATT: Careful. It ruins your brain.
+
+BRIAN: You look like my aunt after church. Come
+here. Let me get this.
+
+MARISHA: A little dizzy. It wears off in a
+second.
+
+LIAM: All right. This is good. You're telling me
+that the honey is not right through the main doors
+
+of the tavern.
+
+TALIESIN: It's deep inside. They've got it
+definitely under heavy security.
+
+LIAM: They've probably got some dipshit upstairs
+guarding it, around the back. That's good. This
+
+works in our favor.
+
+SAM: I've got an idea.
+
+MATT: What's your idea?
+
+BRIAN: Spill the beans!
+
+SAM: I make a tree right in the middle of the
+lobby there. You use your fire stick. Set it on
+
+fire. The whole place goes up. Problem solved!
+Hey, I'm the muscle, all right? I don't come up
+
+with the plans.
+
+MATT: Tell you what. If everything goes ass to
+sky, that'll be our backup to cover our tracks,
+
+but we can't start with that. Hold onto it. It's
+not a bad idea.
+
+SAM: There are no bad ideas, right?
+
+MATT: Exactly!
+
+TALIESIN: I don't know, maybe we finally heard
+one.
+
+MATT: Can we see, possibly, a stairway or entrance
+door to an upper level?
+
+MARISHA: You can see the entrance from where you
+are in this alley. This alley, main street,
+
+another alley across the street and down that way.
+You can see the entrance of the alley, but you
+
+can't see down it.
+
+LIAM: We can see the stairway up to security
+guards?
+
+MARISHA: Maybe. You've got to make it to the
+alley.
+
+MATT: Let's get in the alley.
+
+LIAM: I've got an idea brewing. Let's get a closer
+look.
+
+MARISHA: Everyone roll for criminal to stealthily
+cross the street without being seen.
+
+SAM: Fail!
+
+MATT: Success.
+
+LIAM: Fail!
+
+BRIAN and TALIESIN: Success.
+
+MARISHA: Okay.
+
+MATT: Three out of five, maybe?
+
+MARISHA: Yeah, I was going for a Matt Mercer skill
+challenge, where half had to do good.
+
+LIAM: Who the fuck is that?
+
+MARISHA: Don't worry about it.
+
+SAM: Half succeeded, right?
+
+MARISHA: Yeah, half succeeded. Yeah.
+
+TALIESIN: More than half.
+
+MARISHA: You're an uneven number.
+
+TALIESIN: Tie-breaker.
+
+MARISHA: I'll allow it. Anyway, you guys crossed
+the street, and now you're in the alleyway. At the
+
+end of it, you see a black nondescript iron door.
+It's a little open.
+
+MATT: It's an iron door on a building made of wood
+and plaster? What's the rest of the building
+
+construct?
+
+MARISHA: Brick. Brick building.
+
+MATT: All right, and that door's slightly ajar.
+Who wants to take a look at that door?
+
+SAM: I can knock it in.
+
+BRIAN: But it's already open! It's already open a
+little bit.
+
+LIAM: May be too good to be true. We go in there--
+people, right? They're tricky. They've got brains
+
+and stuff. Their intelligence is at least eight or
+higher.
+
+BRIAN: What?
+
+MATT: I don't know. He's the brains.
+
+LIAM: If we just go in there, it could fucking
+blow up in our faces. Maybe that's what we do;
+
+maybe we have no other option. Here's what I'm
+thinking--
+
+BRIAN: His plan is to blow up everybody's faces.
+
+LIAM: That's going to blow up the honey, though.
+You can't eat burned honey like that.
+
+BRIAN: Is honey flammable?
+
+SAM: Does honey burn?
+
+TALIESIN: Honey absolutely burns.
+
+BRIAN: What if we burn down everything, and the
+only thing that's left is the honey, and then we move all
+
+the bodies and scoop the honey into the Radio
+Flyer?
+
+LIAM: It's not your fault you're vegan. You have
+very little experience with honey. Yes, the honey
+
+will burn.
+
+SAM: Nothing wrong with being a vegan, by the way.
+I get just as much protein from bamboo.
+
+LIAM: I'm not saying there's anything wrong with
+it. I'm just saying it's real stupid, okay?
+
+SAM: Listen, it's not my fault that I don't have
+to kill an innocent animal to survive like you
+
+fuckers do.
+
+MATT: You killed a cow back there.
+
+SAM: Cows don't count.
+
+TALIESIN: Hey! We're all hungry. We all want some
+honey. Some of us want some bamboo-- that's weird,
+
+but that's okay.
+
+BRIAN: Who's going through the door?
+
+TALIESIN: You're the smallest. Just take a look.
+
+BRIAN: I can check for traps.
+
+LIAM: What's above the door? There are giant doors
+on the ground floor, right? There's no stairs up
+
+or nothing?
+
+MARISHA: Do you want to peek in?
+
+LIAM: No, I don't. I want to understand what I'm
+looking at. Is it brick, stone?
+
+MARISHA: There's a little stoop.
+
+LIAM: The building is more than one floor?
+
+MARISHA: Yes.
+
+BRIAN: It's an inn with a tavern on the bottom
+floor.
+
+LIAM: Is it possible for a honey badger to climb
+up the side of this building?
+
+BRIAN: Yeah, is there some piping or perhaps a
+beautiful Uncharted rope? Why don't you make me a
+
+tree, you druid?
+
+MARISHA: There is some piping. Yeah, you could
+make a tree. There's some piping, and it goes up.
+
+There's a little window that doesn't seem to have
+much of a purchase, and then there is a balcony on
+
+the front of the tavern that looks like it leads
+to some suites.
+
+SAM: Sweets! Oh, not like candy.
+
+LIAM: This is what I'm thinking, and we could rush
+in there; it wouldn't be the first time we've done
+
+that, Waffle. But here's what I'm thinking: one of
+us gets up higher than the door and waits, and
+
+you, Trinket, you speak people pretty good. You
+could fool people into thinking you're a human. So
+
+we send somebody above the door, you knock on it,
+draw them out, invite them into a conversation,
+
+and when they start talking, bam! Honey badger on
+their fucking head!
+
+MATT: That's why you're the brains. All right,
+Cookie's got it. Are we all in on this?
+
+BRIAN: Oh, yeah. I like this one!
+
+SAM: Do you need a tree?
+
+BRIAN: No. I've got pipe. I've got suites! I've
+got a cart I can jump off of.
+
+MATT: Cart stays here.
+
+BRIAN: I can put honey on my hands and stick to
+the wall and climb all the way up! I'll use the pipe.
+
+(laughter)
+
+MARISHA: Okay. So as you bears are hiding in the
+alley, you take this pipe and climb up it. Roll
+
+for bear. Bear climbing.
+
+BRIAN: Jesus fuck. Fail.
+
+MARISHA: You get halfway up the pipe, and it's too
+slippery, and you lose purchase, and you go
+
+(sliding noise) and slide all the way back down.
+
+BRIAN: What was the other way up?
+
+SAM: Tree.
+
+BRIAN: Can we try a tree? Hey, I had some--
+
+TALIESIN: Never happened before.
+
+BRIAN: This has never happened to me. I'm 27.
+
+TALIESIN: That's very old for a honey badger.
+
+LIAM: You're practically dead! 27?
+
+SAM: 27?
+
+BRIAN: I would take the stuff, but the last time,
+I was climbing for over four hours--
+
+SAM: I'm so sorry we're disrespecting an elderly
+person.
+
+LIAM: Don't eat the honey. Rub it into your
+flesh.
+
+SAM: He's not a bear, he's a prairie dog.
+
+BRIAN: I am not a prairie dog.
+
+MARISHA: Okay, so you were not feeling too bad
+about falling off the post, and then these
+
+assholes started making fun of you, and now you're
+getting a little irritated. Put a point in bear from
+
+criminal.
+
+BRIAN: Wait, what?
+
+MARISHA: Move a point from criminal to bear.
+
+SAM: All right, here. Let me give you a tree.
+Stand back! Stand back, everybody.
+
+LIAM: Hey, buddy. Have some honey.
+
+BRIAN: From the cart?
+
+LIAM: You've earned it.
+
+BRIAN: All right.
+
+SAM: Boss, how has he earned it? He hasn't done
+anything.
+
+BRIAN: I tried to climb a pole, and I failed, and
+you've been sitting down here taking dumps the
+
+size of Trinket! Eating all that bamboo. We've got
+to stop every five seconds pushing the cart so you
+
+can take a dump!
+
+LIAM: I need him to find his mojo again. Let him
+have some honey.
+
+MARISHA: You kill that last jar-- the first half
+jar of honey-- to calm down a little bit.
+
+LIAM: We're going to be swimming in honey any
+minute now.
+
+MARISHA: All right, Peddy.
+
+SAM: You ready? Okay, stand back, everybody.
+
+BRIAN: All right, make me a giant wood to climb.
+
+SAM: I smash the stick down on the ground.
+
+MARISHA: Roll for criminal.
+
+SAM: Success.
+
+MARISHA: Nice! It goes, and you get a big trunk.
+Lopsided, and it crashes into the balcony a little
+
+bit, but it gets there and then gets a little tree
+growth at the end. It's not bad.
+
+SAM: What kind of tree?
+
+MARISHA: An oak.
+
+SAM: Sure.
+
+TALIESIN: Ah, the Marisha "no fucks given" voice.
+What the fuck do you need, motherfucker?
+
+MARISHA: A silver maple.
+
+SAM: What color would the bark be?
+
+MARISHA: Brown.
+
+SAM: Lightish-brown?
+
+MARISHA: No, this looks like--
+
+SAM: Fuck it. I'm going to start eating it.
+
+MARISHA: Okay. You start gnawing at the base of
+the tree. As you're climbing, Peddy can't help
+
+himself.
+
+BRIAN: I climb up, get to the bushy part, to where
+I can't be seen, and then I, real quick, pee down
+
+onto Peddy and say: Honey badger don't care!
+
+LIAM: This is a Foster badger.
+
+(laughter)
+
+MARISHA: You get up to the top of the balcony.
+
+MATT: I loudly whisper: are you in place?
+
+BRIAN: Yes. Wait! Okay, I'm finished.
+
+MARISHA: You scurry up the tree, peek in the first
+window. Empty suite, nicely made hotel bed.
+
+BRIAN: Any honey?
+
+MARISHA: No. Pretty empty.
+
+BRIAN: They don't leave a little honey on the
+pillow?
+
+MARISHA: No honey samples.
+
+SAM: Turndown service? Honey service?
+
+LIAM: Liam! Liam, what are you doing up there?
+
+BRIAN: I don't see any honey. I see a pretty nice
+suite. I would stay here.
+
+LIAM: Great. The plan is, you've got to teabag a
+guy when he comes out the door, so stop peeking in
+
+the windows now that you're done and get ready,
+all right?
+
+BRIAN: Okay.
+
+LIAM: We're going to let the thespian here do his
+thing, then back off.
+
+BRIAN: The room is empty, and empty of honey.
+
+MARISHA: There is another window up further from
+it on the balcony.
+
+BRIAN: Is it climbable? I'll climb over there.
+
+LIAM: I swear to god--
+
+SAM: Does the door look like it swings in or out?
+
+MARISHA: Out.
+
+SAM: It swings out?
+
+BRIAN: And it's open a little bit, you said?
+
+MARISHA: Yeah, it's cracked.
+
+SAM: I'm going to stand in the cavity where the
+door swings so I'll be hiding behind the door when
+
+the door's open, just in case I need to deliver
+some muscle.
+
+MATT: That's a good idea.
+
+BRIAN: Deliver some muscle?
+
+SAM: Yeah, gopher. Shut up.
+
+BRIAN: Like someone ordered it? You're going to
+deliver muscle to someone? Hello! Muscle's here.
+
+Someone ask for muscle?
+
+SAM: Stop peeing on my tree.
+
+MATT: Shut it!
+
+LIAM: Everybody shut the fuck up, okay?
+
+BRIAN: It's not delivery, it's DiMuscle.
+
+LIAM: Hey, meerkat? Zip it.
+
+BRIAN: Sorry. I'm going to go look at this other
+window.
+
+MATT: Are you in place?
+
+TALIESIN: He's doing something.
+
+BRIAN: I'm going to check out the other window.
+
+MARISHA: You peek up carefully, after these guys
+yelled at you, and as you peek up, you see a
+
+room. It looks like it's a hotel suite that's been
+taken over temporarily for the Hazel Festival.
+
+It's covered in black curtains. There's a little
+sliver of curtain that you're peeking through.
+
+Inside, you see square scrying mirrors lined up
+along the wall. Papers, a writing desk, and a man
+
+in a security uniform-- Westruun colors, of
+course-- walking back and forth, pacing. Looks
+
+like he's talking over an earpiece.
+
+BRIAN: Hey! I see the future victim of my
+teabagging! He's here.
+
+MATT: Up there?
+
+BRIAN: Yeah, he's in the window. He's got
+something in his head.
+
+LIAM: Look, Trinket's going to knock. Tell us what
+he does when Trinket knocks.
+
+BRIAN: Okay. But don't teabag him yet?
+
+SAM: Trinket?
+
+MATT: Yes?
+
+SAM: If you get in trouble and need me to swing
+the door and cause some "panda-monium"
+
+-- trademarked--
+
+TALIESIN: We almost made it.
+
+MARISHA: Surprised that hadn't happened sooner.
+
+BRIAN: Almost made it. I just lost $500.
+
+(laughter)
+
+BRIAN: I've got to call a guy after this!
+
+MATT: Go on.
+
+SAM: What's the signal? Give me a code word. Give
+me a signal.
+
+MATT: The codeword is... dollars. How about that?
+
+SAM: Dollars? Okay. Why would that come up in a
+conversation?
+
+MATT: I don't know. Figure it out.
+
+LIAM: Dollars, dollars, dollars!
+
+TALIESIN: Dollars!
+
+MATT: I don't know. All right.
+
+SAM: All right, I'm ready.
+
+MATT: (thudding)
+
+MARISHA: Las Vegas, you see him look over his
+shoulder, and he frustratedly goes,
+
+"Get on out of here. Go away! I'm busy." 
+And he goes back and starts looking back into
+
+the mirrors, occasionally being like, "Any sign 
+of them? Anyone find those goddamn bears?"
+
+MATT: Anything?
+
+BRIAN: They're definitely looking for you bears,
+that's for sure.
+
+MATT: (thudding)
+
+MARISHA: "Ugh. Goddamn it." You see him leave the
+room. Trinket, you start hearing--
+
+BRIAN: He's coming down!
+
+MATT: I begin to move a little bit off to the side
+of the door where it'll be opening, so only part
+
+of me is visible.
+
+BRIAN: I climb into the room and under the bed.
+
+MARISHA: Okay.
+
+TALIESIN: We're on either side. I'm going to push
+against the side of the wall.
+
+LIAM: How's your criminal looking? Not too high,
+Brian. Not too high.
+
+MATT: I keep knocking.
+
+MARISHA: He goes, "All right, all right!" He
+throws open the door. "What, goddamn it?"
+
+LIAM: Las Vegas!
+
+MATT: Have you heard of our lord and savior of
+latter-day Allhammer?
+
+MARISHA: "You guys, I think the bears are rabid,
+and I think they're trying to talk to me.
+
+"I think I've got one right here. 
+I'll be goddamned."
+
+MATT: Make some dollars. Make some dollars. 
+Make some dollars! Dollars! Dollars!
+
+BRIAN: I'm coming down.
+
+SAM: I'm going for it!
+
+BRIAN: Attack!
+
+MARISHA: Okay. The poor guy gets flanked. From
+behind the open door, he gets slammed with an iron
+
+door to the face as a panda bear comes out from
+the other side, and right as he sees this big
+
+black-and-white face come around the corner, Liam
+Las Vegas comes from behind and gets him in the
+
+back, in the nape of the neck. Roll for bear. You
+get carnal advantage.
+
+MATT: Carnal advantage? That's a different skill.
+
+BRIAN: Success!
+
+SAM: Fail.
+
+MARISHA: Okay. He's distracted by you. I don't
+think you understood the term "dollars," and you
+
+waved dopily, and he is now grabbing onto your
+scruff, fighting, and he slams the back of his
+
+head into the wall, beating you up a little bit.
+Take a point in bear.
+
+SAM: Take a point to bear or off bear?
+
+MARISHA: A point from criminal to bear.
+
+BRIAN: Oh shit. Okay.
+
+TALIESIN: I'm going to try and very slyly snatch
+his earring in the commotion.
+
+LIAM: God, his ear's going to come off.
+
+TALIESIN: I may hack the ear.
+
+MARISHA: Hack the ear? Okay.
+
+TALIESIN: Try to hack the earring. I'm going to
+try and grab it and put it on my ear.
+
+MARISHA: All right, roll for criminal.
+
+TALIESIN: With hacker advantage.
+
+MARISHA: Sure. Ear hacking.
+
+TALIESIN: Going for it.
+
+LIAM: Come on, Waffle.
+
+TALIESIN: No, I fail.
+
+MARISHA: Okay. The guy is thrashing around too
+much. As you go to reach for his ear, he
+
+immediately sucker-punches you in the jaw. Take a
+point into bear.
+
+MATT: Okay, if this is happening, I turn to Cookie
+and say: Hold him down. He's got a kid; we can't
+
+kill him.
+
+SAM: He's got a kid?
+
+MATT: Yeah, the kid that gave us the information.
+
+MAIRSHA: "Head of security!"
+
+SAM: That's right.
+
+TALIESIN: I had totally forgotten that there was
+any relation.
+
+MATT: I'm the only hero here, apparently.
+
+TALIESIN: No, this is like Captain Planet. You're
+Heart.
+
+MATT: Apparently, yeah.
+
+MARISHA: Liam, you hear-- Liam Las Vegas, you
+hear, since you're right up on his neck, you hear
+
+over the earpiece, very faintly: "Hey, boss? Okay,
+we're heading your way, boss. Boss, come in."
+
+BRIAN: Don't come here! I am fine. I have no-- 
+I am not in any danger!
+
+Everything is perfectly fine!
+
+MARISHA: "Boss?"
+
+BRIAN: This is how he was talking before!
+
+MARISHA: You hear, "Boss Buford? I mean no
+offense, but have you been drinking again?"
+
+BRIAN: Maybe a tiny bit. Look, it was a slow
+night.
+
+MARISHA: Buford slams you up against the wall
+again. What are the rest of you all doing?
+
+MATT: I'm going to pull him off of Buford, as he's
+slammed Las Vegas into the wall. I'm going to pull
+
+Vegas off while I slam him into the wall and get
+my bear snout right into his face and give him an
+
+intimidating growl to get him to stop thrashing.
+
+MARISHA: Okay, roll for terrify with advantage
+under your bear stat.
+
+MATT: I succeed, with a one.
+
+MARISHA: He goes, "All right. Just... I'll let you
+go."
+
+MATT: I look at him, and I point with a bear claw
+and go, (grunts). And I take some of the honey
+
+from my bearpit and go, (grunts). Where?
+
+MARISHA: "Did you just say 'where?' Holy shit."
+
+MATT: Where?
+
+MARISHA: "All right. Look, it's down there. 
+Go through the Sun Kissed Inn.
+
+"Go into the cellar room. There's a door. 
+You've got to get on the other side of it.
+
+"Look, just-- here." 
+And he pulls out of his back pocket.
+
+"I fucking hate this job, anyway. It's a piece 
+of shit. Go get the honey, all right?"
+
+MATT: I wipe the honey back in my bear pit and
+pull him off to where the door is, where it's
+
+open, make sure that all of us are inside--
+
+MARISHA: He looks at the badger, and he goes,
+"Here." He doesn't know what you're doing, so in
+
+another attempt, pulls out a honey sample from his
+pocket and goes, "Here!"
+
+BRIAN: (eager growling)
+
+MARISHA: And he throws it behind your shoulder to
+get you to run away.
+
+MATT: Do you want to grab the barrel and bring it
+in?
+
+TALIESIN: Yeah, we're getting everything.
+
+MATT: Okay, so as soon as we get our last honey
+jar, the de Rolo Roller in, I shove him back out
+
+and close the metal door, and then try and find a
+way to lock it.
+
+MARISHA: How are you going to lock it?
+
+TALIESIN: Is it digital?
+
+MATT: (laughs) Is there any sort of locking
+mechanism or a barricade?
+
+MARISHA: It's pretty smooth on the outside. Seems
+like most of the locking handles are from the
+
+other side.
+
+SAM: We could put some stuff in front of the door.
+Is there any stuff around the room?
+
+MARISHA: You did summon a giant tree trunk.
+
+SAM: We could. Wait, what did you say, boss?
+
+LIAM: What's to stop the kid from squealing that
+we done just thrown out the door?
+
+BRIAN: I ripped his tongue out before we left.
+
+LIAM: Did you?
+
+BRIAN: Nah. I thought about it for a second.
+
+MARISHA: As you're holding the door, you hear,
+(thudding) "Hey, come on!" from the other side.
+
+SAM: Want me to make a trunk?
+
+MATT: Peddy, knock him out. I open the door.
+
+SAM: All right, I'm going to bum-rush him.
+
+MARISHA: Okay, roll two because you're the
+muscle.
+
+LIAM: Drag his ass in here, Peddy.
+
+SAM: It doesn't matter. I succeeded on the first
+one.
+
+MARISHA: As the door swings back open, he's met
+with a giant panda bear head.
+
+SAM: (roars)
+
+MARISHA: He gets whacked in the head and falls
+unconscious immediately.
+
+BRIAN: Can I search his body for more honey?
+
+MARISHA: Sure. You don't find any. You do find an
+old biscuit.
+
+BRIAN: How old?
+
+MARISHA: Looks like he put it in his pocket from
+this morning. It's a little style. A little stale.
+
+Not style. It's a little stale. It's an everything
+biscuit, like an everything bagel, but an
+
+everything biscuit.
+
+TALIESIN: Slayer's Cake. Everything biscuit.
+
+BRIAN: Isn't that the fraternity initiation
+biscuit?
+
+SAM: Oh, gross.
+
+BRIAN: She said "everything biscuit," and don't
+say "gross" to me, Sam Riegel.
+
+LIAM: Where does my nose tell me where to go?
+
+MARISHA: Well, the Sun Kissed Inn, the entrance is
+out and through the front door. It's not. This
+
+appears to be separate, leading up.
+
+TALIESIN: We've got to get in. I want to take a
+look at that security room.
+
+MARISHA: You open the door. You look behind the
+guy unconscious on the floor. Are you going to do
+
+anything with his body?
+
+SAM: I'm going to drag it inside and look for a
+place to stow it.
+
+BRIAN: Does he have any keys on his body?
+
+TALIESIN: Use him to prop the door closed.
+
+MARISHA: He does have keys on his body, yes.
+
+BRIAN: Can I take those keys?
+
+MARISHA: You can take those keys.
+
+BRIAN: Put them in the de Rolo Roller.
+
+MARISHA: Yeah, okay.
+
+BRIAN: In case we want to go up 
+to the honeymoon suite.
+
+MARISHA: This is literally just a stairwell entrance.
+It's very thin, clearly there for service and
+
+bringing in stock. It's a narrow little room.
+There seems to be a cupboard under the stairs, if
+
+you want to stash him there.
+
+SAM: I'm going to grab him with my teeth 
+and try to shove him under the stairs.
+
+MARISHA: There's a thin stairwell that goes up and
+opens up into a loft area. There's one door that
+
+looks like it was suite #1 and another door that
+looks like it was suite #2, where this was.
+
+LIAM: Get up there.
+
+MARISHA: As you guys enter in, you open the room.
+You see four screens. They're all scrying mirrors.
+
+A few notes, a few papers, binoculars. A few
+bottles of mead. Looks like Buford
+
+was having a good time.
+
+MATT: Is it honey mead?
+
+MARISHA: It is honey mead.
+
+TALIESIN: All mead is honey mead.
+
+MATT: I know, but I'm a bear, so I have to
+clarify. Can I take one of the bottles
+
+and drink it?
+
+MARISHA: You do.
+
+MATT: (gulping)
+
+MARISHA: I would say you put a point back into
+bear from criminal. You are a little tipsy,
+
+though, for a little bit.
+
+MATT: (slurred) It's fine. We're good!
+
+MARISHA: I don't know how terrifying you might be
+for a little bit.
+
+MATT: Oh, you haven't been around the right people
+and enough mead.
+
+BRIAN: This reminds me, fellows, of the time
+Trinket got a little too drunk
+
+when we were all out at--
+
+MATT: In this room?
+
+BRIAN: (laughing) I need a flashback really bad.
+
+SAM: We just met this guy an hour ago.
+
+BRIAN: Well, this reminds me of when my cousin
+Blinket--
+
+SAM: Who will also be portrayed by Matthew Mercer
+in the flashback? Sure.
+
+BRIAN: One time, he also got really-- 
+I don't know why I went western all of a sudden.
+
+Anyway, flashback.
+
+LIAM: He was a bush baby.
+
+MATT: I'm so drunk and your cousin.
+
+BRIAN: Ah, he's my cousin.
+
+MATT: I'm a cousin who's drunk.
+
+BRIAN: Yeah, anyway, and sadly, we had to take old
+Blinket out back and shoot him, because it turned
+
+out he wasn't our cousin. He was brought into town
+by the circus.
+
+MARISHA: Wow. Holy shit. That definitely qualifies
+as a flashback to being a criminal. Get a point
+
+back from bear to criminal. You're good.
+
+TALIESIN: I want to take a look at this weird
+security system that they have here with all these
+
+mirrors. Are they viewing other rooms?
+
+MARISHA: They are. You look at one of them. The
+first one is the town square. The second one looks
+
+like the entrance to the tavern. You see a few
+people passed out drunk at tables and a lot of
+
+action going on. The other two, there's codes in
+the corner. It says S-C-R-Y-C-A-M-S-L-R-1.
+
+Wait, C-L-R-1 and C-L-R-2. It's not important.
+
+(laughter)
+
+TALIESIN: Isn't it, though? Isn't it kind of
+fucking important, really?
+
+MARISHA: There's town square, tavern, cellar room
+one, cellar room two. That's all you need.
+
+LIAM: That's what's on these papers here?
+
+MARISHA: That's what's blinking in the corner of
+each of these cameras. Mirrors. Scrying mirrors.
+
+TALIESIN: I think I can hack these mirrors.
+
+MARISHA: All right, try to hack the mirrors.
+
+TALIESIN: I want them to run a loop.
+
+MARISHA: You want to throw them on a loop?
+
+TALIESIN: I want to throw them on a loop.
+
+LIAM: Let the bear work. Let him do his thing.
+
+MARISHA: That's pretty good. All right, hacker
+bear. Roll for hacking.
+
+TALIESIN: I'm going to mime keyboarding, 
+but in doing so, it's going to somehow
+
+affect a magical spell.
+
+MARISHA: Sure.
+
+LIAM: You've got this, Waffle.
+
+BRIAN: (singing) You came in like a hacker bear.
+
+TALIESIN: Yeah! Double two.
+
+MARISHA: As you're hacking, you get a waft of air
+from one of the vents off to the side, and it
+
+brings you back to the pipes in the tunnels, and
+in your cracked-out state, you somehow connect to
+
+the mainframe, and it takes you through, and you
+see the tavern, and you see two people passed out
+
+drunk, and you go through into the first room, and
+you see a few tripwires that seem to be strung out
+
+across the long hallway, and then you go into the
+last room, and you see three pedestals, with a
+
+bunch of honey stacked onto these pedestals. It's
+very dimly lit, but you recognize the shape of
+
+fucking honey barrels.
+
+TALIESIN: Motherfucking honey barrels.
+
+LIAM: Barrels? Did you say barrels?
+
+TALIESIN: We hit the mother lode.
+
+BRIAN: I don't know if I have room on the cart for
+all of this.
+
+MARISHA: You go back, and you see Matrix code 
+go in front of you, and lights fly by.
+
+LIAM: Some people see zeros and ones, 
+but all I see is honeybees and salmon.
+
+(laughter)
+
+MARISHA: You see a bunch of worker bees 
+in a hex pattern that looks code-y.
+
+It's a little green, a little black, like DOS.
+
+TALIESIN: I'm starting to believe!
+
+MARISHA: The rest of you see Waffle get a little
+nosebleed.
+
+MATT: Waffle. Waffle!
+
+MARISHA: As you snap back, you look, and you saw
+one guard walk by in the town square entrance.
+
+About 30 seconds, same guard walks by.
+
+SAM: It's on a loop.
+
+TALIESIN: We're clear.
+
+LIAM: Waffle's going to fight Sugarcone!
+
+MARISHA: It seems, through whatever magic that you
+have tapped into, you have been a little touched
+
+by the security cam. Security hacking.
+
+TALIESIN: What?! Wow. This is insane.
+
+MARISHA: You have to be able to see the honey.
+
+TALIESIN: No, I get it. This will definitely not
+come in useful at all. This is useless and dumb,
+
+and I can't wait to do it.
+
+MARISHA: He comes back, and Waffle's got a little
+gloss to his eyes. A little bit of a green glow
+
+crosses them.
+
+TALIESIN: Ready for an Eggo Waffle. 
+I've upgraded to Eggo.
+
+BRIAN: You look more Belgian to me.
+
+LIAM: You all right, brother bear?
+
+TALIESIN: Never better.
+
+SAM: How do we get down there, 
+or wherever we've got to go?
+
+TALIESIN: That I can't tell you, but I bought us
+some time.
+
+BRIAN: Why is your voice so lame now?
+
+SAM: I'm sorry.
+
+MATT: (laughs) Hey, Peddy? Which one of these
+rooms has the tree outside of it?
+
+SAM: It was the one on the left, which is the
+first one that he went to. The empty one.
+
+MATT: All right, we'll follow Vegas. Lead us to
+the tree. We'll climb down and go around to the
+
+inside of the tavern.
+
+MARISHA: That's good, because right as you walk
+out onto the balcony, you see that guard who was
+
+walking through that you captured on your loop
+start walking around, going,
+
+"Hey, boss? Boss, you here?"
+
+MATT: Hey, Peddy? Take him out.
+
+SMA: Where is he? He's down below us?
+
+MARISHA: He's walking under the balcony, 
+looking like he's going to go around
+
+that alleyway, up to that door.
+
+LIAM: Peddy, teabag that motherfucker.
+
+SAM: I'm muscle, but I'm not aerodynamic. 
+I climb up bamboo, I don't--
+
+LIAM: I boot him out the window.
+
+SAM: (screams)
+
+MARISHA: Roll for criminal aim, as you try to time
+pushing Peddy Tuxpin.
+
+LIAM: Come on, don't fuck me. One. Yeah.
+
+MARISHA: You accurately, with great precision,
+teabag this poor guard and fall right on top of
+
+him. He's not dead; he's definitely unconscious,
+though.
+
+TALIESIN: The last thing he saw before going
+unconscious were panda testicles at full speed.
+
+As he screams--
+
+MATT: A giant tanuki flash.
+
+MARISHA: He quite literally does not know 
+what hit him.
+
+BRIAN: Next week's Wyrmwood giveaway is
+"pandasack." That is the new keyword.
+
+MATT: It is. Boom.
+
+BRIAN: Write that down, Max.
+
+SAM: Ugh, I landed on my nuts!
+
+BRIAN: Wasn't that the idea?
+
+MATT: Good job, Peddy! All right, everyone. 
+Down the tree. Come on.
+
+LIAM: Another dose of high art 
+from Critical Role.
+
+TALIESIN: That's the most useful panda testicles
+have been in a long time.
+
+I'm just going to point that out.
+
+MARISHA: (giggles) You quickly and as swiftly as
+you can-- for a group of bears--
+
+climb down the tree and dart 
+and make your way into the front room.
+
+SAM: I've got my stick. 
+What do you want me to do?
+
+MATT: Make sure you don't leave it behind. 
+Might be handy.
+
+SAM: I've got it. What do we do with this body?
+Someone's going to see it!
+
+MARISHA: You get the Flyer, get it in. 
+You are now into the front tavern bar room
+
+of the Sun Kissed Inn.
+
+MATT: A valid point. The body of the guy who's
+unconscious that he just crushed. I pick up the
+
+body and look for the window of the balcony we
+were just jumping down from and try and ragdoll
+
+him up into it. (laughing) Arms and legs out.
+
+LIAM: Full-on Red Dead Redemption.
+
+MARISHA: Bear? I guess? I don't know.
+
+BRIAN: That's totally something a bear would do.
+Flinging a man through a window?
+
+MATT: That was a six.
+
+LIAM: His twisted pretzel body goes two miles,
+floating five feet above the ground.
+
+MARISHA: You miss, and it goes and lands on the
+roof of the storage room next door.
+
+MATT: Close enough.
+
+(laughter)
+
+MARISHA: It's not the most immediately visible
+thing.
+
+TALIESIN: No one looks up.
+
+MATT: It's fine. Sweet dreams. Goes back to catch
+up with them in the tavern.
+
+BRIAN: He won't remember that.
+
+MARISHA: You all are in the front room of the
+tavern. It's the late afternoon. There's no one in
+
+the tavern, anyway, especially now. There's one
+really old guy passed out in the front right-hand
+
+corner. Seems like he's been there probably since
+last night. You hear a commotion and clanking of
+
+pots and pans of chefs and workers in the back, in
+the kitchen, getting things ready for the evening,
+
+anticipating it will probably be a busy day in the
+Hazel Festival.
+
+TALIESIN: Do I smell honey in the kitchen?
+
+MARISHA: Yeah.
+
+SAM: There's honey everywhere in this town.
+
+MARISHA: There is honey in there.
+
+MATT: You, with the strange crazy eyes. 
+Do you have any idea where the cellar is
+
+here in the inn?
+
+MARISHA: It is drowned out by the smell of a
+stockroom of honey that is coming from the back
+
+left-hand corner of the tavern, which is the
+entrance to the pantry into the cellar. Guarding
+
+that front initial doorway into the pantry, which
+leads into the bottom cellar, is, with a pint in
+
+his hand, a passed-out Grog.
+
+SAM: Grog Strongjaw?
+
+MARISHA: Grog.
+
+TALIESIN: The Grog Strongjaw, of the Northampton
+Strongjaws? I don't know why I went there.
+
+MARISHA: The Herd. Technically of the Emon
+Strongjaws?
+
+LIAM: If one of us bears made a history check,
+would we know who the fuck this guy is?
+
+TALIESIN: He looks big.
+
+MARISHA: Trinket recognizes him immediately.
+
+SAM: I think I can-- excuse me, this is clearly a
+panda bear. He's a skinnier version of me.
+
+He's black and white. And I will go talk to him 
+in Panda, and I will sort this all out.
+
+MATT: While you're both probably on par
+intellectually, I don't know
+
+if that's going to end as--
+
+SAM: He's furry. He's got a little fur. He's black
+and white. He's my people.
+
+MATT: Is he right in front of the door to the
+pantry?
+
+MARISHA: There's the bar, there's a door that goes
+into the pantry, and then there's a little booth
+
+and bar tables right off to the left of the door.
+Looks like he was placed there, probably told to
+
+watch out for people coming in and out of the
+pantry, and proceeded to drink a lot and pass out
+
+instead. He's in a little chair, propped up at a
+bar table right to the left of the entrance,
+
+snoring loudly. No what?
+
+BRIAN: There's cards?
+
+MARISHA: Cards? Oh!
+
+MATT: We're going to keep this as plan C. 
+Plan A: quietly make our way past.
+
+TALIESIN: Quick question: which plan comes first?
+Is it plan A or plan C?
+
+MATT: Brains?
+
+LIAM: I'm going to roll a d6, and I'll tell you.
+Plan D comes first.
+
+TALIESIN: That makes sense.
+
+SAM: Why does no one value my opinions here?
+I feel like I'm offering good ideas--
+
+BRIAN: When we need you to push something over, 
+to dip your balls in something--
+
+SAM: I feel like I'm thinking outside the box
+here, and no one's taking me seriously.
+
+LIAM: Peddy, you don't make friends with salad. 
+No offense. Trinket, this is your home turf.
+
+I will follow your lead--
+
+TALIESIN: I don't know what that means!
+
+MARISHA: I don't, either!
+
+BRIAN: Vegetarian joke.
+
+LIAM: He's a vegetarian. All he eats is bamboo. 
+No one's going to respect that
+
+in the bear community.
+
+BRIAN: While they're doing this, I would like to
+go right outside the tavern and see if I can
+
+secure for us a getaway vehicle. Some type of mode
+of transportation, faster than a de Rolo Roller.
+
+MARISHA: Sure. As you peek out, there's a few
+abandoned vegetable carts. People that were there
+
+to sell their goods and their wares for the
+festival. There's one that looks like it was a
+
+pull-behind churro cart. And there is one cart
+that still has a horse attached to it that looks
+
+like at this point, he's eating all of the
+vegetables that are completely unattended
+
+right now, due to the pandemonium.
+
+BRIAN: So there's no one around it? 
+I will go secure that cart and bring it
+
+to the entrance of the tavern.
+
+MARISHA: Okay. How would you like to do that?
+
+BRIAN: Am I still dressed up as a fucking
+awesome-looking guy?
+
+Like a young Jason Charles Miller?
+
+MARISHA: Yeah. You totally look like a young Jason
+Charles Miller.
+
+TALIESIN: Does that mean that a young 
+Jason Charles Miller looks like a honey badger
+
+in a cowboy hat?
+
+BRIAN: It sure does.
+
+LIAM: I'm picturing a furry Great American Hero.
+
+BRIAN: Yes! So I will cross the thoroughfare as
+suavely and slovenly as I can, and then I will
+
+approach the cart from the back so as not to
+frighten the horse.
+
+MARISHA: Okay. You see the same guard that was
+walking by is currently pounding on the door.
+
+You can hear him. On the door that you guys came
+from that led up to the security room. You can
+
+hear him going, "Chief? Boss man? Hello?"
+
+BRIAN: How far away from me is he?
+
+MARISHA: The guy? He's far enough away. He's not
+paying any attention to you right now.
+
+BRIAN: Does it look like he wants to go in there?
+
+MARISHA: He's trying to get in, yeah.
+
+BRIAN: All right. I'm going to go try to cut his
+throat.
+
+SAM: With what? With your claws?
+
+BRIAN: I'm a fucking honey badger, bro. I'm going
+to try to go from behind and silence him.
+
+Yeah, man, put him in the cement boots.
+
+MARISHA: That's fucking awesome. Roll for carnage.
+You get advantage.
+
+BRIAN: Success.
+
+MARISHA: Without any hesitation, he doesn't even
+know what came.
+
+BRIAN: The honey's for me and my friends.
+
+MARISHA: A theatrical amount of blood sprays on
+the door in front, and he slowly drops, smears
+
+down against the wall. He's dead.
+
+BRIAN: Oh shit, he's dead?
+
+MARISHA: He's definitely dead.
+
+BRIAN: On the wall in the blood, I write, 
+Welcome to fabulous Las Vegas.
+
+(laughter)
+
+MARISHA: Roll for criminal.
+
+BRIAN: Again? Success.
+
+MARISHA: You get a point from bear into criminal,
+for sure.
+
+LIAM: My criminal mastermind brain tells me that
+this is your turf, Trink. I want to follow your
+
+lead. I see recognition in your eyes. You don't
+like this guy. What do we do?
+
+MATT: No, I like the guy a lot, actually, but he
+might like destroying you too much. We've got to
+
+sneak past. Stay nice and quiet-like. Small guy
+can probably get by fine when he catches up, but
+
+we've got to quietly make our way.
+
+TALIESIN: Is it a door or a gate? Can we see
+past?
+
+MARISHA: You know those stockrooms, how you have
+an open half-door? You can see that there's a
+
+walk-in pantry, and through the walk-in pantry,
+there's a little cellar door. Wooden. It's got a
+
+circular dowel rod across it.
+
+TALIESIN: I can't see any honey?
+
+MARISHA: No, but you know it's through that door.
+
+TALIESIN: I've got an idea.
+
+SAM: I've got an idea. That dowel rod looks like
+bamboo. I'm going to eat it!
+
+TALIESIN: You've got a tiny bottle of honey.
+
+MARISHA: You can also smell a little bit of honey
+coming from the pantry room, as well. Not a lot.
+
+TALIESIN: You've got a tiny bottle of honey,
+right? Wasn't someone given a teeny-tiny
+
+bit of honey?
+
+SAM: He's got armpit honey.
+
+BRIAN: I've got it, but I'm not there yet. But
+after I so beautifully and poetically murdered
+
+that man in the street, can I move the cart to the
+front of the tavern and rejoin them?
+
+MARISHA: You can go over and take a little bit of
+time, get some leftover vegetables, and lead the
+
+horse, pulling the cart. These guys are figuring
+this out while you're doing that.
+
+MATT: I pull out a palm-full of pit honey that's
+been smeared into my matted fur. I've got this.
+
+TALIESIN: It'll do. I'm going to look around. Are
+there cups or something around?
+
+MARISHA: Yeah, there's a few, and there's a couple
+of empty pint glasses on Grog's table.
+
+TALIESIN: I put a little bit of the honey into the
+empty pint.
+
+MARISHA: (snores) "Yes, I am the Grand Poobah."
+
+TALIESIN: I'm going to try and toss the cup past
+Grog into the pantry.
+
+SAM: To wake him up?
+
+TALIESIN: Quietly.
+
+MARISHA: You want to wake him up?
+
+TALIESIN: No, I want to throw the cup into the
+pantry. Will that wake him up?
+
+MARISHA: Okay, you throw a cup. (crash, snorts)
+"That's my ale."
+
+TALIESIN: I'm going to stare at the cup I just
+threw.
+
+MARISHA: About this time, Waffle gets another
+little nosebleed. Roll for it.
+
+TALIESIN: I don't get advantage, I just have to
+roll for it, right?
+
+LIAM: Come on, Bear Eleven.
+
+TALIESIN: One.
+
+MARISHA: You see Waffle go, (sparking) and in a
+hex techy-looking glow, he goes, (zap)
+
+and teleports to the broken honey.
+
+LIAM: In the pantry?
+
+MARISHA: In the pantry.
+
+MATT: All right, my turn. I focus really hard on
+the broken honey--
+
+SAM: No, you need a nosebleed. I hit him in the
+nose.
+
+MATT: That's good. (straining)
+
+SAM: More blood!
+
+MATT: Okay.
+
+MARISHA: You go (boop) and squeeze out a little
+turd.
+
+SAM: Hey, you teleported that turd to the floor.
+
+MARISHA: As you get a little aggravated, you take
+a point in bear.
+
+TALIESIN: I'm going to start figuring out if I can
+open this pantry door. I'm quietly working the
+
+pantry door to try and get downstairs.
+
+MARISHA: It's got a thick dowel rod across it, and
+it's got a chain on top of that, wrapping it up
+
+for extra security.
+
+TALIESIN: I didn't think much past this.
+
+LIAM: Hold on, I've got this. I'm going to pick
+this chain's lock.
+
+MATT: We haven't walked past Grog yet, but you
+know what? Our conversation hasn't woken him up
+
+yet, and the breaking glass didn't wake him up.
+Let's just walk through the room. He's pretty
+
+drunk. All right, let's do that.
+
+MARISHA: Yeah, make a stealthy...
+
+MATT: Because I'm a thief, could I consider that
+as a skill?
+
+TALIESIN: Considering that bears can have very
+stealthy picnics--
+
+MARISHA: Let's make this a criminal roll. You're
+criminally trying to sneak past Grog.
+
+LIAM: Welcome to Criminal Roll!
+
+MATT: Can I use my thief role to be stealthy?
+
+MARISHA: Yeah. I'll allow it.
+
+SAM: On the way past, I'm going to look 
+and see if Grog has anything else on him
+
+that we can see or take or use.
+
+MARISHA: He does actually appear to be wearing
+some sunglasses. Yeah. It seems a little odd. They
+
+look like they were maybe festival glasses.
+They're half hanging off his face right now.
+
+SAM: I'll see if I can take them.
+
+MARISHA: Okay, roll a criminal check.
+
+SAM: Super fail.
+
+BRIAN and MATT: (singing) Super fail, super fail.
+
+MATT: (singing) He super fucked up.
+
+MARISHA: As you get the glasses off his face, 
+he goes, "Oh shit. It's a fuzzy goliath!"
+
+And gets up.
+
+SAM: I growl at him. (roars)
+
+MARISHA: (roars) He growls back.
+
+SAM and MARISHA: (roar)
+
+MARISHA: "You want to wrestle?"
+
+SAM: Yeah!
+
+MARISHA: He's drunk, and he takes a big swing at
+you.
+
+SAM: I swing back.
+
+MARISHA: Okay, roll a muscle roll. Roll with
+advantage.
+
+SAM: Fail. Success!
+
+MARISHA: You successfully wrestle Grog. He's
+pretty drunk. He's not too hard to get to the
+
+ground. He's now on his back, squirming.
+
+SAM: I speak to him in Panda: pan pan pan-pan. 
+Pan pan pan pan? Pan pan da da da,
+
+pa-pa-pan pan dan. Panda.
+
+MARISHA: "Yes, I am Grand Poobah 
+de Boink de Boink!"
+
+SAM: Panda?
+
+MARISHA: "You Poobah, too?"
+
+SAM: Panda!
+
+MARISHA: "Oh, brother!"
+
+(fake sobbing)
+
+LIAM: Cookie is picking the fuck out of the lock,
+right now!
+
+MARISHA: Try to pick the lock.
+
+LIAM: Diddly-diddly-do! That is a fail.
+
+BRIAN: How is my progress 
+of leading a horse across the street, slowly,
+
+by luring him with vegetables?
+
+MARISHA: Pretty good. I'd say by this point, you
+open the door to see Peddy on top of another guy
+
+that looks kind of like a panda, and you're not
+sure if it's bad or good.
+
+LIAM: Marisha, what does the flashback do? If I
+tell a flashback, it fixes that?
+
+MARISHA: If you tell a flashback, you get to gain
+a point into criminal.
+
+LIAM: And then roll again?
+
+MATT: No, it just adjusts your skill points. You
+still fail the roll.
+
+LIAM: All right.
+
+TALIESIN: I've got a plan to get us in this door.
+
+MATT: What, are you having a problem again trying
+to get into a place with a lock? Like I said, the
+
+lady who raised me, she's pretty good at picking
+this stuff, too. In fact-- and I reach over and
+
+grab one of the little side bags they usually tie
+to me to carry stuff, and I pull out one of the
+
+lockpicks that Vex keeps stored on my side as a
+backup. And with my dexterous thief Trinket giant
+
+bear paws, try and maneuver these tiny little--
+
+LIAM: Thin as a blade of grass.
+
+MATT: It's like trying to hold a cup with boxing
+gloves on. (grunts)
+
+MARISHA: Countless hours, you have practiced in
+the middle of the night, just trying to learn how
+
+to pick a lock. Prove to us, Trinket, 
+that you can.
+
+MATT: Yes!
+
+MARISHA: (clang) The whole thing snaps from the
+inside, because you're a bear, but it successfully
+
+goes (creak).
+
+MATT: What did I tell you? Mommy taught me good.
+
+MARISHA: About this time, Grog goes, "Poobah, I
+missed you so--" (snores) and passes back out.
+
+SAM: I put his sunglasses back on and pat him on
+the head.
+
+MARISHA: All right. You do get an interesting
+essence from the sunglasses.
+
+SAM: Oh? Do they have the same essence as the
+stick, or something similar?
+
+LIAM: Put them on your face, Peddy.
+
+SAM: All right, I'll take them and put them on.
+Try them on once. (giggles) Nice. I'm going to try
+
+them on once. What do I see?
+
+MARISHA: You look awesome. You see a bar, 
+you see a tavern, and then right as you look past
+
+the cellar: holy shit, you can see past that 
+cellar door! You see tripwires!
+
+SAM: What?
+
+LIAM: Peddy, what are you doing?
+
+SAM: I put on these human glasses, and I can see
+through walls.
+
+BRIAN: And all you had to do was dry-hump that guy
+to get them?
+
+SAM: I was not dry-humping him!
+
+BRIAN: It looked like you were dry-humping him
+when I walked in here.
+
+LIAM: You can now, if you choose to.
+
+SAM: Dry-hump him? No.
+
+MARISHA: You turn and look over your shoulder
+outside, out through the tavern exit, and you see
+
+a dwarf-sized woman turn and swing open the door
+of the tavern.
+
+TALIESIN: We've got to move.
+
+MARISHA: "Hey! I see you."
+
+LIAM: Nobody move.
+
+SAM: Humans can't see movement.
+
+MARISHA: "I can see you, and I can understand 
+what you're saying."
+
+MATT: Wait, what?
+
+BRIAN: But I didn't say anything.
+
+TALIESIN: What number am I thinking of?
+
+MARISHA: "I can hear you. I can't--"
+
+TALIESIN: She can't hear us; it's fine.
+
+SAM: Wait, humans can't see movement, but dwarves
+can, I guess.
+
+MARISHA: "That's not-- okay, what are you all
+doing, all right?"
+
+MATT: I go over. Do these still look functional?
+
+MARISHA: "Where did you-- wait a second."
+
+MATT: Do I recognize this?
+
+MARISHA: You do. This is Tova, the werebear.
+
+MATT: (moans)
+
+MARISHA: "Okay. All right, big guy. All right."
+
+LIAM: This is two years after the Chroma Conclave?
+She lived!
+
+MARISHA: This is the first time that you're seeing
+her.
+
+MATT: The only reason was because of that ring.
+
+LIAM: (cheers)
+
+MARISHA: She's wearing a nice slick suit. It's
+very good. It's very clean-cut. Looks like she's
+
+got a nice festive pin.
+
+BRIAN: Is it all denim?
+
+MARISHA: No, it's a nice wool. It's good.
+
+MATT: You look good, Tova. Snazzy.
+
+MARISHA: "You look good, too, Trinket. 
+What do you think you're doing?"
+
+MATT: It's a celebration in the city. We're
+celebrating.
+
+MARISHA: "I heard rumor that there's 
+a bunch of bears running around.
+
+"Of course it's Vex's dumb bear."
+
+MATT: Hey!
+
+MARISHA: "Well, look. What kind of trouble are you
+getting into? You guys are going for the honey."
+
+MATT: I mean, that's absurd. I'm offended,
+personally.
+
+BRIAN: To judge without any evidence.
+
+MATT: Do you want a cut?
+
+LIAM: Yeah, but just pretend like we were. 
+Do you want in?
+
+MARISHA: "Do I want-- (laughs) All right. 
+You all clearly don't know who you're talking to
+
+"and who you're getting involved with."
+
+BRIAN: You just walked in five seconds ago.
+
+MATT: I barely know you. We flirted in battle once,
+and then you went away.
+
+MARISHA: "All right, look! I am part 
+of a super-secret society that is dedicated
+
+"to protecting bears all across Tal'Dorei. 
+One of the most decorated members.
+
+"It's called the High Bear Nation, all right?" 
+It's not bad, right?
+
+"We take honey and other fruits and vegetables,
+steal them from people who don't really need them,
+
+"and make sure that bear families 
+across all of Tal'Dorei are taken care of
+
+"and never go without honey.
+
+"Every year, this stupid Hazel Festival that they
+always make me work security for, I decided
+
+"I'm going to take all this leftover food 
+that all these people always end up with:
+
+"I'm going to take it for High Bear Nation. 
+Give it to the bears who truly need it."
+
+SAM: Wait a second, you're going to take all this
+honey and give it away?
+
+BRIAN: Give it away to a bunch of people that are
+too lazy to get jobs?
+
+LIAM: Don't we look needy?
+
+MARISHA: "No, look. These are needy people, and
+the High Bear Nation takes care of all of us,
+
+"all right? I will get plenty of honey out of this."
+
+MATT: All right, Beary Sanders. That honey is
+for us and us alone. We've earned that, okay?
+
+I don't want bears that haven't earned it 
+getting a piece of what we've made.
+
+LIAM: Yeah, are you pulling our legs? What is
+this, a gingerhazing?
+
+MARISHA: "You all put in work for this? I don't
+think you guys understand. I was part of
+
+"the planning committee to make sure 
+that the security was all right.
+
+"So here's the deal, since you all seem to have
+gotten pretty far. The whole town's out looking
+
+"for you; I can easily call one of the guards, 
+turn you all in right now. Or you help me out.
+
+"I could use extra hands to carry out 
+some of this honey.
+
+"You'll get your own little cut, and you'll all 
+become members of the High Bear Nation."
+
+SAM: What kind of cut are you talking about here?
+
+MARISHA: "Enough to last you for a while. I know
+how much honey is in there."
+
+SAM: 50-50? 40-40? 30-30?
+
+MARISHA: "That's not how--"
+
+SAM: I'm not the brains of the operation.
+
+(laughter)
+
+MARISHA: "A good hogshead's worth for each of you.
+How's that sound?"
+
+BRIAN: Listen, from one extremely high bear to
+another--
+
+(laughter)
+
+BRIAN: Can you guarantee safe passage, should we
+choose to work with you in this endeavor?
+
+SAM: It's always Bear-20 somewhere.
+
+(snickering)
+
+BRIAN: Oh, my makeup's running, and I didn't even
+put any on.
+
+MATT: Can you give us a minute to talk amongst
+ourselves, privately?
+
+MARISHA: "All right."
+
+MATT: All right. Bears, huddle up.
+
+BRIAN: I think she likes me for sure.
+
+MATT: All right, what are our thoughts on this. Do
+we want to share with her? We put all the work in.
+
+It's not a lot of honey. We barely found that off
+your--
+
+LIAM: We already got a hogshead of honey in his
+hat.
+
+MATT: That'll last a meal. I don't think she
+understands how hungry we are.
+
+BRIAN: Yeah, and that one's big.
+
+MATT: That one only eats bamboo.
+
+BRIAN: Yeah, but should he switch and start to eat
+honey, he could consume much of it.
+
+SAM: I don't really care about the honey one way
+or the other. Honestly, I'm fine just eating
+
+bamboo, but I do feel like we put in the effort.
+This is our heist. It's not hers. If she wants
+
+to get cut in, we could give her maybe 
+a thousand percent. I don't know numbers,
+
+but a small amount.
+
+MATT: I could always say, there's five of us 
+and one of her.
+
+If she helps us make our way in there--
+
+BRIAN: I cut her throat--
+
+MATT: Trust me, I've seen a lot of battles, 
+and I haven't fallen in a single one.
+
+(laughter)
+
+MATT: We can take her, no problem. We leave her
+tied up. Leave her a little hogshead of honey she
+
+can take back to her bear friends, and then we
+walk away scot-free.
+
+SAM: As a vegan, I'm going to protest that we not
+harm any living creatures.
+
+MATT: Not harm, just knock unconscious and tie up,
+like you've done to every other thing
+
+we've come across.
+
+SAM: That's okay. That is not harm. 
+But heavens forbid we actually
+
+kill a human being on this adventure.
+
+MATT: Oh god, no. Unless they're evil or an
+asshole or hurt my mom.
+
+BRIAN: I did kill a human person, though.
+
+SAM: Can you flash us back to that incident?
+
+BRIAN: Well, it was 24 minutes ago, and I slit 
+the throat of an innocent douchebag
+
+who was knocking too loud.
+
+SAM: Why would you kill an innocent person?
+
+BRIAN: He nearly discovered all of you, and I
+killed him.
+
+SAM: I can't believe you. You're heartless.
+
+BRIAN: I do what it takes. Everything I do, I do
+it for the squad. Oh my god.
+
+MARISHA: You get to put a point back into criminal
+for that. From bear to criminal.
+
+BRIAN: Me?
+
+MATT: Are we agreed? Move forward as the squad,
+tag her along, and then when all's said and done,
+
+leave her behind with a bit of honey, and we move
+away with the lion's share.
+
+TALIESIN: Works for me.
+
+MATT: All right, break! Tova, you've got yourself
+a deal.
+
+MARISHA: "Yeah? You an honest bear?"
+
+MATT: Do I look like an honest bear?
+
+MARISHA: "No."
+
+BRIAN: Do I look like an honest bear?
+
+MARISHA: "You look like a honey badger."
+
+MATT: All right.
+
+MARISHA: "Here's the deal: we're going to go
+through these doors. There's going to be three
+
+"tripwires. That's what they're called: tripwires.
+There's also going to be a security cam in here.
+
+"We want to be careful. They're watching us."
+
+SAM: They're not watching us anymore.
+
+TALIESIN: We've already taken care of the security
+camera.
+
+MARISHA: "Wow, that's pretty impressive. All
+right, you guys are pretty good criminal bears.
+
+"All right, these tripwires, though. Anyone good
+at disarming? Yeah, we'll figure it out when we
+
+"get in. Let's go." You throw open the door and
+see a long hallway. Three haphazardly across the
+
+hall tripwires. They're long, cylindrical,
+glowing a bit green. You take a little bit of
+
+dust, Liam Las Vegas, and they show up a little
+bit better, then they go back to their dull,
+
+transparent look, like fishing wire.
+
+BRIAN: I don't like this one bit.
+
+MATT: Does this look like the kind of thing that a
+thief-trained bear who has seen thieves do their
+
+work would have an inkling of how to disable it?
+
+MARISHA: You can certainly try.
+
+BRIAN: That sounds so familiar.
+
+MARISHA: I tried to think up bear puns 
+for all of our sayings, and I couldn't find
+
+any natural ones.
+
+MATT: The internet will barrage us with them when
+we're done.
+
+BRIAN: There's going to be a lot, yeah.
+
+TALIESIN: There will be nothing on Twitter other
+than bear puns.
+
+MATT: I go back into the bag of thieves' tools
+left over from Vex and pull out what I think might
+
+work. I take a look at the mechanisms for the trip
+wire. Two and a one.
+
+MARISHA: Nice. Okay, you go up to the first one,
+and you see an energy box off to the side. It's
+
+got a washer keeping it closed. You tilt that to
+the side, see the mechanical mechanism
+
+on the inside. (pop)
+
+MATT: I turn around with a big goofy smile.
+
+MARISHA: You got through tripwire one. Two more
+to go.
+
+LIAM: Arcane magic dispelled.
+
+MATT: Anyone have anything else they could help me
+with on this?
+
+SAM: I can grow a tree.
+
+LIAM: Hold on. I walk up to it carefully,
+gingerly, slowly. I piddle on it.
+
+MARISHA: (sizzling)
+
+TALIESIN: That's some hot pee, man.
+
+LIAM: Nothing? I piddle on it again.
+
+MARISHA: (weak sizzling)
+
+LIAM: I really thought that would work.
+
+SAM: Can't you hack this?
+
+TALIESIN: I don't know. It looks a little weird. 
+I can try and hack it.
+
+MARISHA: You can try and hack it.
+
+TALIESIN: I'm going to try and hack one.
+
+MARISHA: All right, roll two.
+
+MATT: Don't hack! You're going to be hacking an
+actual tripwire.
+
+TALIESIN: One.
+
+MARISHA: It's got a little box. You go in. Instead
+of messing with the mechanical trip wire, you see
+
+almost a microchip on the inside.
+
+TALIESIN: Can I find an off switch and click it?
+
+MARISHA: You touch it, and it goes (zap).
+
+TALIESIN: Hacked it.
+
+SAM: Wow.
+
+MARISHA: One more.
+
+MATT: All right, I'll try for the third one. 
+Get behind me. If anything goes bad,
+
+tell Vex I love her.
+
+BRIAN: But if it goes right, do the grin. 
+We like that.
+
+SAM: Who's Vax?
+
+LIAM: Or Vex?
+
+BRIAN: Who's Vax?
+
+SAM: No, he said Vax. I think he wants us to tell
+Vax--
+
+BRIAN: We'll tell Vax that you love her.
+
+MATT: Three.
+
+MARISHA: All right. You and you take points in
+criminal.
+
+MATT: I turn around and look at the group with a
+terrible happy-bear smile.
+
+BRIAN: Yeah.
+
+MARISHA: Tova's like, "All right. Good work." You
+get down to the other end of the hall.
+
+SAM: As we walk, I'm going to whisper to-- 
+what's his name?
+
+LIAM and TALIESIN: Cookie.
+
+SAM: Hey, Cookie. I'm getting a bad feeling 
+about this Tova chick.
+
+Think she's going to double-cross us?
+
+LIAM: You've got to prepare for the worst, my
+friend. I need you to be ready. If she makes a
+
+move, you're sitting on her. She doesn't breathe.
+She's breathing in black-and-white ass hair.
+
+Your ass hair. I need you to be ready.
+
+SAM: All right. What's the signal? I need
+signals.
+
+LIAM: Steveland Cleamer.
+
+SAM: Steveland Cleamer?
+
+LIAM: Steveland Cleamer.
+
+SAM: Nice and cleaned.
+
+BRIAN: No, not that. Remember the picture you drew
+last time.
+
+LIAM: Let's bring it home.
+
+TALIESIN: Let's see the spoils of our work.
+
+MATT: What happens with the tripwires?
+
+MARISHA: You get to the other end of the hall,
+unharmed by a swarm of bees. That's what would
+
+have happened if you would've tripped them.
+
+BRIAN: We would've given them that honey, 
+that's for sure.
+
+MARISHA: You get to the other end of the hall, and
+there's a hex-shaped door that's closed in front,
+
+and right off to the right of it is a large
+pedestal made out of bluish marble,
+
+and there's a recess in the middle 
+of this pedestal, making a bowl.
+
+There are also four little baskets on either side.
+
+LIAM: Are there any Skittles in it?
+
+MARISHA: No.
+
+SAM: Any honey?
+
+MATT: Wait, remember that piece of paper that we
+got from that guy earlier?
+
+BRIAN: Buford. Bloomford.
+
+MATT: Sure.
+
+LIAM: Honestly, I'm only thinking about honey.
+
+TALIESIN: It's really about honey.
+
+MATT: I can't read. Tova?
+
+MARISHA: "Okay. Yeah, sure."
+
+SAM: Wait, are we sure we want to share this with
+her?
+
+MATT: She's a partner in this. 
+She's getting an equal--
+
+she's getting all the share we promised her.
+
+MARISHA: "I already know what it is. I helped them
+to design it. I just don't know the actual code
+
+"they ended up going with. Here, look." She goes
+over to it, and she passes her hand over it, and
+
+it goes (buzzing) and starts glowing, and then
+holographic fish appear in the center of it.
+
+LIAM: Madness coming out.
+
+SAM: What is this?
+
+TALIESIN: Oh my god. What is wrong with you?!
+
+BRIAN: This is the greatest thing I've ever seen
+in my life.
+
+SAM: Do we need these?
+
+MARISHA: You will.
+
+MATT: All right, should I read this out loud?
+
+MARISHA: Yeah.
+
+MATT: Via Tova reading this to me.
+
+MARISHA: Yeah, I help him sound it out.
+
+SAM: You guys have to share one.
+
+TALIESIN: Yeah, I'm into it.
+
+MATT: Here, you guys should do this. You're the
+brains.
+
+BRIAN: Matt and I will share this one.
+
+MATT: 'Green, pink, orange, and yellow. Not every
+fish is a friendly fellow. Green is mean and pink
+
+'stinks. Yellow is mellow, but orange is-- orange
+is-- screw it. That Hazel Festival committeewoman
+
+'can go to hell. I'm not a fucking riddle writer.
+Here's the code: orange is the best color, so put
+
+'one orange fish in each basket, except for two in
+the pink. Heh, that one was my idea.'
+
+(laughter)
+
+MATT: 'Then the stupid, expensive-- '
+I'm so proud I married you.
+
+BRIAN: Hell yeah.
+
+MATT: 'Then the stupid, expensive door should open.
+Don't know why we're spending this much to lock up
+
+'a few jars of honey, anyway. 
+Signed, Buford T. Justice, head of security.'
+
+MARISHA: As you say this, Tova puts her hand over
+again.
+
+(electronic song in Korean)
+
+LIAM: An orange in each, except for two in the
+pink, right?
+
+MATT: An orange in each, except for two in the
+pink.
+
+MARISHA: Wait! Someone has to wear 
+the bear hands, because I made them get them,
+
+so it's even funnier.
+
+MATT: Taliesin, I think you should only get them
+if you have the bear hands on.
+
+MARISHA: One at a time. You've got to have the
+bear hands.
+
+MATT: An orange in each basket.
+
+LIAM: And two in the pink.
+
+BRIAN: You've got it!
+
+MARISHA: Yay!
+
+BRIAN: An orange in each...
+
+TALIESIN: What the hell are they singing?
+
+MARISHA: I got it from South Korea.
+
+SAM: Any guards coming?
+
+MARISHA: No. No guards.
+
+SAM: We have unlimited time?
+
+MARISHA: He looped the footage. He did pretty
+good.
+
+LIAM: Two oranges in the pink and one in every
+other one.
+
+BRIAN: Oh god. What do I need?
+
+MARISHA: Oh! No, he's out!
+
+MATT: Oh god.
+
+SAM: Oh! Las Vegas, come on! Focus!
+
+BRIAN: I'm trying, man. I've got fucking bear
+hands.
+
+MATT: One more orange for the pink. Is that all we
+need?
+
+SAM: Come on, you damn wolverine. Get the thing!
+
+BRIAN: I'm waiting for one to open.
+
+MATT: Las Vegas, you can do this!
+
+BRIAN: Goddamn, it's not opening its mouth!
+
+MARISHA: Okay, as you start getting irritated, you
+get a point in bear, Liam Las Vegas.
+
+TALIESIN: I have never been so proud of you.
+
+SAM: Oh, yeah. It's the fishing rod 
+that's doing it.
+
+BRIAN: This thing is warped!
+
+TALIESIN: Why do I always get a warped one?
+
+LIAM: Too much crystal honey in Vegas, Liam.
+
+(groaning)
+
+TALIESIN: You're a disappointment to everybody.
+
+MARISHA: Come on, Liam Las Vegas. It's got to be
+orange.
+
+LIAM: Liam, you fucking asshole!
+
+SAM: I'm getting so frustrated that I'm going to
+start freaking out and hitting the doors.
+
+MARISHA: Oh, the doors behind? Take a point in
+bear.
+
+BRIAN: None of them are opening!
+
+MATT: In the pink!
+
+LIAM: Two in the pink!
+
+(cheering)
+
+MARISHA: And with that, the hex-shaped doors 
+open up.
+
+LIAM: You mad bastard.
+
+BRIAN: Damn. That was hard, man.
+
+MARISHA: And behind the doors-- big mystery.
+Where's the mystery? Mysterious. Yeah, that's
+
+good. Behind the door, you see a dimly lit cellar
+room. A waft of cool air blasts by you. You see a
+
+few bar tables that have been tossed over; clearly
+left in here for storage. A few bags of
+
+grain. And in the middle, on discarded bar
+tables-- there are three tables. The first one has
+
+a little note that says "Slayer's Cake." It's got
+a nice couple of small half-barrels of honey. The
+
+second one says "Reginald's daughter." Whatever
+her name is. Has a note.
+
+MATT: It might have been Amelia.
+
+MARISHA: I think it was. Something like that.
+Ariana? Whatever. Third one.
+
+MATT: The writing isn't very good. The name begins
+with an A and then scribbles.
+
+MARISHA: In scribbled red lettering, says
+"Victor." And there's so much honey in actual boar
+
+heads that's oozing out. Some's dripping off the
+side of the table, and then you follow the drip
+
+down and see more hogs' heads, goat heads. You see a
+bear head. Pretty much looks like any type of head
+
+he could find, he got it and put gray, ichor-y,
+sulfuric-smelling honey.
+
+You see four torch sconces on the walls, lightly
+puttering. You follow, and you see, holy shit!
+
+Victor brought way too much fucking honey, and the
+entire edge of the cellar room is filled with
+
+weird heads of honey.
+
+LIAM: Waffle, this is it. This is our father's
+dream.
+
+TALIESIN: Everything we've worked for.
+
+LIAM: We have reached easy street.
+
+TALIESIN: It's all honey from here on out. 
+Just honey. Everything.
+
+MATT: How are those sconces looking?
+
+MARISHA: Precarious.
+
+MATT: What's in them? Is it magical light?
+
+MARISHA: Nope, it looks like torch sconces that
+they dipped in kerosene. A long-burning torch;
+
+they probably lit them when they were bringing in
+the honey, and then walked out.
+
+MATT: Do any of them look viably close to dropping
+embers?
+
+MARISHA: There is one that's right over the table
+of Victor's that looks like it's a miracle it
+
+hasn't honestly exploded yet.
+
+TALIESIN: Let's grab the honey and run.
+
+BRIAN: I've got a cart outside waiting, with a
+horse and everything.
+
+MATT: Code Sad Bear! We've got to move now.
+
+TALIESIN: I'm grabbing honey.
+
+BRIAN: Is Tova still with us?
+
+MARISHA: Tova is. She sees the same thing. She's a
+little confused as to why you're acting this way.
+
+MATT: I turn around to her. Tova, all this gray
+honey shit is explosive.
+
+MARISHA: "What?"
+
+MATT: I know! He's crazy.
+
+MARISHA: "Why? Why would you-- 
+who would do that?"
+
+MATT: The more you try and question his motives,
+the more he makes you more like him. Keep going.
+
+MARISHA: She walks over, takes a little.
+
+MATT: I immediately take the fire staff I've been
+carrying and throw it as far as I can
+
+down the opposite hallway, away from this room.
+
+MARISHA: "Okay, let's go!" And she starts scooping
+up honey and throwing them into the Radio Flyer.
+
+De Rolo Roller.
+
+BRIAN: Blah-blah-blah.
+
+MATT: Actually, while this is happening, I reach
+over and go: Hey, Cookie. If I buy you a new hat,
+
+could I borrow yours?
+
+LIAM: Fuck yeah.
+
+BRIAN: (singing) If you want to see paradise...
+
+MATT: I'm going to take the top hat and place it
+just over the heavy collection of Victor's honey
+
+beneath where the sconce is.
+
+MARISHA: Okay. Are you still wearing the
+sunglasses, Peddy?
+
+SAM: Of course.
+
+MARISHA: You get a little bit of an advantage,
+because at this time, you look up, and you see
+
+through the roof of the cellar very quick,
+shadowed movement.
+
+SAM: Someone's above us.
+
+TALIESIN: We'd better move. I'm going to create 
+a distraction. Let's get this honey
+
+out into the cart right now.
+
+MATT: All right, moving honey as fast as we can
+into the cart.
+
+LIAM: Also, while we're moving, I'm going to take
+a big fucking bite of honey on the move.
+
+MARISHA: Put a point back into bear.
+
+TALIESIN: I'm going to do the same, as well.
+
+BRIAN: While they're doing that, I'm going to move
+some honey onto the thing, and I'm going to wink
+
+at Tova and say: I thought I told you that we
+won't stop.
+
+MARISHA: She goes, "Smooth." About this time,
+(thud) and through the floorboards from above,
+
+they splinter, and from the other side, and two
+bears in black gis and ninja masks fall through.
+
+Liam, you look over your shoulder. Las Vegas. And
+around the corner are two more bears coming in
+
+through the hall that you all just entered, too.
+Tova looks up, she sees them, and she goes,
+
+"Shit, it's the Bearracuda!"
+
+BRIAN: They're not with you?
+
+(groaning)
+
+MATT: I immediately glance around. They came
+through the ceiling; are there any of the sconces
+
+that look close to being--
+
+MARISHA: Yes, there's one on the left closest to
+the door. Fractured and got knocked over by one of
+
+the splintering floorboards and is now swinging
+above all of the honey.
+
+MATT: We can't-- and I point to the ninja bears
+coming our way and the ones that just entered--
+
+Handle it! And I go for the swinging sconce board
+to see if I can clap it out with my bear paws and
+
+put out the flame.
+
+MARISHA: Okay, roll for bear.
+
+BRIAN: Am I able to get the cart of honey--
+
+MATT: Nope!
+
+MARISHA: Unfortunately, as you try to stamp it out
+with the board, the other floorboard catches on
+
+fire, and now you have two flame sources.
+
+BRIAN: Can I start trying to make it out with the
+de Rolo Roller to the cart? Take the honey out?
+
+TALIESIN: I've got this, guys!
+
+MARISHA: As you try to roll it out, you have two
+bear ninjas swiping above you. What do you do?
+
+BRIAN: I try to run past them as fast as I can,
+and if one of them gets too close to me, I can try
+
+to swipe him on my way past.
+
+MARISHA: Okay, use your nimble bear abilities 
+as a honey badger. Straight bear roll.
+
+BRIAN: Oh, just one?
+
+MARISHA: Yeah.
+
+BRIAN: That's a fail.
+
+MARISHA: Okay, one of them gets a good slap on
+you. Bounce off the wall. You get aggravated.
+
+Point into bear.
+
+SAM: I'm going to go for one of the ninjas and
+attack with my strength. Panda strength.
+
+MARISHA: Okay, roll with advantage.
+
+SAM: That's a success. That's not.
+
+MARISHA: You take the first one, and you sandwich
+him with your weight up against the wall.
+
+He's trying to fight you off.
+
+SAM: As he's there, I hit him with the tree
+stick.
+
+MARISHA: Okay, roll for criminal to use the
+stick.
+
+SAM: No.
+
+MARISHA: Okay. Unfortunately, as you're sandwiched
+up against him when you try to use it, you don't
+
+really get good leverage, so you go (bop) with a
+dead stick. It doesn't really work. It's still
+
+forcing against you.
+
+BRIAN: Not your first time dealing with a dead
+stick, is it, Peddy?
+
+MARISHA: Tova reaches in the back of her suit, and
+she pulls out a little throwing hammer. Throws it.
+
+Let me roll for Tova. Tries and succeeds. 
+Hits the first ninja; it gets a little distracted.
+
+What are you guys doing? You've got the ninjas 
+kind of warded off. Two more coming in
+
+from where they were after Liam Las Vegas.
+
+BRIAN: Have they abandoned me, so I can keep going
+and try to get the cart outside?
+
+MARISHA: Yeah, they're not too distracted 
+with you.
+
+BRIAN: Okay, so I'm going to keep pushing the de
+Rolo Roller out to the thing and load the honey
+
+into the cart.
+
+MATT: Knowing that upstairs is Grog, two people
+that we've knocked out, another drunk guy who's
+
+passed out in the bar, and god knows who's nearby,
+and the amount of Victor honey that's in here, I'm
+
+focusing on trying to put the fires out.
+
+MARISHA: Okay, roll again.
+
+SAM: Are you going to pee on the fire?
+
+MATT: Yeah. I'm one of the few that hasn't peed,
+so I probably have a full tank. My paws are
+
+scalded from patting the flames out. I lean back
+and try and get as much of an arc as I can.
+
+MARISHA: Okay, yeah. Roll for bear.
+
+SAM and MATT: That's a bear thing.
+
+MATT: No. That's a four.
+
+MARISHA: Unfortunately, as you--
+
+MATT: Performance anxiety!
+
+TALIESIN: Are you pee shy?
+
+MATT: Trinket apparently is pee shy.
+
+MARISHA: You back up, and as you back up, you bump
+into the table of Victor's honey, and it goes
+
+(crash) and spills flammable honey 
+all across the floor.
+
+MATT: Sorry!
+
+SAM: This is not going well!
+
+MARISHA: The other two Bearracudas come in,
+squaring off.
+
+LIAM: Fuck this! Come here, you. Everybody run!
+And I head towards the Bearracudas.
+
+MARISHA: Okay.
+
+LIAM: Let's fucking do this.
+
+MARISHA: Roll for bear attack.
+
+LIAM: Yes.
+
+MARISHA: All right, you take one of them. Two big
+haymaker swipes. They try to block with their bear
+
+katanas and miss, and he gets two big gashes right
+across his face. He's a little disoriented. You've
+
+got one more that's in there. He's pretty
+unattended.
+
+TALIESIN: I have something I can do, but it's not
+going to be pretty.
+
+SAM: Let's do it.
+
+LIAM: Waffle, hack the system!
+
+TALIESIN: I take the fez of honey, and I throw it
+at the Bearracuda.
+
+MARISHA: Roll for bear.
+
+TALIESIN: No.
+
+MARISHA: No?
+
+TALIESIN: No. I don't know what not throwing 
+a hat full of honey looks like.
+
+MARISHA: You try to get a nice overhand, but it
+slips a little bit, and you have this weird,
+
+spiraling arc of flammable honey that goes
+everywhere. You do hit one of the ninjas
+
+with a decent amount of honey. 
+Gets a little disoriented.
+
+Backs into one of the torch "sconches." 
+Sconces. Lights on fire.
+
+TALIESIN: We've got to roll, kids.
+
+MARISHA: (yelping) He backs up, trips, blinded by
+the fire, falls onto the ground. The fire starts
+
+following the spilled honey, and then suddenly,
+everyone: time slows down. Tova sees what happens.
+
+She turns to everyone and goes, "Run!" and takes
+off through the door.
+
+TALIESIN: I teleport towards the cart.
+
+BRIAN: I'm on the cart with the reins in my hands,
+ready to go. I'm out there.
+
+MARISHA: Waffle is gone. You see the fire 
+getting closer and closer.
+
+SAM: I'm going to head for the door, 
+and on my way, I'm going to grab Tova by the hair
+
+and pull her back in.
+
+MARISHA: Oh shit!
+
+LIAM: Are there still Bearracudas?
+
+MARISHA: There are. One is now released free. 
+One is on fire. The other is distracted
+
+by your scratching, and there was one 
+that Tova was squaring off.
+
+LIAM: But she just got pulled through the door?
+
+MARISHA: She got pulled through the door.
+
+LIAM: I say: I hear my father's voice in the
+morning. And I dive at the remaining Bearracuda
+
+and plow them down 
+into the flammable honey on the floor.
+
+MARISHA: Okay, roll for bear attack. Also roll for
+your muscle strength, so you get advantage.
+
+LIAM: Yeah.
+
+SAM: Fail, fail.
+
+MARISHA: Oh no! You knock over the last remaining
+free Bearracuda. He falls right into the flaming
+
+honey, immediately bursts into flames-- way more
+than probably would actually happen.
+
+You scootch back. Roll to avoid the flame.
+
+LIAM: Fail.
+
+MARISHA: You do take a point into criminal for
+what you just did. As you back up, Peddy you see
+
+trying to bolt for the door, grabs Tova, throws
+her right back into you. You guys boing.
+
+So now it's you and Tova. You're out.
+
+MATT: I have a question.
+
+MARISHA: Yeah?
+
+MATT: The trails of honey, are they heading
+towards the large--
+
+MARISHA: A hundred percent. You all have a good
+solid four to five more seconds of slo-mo time.
+
+(whoosh) Peddy's out!
+
+Tova's like, "What the fuck?"
+
+MATT: As Tova comes back and slams into Cookie, I
+spin around, now that I see this is my fault,
+
+and I push the back of Cookie to shove 
+both of them back through the front doorway.
+
+I'm going to try to use whatever bear strength 
+I have to shove them forward.
+
+MARISHA: Okay, roll for bear.
+
+MATT: Success.
+
+MARISHA: You guys trip. Trinket, as you push, 
+you turn, and you see (flame noises).
+
+And in slow motion, (explosions). 
+You make one more bounding leap
+
+as the explosion blows you out of the cellar door.
+
+MATT: I close my eyes and in the back of my head,
+go: I hope you're within about a hundred feet
+
+of me, wherever you are, Vex.
+
+MARISHA: You are jettisoned with the cellar door.
+An exploding round of fire
+
+comes barreling down the hall, burning
+all of the oxygen-- that's how fire works--
+
+in the room as it blasts out of the door. 
+Everyone is safe, but there is no Trinket.
+
+Flames die down. You look in the hallway,
+
+and there, a little singed, flaming fur, 
+with some bald spots, is Trinket.
+
+SAM: Dead?
+
+MARISHA: Still alive.
+
+BRIAN: Get out here! Can I yell "get out here" 
+at him?
+
+MATT: Am I conscious?
+
+MARISHA: You're unconscious.
+
+BRIAN: Wake up and then get out here!
+
+MATT: Which means she's not within a hundred feet
+of me, for the love of god.
+
+SAM: I'm going to go get Trinket and drag. 
+No bear left behind!
+
+MATT: Are the ninjas still around?
+
+MARISHA: The ninjas all seem to be dead.
+
+SAM: I'm going to drag him out, lay him down. No
+harm will come today. Like in the Revenant,
+
+I will aggressively mouth-to-mouth. 
+Snout-to-snout resuscitation.
+
+MARISHA: Roll for...
+
+BRIAN: BPR?
+
+MARISHA: Yeah. Roll for BPR.
+
+LIAM: Like Ed Harris in the Abyss.
+
+MARISHA: Roll for bear. Yeah, you got it. 
+You're good.
+
+SAM: (heavy breathing)
+
+MARISHA: It's a really odd-looking sight. 
+No one's sure what exactly is happening.
+
+BRIAN: I cover the horse's eyes.
+
+MARISHA: Trinket, you do wake up.
+
+SAM: Trinket, if you'd died, I would be so upset.
+
+MATT: Confused bear. What's going on?
+
+MARISHA: About this time, Liam Las Vegas, 
+you see all the guards running up the alley,
+
+coming in this direction. The Sun Kissed Tavern 
+is up in flames right now.
+
+BRIAN: I fucking gently and humanely encourage
+the--
+
+MARISHA: You see another bald panda bear 
+stumble out. "Oh shit."
+
+It's Grog. Wakes up from everything. 
+What are you guys doing?
+
+TALIESIN: We're taking off with the honey.
+
+LIAM: We've got to take the honey and run. 
+Come on!
+
+MATT: As a thank you to Peddy as I get up, 
+I grab Peddy by the shoulders
+
+and push Peddy up onto the cart 
+with everybody else.
+
+MARISHA: Tova runs over. She jumps into the back
+of the cart. "Come on!"
+
+LIAM: Hoppity-hop! Come on!
+
+MARISHA: Trinket, you're the only one. 
+Are you on?
+
+MATT: No. I look up and say: My family's here.
+A life of crime's not for me. You go on ahead.
+
+You've earned it.
+
+SAM: We'll never forget you.
+
+TALIESIN: I grab a little jar of honey. 
+Toss it down.
+
+If anyone asks, we have no idea 
+where it came from.
+
+BRIAN: I yell down: Tell her to fucking remember
+Hunter's Mark!
+
+(laughter)
+
+MATT: I do, constantly.
+
+MARISHA: With a crack of the whips, 
+you all speed off down into an empty alleyway.
+
+LIAM: Could've been beautiful, kid. Good luck!
+
+MARISHA: Tova yells, "Trinket! I'll remember this.
+You are a great High Bear."
+
+MATT: (moans)
+
+MARISHA: (moans) The horse and buggy pulls off, 
+a few rogue cabbages and vegetables
+
+falling off the end.
+
+SAM: I turn to the other dudes and say: Listen,
+all this trouble for some honey. I know a place
+
+where bamboo literally grows in forests. 
+We can go there and eat as much of it as we want.
+
+We don't have to break in anywhere. 
+There's no surveillance cameras.
+
+It just grows! Come with me. It'll be fun.
+We can turn over a new leaf.
+
+BRIAN: But on the other side of that leaf, 
+there isn't going to be honey,
+
+and for us, it's about the honey.
+
+LIAM: Show me the honey.
+
+BRIAN: Show me the honey, honey.
+
+SAM: Tova, I'm sorry I tried to kill you.
+
+MARISHA: "It's all right. It happens a lot. Yeah.
+Y'all are all right. I'll talk to the High Bear
+
+"committee and make sure you guys don't have 
+any heat on your tails after this."
+
+LIAM: You're sure you don't want to come with us?
+See the world, sample honey?
+
+MARISHA: "I've seen enough of the world. 
+I think I'm ready for a little honey vacation."
+
+LIAM: What the fuck does that mean?
+
+SAM: I honestly don't know.
+
+BRIAN: I think she's talking about rehab. 
+I think she means rehab.
+
+MARISHA: As you all ride off into the sunset, away
+from Westruun, Trinket, you're back in the flaming
+
+Sun Kissed Tavern. A bunch of guards run in, Vex
+and Pike among them. Vex immediately sees you.
+
+"Oh, my darling bear. Oh no! What happened?" 
+She turns and looks at Grog. "Grog."
+
+MATT: I fall on the ground and go belly-up and go,
+(piteous moaning).
+
+MARISHA: "Oh, buddy. Here, I got you those treats.
+Did you save the day? Did you?
+
+"Are you a good bear? Oh. Grog!"
+
+And that is where we will end tonight's game.
+
+(cheering)
+
+BRIAN: All right!
+
+MARISHA: That was terrifying! Oh my god.
+
+LIAM: I wanted to break canon and take Trinket
+with us across the nation! Goddamn it!
+
+MATT: Trinket wouldn't leave.
+
+BRIAN: We would've gotten 
+some strongly worded emails.
+
+TALIESIN: I wonder if it was Sam Elliot 
+at the bar telling that story.
+
+"Well, Trinket had quite a time."
+
+BRIAN: Sometimes, there's a bear.
+
+MARISHA: Good work, bears.
+
+MATT: Thank you so much for running that. 
+Thank you, Marisha.
+
+TALIESIN: Holy fucking shit.
+
+MARISHA: I don't think we fucked up canon too
+much. That's all right, right?
+
+LIAM: Fucked up canon? Tova's alive!
+
+MARISHA: Tova's alive.
+
+LIAM: Tova's alive!
+
+MARISHA: I hope Noelle is okay with me doing this.
+I meant to text her and email her about it, and I
+
+kept forgetting, so sorry, Tova.
+
+BRIAN: I got a text that she has begun litigation
+against us already.
+
+LIAM: Tova's alive!
+
+BRIAN: Thank you, Grant, for making an amazing
+game, too.
+
+MARISHA: Yeah, for anyone who wants to play this.
+If you watched this and were like, "holy shit, now
+
+"I want to play Honey Heist," it's free to
+download. You can download it off his website,
+
+which I believe is granthowitt.com.
+
+LIAM: Single sheet, in very large text.
+
+MARISHA: Yeah, it is a two-page rulebook. One
+page for everyone, and one page for the DM. And
+
+there is a super-secret spells list, if you are a
+Patreon backer.
+
+SAM: One of the spells that I accidentally got
+would've turned one of us into secretly two bears
+
+hiding in a bear costume, and we popped out 
+and became two bears.
+
+MARISHA: You guys were actually supposed to find 
+a trenchcoat at some point and get that.
+
+TALIESIN: And get two bears in a trenchcoat?
+
+MARISHA: Yeah, it's two bears in a trenchcoat.
+
+MATT: If you're looking for extra content 
+like that, he offers that on his Patreon.
+
+MARISHA: On his Patreon, yeah. It should be
+spammed in the chat right now:
+
+patreon.com/gshowitt, I believe. 
+But yeah, there's a whole other optional--
+
+you can roll to have cantrips 
+and things like that as an added dimension.
+
+SAM: Where do they get the battle board from
+tonight's game?
+
+MARISHA: That you can get on Amazon Prime!
+
+SAM: With that song?
+
+MATT: You can find that theme on iTunes 
+for download.
+
+MARISHA: Yeah. (laughs)
+
+(electronic song in Korean)
+
+MARISHA: I came across this one and was like,
+"Shit, it says it plays a song?
+
+"I don't want anything that plays music-- 
+no, I want something that plays music." Yeah.
+
+BRIAN: Pineapple pen.
+
+(laughter)
+
+MARISHA: I tried to come up with a million codes
+and gave up, so that's how that letter came out.
+
+SAM: We'll talk about it on Talks Machina.
+
+BRIAN: Talks on Tuesday with Marisha 
+and whoever else is not working.
+
+MARISHA: And I guess we'll see all of you guys 
+at PAX.
+
+SAM: Special thanks to our sponsor tonight: Marvel
+Puzzle Quest. Go to bit.ly/MarvelCrit, capital M,
+
+capital C. Make sure that they know that 
+Critical Role sent you. And don't forget, also,
+
+that you can battle with some of your favorite 
+X-Men, like Rogue or Gambit. That's all I've got.
+
+MARISHA: Thank you all so much. Next week 
+is Sam's one-shot. We will see you all soon.
+
+Is it Thursday yet?
+
+BRIAN: It's still Thursday, technically.
+I got one! No, I didn't. Goddamn it.
+
+[music]
