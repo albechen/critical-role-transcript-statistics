@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+#Jupyter Notebook inflated linguist values
+
+*.ipynb linguist-documentation
