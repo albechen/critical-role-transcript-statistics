@@ -2,7 +2,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from matplotlib.ticker import (MultipleLocator, FormatStrFormatter, AutoMinorLocator)
 
-from .e_agg_df_count import group_by_person_episode, group_by_person_episode_time, count_per_episode
+from .e_agg_df_count import group_by_person_episode, count_per_episode
 
 
 def lineplot_per_ep (org_names, matt_nomatt, C1_C2):

@@ -2,8 +2,9 @@ def group_by_person_episode(org_names_df):
     person_episode_group = org_names_df.groupby(['person', 'episode']).agg({'total_time':['count','sum'], 'count':['sum']})
     person_episode_group = person_episode_group.unstack(level=1, fill_value=0).stack()
     person_episode_group = person_episode_group.unstack(level=-1, fill_value=0).stack().reset_index()
-    person_episode_group.columns = ['person', 'episode', 'time_count', 'line_count', 'word_count']
+    person_episode_group.columns = person_episode_group.columns.map('_'.join).str.strip('_')
     person_episode_group['episode'] = person_episode_group['episode'].astype('int')
+    person_episode_group = person_episode_group.rename(columns={'total_time_count': 'line_count', 'total_time_sum': 'time_count', 'count_sum': 'word_count'})
     return person_episode_group
 
 
