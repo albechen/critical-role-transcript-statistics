@@ -4,3 +4,5 @@ from .c_parse_vtt import *
 from .d_extract_name_time import *
 from .e_agg_df_count import *
 from .f_visualization import *
+
+from .z_serach_transcripts import *

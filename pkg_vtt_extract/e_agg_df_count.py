@@ -9,7 +9,7 @@ def group_by_person_episode(org_names_df):
 
 
 def group_by_episode(org_names_df):
-    org_names_df = org_names_df.loc[org_names_df['person'] != 'unassigned']
+    org_names_df = org_names_df.loc[org_names_df['person'] != 'unassigned'] 
     person_group = org_names_df.groupby(['episode']).agg({'total_time':['sum']}).reset_index()
     person_group.columns = ['episode', 'time_count']
     person_group['episode'] = person_group['episode'].astype('int')
