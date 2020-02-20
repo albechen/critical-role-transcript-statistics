@@ -38,23 +38,30 @@ def extract_time_line(adj_srt):
 
                 start_time_split = line.index('-')-1
                 start_time = line[:start_time_split]
-
+ 
                 end_time_split = line.index('>')+2
                 end_time = line[end_time_split:]
 
                 speak = ''
             else:
-                if speak == '':
+                if '[' in line or ']' in line:
+                    speak = ''
+                elif speak == '':
                     speak = line
                 else:
                     speak += ' ' + line
-        
         else:
+            pass
+
+            '''
             if speak == '':
                 speak = line
             else:
                 speak += ' ' + line
             comb_set = (start_time, end_time, speak)
             time_line.append(comb_set)
+            '''
+
+    del time_line[-1]
 
     return time_line

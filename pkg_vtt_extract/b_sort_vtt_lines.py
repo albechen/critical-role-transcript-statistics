@@ -41,6 +41,7 @@ def align_full_line_time(time_line):
                 cont_line[1] = line[1]
                 cont_line[2] += ' ' + line[2]
         else:
+            org_list.append(split_line)
             if ':' in line[2]:
                 colen_index= line[2].index(':')
                 if colen_index <= 30:
