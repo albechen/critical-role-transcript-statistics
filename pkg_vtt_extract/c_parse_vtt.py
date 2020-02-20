@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import time
 from .a_clean_vtt import remove_blank_num, extract_time_line
 from .b_sort_vtt_lines import align_full_line_time
 
@@ -64,7 +65,8 @@ def episode_extract(C1_C2, start_ep, end_ep):
     all_ep_df = pd.DataFrame()
     end_ep += 1
     ep_list = list(range(start_ep, end_ep))
-    
+    start_time = time.time()
+
     for ep in ep_list:
         path = ("data_raw/%s_vtt/%s_%s.vtt" % (C1_C2, C1_C2, ep))
         try:
@@ -76,7 +78,8 @@ def episode_extract(C1_C2, start_ep, end_ep):
         except:
             pass
         if int(ep) % 10 == 0:
-            print ('Completed: ep ', ep)
+            print ('Completed: ep %s (%s min)' % (ep, round(((time.time() - start_time)/60), 2)))
+            start_time = time.time()
         if int(ep) == end_ep-1:
             print ('Completed: all')
 

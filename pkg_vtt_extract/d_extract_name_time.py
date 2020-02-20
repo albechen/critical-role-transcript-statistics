@@ -2,10 +2,10 @@ import pandas as pd
 
 def calc_time(full_ep_df):
     full_ep_df['start_time'] = [
-        (int(ts[:2])*60*60 + int(ts[3:5])*60 + int(ts[6:8]) + int(ts[8:11])/1000)
+        (int(ts[:2])*60*60 + int(ts[3:5])*60 + int(ts[6:8]) + int(ts[9:12])/1000)
         for ts in full_ep_df['start_time']]
     full_ep_df['end_time'] = [
-        (int(ts[:2])*60*60 + int(ts[3:5])*60 + int(ts[6:8]) + int(ts[8:11])/1000)
+        (int(ts[:2])*60*60 + int(ts[3:5])*60 + int(ts[6:8]) + int(ts[9:12])/1000)
         for ts in full_ep_df['end_time']]
     
     full_ep_df['total_time'] = full_ep_df['end_time'] - full_ep_df['start_time']
@@ -61,7 +61,7 @@ def combine_name_list(named_mapped_df):
     
     no_assigned_person = named_mapped_df.loc[named_mapped_df['person_check'] == 0]
     no_assigned_person = no_assigned_person[['name', 'speech', 'count', 'episode', 'total_time', 'start_time', 'end_time']]
-    no_assigned_person['person'] = 'no_one'
+    no_assigned_person['person'] = 'unassigned'
     org_names_df = org_names_df.append(no_assigned_person)
 
     return org_names_df

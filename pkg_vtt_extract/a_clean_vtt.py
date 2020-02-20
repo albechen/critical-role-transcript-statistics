@@ -11,7 +11,7 @@ def remove_blank_num(raw_srt):
     for line in raw_srt:
         raw_srt = [t for t in raw_srt if t]
         line = line.lower()
-        remove_char = ['\'', '\"', '.', ',', '?', '/', '!']
+        remove_char = ['\'', '\"']
         for char in remove_char:
             line = line.replace(char, '')
         if is_int(line) == False:
