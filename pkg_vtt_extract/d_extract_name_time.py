@@ -71,4 +71,8 @@ def org_time_person(parsed_df, C1_C2):
     extract_time = calc_time(parsed_df)
     extract_names = mapping_names(extract_time, C1_C2)
     org_names = combine_name_list(extract_names)
+    if C1_C2 == 'C1':
+        org_names['campaign'] = 1
+    elif C1_C2 == 'C2':
+        org_names['campaign'] = 2
     return org_names
