@@ -110,3 +110,32 @@ def densityplot_time_per_ep (org_name, matt_nomatt, C1_C2):
     ax.set_xlabel("Seconds per Episode")
 
     ax.title.set_text('%s: Time Spoken Distribution' % C1_C2)
+
+
+def density_subjectivity (pol_sub_df, C1_C2, Polarity_Subjectivity):
+    names = ['matt', 'laura',  
+            'sam', 'marisha', 'travis', 
+            'liam', 'taliesin', 'ashley']
+
+    palette ={'laura':'C0', 
+        'matt':'C7', 
+        'marisha':'C2', 
+        'sam':'C3', 
+        'taliesin':'C4', 
+        'liam':'C5', 
+        'travis':'C1', 
+        'ashley':'C6', 
+        'orion':'C8', 
+        'guest':'C9',
+        'unassigned':'k'}
+
+    plt.figure(figsize=(7,5))
+    for name in names:
+        color = palette[name]
+        ax = sns.kdeplot(pol_sub_df[Polarity_Subjectivity][(pol_sub_df["person"] == name)], shade=True, color=color)
+    ax.legend(names)
+    #ax.set_xlim(left=-0.1, right=0.3)
+    #ax.set_ylim(top=0.005)
+    ax.set_xlabel(Polarity_Subjectivity)
+
+    ax.title.set_text('%s: %s Distribution' % (C1_C2, Polarity_Subjectivity))

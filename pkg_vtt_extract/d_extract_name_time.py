@@ -12,14 +12,14 @@ def calc_time(full_ep_df):
     return full_ep_df
 
 def mapping_names(all_ep_df, C1_C2):
-    laura_name_list = ['all', 'laura', 'vex', '-laura']
-    matt_name_list = ['all', 'matt', 'matthew', 'decide', '-matt', 'sherri', 'allura', 'gilmore', 'Adra', 'kima', 'kaylee', 'fast', 'uriel', 'balgus', 'mat', 'caught up', 'last we left off']
-    marisha_name_list = ['all', 'marisha', 'keyleth', '-marisha']
-    sam_name_list = ['all', 'sam', 'scanlan', '-sam']
-    taliesin_name_list = ['all', 'taliesin', 'percy', '-taliesin']
-    liam_name_list = ['all', 'liam', 'vax', '-liam']
-    travis_name_list = ['all', 'travis', 'grog', '-travis']
-    ashley_name_list = ['all', 'ashley', 'pike', '-ashley']
+    laura_name_list = ['laura', 'vex', '-laura']
+    matt_name_list = ['matt', 'matthew', 'decide', '-matt', 'sherri', 'allura', 'gilmore', 'Adra', 'kima', 'kaylee', 'fast', 'uriel', 'balgus', 'mat', 'caught up', 'last we left off']
+    marisha_name_list = ['marisha', 'keyleth', '-marisha']
+    sam_name_list = ['sam', 'scanlan', '-sam']
+    taliesin_name_list = ['taliesin', 'percy', '-taliesin']
+    liam_name_list = ['liam', 'vax', '-liam']
+    travis_name_list = ['travis', 'grog', '-travis']
+    ashley_name_list = ['ashley', 'pike', '-ashley']
     orion_name_list = ['orion', 'tiberius', '-orion']
     C1_guest_name_list = ['zac', 'will', 'mary', 'patrick', 'felicia', 'wil', 'chris', 'jon', 'joe', 'darin', 'noelle', 'kit', 'jason', 'patrick rothfuss']
     C2_gues_name_list = ['chris', 'mica', 'ashly', 'khary', 'sumalee', 'deborah', 'mark']

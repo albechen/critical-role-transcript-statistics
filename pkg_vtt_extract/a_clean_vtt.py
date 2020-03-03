@@ -53,15 +53,6 @@ def extract_time_line(adj_srt):
         else:
             pass
 
-            '''
-            if speak == '':
-                speak = line
-            else:
-                speak += ' ' + line
-            comb_set = (start_time, end_time, speak)
-            time_line.append(comb_set)
-            '''
-
     del time_line[-1]
 
     return time_line
