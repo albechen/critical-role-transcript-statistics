@@ -13,7 +13,9 @@ def calc_time(full_ep_df):
 
 def mapping_names(all_ep_df, C1_C2):
     laura_name_list = ['laura', 'vex', '-laura']
-    matt_name_list = ['matt', 'matthew', 'decide', '-matt', 'sherri', 'allura', 'gilmore', 'Adra', 'kima', 'kaylee', 'fast', 'uriel', 'balgus', 'mat', 'caught up', 'last we left off']
+    matt_name_list = ['matt', 'matthew', 'decide', '-matt', 'sherri', 'allura', 
+            'gilmore', 'Adra', 'kima', 'kaylee', 'fast', 'uriel', 'balgus', 
+            'mat', 'caught up', 'last we left off']
     marisha_name_list = ['marisha', 'keyleth', '-marisha']
     sam_name_list = ['sam', 'scanlan', '-sam']
     taliesin_name_list = ['taliesin', 'percy', '-taliesin']
@@ -21,9 +23,12 @@ def mapping_names(all_ep_df, C1_C2):
     travis_name_list = ['travis', 'grog', '-travis']
     ashley_name_list = ['ashley', 'pike', '-ashley']
     orion_name_list = ['orion', 'tiberius', '-orion']
-    C1_guest_name_list = ['zac', 'will', 'mary', 'patrick', 'felicia', 'wil', 'chris', 'jon', 'joe', 'darin', 'noelle', 'kit', 'jason', 'patrick rothfuss']
+    C1_guest_name_list = ['zac', 'will', 'mary', 'patrick', 'felicia', 
+            'wil', 'chris', 'jon', 'joe', 'darin', 'noelle', 'kit', 
+            'jason', 'patrick rothfuss']
     C2_gues_name_list = ['chris', 'mica', 'ashly', 'khary', 'sumalee', 'deborah', 'mark']
-    break_name_list = ['ify', 'dan', 'brian', 'loves in his life', 'ivan', 'kevin', 'this wonderful show are']
+    break_name_list = ['ify', 'dan', 'brian', 'loves in his life', 
+            'ivan', 'kevin', 'this wonderful show are']
 
     name_list = [laura_name_list, matt_name_list, 
         marisha_name_list, sam_name_list, taliesin_name_list, 
@@ -55,12 +60,14 @@ def combine_name_list(named_mapped_df):
 
     for name in names:
         filtered_names_df = named_mapped_df.loc[named_mapped_df[name] == 1]
-        filtered_names_df = filtered_names_df[['name', 'speech', 'count', 'episode', 'total_time', 'start_time', 'end_time']]
+        filtered_names_df = filtered_names_df[['name', 'speech', 'count', 
+                'episode', 'total_time', 'start_time', 'end_time']]
         filtered_names_df['person'] = name
         org_names_df = org_names_df.append(filtered_names_df)
     
     no_assigned_person = named_mapped_df.loc[named_mapped_df['person_check'] == 0]
-    no_assigned_person = no_assigned_person[['name', 'speech', 'count', 'episode', 'total_time', 'start_time', 'end_time']]
+    no_assigned_person = no_assigned_person[['name', 'speech', 'count', 
+            'episode', 'total_time', 'start_time', 'end_time']]
     no_assigned_person['person'] = 'unassigned'
     org_names_df = org_names_df.append(no_assigned_person)
 

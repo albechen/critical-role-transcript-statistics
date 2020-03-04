@@ -10,7 +10,8 @@ def group_by_person_episode(org_names_df):
     
     person_episode_group.columns = person_episode_group.columns.map('_'.join).str.strip('_')
     person_episode_group['episode'] = person_episode_group['episode'].astype('int')
-    person_episode_group = person_episode_group.rename(columns={'total_time_count': 'line_count', 'total_time_sum': 'time_count', 'count_sum': 'word_count'})
+    person_episode_group = person_episode_group.rename(columns={'total_time_count': 'line_count', 
+            'total_time_sum': 'time_count', 'count_sum': 'word_count'})
     
     return person_episode_group
 

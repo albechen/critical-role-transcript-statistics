@@ -4,6 +4,7 @@ import time
 from .a_clean_vtt import remove_blank_num, extract_time_line
 from .b_sort_vtt_lines import align_full_line_time
 
+
 def combine_two_part_ep(C1_C2, file1, file2, ep_num):
     join_ep = []
     path_1 = ("data_raw/%s_vtt/%s" % (C1_C2, file1))
@@ -13,7 +14,8 @@ def combine_two_part_ep(C1_C2, file1, file2, ep_num):
         with open(path_2, "r", encoding="latin-1") as p2_ep:
             p2_ep = p2_ep.read().splitlines()
             join_ep = p1_ep + p2_ep
-    with open("data_raw/%s_vtt/%s_%s.vtt" % (C1_C2, C1_C2, ep_num), 'w', encoding='latin-1') as comb_ep:
+    with open("data_raw/%s_vtt/%s_%s.vtt" % (C1_C2, C1_C2, ep_num), 
+                'w', encoding='latin-1') as comb_ep:
         for line in join_ep:
             comb_ep.write('%s\n' % line)
 
