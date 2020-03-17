@@ -1,4 +1,4 @@
-## Critical Role Transcript Patterns
+## Critical Role Transcript Statistics
 ##### Datamined the transcripts for line distribution and sentiment analysis per cast member and episode
 
 **Language:** Python (pandas, scipy, matplotlib, seaborn, TextBlob, os) </br>
