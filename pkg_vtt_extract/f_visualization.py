@@ -41,7 +41,7 @@ def lineplot_per_ep(org_names, matt_nomatt, C1_C2):
     if C1_C2 == "C1":
         ax.set(xlim=(1, 115))
     else:
-        ax.set(xlim=(1, 90))
+        ax.set(xlim=(1, 128))
 
     ax.legend(bbox_to_anchor=(1, 1))
     ax.xaxis.set_major_locator(MultipleLocator(5))
@@ -88,7 +88,7 @@ def lineplot_cont_count(org_names, matt_nomatt, C1_C2):
     if C1_C2 == "C1":
         ax.set(xlim=(1, 115))
     else:
-        ax.set(xlim=(1, 90))
+        ax.set(xlim=(1, 128))
 
     ax.legend(bbox_to_anchor=(1, 1))
     ax.xaxis.set_major_locator(MultipleLocator(10))
@@ -312,7 +312,7 @@ def lineplot_sentiment(pol_sub_df, C1_C2, Polarity_Subjectivity):
     if C1_C2 == "C1":
         ax.set(xlim=(1, 115))
     else:
-        ax.set(xlim=(1, 90))
+        ax.set(xlim=(1, 128))
 
     ax.legend(bbox_to_anchor=(1, 1))
     ax.xaxis.set_major_locator(MultipleLocator(5))
@@ -324,4 +324,3 @@ def lineplot_sentiment(pol_sub_df, C1_C2, Polarity_Subjectivity):
         "images/lineplot_sentiment" + "_" + C1_C2 + "_" + Polarity_Subjectivity + ".png"
     )
     plt.savefig(path, dpi=500, bbox_inches="tight", pad_inches=0.2)
-
